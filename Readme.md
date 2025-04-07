@@ -206,7 +206,7 @@ Esto ha generado un aumento en los costos de adquisición de nuevos usuarios, un
 
 #### 1.2.2.4. Lean UX Canvas
 
-<img src="img/canvas.png">
+<img src="assets/canvas.png">
 
 ## 1.3. Segmentos objetivo
 
