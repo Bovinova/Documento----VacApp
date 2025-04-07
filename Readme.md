@@ -22,7 +22,7 @@
 
 
 <p style="text-align: center;">
-  <strong>Registro de versiones de informe:</strong><br>
+  <strong>Registro de versiones de informe:a</strong><br>
 </p>
 
 | Entregables | Fecha       | Autor                             | Descripción de modificación                                                                                      |  
