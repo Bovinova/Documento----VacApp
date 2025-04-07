@@ -141,11 +141,72 @@ necesario, utilizando estrategias de aprendizaje apropiadas.
 
 ## 1.2. Solution Profile
 ## 1.2.1 Antecedentes y problemática
-### 1.2.2 Lean UX Process.
+
+### 1.2.2. Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
+
+En un entorno donde los pequeños y medianos productores pecuarios dependían de métodos manuales y poco eficientes para gestionar la información de su ganado, nuestra aplicación móvil **VacApp** se destacó al ofrecer una solución moderna, accesible y optimizada para el trabajo en campo.
+Esta propuesta atrajo inicialmente a ganaderos que buscaban digitalizar sus operaciones y mejorar su productividad.
+Sin embargo, con el tiempo, el mercado ha comenzado a saturarse debido al ingreso de nuevos competidores con soluciones móviles similares y mayor presupuesto.
+Esto ha generado un aumento en los costos de adquisición de nuevos usuarios, un estancamiento en nuestra participación de mercado y mayores exigencias en soporte, lo cual afecta nuestra rentabilidad y limita la inversión en nuevas funcionalidades.
+
 #### 1.2.2.2. Lean UX Assumptions
+
+**User Assumptions**
+
+1. Los ganaderos, sin importar su nivel tecnológico, valorarán una app móvil fácil de usar, con interfaz intuitiva y accesible desde diferentes dispositivos.
+
+2. Los usuarios están dispuestos a adoptar tecnología si les permite ahorrar tiempo y mejorar la gestión de su ganado.
+
+3. Los usuarios usarán la aplicación incluso en áreas de baja conectividad si funciona correctamente offline.
+
+4. Los usuarios confiarán en la app si ven beneficios concretos en su productividad y en la salud del ganado.
+
+5. Los ganaderos prefieren soluciones prácticas y rápidas, por lo tanto, las funciones más utilizadas deben estar siempre accesibles con pocos pasos.
+
+**Business Assumptions**
+
+1. Si digitalizamos los registros del ganado, los usuarios podrán mejorar la organización y el control de su inventario animal.
+
+2. Si ofrecemos recordatorios automáticos y herramientas para gestionar la salud del ganado, los ganaderos reducirán los costos por enfermedades y mejorarán el bienestar animal.
+
+3. Si proporcionamos herramientas para planificar la alimentación, los productores optimizarán el uso de recursos y reducirán desperdicios.
+
+4. Si permitimos un seguimiento eficiente de la fertilidad y reproducción, los ganaderos incrementarán la productividad de sus animales.
+
+5. Si ofrecemos una experiencia fluida y confiable en dispositivos móviles incluso sin conexión, mejoraremos la adopción en zonas rurales con conectividad limitada.
+
+6. Si garantizamos privacidad y seguridad de los datos, los usuarios confiarán más en la plataforma y estarán dispuestos a almacenar información crítica en ella.
+
 #### 1.2.2.3. Lean UX Hypothesis Statements
+
+1. **Creemos que** los ganaderos valorarán una app fácil de usar con interfaz intuitiva,
+**porque** podrán gestionar su ganado sin necesidad de capacitación extensa.
+**Lo sabremos** cuando al menos el 70% complete el registro de animales en su primer uso sin asistencia.
+
+2. **Creemos que** los usuarios adoptarán la aplicación si les permite ahorrar tiempo en tareas diarias,
+**porque** desean enfocarse en actividades productivas más que en tareas administrativas.
+**Lo sabremos** cuando se reduzca en un 40% el tiempo promedio que reportan en registros manuales.
+
+3. **Creemos que** los ganaderos en zonas rurales usarán la app si funciona offline,
+**porque** tienen conectividad limitada en sus áreas de trabajo.
+**Lo sabremos** cuando el 60% de los usuarios active la app en modo sin conexión al menos una vez por semana.
+
+4. **Creemos que** los usuarios confiarán en la plataforma si garantizamos la privacidad de sus datos,
+**porque** manejan información sensible sobre su producción y operaciones.
+**Lo sabremos** cuando menos del 5% exprese preocupaciones sobre seguridad en encuestas de retroalimentación.
+
+5. **Creemos que** si destacamos funciones clave como salud animal, alimentación y reproducción,
+**los usuarios las usarán frecuentemente** para gestionar su ganado.
+**Lo sabremos** cuando estas funciones representen al menos el 70% del uso total dentro de la app.
+
+6. **Creemos que** los usuarios percibirán beneficios concretos en productividad y salud del ganado,
+**porque** tendrán herramientas para tomar decisiones informadas.
+**Lo sabremos** cuando el 60% reporte mejoras en rendimiento animal tras tres meses de uso.
+
 #### 1.2.2.4. Lean UX Canvas
+
+<img src="img/canvas.png">
 
 ## 1.3. Segmentos objetivo
 
