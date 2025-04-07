@@ -113,6 +113,9 @@ necesario, utilizando estrategias de aprendizaje apropiadas.
 
 # OBJETIVOS SMART
 
+| Estudiante | Objetivo SMART |
+|------------|-----------|
+|Maycol Jhordan Rojas Velasquez | Mi Objetivo es poder alcanzar un desempeño profesional en analisis forense y en el diseño de nuevas apliaciones moviles, que ayuden en la sociedad, siguiendo todo lo aprendido y gestionando correctamente las buenas practicas.
 
 # 1. CAPÍTULO I: Presentacion
 ## 1.1. Startup Profile
@@ -121,23 +124,15 @@ necesario, utilizando estrategias de aprendizaje apropiadas.
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-**Gómez Vallejos, Sergio André - U20221D401**
-<br>--------------------------------------------<br>
+| Integrante | Descripción |
+| ---- | --- |
+| ![Sergio](https://hackmd.io/_uploads/SkU_5d9cR.png) | Sergio André Gómez Vallejos – Ingeniería de Software – u20221d401 <br> Soy una persona resiliente que, sin importar cuántas veces caiga, siempre encuentra la manera de levantarse. Tengo habilidades sociales sólidas y una amplia experiencia en la resolución de problemas de código. Suelo ser el miembro más activo de mi equipo de trabajo. Me apasionan los lenguajes de programación y la tecnología, y constantemente me esfuerzo por alcanzar mis objetivos y contribuir al desarrollo del startup. |
+| ![Oscar]() |Aranda Vallejos, Oscar Gabriel - U202218167 <br> |
+|<img src="https://hackmd.io/_uploads/B1F_iuso0.jpg" alt="yo-3" style="width: 600px ; height: 200px;">|Maycol Jhordan Rojas Velasquez – Ingeniería de Software – u202219984<br>Elegí la carrera de Ingeniería de Software debido a mi gusto por la innovación y la implementación de la tecnología en cualquier rubro  social, de una manera creativa y en todos los aspectos. Me considero una persona creativa, en busca de ideas, estrategias con mente nueva. También me gusta escuchar ideas de mi equipo, dar ideas de mejora, evaluar las ventajas y desventajas . Además, tengo conocimientos de programación en C + +, HTML, Python,Angular,Backend en Java. Además, Tengo un enfoque responsable y dedicado mediante un aprendizaje rápido así puedo ayudar a mis compañeros en sus dudas. Por otro lado, mis hobbies son ver series, jugar , escuchar música, nadar y  manejar.|
+| ![Estrella]()| Ticona Panduro, Estrella del Pilar - U202210659 <br> |
+| ![Gianfranco]() | Durand Vera, Gianfranco Angel - U20201f640 <br>|
+|![Piero]()| Miranda Sinarahua, Piero Stephano - U20181g752 <br> | 
 
-**Rojas Velasquez, Maycol Jhordan - U202219984**
-<br>--------------------------------------------<br>
-
-**Aranda Vallejos, Oscar Gabriel - U202218167**
-<br>--------------------------------------------<br>
-
-**Ticona Panduro, Estrella del Pilar - U202210659**
-<br>--------------------------------------------<br>
-
-**Durand Vera, Gianfranco Angel - U20201f640**
-<br>--------------------------------------------<br>
-
-**Miranda Sinarahua, Piero Stephano - U20181g752**
-<br>--------------------------------------------<br>
 
 ## 1.2. Solution Profile
 ## 1.2.1 Antecedentes y problemática
