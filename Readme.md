@@ -156,7 +156,43 @@ Nos esforzamos por ofrecer una plataforma integral que empodere a los ganaderos 
 |![Piero]()| Miranda Sinarahua, Piero Stephano - U20181g752 <br> | 
 
 
-## 1.2. Solution Profile
+## 1.2. **Solution Profile**
+
+### **Descripción General de la Solución**
+
+**VacApp** es una innovadora aplicación móvil diseñada específicamente para los ganaderos peruanos, tanto independientes como empresas ganaderas. La plataforma proporciona un conjunto integral de herramientas para la gestión eficiente y sostenible del ganado, incluyendo el monitoreo de la salud, la alimentación y la reproducción de los animales. VacApp tiene como objetivo mejorar la productividad de los ganaderos y promover prácticas éticas y responsables que contribuyan al bienestar animal y al desarrollo sostenible de la ganadería en Perú.
+
+### **Características Clave de la Solución**
+
+- **Monitoreo Integral del Ganado:** La plataforma permite a los usuarios llevar un seguimiento detallado de la salud y el bienestar de sus animales, asegurando que reciban atención adecuada en tiempo y forma.
+
+- **Gestión de Alimentación:** VacApp ayuda a los ganaderos a planificar y gestionar la alimentación del ganado, garantizando que los animales reciban las raciones necesarias para su crecimiento y producción de manera saludable.
+
+- **Gestión Reproductiva:** La aplicación facilita el seguimiento de los ciclos reproductivos, desde el celo hasta el parto, optimizando la producción y la calidad del ganado.
+
+- **Acceso a Servicios Veterinarios:** Ofrece un sistema integrado para gestionar el acceso a consultas veterinarias, mejorando la atención médica de los animales y reduciendo pérdidas económicas por falta de cuidados adecuados.
+
+- **Automatización de Procesos:** Facilita la gestión de los procesos operativos en la granja, ayudando a los ganaderos a ahorrar tiempo y recursos en tareas rutinarias.
+
+- **Espacio Comunitario de Colaboración:** VacApp no solo es una herramienta de gestión, sino también un espacio donde los ganaderos pueden compartir buenas prácticas, consejos y mantenerse informados sobre innovaciones en el sector ganadero.
+
+### **Beneficios de la Solución**
+
+- **Mejor Gestión y Salud Animal:** Los ganaderos tienen acceso a herramientas que les permiten realizar un seguimiento eficiente de la salud y el bienestar de su ganado, reduciendo las pérdidas económicas causadas por enfermedades y accidentes.
+
+- **Optimización de Recursos:** La solución permite una mejor administración de la alimentación y reproducción del ganado, lo que se traduce en una mayor productividad y rentabilidad.
+
+- **Acceso a Tecnología Sostenible:** VacApp promueve prácticas de ganadería sostenible, mejorando las condiciones de vida del ganado y promoviendo el respeto por el medio ambiente.
+
+- **Reducción de Costos:** La automatización y la mejora en la gestión operativa ayudan a reducir los costos en diversas áreas de la granja, mejorando la eficiencia general.
+
+- **Educación y Soporte Continuo:** La plataforma ofrece recursos educativos que permiten a los ganaderos mantenerse actualizados con las mejores prácticas y desarrollos tecnológicos del sector.
+
+### **Tecnología y Arquitectura**
+
+VacApp está diseñada para ser una solución móvil accesible en plataformas Android e iOS, desarrollada con las tecnologías más avanzadas para asegurar su rendimiento y facilidad de uso. La plataforma utiliza un enfoque basado en datos para proporcionar recomendaciones personalizadas y predicciones que mejoren la gestión de la granja. Además, ofrece integración con sistemas de salud animal y automatización de tareas administrativas.
+
+
 ## 1.2.1 Antecedentes y problemática
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements
