@@ -192,8 +192,38 @@ Nos esforzamos por ofrecer una plataforma integral que empodere a los ganaderos 
 
 VacApp está diseñada para ser una solución móvil accesible en plataformas Android e iOS, desarrollada con las tecnologías más avanzadas para asegurar su rendimiento y facilidad de uso. La plataforma utiliza un enfoque basado en datos para proporcionar recomendaciones personalizadas y predicciones que mejoren la gestión de la granja. Además, ofrece integración con sistemas de salud animal y automatización de tareas administrativas.
 
+### 1.2.1 **Antecedentes y problemática**
 
-## 1.2.1 Antecedentes y problemática
+Mediante la técnica de **“5W's & 2H’s”**, hemos identificado los antecedentes y la problemática que enfrentan los ganaderos peruanos en su día a día, lo que ha llevado al desarrollo de **VacApp**.
+
+#### **What? (¿Qué?)**
+
+El sector ganadero en Perú enfrenta desafíos significativos relacionados con la gestión del ganado, la salud, la alimentación, la reproducción y la producción de los animales. Sin embargo, la falta de herramientas tecnológicas adecuadas ha dificultado una gestión eficiente. Los ganaderos, especialmente los pequeños productores, carecen de acceso a sistemas que permitan un seguimiento detallado de sus animales y una toma de decisiones informada, lo que reduce su capacidad para optimizar operaciones y mejorar los ingresos.
+
+#### **When? (¿Cuándo?)**
+
+Este problema es de carácter continuo. La necesidad de una plataforma tecnológica que ayude a gestionar el ganado y optimizar la producción es actual y permanente. Los ganaderos deben contar con un sistema que les permita acceder a información en tiempo real, actualizando constantemente los datos sobre salud, alimentación, reproducción y venta del ganado.
+
+#### **Where? (¿Dónde?)**
+
+La problemática afecta principalmente a las zonas rurales y áreas productivas de Perú, donde la mayoría de los ganaderos se encuentran en condiciones de acceso limitado a servicios veterinarios y tecnológicos. La falta de acceso a internet en algunas regiones también limita el uso de soluciones digitales, pero con el crecimiento de la conectividad móvil, **VacApp** tiene la capacidad de operar en dispositivos móviles accesibles desde cualquier ubicación rural.
+
+#### **Who? (¿Quién?)**
+
+Los principales afectados son los ganaderos peruanos, tanto independientes como grandes empresas ganaderas. Los productores independientes, que poseen pequeñas cantidades de ganado, tienen recursos limitados para acceder a tecnologías y servicios de salud adecuados para sus animales. Por otro lado, las grandes empresas ganaderas también enfrentan dificultades relacionadas con la gestión masiva del ganado y el cumplimiento de estándares de bienestar animal. Además, veterinarios, encargados de alimentación y otros actores del sector ganadero son usuarios clave de la plataforma.
+
+#### **Why? (¿Por qué?)**
+
+La falta de herramientas adecuadas para la gestión eficiente del ganado genera una serie de problemas, como una mala alimentación, enfermedades no tratadas a tiempo, baja productividad, y pérdida económica. La toma de decisiones basadas en información incompleta o errónea afecta directamente el bienestar de los animales y las ganancias de los productores. **VacApp** busca resolver esta problemática proporcionando a los ganaderos una herramienta que les permita optimizar sus operaciones, mejorar la trazabilidad de los animales y facilitar la toma de decisiones informadas.
+
+#### **How? (¿Cómo?)**
+
+La solución propuesta por **VacApp** es una plataforma web y móvil que integra herramientas de gestión ganadera. La aplicación permite a los usuarios realizar un seguimiento detallado de la salud, alimentación y reproducción de sus animales, generar informes, y recibir notificaciones sobre eventos importantes relacionados con su ganado. Utilizando tecnologías modernas de desarrollo web y móvil, **VacApp** se adapta a las necesidades de los ganaderos en zonas rurales, brindando acceso a los datos en tiempo real desde cualquier dispositivo con conexión a internet.
+
+#### **How much? (¿Cuánto?)**
+
+El costo de desarrollar y mantener **VacApp** dependerá de la inversión en infraestructura tecnológica, desarrollo de funcionalidades adicionales y la implementación de soporte técnico. Sin embargo, el impacto económico para los ganaderos será positivo, ya que les permitirá mejorar su rentabilidad, optimizar los recursos y reducir pérdidas derivadas de la mala gestión. La plataforma también permitirá reducir costos en atención veterinaria mediante el acceso oportuno a datos que puedan prevenir enfermedades y mejorar la productividad del ganado.
+
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements
 #### 1.2.2.2. Lean UX Assumptions
