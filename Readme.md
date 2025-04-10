@@ -232,8 +232,79 @@ En el Perú, el bienestar animal en las empresas ganaderas es a menudo insuficie
 ## 3.4. Product Backlog
 
 # 4. CAPÍTULO IV: Solution Software Design
+
 ## 4.1. Strategic-Level Domain-Driven Design
+En esta sección se describe el proceso utilizado en las decisiones del negocio, aplicando el enfoque de Domain Driven Design. A través de esta metodología, se busca identificar y definir los distintos Bounded Contexts que conforman el sistema, es decir, subconjuntos con límites lógicos y naturales en función del dominio del problema. Para lograrlo, el equipo emplea herramientas como EventStorming y el Bounded Context Canvas, las cuales permiten visualizar, analizar y delimitar las responsabilidades, flujos de eventos y relaciones clave dentro del sistema. 
+
 ### 4.1.1. EventStorming
+
+#### Step 1: Unstructured exploration
+Primero tuvimos una lluvia de ideas en la cual nos propusimos identificar exhaustivamente todos los eventos que ocurrirán en nuestro aplicativo, para asegurarnos de abarcar una amplia gama de posibilidades y ofrecer una experiencia completa y satisfactoria a nuestros usuarios. Este paso se puede visualizar con mayor claridad en el siguiente enlace: https://lucid.app/lucidchart/485813a6-b859-4a14-a28a-7e048f209992/edit?viewport_loc=-13759%2C-604%2C2542%2C1204%2C0_0&invitationId=inv_b00dd762-3281-4382-8e1c-aa8db916cbfd
+
+A continuación, se presentan una serie de figuras que evidencian este proceso de exploración inicial.
+
+[![Step1.png](https://i.postimg.cc/KcfZ8Q8Y/Step1.png)](https://postimg.cc/dD7MW2dM)
+<br>En esta figura se aprecia un mural con todos los eventos del dominio que fueron rescatados de la lluvia de ideas que realizó el equipo.<br>
+
+#### Step 2: Timeline construction
+Una vez identificados los eventos, organizamos la secuencia cronológica en la que estos ocurren dentro del flujo del sistema. Esto nos permitió identificar la secuencia natural del negocio y clarificar la narrativa del dominio. Dicha representación se puede encontrar desarrollada en el siguiente enlace: https://lucid.app/lucidchart/485813a6-b859-4a14-a28a-7e048f209992/edit?viewport_loc=-9234%2C-1588%2C7434%2C3010%2C0_0&invitationId=inv_b00dd762-3281-4382-8e1c-aa8db916cbfd
+
+A continuación, se presentan una serie de capturas de pantalla que ilustran cómo estructuramos esta línea temporal. 
+
+[![Step2-1.png](https://i.postimg.cc/TPh6hXh2/Step2-1.png)](https://postimg.cc/qtfYZS8W)
+<br>En esta imagen se reflejan los eventos alineados según el orden lógico o temporal de su ocurrencia desde el proceso de adición de un bovino y la gestión del mismo hasta la adición de una nueva vacuna. Esto señala que el proceso natural del sistema consistirá en primero registrar un bovino para después registrar vacunas que serán aplicadas en ese bovino.<br>
+
+[![Step2-2.png](https://i.postimg.cc/PxT3RWZL/Step2-2.png)](https://postimg.cc/SX1fXzgq)
+<br>Con esta figura podemos continuar describiendo la ruta de actividades dentro del negocio. A partir de haber sido registrada una vacuna con sus campos correspondientes y ya disponer de bovinos registrados, un servicio de asesoría veterinaria es habilitado para el usuario. Además, si el usuario sostiene una empresa ganadera puede registrar a sus trabajadores.<br>
+
+[![Step2-3.png](https://i.postimg.cc/QCbHq3D9/Step2-3.png)](https://postimg.cc/p5mW23pR)
+<br>En esta imagen se muestra la secuencia de eventos que ocurren cuando un usuario con una empresa ganadera registra a sus trabajadores y decide crear una campaña. Tras haber sido creada la campaña, el empresario ganadero posee la opción de gestionar la campaña registrada y consultar el clima. Además, se representan los atibutos que tendrá la entidad campaña.<br>
+
+#### Step 3: Pain Points
+En este paso identificamos los puntos críticos que requieren especial atención dentro de nuestro dominio, ya sea por su nivel de impacto en el negocio, riesgo potencial o complejidad. Para facilitar su análisis y visualización, se ha elaborado un diagrama colaborativo que refleja dichos puntos críticos. Este se desarrolló continuando la metodología del Domain Driven Design en la herramienta Lucidchart: https://lucid.app/lucidchart/485813a6-b859-4a14-a28a-7e048f209992/edit?viewport_loc=289%2C-1264%2C7565%2C3063%2C0_0&invitationId=inv_b00dd762-3281-4382-8e1c-aa8db916cbfd
+
+A continuación, se presentan una serie de figuras que evidencian el proceso realizado durante la identificación y análisis de los puntos críticos del dominio. Estas capturas complementan el diagrama general elaborado en Lucidchart y permiten observar con mayor detalle los elementos clave identificados.
+
+[![Step3-1.png](https://i.postimg.cc/76P6YR0q/Step3-1.png)](https://postimg.cc/063xVcV4)
+<br>En esta imagen se aprecia la identificación de incertidumbres sobre cómo realizar la validación de los campos de los bovinos y cómo estos campos serán utilizados para filtrar la búsqueda. Al resolver estas interrogantes, lograremos mejorar la propuesta de diseño y facilitar el proceso de implementación.<br>
+
+[![Step3-2.png](https://i.postimg.cc/50pm6Drg/Step3-2.png)](https://postimg.cc/phhjScR5)
+<br>Esta figura muestra los puntos críticos identificados sobre la validación de los campos de una vacuna que además serán utilizados para aplicar filtros de búsqueda en las vacunas. Resolver esto es importante para evitar que datos ajenos a la información de una vacuna real sea introducido.<br>
+
+[![Step3-3.png](https://i.postimg.cc/hPdhP6fq/Step3-3.png)](https://postimg.cc/bsqqm6x6)
+<br>Esta figura muestra un punto crítico relacionado al servicio de asistencia veterinaria. Este fue identificado rápidamente debido a la complejidad en la implementación de respuestas a consultas veterinarias en tiempo real.<br>
+
+[![Step3-4.png](https://i.postimg.cc/8sgVKyR2/Step3-4.png)](https://postimg.cc/bSgMd9Fg)
+<br>En esta imagen se observa que limitar la capacidad de trabajadores que pueden ser ingresados al sistema es considerado un factor crítico, lo cual es debido al nivel de riesgo presente en recibir grandes volúmenes de datos.<br>
+
+#### Step 4: Pivotal Points
+
+
+
+#### Step 5: Commands
+
+
+
+#### Step 6: Policies
+
+
+
+#### Step 7: Read Models
+
+
+
+#### Step 8: External Systems
+
+
+
+#### Step 9: Aggregates
+
+
+
+#### Step 10: Bounded Contexts
+
+
+
 #### 4.1.1.1. Candidate Context Discovery
 
 #### 4.1.1.2. Domain Message Flows Modeling
