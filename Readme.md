@@ -213,6 +213,61 @@ En el Perú, el bienestar animal en las empresas ganaderas es a menudo insuficie
 
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
+**Segmento #1: Productores Ganaderos Independientes**
+
+VacApp ha desarrollado preguntas específicas para conocer las necesidades, experiencias y expectativas de los productores ganaderos independientes. Buscamos ayudarlos a gestionar mejor sus operaciones, optimizar el cuidado de sus animales y evaluar su impacto ambiental y social. A través de una plataforma intuitiva, VacApp ofrece herramientas que mejoran la eficiencia, el control de calidad y la conexión con los consumidores, simplificando los procesos diarios del productor.
+
+**Datos Generales del Entrevistado:**
+
+- Nombre:
+- Edad:
+- Tiempo de experiencia en la ganadería:
+
+**Preguntas de la Entrevista:**
+
+1. ¿Nos podría indicar su nombre, edad y cuánto tiempo lleva dedicándose a la ganadería?
+1. ¿Cómo decide la dieta de sus animales y qué factores considera al elegir su alimentación? 
+
+   (¿Sigue asesoría veterinaria, experiencia personal o recomendaciones externas?)
+
+1. ¿Qué medidas toma para garantizar la salud y el bienestar de sus animales?
+1. ¿Qué aspectos considera más importantes en la gestión de la salud veterinaria de su ganado?
+1. ¿Lleva algún tipo de registro sobre la salud y el crecimiento de sus animales? ¿Cómo lo hace?
+
+   (¿Utiliza cuadernos, hojas de cálculo, aplicaciones móviles, etc.?)
+
+1. ¿Cuáles son los principales desafíos que enfrenta al administrar su ganadería?
+1. ¿Cómo cree que una aplicación podría ayudarle a resolver esos desafíos?
+1. Si contara con una aplicación para apoyar su trabajo ganadero, ¿qué funciones le serían más útiles?
+1. ¿Qué tipo de información le gustaría tener siempre disponible desde su celular o computadora?
+1. ¿Cómo le gustaría registrar la alimentación y consumo de sus animales dentro de la aplicación?
+1. ¿Qué beneficios espera lograr al implementar una solución como VacApp en su ganadería?
+
+
+
+**Segmento #2: Empresas Ganaderas** 
+
+VacApp se orienta a mejorar la eficiencia y sostenibilidad en empresas ganaderas de gran escala. Mediante entrevistas con administradores, identificamos sus necesidades y estrategias clave para una gestión efectiva. Preguntamos qué herramientas consideran esenciales y cómo esperan apoyo para mejorar el bienestar animal y la productividad. Así, VacApp adapta sus soluciones a los retos específicos de la ganadería corporativa.
+
+**Datos Generales del Entrevistado:**
+
+- Nombre:
+- Edad:
+- Tiempo de experiencia en la ganadería:
+
+**Preguntas de la Entrevista:**
+
+1. ¿Cuántos animales maneja actualmente su empresa y cómo varía esa cantidad durante el año?
+1. Si su empresa tuviera acceso a una plataforma digital para gestión ganadera, ¿qué funciones considera imprescindibles para mejorar la eficiencia?
+1. ¿Cuáles son los mayores retos que enfrentan en la gestión ganadera a gran escala y cómo los abordan hoy en día?
+1. ¿Qué tipo de información o datos son clave para la toma de decisiones en su operación ganadera?
+1. ¿Qué funcionalidades le gustaría tener para facilitar la gestión del personal y la planificación de tareas?
+1. ¿Qué tipo de informes o análisis considera importantes para evaluar el desempeño de su empresa?
+1. ¿Cómo le gustaría interactuar con proveedores y socios comerciales a través de una plataforma como VacApp?
+1. ¿Qué tan importante es que una aplicación como VacApp se adapte a los procesos actuales de su empresa?
+1. ¿Qué aspectos considera que deberían ser completamente personalizables dentro de la plataforma?
+1. ¿Qué mejoras espera obtener al integrar una solución como VacApp en su operación ganadera?
+
 ### 2.2.2. Registro de entrevistas
 ### 2.2.3. Análisis de entrevistas
 
