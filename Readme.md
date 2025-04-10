@@ -338,6 +338,21 @@ VacApp se orienta a mejorar la eficiencia y sostenibilidad en empresas ganaderas
 
 
 ## 3.3. Impact Mapping
+A continuación presentaremos 3 Business Goals que consideramos importantes en nuestro proyecto: 
+
+**Business Goal 1**
+
+<img src="./assets/goal1.png"> 
+
+**Business Goal 2**
+
+<img src="./assets/goal2.png"> 
+
+**Business Goal 3**
+
+<img src="./assets/goal3.png"> 
+
+
 ## 3.4. Product Backlog
 
 # 4. CAPÍTULO IV: Solution Software Design
