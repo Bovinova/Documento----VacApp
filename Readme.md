@@ -125,7 +125,9 @@ __Nombre del Start:__ VacApp
 
 VacApp es una avanzada aplicación movil diseñada para capacitar a los ganaderos en la gestión eficiente y sostenible de su ganado. Esta plataforma ofrece una amplia gama de herramientas integrales que permiten a los usuarios realizar un seguimiento detallado de la salud, alimentación y reproducción de sus animales, lo que facilita una mejor toma de decisiones en la granja. Con PecuarioPro, los ganaderos pueden optimizar sus operaciones y maximizar sus ingresos, al tiempo que promueven prácticas agrícolas sostenibles y éticas, lo que contribuye al bienestar de los animales y al desarrollo sostenible de la industria ganadera.
 
-<img src="./assets/Bovinova.png" alt="vacapp Logo" style="width: 250px; height: 250px;">
+<div style="text-align: center;">
+  <img src="./assets/Bovinova.png" alt="vacapp Logo" style="width: 250px; height: 250px;">
+</div>
 
 ### **Colaboraciones Estrategicas:**
 
