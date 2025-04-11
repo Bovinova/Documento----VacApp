@@ -356,7 +356,7 @@ A continuación presentaremos 3 Business Goals que consideramos importantes en n
 
 
 ## 3.4. Product Backlog
-|**Prioridad**|**Story ID**|**Título**|**Descripción**|**Story Points**|
+|**Orden**|**User Story ID**|**Título**|**Descripción**|**Story Points (1/2/3)**|
 | :- | :- | :- | :- | :- |
 |1|US001|Agregar Vacuna al Registro|Como ganadero, quiero agregar una nueva vacuna al registro de mis bovinos para mantener un control actualizado y efectivo de la salud de mi rebaño|2|
 |2|TS001|Crear Vacuna vía API|Como desarrollador, necesito exponer un endpoint para registrar una vacuna vía API, de modo que los features de la aplicación dispongan de este registro.|2|
