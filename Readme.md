@@ -244,6 +244,13 @@ Finalmente, se realizó un análisis que permitió definir los valores y habilid
 | Registro de movimientos de ganado           | Alta (Registro manual de traslados, compra y venta) | Alta (Registro manual de traslados, compra y venta) |
 
 ### 2.3.3. User Journey Mapping
+
+**Journey Map for Ganadero Indepeniente**
+![JourneyMapGanaderoIndependiente](assets/GanaderoIndependienteJourneyMap.png)
+
+**Journey Map for Empresa Ganadera**
+![JourneyMapEmpresaGanadera](assets/EmpresaGanaderaJourneyMap.png)
+
 ### 2.3.4. Empathy Mapping
 ### 2.3.5. As-is Scenario Mapping
 
