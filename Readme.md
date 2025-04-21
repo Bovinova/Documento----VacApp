@@ -9,7 +9,7 @@
     <h3>"Informe de Trabajo Final"</h3>
     <h4>TB1</h4>
         <p><strong>Tema:</strong> Gestion de ganaderia </p>
-        <p><strong>Producto:</strong> VacApp de Bovinova</p>
+        <p><strong>Producto:</strong> VacApp de va</p>
         <p><strong>Abril 2025</strong></p>
 </div>
 <div style="text-align:left;">
@@ -35,7 +35,7 @@
 **Project Report Collaboration Insights**
 
 ### URL del Repositorio 
-https://github.com/orgs/Bovinova/repositories
+https://github.com/orgs/va/repositories
 
 
 
@@ -125,11 +125,11 @@ __Nombre del Start:__ VacApp
 
 VacApp es una avanzada aplicación movil diseñada para capacitar a los ganaderos en la gestión eficiente y sostenible de su ganado. Esta plataforma ofrece una amplia gama de herramientas integrales que permiten a los usuarios realizar un seguimiento detallado de la salud, alimentación y reproducción de sus animales, lo que facilita una mejor toma de decisiones en la granja. Con VacApp, los ganaderos pueden optimizar sus operaciones y maximizar sus ingresos, al tiempo que promueven prácticas agrícolas sostenibles y éticas, lo que contribuye al bienestar de los animales y al desarrollo sostenible de la industria ganadera.
 
-<img src="./assets/Bovinova.png" alt="vacapp Logo" style="width: 250px; height: 250px;">
+<img src="./assets/va.png" alt="vacapp Logo" style="width: 250px; height: 250px;">
 
 ### **Colaboraciones Estrategicas:**
 
-En Bovinova, estamos comprometidos a establecer solidad alianzas con cadenas de ganaderia, pequeños ganaderos y empresas ganaderas. Trabajamos en estrecha colaboración con estos socios para garantizar que nuestras soluciones tecnológicas respondan a sus necesidades operativas, facilitando la gestión diaria y mejorando la satisfacción del cliente. Invitamos a los ganaderos a integrar nuestras soluciones para optimizar la administración de ganado, la gestión de alimentacion, y la atención al cliente, creando una experiencia más fluida y eficiente.
+En va, estamos comprometidos a establecer solidad alianzas con cadenas de ganaderia, pequeños ganaderos y empresas ganaderas. Trabajamos en estrecha colaboración con estos socios para garantizar que nuestras soluciones tecnológicas respondan a sus necesidades operativas, facilitando la gestión diaria y mejorando la satisfacción del cliente. Invitamos a los ganaderos a integrar nuestras soluciones para optimizar la administración de ganado, la gestión de alimentacion, y la atención al cliente, creando una experiencia más fluida y eficiente.
 
 ### **Innovación y Tecnología**
 Nuestra plataforma utiliza tecnologías avanzadas para ofrecer una experiencia optimizada en la gestión ganadera. Desde el monitoreo de la salud, alimentación y reproducción del ganado, hasta la automatización de procesos clave en la granja, **VacApp** busca transformar la forma en que los ganaderos administran sus actividades diarias. Queremos que cada productor VacApp se sienta respaldado por una solución tecnológica que le permita tomar decisiones informadas, mejorar la eficiencia operativa y promover una producción sostenible y ética.
@@ -141,7 +141,7 @@ Nuestra plataforma utiliza tecnologías avanzadas para ofrecer una experiencia o
 Visualizamos un mundo donde la tecnología y la ganadería se integran para impulsar una producción más eficiente, responsable y rentable. Nuestro objetivo es que **VacApp** sea sinónimo de innovación en el manejo ganadero, un aliado indispensable para los productores que desean evolucionar hacia un modelo más moderno, conectado y sostenible. Aspiramos a liderar una transformación positiva en la industria, basada en la tecnología, la ética y el compromiso con el campo.
 
 ### **Misión**
-Nos esforzamos por ofrecer una plataforma integral que empodere a los ganaderos con herramientas inteligentes de gestión, mejorando su productividad y calidad de vida. Estamos decididos a utilizar la tecnología como motor de cambio en el sector VacApp, contribuyendo al bienestar animal, la sostenibilidad ambiental y el desarrollo económico de las comunidades rurales. **VacApp**, impulsado por **Bovinova**, será símbolo de excelencia, innovación y compromiso con el futuro de la ganadería.
+Nos esforzamos por ofrecer una plataforma integral que empodere a los ganaderos con herramientas inteligentes de gestión, mejorando su productividad y calidad de vida. Estamos decididos a utilizar la tecnología como motor de cambio en el sector VacApp, contribuyendo al bienestar animal, la sostenibilidad ambiental y el desarrollo económico de las comunidades rurales. **VacApp**, impulsado por **va**, será símbolo de excelencia, innovación y compromiso con el futuro de la ganadería.
 
 
 ### 1.1.2. Perfiles de integrantes del equipo
@@ -332,6 +332,42 @@ Para enfrentarnos a la competencia en el sector ganadero, nuestra estrategia se 
 
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
+**Segmento #1: Productores Ganaderos Independientes**
+
+VacApp ha desarrollado preguntas específicas para conocer las necesidades, experiencias y expectativas de los productores ganaderos independientes. Buscamos ayudarlos a gestionar mejor sus operaciones, optimizar el cuidado de sus animales y evaluar su impacto ambiental y social. A través de una plataforma intuitiva, VacApp ofrece herramientas que mejoran la eficiencia, el control de calidad y la conexión con los consumidores, simplificando los procesos diarios del productor.
+
+**Datos Generales del Entrevistado:**
+
+- Nombre: Christian Matos
+- Edad: 25
+- Tiempo de experiencia en la ganadería: 5 años
+
+<img src="./assets/entrevista.png" alt="vacapp Logo" >
+
+
+Link del video: https://youtu.be/S0HHlhplbSk
+
+<br>
+
+**Preguntas de la Entrevista:**
+
+
+1. ¿Cómo decide la dieta de sus animales y qué factores considera al elegir su alimentación? 
+
+   (¿Sigue asesoría veterinaria, experiencia personal o recomendaciones externas?)
+
+1. ¿Qué medidas toma para garantizar la salud y el bienestar de sus animales?
+1. ¿Qué aspectos considera más importantes en la gestión de la salud veterinaria de su ganado?
+1. ¿Lleva algún tipo de registro sobre la salud y el crecimiento de sus animales? ¿Cómo lo hace?
+
+   (¿Utiliza cuadernos, hojas de cálculo, aplicaciones móviles, etc.?)
+
+1. ¿Cuáles son los principales desafíos que enfrenta al administrar su ganadería?
+1. ¿Cómo cree que una aplicación podría ayudarle a resolver esos desafíos?
+1. Si contara con una aplicación para apoyar su trabajo ganadero, ¿qué funciones le serían más útiles?
+1. ¿Qué tipo de información le gustaría tener siempre disponible desde su celular o computadora?
+1. ¿Cómo le gustaría registrar la alimentación y consumo de sus animales dentro de la aplicación?
+1. ¿Qué beneficios espera lograr al implementar una solución como VacApp en su ganadería?
 ### 2.2.2. Registro de entrevistas
 ### 2.2.3. Análisis de entrevistas
 
@@ -365,6 +401,7 @@ Para enfrentarnos a la competencia en el sector ganadero, nuestra estrategia se 
 #### 4.1.3.3. Software Architecture Deployment Diagrams
 
 ## 4.2. Tactical-Level Domain-Driven Design
+El diseño táctico en Domain-Driven Design (DDD) se enfoca en la implementación detallada del modelo de dominio dentro de un Bounded Context. A través de patrones como entidades, value objects, agregados, servicios, repositorios y fábricas, permite traducir el conocimiento del dominio en estructuras de software claras, cohesionadas y mantenibles. Esta sección describe cómo se aplican estos patrones en cada capa de la arquitectura.
 ### 4.2.X. Bounded Context: <Bounded Context Name>
 #### 4.2.X.1. Domain Layer
 #### 4.2.X.2. Interface Layer
