@@ -310,11 +310,10 @@ En el Perú, el bienestar animal en las empresas ganaderas es a menudo insuficie
 ### 4.2.X. Bounded Context: Staff Administration
 #### 4.2.X.1. Domain Layer
 
-|**Clase**|**Tipo**|**Propósito**|
+| **Clase**             | **Tipo**        | **Propósito**                                                                                 |
 |-----------------------|-----------------|-----------------------------------------------------------------------------------------------|
 | StaffMember           | Entity          |	Representa al empleado ganadero con atributos como id, nombre, rol, estado, campaña asignada.|
-| EstadoEmpleado        | Object          |	Define el estado del empleado: activo, eliminado, pendiente.                                 |
-| FiltroBusquedaStaff   | Value Object    |	Encapsula los criterios de filtrado como nombre y estado.                                    |
+| EmployeeStatus        | Object          |	Define el estado del empleado: activo, eliminado, pendiente.                                 |
 | IStaffRepository      | Interface       |	Expone métodos para registrar, editar, eliminar y listar empleados.                          |
 | StaffDomainService    | Domain  Service	| Aplica reglas como validación de estado antes de eliminar o actualizar.                       |
 
