@@ -9,7 +9,7 @@
     <h3>"Informe de Trabajo Final"</h3>
     <h4>TB1</h4>
         <p><strong>Tema:</strong> Gestion de ganaderia </p>
-        <p><strong>Producto:</strong> VacApp de va</p>
+        <p><strong>Producto:</strong> VacApp de Bovinova</p>
         <p><strong>Abril 2025</strong></p>
 </div>
 <div style="text-align:left;">
@@ -35,7 +35,7 @@
 **Project Report Collaboration Insights**
 
 ### URL del Repositorio 
-https://github.com/orgs/va/repositories
+https://github.com/orgs/Bovinova/repositories
 
 
 
@@ -125,7 +125,7 @@ __Nombre del Start:__ VacApp
 
 VacApp es una avanzada aplicación movil diseñada para capacitar a los ganaderos en la gestión eficiente y sostenible de su ganado. Esta plataforma ofrece una amplia gama de herramientas integrales que permiten a los usuarios realizar un seguimiento detallado de la salud, alimentación y reproducción de sus animales, lo que facilita una mejor toma de decisiones en la granja. Con VacApp, los ganaderos pueden optimizar sus operaciones y maximizar sus ingresos, al tiempo que promueven prácticas agrícolas sostenibles y éticas, lo que contribuye al bienestar de los animales y al desarrollo sostenible de la industria ganadera.
 
-<img src="./assets/va.png" alt="vacapp Logo" style="width: 250px; height: 250px;">
+<img src="./assets/bovinova.png" alt="vacapp Logo" style="width: 250px; height: 250px;">
 
 ### **Colaboraciones Estrategicas:**
 
