@@ -400,7 +400,8 @@ A continuación presentaremos 3 Business Goals que consideramos importantes en n
 #### 4.2.X.1. Domain Layer
 #### 4.2.X.2. Interface Layer
 #### 4.2.X.3. Application Layer
-|**Clase**|**Tipo**|**Propósito**                                                           |
+
+|**Clase**               |**Tipo** |**Propósito**                                                            |
 |------------------------|---------|-------------------------------------------------------------------------|
 | RegisterStaffUseCase   | UseCase | Coordinates the flow for staff creation from input data to persistence. |
 | EditStaffUseCase       | UseCase | Applies updates to an already registered employee.                      |
@@ -408,7 +409,8 @@ A continuación presentaremos 3 Business Goals que consideramos importantes en n
 | SearchStaffUseCase     | UseCase | Allows filtering and retrieving employee lists based on criteria.       |
 ---
 #### 4.2.X.4. Infrastructure Layer
-|**Clase**|**Tipo**|**Propósito**|
+
+|**Clase**                  |**Tipo**         |**Propósito**                                                  |
 |---------------------------|-----------------|---------------------------------------------------------------|
 | CampaignAssignmentService | External Service| External service that links employees to livestock campaigns. |
 ---
