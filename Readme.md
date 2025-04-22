@@ -403,16 +403,16 @@ A continuación presentaremos 3 Business Goals que consideramos importantes en n
 
 |**Clase**               |**Tipo** |**Propósito**                                                            |
 |------------------------|---------|-------------------------------------------------------------------------|
-| RegisterStaffUseCase   | UseCase | Coordinates the flow for staff creation from input data to persistence. |
-| EditStaffUseCase       | UseCase | Applies updates to an already registered employee.                      |
-| DeleteStaffUseCase     | UseCase | Applies deletion logic (confirmation and status update).                |
-| SearchStaffUseCase     | UseCase | Allows filtering and retrieving employee lists based on criteria.       |
+| RegisterStaffUseCase   | UseCase | Coordina el flujo de creación del staff desde datos de entrada hasta persistencia. |
+| EditStaffUseCase       | UseCase | Aplica cambios a un empleado ya registrado.                     |
+| DeleteStaffUseCase     | UseCase | plica lógica de eliminación (confirmación y actualización de estado).                |
+| SearchStaffUseCase     | UseCase | Permite filtrar y obtener lista de empleados según los criterios.       |
 ---
 #### 4.2.X.4. Infrastructure Layer
 
 |**Clase**                  |**Tipo**         |**Propósito**                                                  |
 |---------------------------|-----------------|---------------------------------------------------------------|
-| CampaignAssignmentService | External Service| External service that links employees to livestock campaigns. |
+| CampaignAssignmentService | External Service| ervicio externo que vincula empleados con campañas. |
 ---
 
 #### 4.2.X.5. Bounded Context Software Architecture Component Level Diagrams
