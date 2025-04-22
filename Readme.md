@@ -396,11 +396,23 @@ A continuación presentaremos 3 Business Goals que consideramos importantes en n
 #### 4.1.3.3. Software Architecture Deployment Diagrams
 
 ## 4.2. Tactical-Level Domain-Driven Design
-### 4.2.X. Bounded Context: <Bounded Context Name>
+### 4.2.X. Bounded Context: Staff Administration
 #### 4.2.X.1. Domain Layer
 #### 4.2.X.2. Interface Layer
 #### 4.2.X.3. Application Layer
+|**Clase**|**Tipo**|**Propósito**                                                           |
+|------------------------|---------|-------------------------------------------------------------------------|
+| RegisterStaffUseCase   | UseCase | Coordinates the flow for staff creation from input data to persistence. |
+| EditStaffUseCase       | UseCase | Applies updates to an already registered employee.                      |
+| DeleteStaffUseCase     | UseCase | Applies deletion logic (confirmation and status update).                |
+| SearchStaffUseCase     | UseCase | Allows filtering and retrieving employee lists based on criteria.       |
+---
 #### 4.2.X.4. Infrastructure Layer
+|**Clase**|**Tipo**|**Propósito**|
+|---------------------------|-----------------|---------------------------------------------------------------|
+| CampaignAssignmentService | External Service| External service that links employees to livestock campaigns. |
+---
+
 #### 4.2.X.5. Bounded Context Software Architecture Component Level Diagrams
 #### 4.2.X.6. Bounded Context Software Architecture Code Level Diagrams
 ##### 4.2.X.6.1. Bounded Context Domain Layer Class Diagrams
