@@ -405,20 +405,37 @@ A continuación presentaremos 3 Business Goals que consideramos importantes en n
 |------------------------|---------|-------------------------------------------------------------------------|
 | RegisterStaffUseCase   | UseCase | Coordina el flujo de creación del staff desde datos de entrada hasta persistencia. |
 | EditStaffUseCase       | UseCase | Aplica cambios a un empleado ya registrado.                     |
-| DeleteStaffUseCase     | UseCase | plica lógica de eliminación (confirmación y actualización de estado).                |
+| DeleteStaffUseCase     | UseCase | Aplica lógica de eliminación (confirmación y actualización de estado).                |
 | SearchStaffUseCase     | UseCase | Permite filtrar y obtener lista de empleados según los criterios.       |
 ---
 #### 4.2.X.4. Infrastructure Layer
 
 |**Clase**                  |**Tipo**         |**Propósito**                                                  |
 |---------------------------|-----------------|---------------------------------------------------------------|
-| CampaignAssignmentService | External Service| ervicio externo que vincula empleados con campañas. |
+| CampaignAssignmentService | External Service| Servicio externo que vincula empleados con campañas. |
 ---
 
 #### 4.2.X.5. Bounded Context Software Architecture Component Level Diagrams
 #### 4.2.X.6. Bounded Context Software Architecture Code Level Diagrams
+
 ##### 4.2.X.6.1. Bounded Context Domain Layer Class Diagrams
+
+<img src="./assets/Staff_Administration.png">  
+
 ##### 4.2.X.6.2. Bounded Context Database Design Diagram
+
+<img src="./assets/diagramaa.png">  
+
+|**Nombre**|**Descripción**|
+| :- | :- |
+|id|Identificador único del registro, generalmente una clave primaria.|
+|register|Fecha y hora en que se creó el registro.|
+|email|Dirección de correo electrónico del usuario.|
+|first\_name|Primer nombre del usuario.|
+|last\_name|Apellido del usuario.|
+|password|Contraseña del usuario (almacenada de forma segura, usualmente encriptada).|
+|name|Nombre de usuario único utilizado para iniciar sesión.|
+
 
 
 
