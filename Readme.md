@@ -362,10 +362,19 @@ Bounded Context: Staff Administration<br>[![es-stepfinal-bc-staff-administration
 
 #### 4.1.1.2. Domain Message Flows Modeling
 
-<!--  -->
+En los siguientes gráficos, se representa el proceso seguido para visualizar cómo  deben colaborar los bounded contexts para resolver distintos escenarios que pueden presentarse en el negocio. https://miro.com/welcomeonboard/YlFjbmp4MVZyWklRQkowNWhEOWYyek9SNkdYQ2F6U2t3UDdnbHhRSkNVR1VlMUpKa0pRYTB5RGJ0ZjcyR0ZsUjVoMllXZExLMFFqNDM1aHFabUZHQTR2blhOaG04M0QzMVhhMXlnL3FsR21IUTNDSHQwOHRQREliZVIvMXZPV2RhWWluRVAxeXRuUUgwWDl3Mk1qRGVRPT0hdjE=?share_link_id=723977050478
+
+<br>[![scenario-ranch.png](https://i.postimg.cc/G2YrD0XT/scenario-ranch.png)](https://postimg.cc/629DsPJB)<br>
+Este es un escenario donde se requiere editar los datos de una vacuna que aún no ha sido asignada a un bovino. Para ello, primero se registra un bovino con sus atributos correspondientes. Este bovino puede ser designado a un establo y, de ser así, el establo creado queda disponible para una campaña. Además, se puede registrar y asignar una vacuna a un bovino determinado. Secuencialmente, las consultas son habilitadas para el AssistVet y los datos de la vacuna pueden ser editados si el usuario desea actualizar información determinada.<br> 
+
+<br>[![scenario-consulting.png](https://i.postimg.cc/90h2txk8/scenario-consulting.png)](https://postimg.cc/MMdgzYqV)<br>Este es un escenario donde se requiere realizar consultas al asistente veterinario que responderá utilizando inteligencia artificial.<br>
+
+<br>[![scenario-weather.png](https://i.postimg.cc/ZnxSf8tT/scenario-weather.png)](https://postimg.cc/Zvn2ny5g)<br>En esta figura se observa un escenario donde se requiere consultar el clima en tiempo real para evaluar si la campaña procederá o no.<br>
+
+<br>[![scenario-employ.png](https://i.postimg.cc/BZkwjhyH/scenario-employ.png)](https://postimg.cc/yWhT5T78)<br>Esta imagen expresa un escenario donde se requiere registrar y actualizar la lista de empleados que serán asignados a una campaña determinada.<br>
 
 #### 4.1.1.3. Bounded Context Canvases
-El Bounded Context Canvas es una herramienta visual del Domain-Driven Design (DDD) que permite definir, entender y comunicar de forma clara los límites, responsabilidades y elementos clave de un Bounded Context. Ayuda a alinear al equipo en torno a una visión compartida del dominio, identificando entidades, eventos, comandos y relaciones externas. Además, elaborar un diseño modular del sistema de manera coherente es posible gracias a las nomenclaturas establecidas por un Bounded Context Canvas.
+El Bounded Context Canvas es una herramienta visual del Domain-Driven Design (DDD) que permite definir, entender y comunicar de forma clara los límites, responsabilidades y elementos clave de un Bounded Context. Ayuda a alinear al equipo en torno a una visión compartida del dominio, identificando entidades, eventos, comandos y relaciones externas. Además, elaborar un diseño modular del sistema de manera coherente es posible gracias a las nomenclaturas establecidas por un Bounded Context Canvas. https://miro.com/app/board/uXjVID6SLCE=/?share_link_id=614179168415
 
 
 **Bounded Context: Ranch Management**<br>
