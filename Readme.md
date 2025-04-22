@@ -106,10 +106,22 @@ Criterio: La capacidad de adquirir y aplicar nuevos conocimientos según sea
 necesario, utilizando estrategias de aprendizaje apropiadas.
 
 
-| **Criterio específico** | **Acciones realizadas** | **Conclusiones** |  
-|-------------------------|------------------------|------------------|  
-| Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software | 1. Gómez Vallejos, Sergio André ------ <br><br> 2. Rojas Velasquez, Maycol Jhordan ------ <br><br> 3. Aranda Vallejos, Oscar Gabriel ------ <br><br> 4. Ticona Panduro, Estrella del Pilar ------ <br><br> 5. Durand Vera, Gianfranco Angel ------ <br><br> 6. Miranda Sinarahua, Piero Stephano ------ <br><br> |------- |  
-| Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software |  1. Gómez Vallejos, Sergio André ------ <br><br> 2. Rojas Velasquez, Maycol Jhordan ------ <br><br> 3. Aranda Vallejos, Oscar Gabriel ------ <br><br> 4. Ticona Panduro, Estrella del Pilar ------ <br><br> 5. Durand Vera, Gianfranco Angel ------ <br><br> 6. Miranda Sinarahua, Piero Stephano ------ <br><br> | ---- |
+<table><tr><th valign="top"><b>Criterio específico</b></th><th valign="top"><b>Acciones realizadas</b></th><th valign="top"><p><b>Conclusiones</b></p><p></p></th></tr>
+<tr><td rowspan="6"><p>Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software</p><p></p></td><td valign="top">1. Gómez Vallejos, Sergio André </td><td valign="top"></td></tr>
+<tr><td valign="top">2. Rojas Velasquez, Maycol Jhordan</td><td valign="top"></td></tr>
+<tr><td valign="top">3. Aranda Vallejos, Oscar Gabriel</td><td valign="top"></td></tr>
+<tr><td valign="top"><p>4. Ticona Panduro, Estrella del Pilar: Actualicé conceptos clave al diseñar entrevistas y realizar una con productores ganaderos, aplicando técnicas de investigación de usuario. A través del To Be Scenario Mapping, User Stories, Impact Mapping y Product Backlog, reforcé conocimientos en metodologías ágiles y diseño centrado en el usuario. Además, al desarrollar el Bounded Context, las capas de arquitectura (Application, Infrastructure, Domain), diagramas de clases y diseño de base de datos, fortalecí mi dominio en modelado de software y arquitectura orientada al dominio.n el desarrollo del proyecto de soluciones de software, llevé a cabo una serie de actividades clave que reflejan el compromiso con la actualización de conocimientos y el aprendizaje continuo. Estas acciones incluyeron: Diseño de entrevistas, una entrevista del segmento 1 (Productores Ganadores independientes), To be Scenario Mapping, User Stories, Impact Mapping, Product Backlog, Bounded Context: Staff administration, Application Layer, Infrastructure Layer, Bounded Context Domain Layer Class Diagrams y Bounded Context Database Design Diagram</p><p></p></td><td valign="top">Las actividades desarrolladas me permitieron actualizar conocimientos esenciales para mi crecimiento profesional, especialmente en metodologías ágiles, diseño centrado en el usuario y arquitectura de software. Esto refuerza mi capacidad para abordar proyectos tecnológicos con una base técnica actualizada y alineada a las mejores prácticas del sector.</td></tr>
+<tr><td valign="top">5. Durand Vera, Gianfranco Angel </td><td valign="top"></td></tr>
+<tr><td valign="top">6. Miranda Sinarahua, Piero Stephano</td><td valign="top"></td></tr>
+<tr><td rowspan="6"><p>Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software</p><p></p></td><td valign="top">1. Gómez Vallejos, Sergio André </td><td valign="top"></td></tr>
+<tr><td valign="top">2. Rojas Velasquez, Maycol Jhordan</td><td valign="top"></td></tr>
+<tr><td valign="top">3. Aranda Vallejos, Oscar Gabriel</td><td valign="top"></td></tr>
+<tr><td valign="top"><p>4. Ticona Panduro, Estrella del Pilar:  Reconocí la necesidad del aprendizaje permanente al enfrentar retos que exigieron investigar nuevas herramientas y enfoques, como la validación de usuarios, metodologías ágiles y principios de diseño de software moderno. La evolución constante del proyecto me impulsó a seguir aprendiendo para tomar mejores decisiones técnicas y aportar soluciones más efectivas y alineadas con las necesidades del usuario</p><p></p></td><td valign="top">A lo largo del proyecto confirmé que el aprendizaje permanente es fundamental en el desarrollo de software, ya que cada etapa presentó nuevos desafíos que me motivaron a investigar, adaptarme y mejorar. Este proceso me permitió evolucionar como profesional comprometido con la mejora continua y con la entrega de soluciones efectivas</td></tr>
+<tr><td valign="top">5. Durand Vera, Gianfranco Angel </td><td valign="top"></td></tr>
+<tr><td valign="top">6. Miranda Sinarahua, Piero Stephano</td><td valign="top"></td></tr>
+</table>
+
+
 
 # OBJETIVOS SMART
 
