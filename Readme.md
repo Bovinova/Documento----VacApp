@@ -307,9 +307,28 @@ En el Perú, el bienestar animal en las empresas ganaderas es a menudo insuficie
 #### 4.1.3.3. Software Architecture Deployment Diagrams
 
 ## 4.2. Tactical-Level Domain-Driven Design
-### 4.2.X. Bounded Context: <Bounded Context Name>
+### 4.2.X. Bounded Context: Staff Administration
 #### 4.2.X.1. Domain Layer
+
+|**Clase**|**Tipo**|**Propósito**|
+|-----------------------|-----------------|-----------------------------------------------------------------------------------------------|
+| StaffMember           | Entity          |	Representa al empleado ganadero con atributos como id, nombre, rol, estado, campaña asignada.|
+| EstadoEmpleado        | Object          |	Define el estado del empleado: activo, eliminado, pendiente.                                 |
+| FiltroBusquedaStaff   | Value Object    |	Encapsula los criterios de filtrado como nombre y estado.                                    |
+| IStaffRepository      | Interface       |	Expone métodos para registrar, editar, eliminar y listar empleados.                          |
+| StaffDomainService    | Domain  Service	| Aplica reglas como validación de estado antes de eliminar o actualizar.                       |
+
 #### 4.2.X.2. Interface Layer
+
+| **Clase**              | **Tipo**  | **Propósito**                                                           |
+|------------------------|-----------|-------------------------------------------------------------------------|
+| AddStaffViewModel      | ViewModel | Coordina el registro del empleado y maneja eventos desde el formulario. |
+| SearchStaffViewModel   | ViewModel | Gestiona los criterios de búsqueda y presenta los resultados.           |
+| EditStaffViewModel     | ViewModel | Muestra datos actuales del empleado y permite su modificación.          |
+| DeleteStaffViewModel   | ViewModel | Lógica para confirmar y ejecutar la eliminación de un empleado.         |
+| StaffListPage          | Screen    | Muestra lista de empleados filtrables por nombre y estado.              |
+| StaffRegistrationPage  | Screen    | Formulario de registro de un nuevo miembro del staff.                   |
+
 #### 4.2.X.3. Application Layer
 #### 4.2.X.4. Infrastructure Layer
 #### 4.2.X.5. Bounded Context Software Architecture Component Level Diagrams
