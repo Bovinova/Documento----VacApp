@@ -312,10 +312,10 @@ En el Perú, el bienestar animal en las empresas ganaderas es a menudo insuficie
 
 | **Clase**             | **Tipo**        | **Propósito**                                                                                 |
 |-----------------------|-----------------|-----------------------------------------------------------------------------------------------|
-| StaffMember           | Entity          |	Representa al empleado ganadero con atributos como id, nombre, rol, estado, campaña asignada.|
-| EmployeeStatus        | Object          |	Define el estado del empleado: activo, eliminado, pendiente.                                 |
-| IStaffRepository      | Interface       |	Expone métodos para registrar, editar, eliminar y listar empleados.                          |
-| StaffDomainService    | Domain  Service	| Aplica reglas como validación de estado antes de eliminar o actualizar.                       |
+| StaffMember           | Entity          | Representa al empleado ganadero con atributos como id, nombre, rol, estado, campaña asignada. |
+| EmployeeStatus        | Value Object    | Define el estado del empleado: activo, eliminado, pendiente.                                  |
+| IStaffRepository      | Interface       | Expone métodos para registrar, editar, eliminar y listar empleados.                           |
+| StaffDomainService    | Domain Service	| Aplica reglas como validación de estado antes de eliminar o actualizar.                       |
 
 #### 4.2.X.2. Interface Layer
 
@@ -331,6 +331,9 @@ En el Perú, el bienestar animal en las empresas ganaderas es a menudo insuficie
 #### 4.2.X.3. Application Layer
 #### 4.2.X.4. Infrastructure Layer
 #### 4.2.X.5. Bounded Context Software Architecture Component Level Diagrams
+
+<img src="./assets/staff-administration-bc.png" />
+
 #### 4.2.X.6. Bounded Context Software Architecture Code Level Diagrams
 ##### 4.2.X.6.1. Bounded Context Domain Layer Class Diagrams
 ##### 4.2.X.6.2. Bounded Context Database Design Diagram
