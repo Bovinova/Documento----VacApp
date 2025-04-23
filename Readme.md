@@ -320,7 +320,12 @@ Finalmente, se realizó un análisis que permitió definir los valores y habilid
 #### 4.1.3.3. Software Architecture Deployment Diagrams
 
 ## 4.2. Tactical-Level Domain-Driven Design
-### 4.2.2. Bounded Context: <Bounded Context Name>
+### 4.2.2. Bounded Context: Ranch Management
+
+En el contexto de VacApp, el módulo de Ranch Management constituye un pilar fundamental del sistema, orientado a la gestión integral de los registros de bovinos y sus respectivas vacunaciones. Este bounded context permite a los ganaderos mantener un control preciso y actualizado sobre su ganado, asegurando la trazabilidad sanitaria y la preparación para auditorías e inspecciones relacionadas a próximas campañas.
+
+Dentro de este módulo se modelan y gestionan los procesos clave para la operación ganadera, como el alta, edición y eliminación de registros de animales y vacunas, así como la asignación de bovinos a establos específicos y la creación de registros de establos. Esto permite mantener una base de datos confiable, estructurada y adaptable a las particularidades de cada unidad productiva. Además, la información registrada en este contexto se integra con otras áreas del sistema, como Campaign Management, permitiendo seleccionar animales específicos para campañas de vacunación u otras acciones estratégicas.
+
 #### 4.2.2.1. Domain Layer
 #### 4.2.2.2. Interface Layer
 #### 4.2.2.3. Application Layer
