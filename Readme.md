@@ -276,6 +276,27 @@ En el Perú, el bienestar animal en las empresas ganaderas es a menudo insuficie
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
 ### 2.2.2. Registro de entrevistas
+
+**Segmento #2: Empresas Ganaderas**
+
+*Entrevistada:* Camila Sanchez<br>
+*Sexo:*  Femenino<br>
+*Edad:* 23<br>
+*Inicio de la Entrevista:* <br>
+*Duración de la Entrevista:* <br>
+
+<img src="./assets/entrevista-cami.png" style="width: 600px; height: auto;">
+
+*Resumen de la Entrevista*:
+
+Camila Sánchez, de 23 años, cuenta con cinco años de experiencia como trabajadora en el sector ganadero. Actualmente participa en la gestión de una empresa con más de 2000 cabezas de ganado, número que puede variar según nacimientos o ventas estacionales. La gestión actual se basa mayormente en registros manuales y hojas de Excel, lo cual genera errores y retrasos.
+
+Camila considera fundamental contar con una plataforma digital que centralice la información, mejore la coordinación del personal y permita una mejor toma de decisiones. Entre los retos más importantes que enfrentan están la gestión de recursos, el bienestar animal y la rentabilidad del negocio.
+
+En cuanto a funcionalidades deseadas, menciona la planificación de tareas, seguimiento del desempeño del personal, generación de reportes, comunicación interna y gestión de incidentes. También valora informes sobre producción, análisis de costos, salud animal y herramientas para identificar áreas de mejora.
+
+Para la interacción con proveedores, ve útil una plataforma que facilite la comunicación, el seguimiento de pedidos, la gestión de inventarios y la negociación. Finalmente, destaca la importancia de que la plataforma se adapte a sus procesos y sea personalizable en aspectos como roles, alertas, datos del ganado e informes, con el fin de mejorar la eficiencia y reducir errores, siempre priorizando el bienestar animal y la rentabilidad.
+
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding
@@ -308,8 +329,8 @@ En el Perú, el bienestar animal en las empresas ganaderas es a menudo insuficie
 #### 4.1.3.3. Software Architecture Deployment Diagrams
 
 ## 4.2. Tactical-Level Domain-Driven Design
-### 4.2.X. Bounded Context: Staff Administration
-#### 4.2.X.1. Domain Layer
+### 4.2.3. Bounded Context: Staff Administration
+#### 4.2.3.1. Domain Layer
 
 | **Clase**             | **Tipo**        | **Propósito**                                                                                 |
 |-----------------------|-----------------|-----------------------------------------------------------------------------------------------|
@@ -318,26 +339,27 @@ En el Perú, el bienestar animal en las empresas ganaderas es a menudo insuficie
 | IStaffRepository      | Interface       | Expone métodos para registrar, editar, eliminar y listar empleados.                           |
 | StaffDomainService    | Domain Service	| Aplica reglas como validación de estado antes de eliminar o actualizar.                       |
 
-#### 4.2.X.2. Interface Layer
+#### 4.2.3.2. Interface Layer
 
-| **Clase**              | **Tipo**  | **Propósito**                                                           |
-|------------------------|-----------|-------------------------------------------------------------------------|
-| AddStaffViewModel      | ViewModel | Coordina el registro del empleado y maneja eventos desde el formulario. |
-| SearchStaffViewModel   | ViewModel | Gestiona los criterios de búsqueda y presenta los resultados.           |
-| EditStaffViewModel     | ViewModel | Muestra datos actuales del empleado y permite su modificación.          |
-| DeleteStaffViewModel   | ViewModel | Lógica para confirmar y ejecutar la eliminación de un empleado.         |
-| StaffListPage          | Screen    | Muestra lista de empleados filtrables por nombre y estado.              |
-| StaffRegistrationPage  | Screen    | Formulario de registro de un nuevo miembro del staff.                   |
+| **Clase**              | **Tipo**     | **Propósito**                                                                 |
+|------------------------|--------------|-------------------------------------------------------------------------------|
+| AddStaffViewModel      | ViewModel    | Coordina el registro del empleado y maneja eventos desde el formulario.      |
+| SearchStaffViewModel   | ViewModel    | Gestiona los criterios de búsqueda y presenta los resultados.                |
+| EditStaffViewModel     | ViewModel    | Muestra datos actuales del empleado y permite su modificación.               |
+| DeleteStaffViewModel   | ViewModel    | Lógica para confirmar y ejecutar la eliminación de un empleado.             |
+| StaffListPage          | Screen       | Muestra lista de empleados filtrables por nombre y estado.                   |
+| StaffRegistrationPage  | Screen       | Formulario de registro de un nuevo miembro del staff.                        |
+| StaffController        | Controller   | Coordina la lógica de negocio relacionada al staff y comunica con los ViewModels. |
 
-#### 4.2.X.3. Application Layer
-#### 4.2.X.4. Infrastructure Layer
-#### 4.2.X.5. Bounded Context Software Architecture Component Level Diagrams
+#### 4.2.3.3. Application Layer
+#### 4.2.3.4. Infrastructure Layer
+#### 4.2.3.5. Bounded Context Software Architecture Component Level Diagrams
 
 <img src="./assets/staff-administration-bc.png" />
 
-#### 4.2.X.6. Bounded Context Software Architecture Code Level Diagrams
-##### 4.2.X.6.1. Bounded Context Domain Layer Class Diagrams
-##### 4.2.X.6.2. Bounded Context Database Design Diagram
+#### 4.2.3.6. Bounded Context Software Architecture Code Level Diagrams
+##### 4.2.3.6.1. Bounded Context Domain Layer Class Diagrams
+##### 4.2.3.6.2. Bounded Context Database Design Diagram
 
 
 
