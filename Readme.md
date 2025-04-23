@@ -260,15 +260,69 @@ Los Deployment Diagrams (diagramas de despliegue) forman parte de la arquitectur
 ![containers](./assets/deployment.png)
 
 ## 4.2. Tactical-Level Domain-Driven Design
-### 4.2.X. Bounded Context: <Bounded Context Name>
-#### 4.2.X.1. Domain Layer
-#### 4.2.X.2. Interface Layer
-#### 4.2.X.3. Application Layer
-#### 4.2.X.4. Infrastructure Layer
-#### 4.2.X.5. Bounded Context Software Architecture Component Level Diagrams
-#### 4.2.X.6. Bounded Context Software Architecture Code Level Diagrams
-##### 4.2.X.6.1. Bounded Context Domain Layer Class Diagrams
-##### 4.2.X.6.2. Bounded Context Database Design Diagram
+
+## 4.2.1. Bounded Context: Campaign Management
+En el contexto de VacApp, el módulo de Campaign Management representa una parte clave del sistema encargada de la creación, organización y seguimiento de campañas de comunicación, capacitación y promoción dirigidas a los ganaderos. Estas campañas pueden abarcar desde campañas educativas sobre buenas prácticas ganaderas, hasta promociones de nuevas funcionalidades de la app o actividades colaborativas dentro de la comunidad ganadera.
+
+Este bounded context se encarga de modelar el ciclo de vida completo de una campaña dentro de la plataforma, permitiendo su planificación estructurada mediante la definición de objetivos (como metas de participación o impacto), fechas de inicio y finalización, y canales a través de los cuales se difundirán los mensajes (como notificaciones push, correo electrónico o módulos dentro de la app).
+
+
+### 4.2.1.1. Domain Layer
+    
+| Clase                  | Tipo             | Propósito                                                                 | Atributos                                                                                       |
+|------------------------|------------------|---------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| Campaign               | Entity           | Representa una campaña y su ciclo de vida                                | `id`, `name`, `description`, `startDate`, `endDate`, `status`, `ownerId`                        |
+| Goal                   | Entity           | Define un objetivo medible de la campaña                                 | `id`, `description`, `metric`, `targetValue`, `currentValue`                                    |
+| Channel                | Entity           | Medio por el cual se difunde la campaña                                  | `id`, `type`, `details`                                                                         |
+| CampaignPeriod         | Value Object     | Representa el rango de fechas de una campaña                             | `start: Date`, `end: Date`                                                                      |
+| CampaignAggregateRoot  | Aggregate         | Coordina entidades relacionadas a la campaña                             | `Campaign`, `Goals`, `Channels`                                                                 |
+| CampaignFactory        | Factory          | Crea campañas asegurando reglas del dominio                              | `create(name, description, period, ownerId)`                                                    |
+| ICampaignRepository    | Repository (interface) | Define acceso a campañas desde almacenamiento                       | `findById(id)`, `save(campaign)`, `delete(id)`                                                  |
+| CampaignSchedulerService | Domain Service | Verifica conflictos de tiempo entre campañas                             | `checkOverlap(campaign: Campaign)`                                                              |
+
+
+4.2.1.2. Interface Layer
+| Clase                    | Tipo              | Propósito                                                                   | Atributos / Métodos                                                       |
+|--------------------------|-------------------|------------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| CampaignController       | Controller         | Maneja endpoints HTTP para gestionar campañas                               | `POST /campaigns`, `GET /:id`, `PATCH /:id/status`, `POST /:id/goals`     |
+| CreateCampaignDTO        | DTO               | Objeto para crear campañas vía interfaz                                     | `name`, `description`, `startDate`, `endDate`, `ownerId`                  |
+| GoalDTO                  | DTO               | Objeto para crear metas asociadas a campañas                                | `description`, `metric`, `targetValue`                                    |
+| CampaignNotificationConsumer | Consumer       | Escucha eventos relacionados con campañas y ejecuta acciones (notificaciones) | `onEvent(CampaignCreated|StatusUpdated)`                                  |
+
+
+
+4.2.2.3. Application Layer
+| Clase                        | Tipo              | Propósito                                                                                      | Atributos / Métodos                                                                            |
+|------------------------------|-------------------|-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| CreateCampaignCommand        | Command           | Representa la intención de crear una campaña                                                  | `name`, `description`, `startDate`, `endDate`, `ownerId`                                      |
+| CreateCampaignCommandHandler| Command Handler   | Maneja el flujo de creación de campaña y coordinación entre capas                             | `handle(command: CreateCampaignCommand)`                                                       |
+| DeleteCampaignCommand        | Command           | Representa la intención de eliminar una campaña                                                  | `name`, `description`, `startDate`, `endDate`, `ownerId`                                      |
+| DeleteCampaignCommandHandler| Command Handler   | Maneja el flujo para la eliminación de una campaña y coordinación entre capas                             | `handle(command: DeleteCampaignCommand)`                                                       |
+| UpdateCampaignStatusCommand | Command           | Encapsula la solicitud de cambio de estado para una campaña                                   | `campaignId`, `newStatus`                                                                     |
+| UpdateCampaignStatusHandler | Command Handler   | Ejecuta la lógica de cambio de estado (activar, pausar, completar)                            | `handle(command: UpdateCampaignStatusCommand)`                                                 |
+| AddGoalToCampaignCommand     | Command           | Representa la intención de agregar un objetivo a una campaña                                  | `campaignId`, `description`, `metric`, `targetValue`                                           |
+| AddGoalToCampaignHandler     | Command Handler   | Agrega un objetivo a la campaña correspondiente                                               | `handle(command: AddGoalToCampaignCommand)`                                                    |
+| CampaignCreatedEvent         | Domain Event      | Evento que indica que una campaña ha sido creada                                              | `campaignId`, `name`, `ownerId`                                                                |
+| CampaignCreatedEventHandler  | Event Handler     | Reacciona al evento de campaña creada y ejecuta acciones (e.g., notificación, logging)        | `handle(event: CampaignCreatedEvent)`                                                          |
+
+4.2.1.4. Infrastructure Layer
+
+| Clase                              | Tipo                  | Propósito                                                                                 | Atributos / Métodos                                                                            |
+|------------------------------------|-----------------------|--------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| CampaignRepositoryImpl             | Repository Impl       | Implementación concreta de `ICampaignRepository`, con acceso a base de datos              | `findById()`, `save()`, `delete()`                                                            |
+| WeatherService                     | External Service      | Servicio que obtiene datos climáticos relevantes para campañas                            | `getCurrentWeather(location: string): WeatherInfo`                                            |
+| CattleBreedService                 | External Service      | Servicio que provee razas de bovinos para campañas enfocadas en agropecuaria              | `getBreedsByRegion(region: string): Breed[]`                                                  |
+| EventBusImpl                       | Message Broker Impl   | Publica eventos de dominio hacia otros contextos o servicios                              | `publish(event: DomainEvent)`                                                                 |
+| CampaignNotificationConsumer       | Consumer              | Escucha eventos desde cola o broker y dispara lógica asociada                             | `onMessage(event: CampaignCreatedEvent | CampaignStatusChangedEvent)`                          |
+
+### 4.2.1.5. Bounded Context Software Architecture Component Level Diagrams
+
+
+
+### 4.2.1.6. Bounded Context Software Architecture Code Level Diagrams
+### 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams
+### 2.6.1.6.2. Bounded Context Database Design Diagram
+
 
 
 
