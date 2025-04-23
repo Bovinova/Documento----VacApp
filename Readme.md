@@ -125,9 +125,11 @@ necesario, utilizando estrategias de aprendizaje apropiadas.
 
 # OBJETIVOS SMART
 
-| Estudiante | Objetivo SMART |
-|------------|-----------|
-|Maycol Jhordan Rojas Velasquez | Mi Objetivo es poder alcanzar un desempeño profesional en analisis forense y en el diseño de nuevas apliaciones moviles, que ayuden en la sociedad, siguiendo todo lo aprendido y gestionando correctamente las buenas practicas.
+| Estudiante                             | Objetivo SMART                                                                                                                                                                                                                          |
+|----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Maycol Jhordan Rojas Velasquez         | Mi objetivo es poder alcanzar un desempeño profesional en análisis forense y en el diseño de nuevas aplicaciones móviles, que ayuden en la sociedad, siguiendo todo lo aprendido y gestionando correctamente las buenas prácticas.     |
+| Estrella del Pilar Ticona Panduro      | Al finalizar este curso, quiero haber fortalecido mis habilidades técnicas y profesionales en el área del desarrollo y diseño de aplicaciones móviles, logrando aplicar los conocimientos adquiridos en al menos un proyecto funcional, con el fin de especializarme en esta rama y mejorar mi perfil profesional en los próximos 6 meses. |
+
 
 # 1. CAPÍTULO I: Presentacion
 ## 1.1. Startup Profile
@@ -283,6 +285,38 @@ VacApp se orienta a mejorar la eficiencia y sostenibilidad en empresas ganaderas
 1. ¿Qué mejoras espera obtener al integrar una solución como VacApp en su operación ganadera?
 
 ### 2.2.2. Registro de entrevistas
+
+## Segmento 1: Productores Ganadores independientes:
+
+*Entrevistado:* Luis Raimundo <br>
+*Sexo:* Masculino <br>
+*Edad:* 25 <br>
+*Domicilio:* Lima, Peru <br>
+*Inicio de la Entrevista:*  <br>
+*Duración de la Entrevista:* 10:30 <br>
+
+<img src="assets/segmento1.png" alt="" style="width: 600px; height: auto;">
+
+*Resumen de la Entrevista*:
+
+Luis Raimundo, estudiante de cuarto año de Medicina Veterinaria con experiencia empírica y académica en la crianza de bovinos, comparte su experiencia en la gestión de una ganadería familiar en Oxapampa. Comenzó en el sector hace seis o siete años, primero de forma práctica con veterinarios y luego con enfoque más técnico por su formación académica. En cuanto al manejo, adapta la alimentación según el propósito del animal (leche o carne), implementa protocolos sanitarios como desinfección, control de parásitos y suplementación vitamínica, y ha evolucionado del registro manual a hojas de cálculo en Excel, aunque la falta de organización sigue siendo un desafío importante.
+Luis considera valiosa una aplicación especializada para la gestión ganadera que incluya notificaciones sobre la salud animal, registros históricos de enfermedades, seguimiento del ciclo productivo de cada lote y programación de tareas con recordatorios. También destaca la importancia de centralizar la información sobre alimentación con detalles de cantidades y tipos de alimento. Los beneficios principales que espera de una solución como "VacApp" son: mejor organización del fundo, mayor control sanitario para reducir pérdidas por enfermedades y gestión más eficiente del alimento para optimizar gastos, elementos clave para la digitalización del manejo ganadero y el fortalecimiento de la productividad rural.
+
+## Segmento 2: Productores Ganadores independientes:
+
+*Entrevistado:* Luis Raimundo <br>
+*Sexo:* Masculino <br>
+*Edad:* 29 <br>
+*Domicilio:* Lima, Peru <br>
+*Inicio de la Entrevista:*  <br>
+*Duración de la Entrevista:* 05:27 <br>
+
+<img src="assets/segmento2.png" alt="" style="width: 600px; height: auto;">
+
+*Resumen de la Entrevista*:
+Edgar Parry, ganadero con operaciones a gran escala que maneja aproximadamente 3,000 cabezas de ganado,tiene  experiencia directa, forma parte de una empresa consolidada en el sector. Edgar enfatiza la importancia de monitorear con precisión el rendimiento de cada vaca productora, especialmente en términos de producción láctea, para detectar irregularidades y tomar decisiones correctivas oportunas. Además, señala desafíos estructurales del mercado nacional, como la concentración de compra en una empresa dominante (Gloria), lo que limita las opciones de venta para los productores.
+Para Edgar, los indicadores productivos, reproductivos, de engorde y particularmente los sanitarios son cruciales para la toma de decisiones y la rentabilidad del negocio, aunque actualmente muchos registros se manejan en formatos físicos poco estructurados. Considera esencial que una plataforma digital como VacApp ofrezca seguimiento individualizado de cada animal (ciclo reproductivo, producción láctea y estado sanitario), integración de la gestión de alimentos y distribución del producto final, y alta personalización adaptada a sus procesos específicos. La nutrición representa un punto crítico, por lo que valora herramientas que permitan gestionar proveedores de alimentos y monitorear el consumo por lote o animal. En síntesis, ve en la tecnología especializada una oportunidad para transformar la ganadería tradicional y adaptarla a la realidad del productor peruano.
+
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding
@@ -408,10 +442,10 @@ A continuación presentaremos 3 Business Goals que consideramos importantes en n
 #### 4.1.3.3. Software Architecture Deployment Diagrams
 
 ## 4.2. Tactical-Level Domain-Driven Design
-### 4.2.X. Bounded Context: Staff Administration
-#### 4.2.X.1. Domain Layer
-#### 4.2.X.2. Interface Layer
-#### 4.2.X.3. Application Layer
+### 4.2.3. Bounded Context: Staff Administration
+#### 4.2.3.1. Domain Layer
+#### 4.2.3.2. Interface Layer
+#### 4.2.3.3. Application Layer
 
 |**Clase**               |**Tipo** |**Propósito**                                                            |
 |------------------------|---------|-------------------------------------------------------------------------|
@@ -420,21 +454,21 @@ A continuación presentaremos 3 Business Goals que consideramos importantes en n
 | DeleteStaffUseCase     | UseCase | Aplica lógica de eliminación (confirmación y actualización de estado).                |
 | SearchStaffUseCase     | UseCase | Permite filtrar y obtener lista de empleados según los criterios.       |
 ---
-#### 4.2.X.4. Infrastructure Layer
+#### 4.2.3.4. Infrastructure Layer
 
 |**Clase**                  |**Tipo**         |**Propósito**                                                  |
 |---------------------------|-----------------|---------------------------------------------------------------|
 | CampaignAssignmentService | External Service| Servicio externo que vincula empleados con campañas. |
 ---
 
-#### 4.2.X.5. Bounded Context Software Architecture Component Level Diagrams
-#### 4.2.X.6. Bounded Context Software Architecture Code Level Diagrams
+#### 4.2.3.5. Bounded Context Software Architecture Component Level Diagrams
+#### 4.2.3.6. Bounded Context Software Architecture Code Level Diagrams
 
-##### 4.2.X.6.1. Bounded Context Domain Layer Class Diagrams
+##### 4.2.3.6.1. Bounded Context Domain Layer Class Diagrams
 
 <img src="./assets/Staff_Administration.png">  
 
-##### 4.2.X.6.2. Bounded Context Database Design Diagram
+##### 4.2.3.6.2. Bounded Context Database Design Diagram
 
 <img src="./assets/diagramaa.png">  
 
