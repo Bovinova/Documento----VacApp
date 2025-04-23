@@ -31,6 +31,16 @@
 
 | Entregables | Fecha       | Autor                             | Descripción de modificación                                                                                      |  
 |-------------|-------------|-----------------------------------|------------------------------------------------------------------------------------------------------------------|
+| TB1         | 10/04/2025  | Estrella del Pilar Ticona Panduro  | Diseño de entrevistas                              |
+| TB1         | 23/04/2025  | Estrella del Pilar Ticona Panduro  | Registro de entrevistas                            |
+| TB1         | 09/04/2025  | Estrella del Pilar Ticona Panduro  | To-Be Scenario Mapping                             |
+| TB1         | 09/04/2025  | Estrella del Pilar Ticona Panduro  | User Stories                                        |
+| TB1         | 10/04/2025  | Estrella del Pilar Ticona Panduro  | Impact Mapping                                      |
+| TB1         | 10/04/2025  | Estrella del Pilar Ticona Panduro  | Product Backlog                                     |
+| TB1         | 21/04/2025  | Estrella del Pilar Ticona Panduro  | Application Layer                                   |
+| TB1         | 21/04/2025  | Estrella del Pilar Ticona Panduro  | Infrastructure Layer                                |
+| TB1         | 21/04/2025  | Estrella del Pilar Ticona Panduro  | Bounded Context Domain Layer Class Diagrams         |
+| TB1         | 21/04/2025  | Estrella del Pilar Ticona Panduro  | Bounded Context Database Design Diagram             |
 
 **Project Report Collaboration Insights**
 
