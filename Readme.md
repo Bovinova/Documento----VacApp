@@ -30,7 +30,14 @@
 </p>
 
 | Entregables | Fecha       | Autor                             | Descripción de modificación                                                                                      |  
-|-------------|-------------|-----------------------------------|------------------------------------------------------------------------------------------------------------------|
+|-------------|-------------|-----------------------------------|------------------------------------------------------------------------------------------------------------------|  
+| TB1         | 23/08/2024  | Sergio André Gómez Vallejos       | Implementación de contenido en el Student Outcome   | 
+| TB1         | 23/08/2024  | Sergio André Gómez Vallejos       | Solution Profile y Antecendetes y problemática  | 
+| TB1         | 23/08/2024  | Sergio André Gómez Vallejos       |  Competidores y Desarrollo del perfil de integrante  | 
+| TB1         | 23/08/2024  | Sergio André Gómez Vallejos       |  Analisis Competitivo  |  
+| TB1         | 24/08/2024  | Sergio André Gómez Vallejos       | Registro de 1 entrevista del segmento objetivo Productores Ganadores independientes |  
+
+
 
 **Project Report Collaboration Insights**
 
@@ -108,14 +115,15 @@ necesario, utilizando estrategias de aprendizaje apropiadas.
 
 | **Criterio específico** | **Acciones realizadas** | **Conclusiones** |  
 |-------------------------|------------------------|------------------|  
-| Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software | 1. Gómez Vallejos, Sergio André ------ <br><br> 2. Rojas Velasquez, Maycol Jhordan ------ <br><br> 3. Aranda Vallejos, Oscar Gabriel ------ <br><br> 4. Ticona Panduro, Estrella del Pilar ------ <br><br> 5. Durand Vera, Gianfranco Angel ------ <br><br> 6. Miranda Sinarahua, Piero Stephano ------ <br><br> |------- |  
-| Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software |  1. Gómez Vallejos, Sergio André ------ <br><br> 2. Rojas Velasquez, Maycol Jhordan ------ <br><br> 3. Aranda Vallejos, Oscar Gabriel ------ <br><br> 4. Ticona Panduro, Estrella del Pilar ------ <br><br> 5. Durand Vera, Gianfranco Angel ------ <br><br> 6. Miranda Sinarahua, Piero Stephano ------ <br><br> | ---- |
+| Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software | 1. Gómez Vallejos, Sergio André: desarrollo de secciones clave como el Solution Profile, Antecedentes y problemática, el análisis de Competidores, y el Análisis competitivo. También realicé el Tactical-Level Domain-Driven Design y el Bounded Context Database Design Diagram. Para ello, estudié conceptos de diseño táctico, arquitectura basada en dominios y modelado de datos. <br><br> 2. Rojas Velasquez, Maycol Jhordan ------ <br><br> 3. Aranda Vallejos, Oscar Gabriel ------ <br><br> 4. Ticona Panduro, Estrella del Pilar ------ <br><br> 5. Durand Vera, Gianfranco Angel ------ <br><br> 6. Miranda Sinarahua, Piero Stephano ------ <br><br> |Sergio André Gómez Vallejo: A través de estas acciones, adquirí conocimientos actualizados en diseño de software y arquitectura de dominios. Esto me permitió tomar decisiones fundamentadas para el desarrollo del proyecto, mejorar mi capacidad técnica y entender mejor el valor del análisis estructurado para una solución eficaz. |  
+| Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software |  1. Gómez Vallejos, Sergio André:  Para cada sección del trabajo investigué nuevas metodologías de análisis competitivo, bases de Domain-Driven Design, y enfoques de diseño de bases de datos adaptados a contextos delimitados. Utilicé documentación especializada, artículos académicos y experiencias de la industria como base para mis decisiones de diseño. <br><br> 2. Rojas Velasquez, Maycol Jhordan ------ <br><br> 3. Aranda Vallejos, Oscar Gabriel ------ <br><br> 4. Ticona Panduro, Estrella del Pilar ------ <br><br> 5. Durand Vera, Gianfranco Angel ------ <br><br> 6. Miranda Sinarahua, Piero Stephano ------ <br><br> | Sergio André Gómez Vallejos: Reafirmé que el aprendizaje continuo es esencial en el mundo tecnológico actual. Este proyecto me ayudó a incorporar nuevos enfoques que antes no dominaba y fortaleció mi compromiso con seguir aprendiendo y adaptándome a los cambios del entorno profesional. |
 
 # OBJETIVOS SMART
 
 | Estudiante | Objetivo SMART |
 |------------|-----------|
 |Maycol Jhordan Rojas Velasquez | Mi Objetivo es poder alcanzar un desempeño profesional en analisis forense y en el diseño de nuevas apliaciones moviles, que ayuden en la sociedad, siguiendo todo lo aprendido y gestionando correctamente las buenas practicas.
+|Sergio André Gómez Vallejos | Mi objetivo es desarrollarme profesionalmente en el área de ciberseguridad (SOC) y en el desarrollo de aplicaciones móviles, demostrando los conocimientos adquiridos y creciendo continuamente a través de la experiencia y el tiempo.
 
 # 1. CAPÍTULO I: Presentacion
 ## 1.1. Startup Profile
