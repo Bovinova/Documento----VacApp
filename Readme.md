@@ -243,12 +243,21 @@ En el Perú, el bienestar animal en las empresas ganaderas es a menudo insuficie
 ### 4.1.3. Software Architecture
 En esta sección, se presentan los diagramas C4 que describen la arquitectura del sistema VacApp, una solución integral para la gestión del ganado. Estos diagramas proporcionan una representación clara de cómo se organiza el sistema, cómo interactúan sus componentes y cómo se implementan en el entorno de ejecución.
 #### 4.1.3.1. Software Architecture Context Level Diagrams
-![context](./assets/DiagramContainers.png)
+
 El Diagrama de Contexto muestra la interacción de VacApp con los actores externos, como los ganaderos y las empresas, así como otros sistemas externos que proporcionan servicios clave, como el pronóstico del tiempo, bases de datos de razas de ganado y servicios veterinarios. Este diagrama proporciona una visión de alto nivel del sistema, ayudando a entender cómo VacApp se integra en el ecosistema de gestión del ganado.
+
+![context](./assets/DiagramContainers.png)
+
 #### 4.1.3.2. Software Architecture Container Level Diagrams
-![containers](./assets/DiagramSystemContext.png)
 El Diagrama de Contenedores proporciona un nivel de detalle más profundo, mostrando los contenedores principales dentro de VacApp. Estos incluyen la aplicación web, la aplicación móvil, la API y la base de datos. Este diagrama ilustra cómo los diferentes componentes interactúan entre sí, permitiendo que los usuarios gestionen sus ganados, vacunas, salud y alimentación de manera eficiente. También muestra cómo la aplicación se comunica con sistemas externos, como el servicio de pronóstico del tiempo y las bases de datos de razas.
+
+![containers](./assets/DiagramSystemContext.png)
+
 #### 4.1.3.3. Software Architecture Deployment Diagrams
+
+Los Deployment Diagrams (diagramas de despliegue) forman parte de la arquitectura de software y son esenciales para representar cómo los componentes del sistema se distribuyen físicamente en el entorno de ejecución. Estos diagramas muestran la disposición de hardware (nodos) y la manera en que los artefactos de software se instalan en ellos, permitiendo visualizar la infraestructura que soporta la aplicación. Su propósito principal es ilustrar la relación entre el software y el hardware, detallando aspectos como servidores, dispositivos de red, bases de datos, y cómo interactúan entre sí.
+
+![containers](./assets/deployment.png)
 
 ## 4.2. Tactical-Level Domain-Driven Design
 ### 4.2.X. Bounded Context: <Bounded Context Name>
