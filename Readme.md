@@ -116,6 +116,7 @@ necesario, utilizando estrategias de aprendizaje apropiadas.
 | Estudiante | Objetivo SMART |
 |------------|-----------|
 |Maycol Jhordan Rojas Velasquez | Mi Objetivo es poder alcanzar un desempeño profesional en analisis forense y en el diseño de nuevas apliaciones moviles, que ayuden en la sociedad, siguiendo todo lo aprendido y gestionando correctamente las buenas practicas.
+|Piero Stephano Miranda Sinarahua | Mi objetivo es desarrollar en un plazo de 3 meses una version funcional de un aplicativo movil el cual este destinado a mejorar la experiencia de los usuarios objetivos, implementando por lo menos las funcionalidades principales que se plantearan, esto con el fin de incrementar la eficiencia y autonomia. 
 
 # 1. CAPÍTULO I: Presentacion
 ## 1.1. Startup Profile
