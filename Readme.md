@@ -31,6 +31,9 @@
 
 | Entregables | Fecha       | Autor                             | Descripción de modificación                                                                                      |  
 |-------------|-------------|-----------------------------------|------------------------------------------------------------------------------------------------------------------|
+| TB1         | 7/4/2025    | Gianfranco Durand   | Lean UX Process.                                                             |  
+| TB1         | 23/4/2025    | Gianfranco Durand   | Bounded Context Staff Administration: Domain Layer, Interface Layer, Component Level Diagrams|  
+| TB1         | 21/4/2025    | Gianfranco Durand   | Entrevista para el segmento 2.                                                |  
 
 **Project Report Collaboration Insights**
 
