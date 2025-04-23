@@ -468,7 +468,7 @@ A continuación presentaremos 3 Business Goals que consideramos importantes en n
 
 |**Clase**                  |**Tipo**         |**Propósito**                                                  |
 |---------------------------|-----------------|---------------------------------------------------------------|
-| CampaignAssignmentService | External Service| Servicio externo que vincula empleados con campañas. |
+| CampaignAssignmentService | Service| Servicio  que vincula empleados con campañas. |
 ---
 
 #### 4.2.3.5. Bounded Context Software Architecture Component Level Diagrams
