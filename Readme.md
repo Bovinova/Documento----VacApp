@@ -342,7 +342,10 @@ Para enfrentarnos a la competencia en el sector ganadero, nuestra estrategia se 
 ### 2.2.1. Diseño de entrevistas
 
 ### 2.2.2. Registro de entrevistas
+<<<<<<< HEAD
 
+=======
+>>>>>>> 209c83e3e2c12b91ec251da96e9511781a8708b8
 **Segmento #1: Productores Ganaderos Independientes**
 
 
@@ -366,6 +369,28 @@ La falta de tiempo representa su mayor desafío administrativo, impidiéndole co
 
 <br>
 
+<<<<<<< HEAD
+=======
+**Preguntas de la Entrevista:**
+
+
+1. ¿Cómo decide la dieta de sus animales y qué factores considera al elegir su alimentación? 
+
+   (¿Sigue asesoría veterinaria, experiencia personal o recomendaciones externas?)
+
+1. ¿Qué medidas toma para garantizar la salud y el bienestar de sus animales?
+1. ¿Qué aspectos considera más importantes en la gestión de la salud veterinaria de su ganado?
+1. ¿Lleva algún tipo de registro sobre la salud y el crecimiento de sus animales? ¿Cómo lo hace?
+
+   (¿Utiliza cuadernos, hojas de cálculo, aplicaciones móviles, etc.?)
+
+1. ¿Cuáles son los principales desafíos que enfrenta al administrar su ganadería?
+1. ¿Cómo cree que una aplicación podría ayudarle a resolver esos desafíos?
+1. Si contara con una aplicación para apoyar su trabajo ganadero, ¿qué funciones le serían más útiles?
+1. ¿Qué tipo de información le gustaría tener siempre disponible desde su celular o computadora?
+1. ¿Cómo le gustaría registrar la alimentación y consumo de sus animales dentro de la aplicación?
+1. ¿Qué beneficios espera lograr al implementar una solución como VacApp en su ganadería?
+>>>>>>> 209c83e3e2c12b91ec251da96e9511781a8708b8
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding
