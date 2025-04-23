@@ -215,6 +215,23 @@ En el Perú, el bienestar animal en las empresas ganaderas es a menudo insuficie
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
 ### 2.2.2. Registro de entrevistas
+
+**Segmento 1: Productor Ganadero Independiente**
+
+Entrevistado : Jorge Torres
+
+Edad: 50 años
+
+Experiencia en la ganaderia: 30 años
+
+
+![GanaderoIndependienteJorge](assets/EntrevistaGanaderoIndependienteJorge.JPG)
+
+*Resumen:* 
+
+El señor Jorge, ganadero desde hace ya varios años, cuenta como desde muy joven estuvo involucrado en temas ganaderos. Él habla acerca de como realiza la mayor parte de la gestion de su negocio por cuenta propia, desde el ciudado de la alimentacion de sus ganados, al igual que actividades de salud o limpieza que garanticen el bienestar de los animales. Tambien habla acerca de como lleva un registro de las actividades que realiza de manera tradicional, empleando un cuaderno de apuntes. Él considera que enfrenta varios desafios dentro de su negocio, como por ejemplo una falta de organizacion y eficiencia dentro del control de los ganados, que no cuenta con ayuda profesional, y que ciertos factores externos como el clima no siempre estan a su favor. Considera que una aplicacion movil podria ser de gran ayuda, y si contara con funciones que le ayudaran a superar esas dificultades que menciona, podria hacer crecer aun mas su negocio y volverlo mas rentable con el tiempo.
+
+
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding
