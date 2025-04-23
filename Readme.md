@@ -320,15 +320,30 @@ Finalmente, se realizó un análisis que permitió definir los valores y habilid
 #### 4.1.3.3. Software Architecture Deployment Diagrams
 
 ## 4.2. Tactical-Level Domain-Driven Design
-### 4.2.X. Bounded Context: <Bounded Context Name>
-#### 4.2.X.1. Domain Layer
-#### 4.2.X.2. Interface Layer
-#### 4.2.X.3. Application Layer
-#### 4.2.X.4. Infrastructure Layer
-#### 4.2.X.5. Bounded Context Software Architecture Component Level Diagrams
-#### 4.2.X.6. Bounded Context Software Architecture Code Level Diagrams
-##### 4.2.X.6.1. Bounded Context Domain Layer Class Diagrams
-##### 4.2.X.6.2. Bounded Context Database Design Diagram
+### 4.2.2. Bounded Context: <Bounded Context Name>
+#### 4.2.2.1. Domain Layer
+#### 4.2.2.2. Interface Layer
+#### 4.2.2.3. Application Layer
+#### 4.2.2.4. Infrastructure Layer
+#### 4.2.2.5. Bounded Context Software Architecture Component Level Diagrams
+#### 4.2.2.6. Bounded Context Software Architecture Code Level Diagrams
+##### 4.2.2.6.1. Bounded Context Domain Layer Class Diagrams
+##### 4.2.2.6.2. Bounded Context Database Design Diagram
+
+![DatabaseDiagram](assets/DiagramaDatabaseRanch.JPG)
+
+|**Nombre**|**Descripción**|
+| :- | :- |
+|ID|Identificador único de registro usado como clave primaria|
+|Name|Nombre del animal|
+|Birthday|Fecha de nacimiento del animal|
+|Birth\_place|Lugar de Nacimiento del animal|
+|Gender|Genero del animal|
+|Breed|Raza del animal|
+|Location|Lugar donde se ubica el animal|
+|Parent\_ID|Identificar de registro de la madre del animal|
+|Expire_date|Fecha de expiracion de la identificacion del bovino|
+|Animal_ID|Identificar de registro de la madre del animal|
 
 
 
