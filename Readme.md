@@ -340,43 +340,32 @@ Para enfrentarnos a la competencia en el sector ganadero, nuestra estrategia se 
 
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
+
+### 2.2.2. Registro de entrevistas
+
 **Segmento #1: Productores Ganaderos Independientes**
 
-VacApp ha desarrollado preguntas específicas para conocer las necesidades, experiencias y expectativas de los productores ganaderos independientes. Buscamos ayudarlos a gestionar mejor sus operaciones, optimizar el cuidado de sus animales y evaluar su impacto ambiental y social. A través de una plataforma intuitiva, VacApp ofrece herramientas que mejoran la eficiencia, el control de calidad y la conexión con los consumidores, simplificando los procesos diarios del productor.
 
 **Datos Generales del Entrevistado:**
 
-- Nombre: Christian Matos
-- Edad: 25
-- Tiempo de experiencia en la ganadería: 5 años
+*Entrevistado:* Christian Matos <br>
+*Sexo:* Maculino <br>
+*Edad:* 25 <br>
+*Domicilio:* Lima, Peru<br>
+*Inicio de la Entrevista:*  <br>
+*Duración de la Entrevista:* 2:29 <br>
 
 <img src="./assets/entrevista.png" alt="vacapp Logo" >
 
+*Resumen de la Entrevista*:
 
-Link del video: https://youtu.be/S0HHlhplbSk
+Christian Matos, un ganadero de 25 años con cinco años de experiencia, gestiona su negocio basándose principalmente en conocimientos prácticos adquiridos con el tiempo, consultando ocasionalmente a veterinarios para decisiones sobre alimentación. Su rutina incluye revisiones diarias, limpieza del corral y seguimiento de un calendario de vacunación, demostrando su compromiso con el bienestar animal. Actualmente, registra manualmente en una libreta los nacimientos, enfermedades y tratamientos, un método funcional pero limitado que dificulta el acceso rápido a la información y puede resultar en pérdidas de datos importantes.
+La falta de tiempo representa su mayor desafío administrativo, impidiéndole completar todas sus tareas y afectando su capacidad organizativa. Christian ve positivamente la implementación de una aplicación móvil que funcione como recordatorio de actividades, facilite consultas rápidas de datos y mejore su eficiencia general. Desea una interfaz sencilla con acceso desde múltiples dispositivos que le permita registrar digitalmente nacimientos, vacunas y alimentación, recibir alertas para revisiones periódicas y consultar información clave como peso y tratamientos individuales de sus animales, lo que optimizaría su tiempo y fortalecería su toma de decisiones.
+
+
 
 <br>
 
-**Preguntas de la Entrevista:**
-
-
-1. ¿Cómo decide la dieta de sus animales y qué factores considera al elegir su alimentación? 
-
-   (¿Sigue asesoría veterinaria, experiencia personal o recomendaciones externas?)
-
-1. ¿Qué medidas toma para garantizar la salud y el bienestar de sus animales?
-1. ¿Qué aspectos considera más importantes en la gestión de la salud veterinaria de su ganado?
-1. ¿Lleva algún tipo de registro sobre la salud y el crecimiento de sus animales? ¿Cómo lo hace?
-
-   (¿Utiliza cuadernos, hojas de cálculo, aplicaciones móviles, etc.?)
-
-1. ¿Cuáles son los principales desafíos que enfrenta al administrar su ganadería?
-1. ¿Cómo cree que una aplicación podría ayudarle a resolver esos desafíos?
-1. Si contara con una aplicación para apoyar su trabajo ganadero, ¿qué funciones le serían más útiles?
-1. ¿Qué tipo de información le gustaría tener siempre disponible desde su celular o computadora?
-1. ¿Cómo le gustaría registrar la alimentación y consumo de sus animales dentro de la aplicación?
-1. ¿Qué beneficios espera lograr al implementar una solución como VacApp en su ganadería?
-### 2.2.2. Registro de entrevistas
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding
