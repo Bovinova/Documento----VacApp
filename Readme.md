@@ -485,18 +485,46 @@ El Bounded Context Canvas es una herramienta visual del Domain-Driven Design (DD
 ### 4.1.3. Software Architecture
 #### 4.1.3.1. Software Architecture Context Level Diagrams
 #### 4.1.3.2. Software Architecture Container Level Diagrams
+
+El Diagrama de Contenedores proporciona un nivel de detalle más profundo, mostrando los contenedores principales dentro de VacApp. Estos incluyen la aplicación web, la aplicación móvil, la API y la base de datos. Este diagrama ilustra cómo los diferentes componentes interactúan entre sí, permitiendo que los usuarios gestionen sus ganados, vacunas, salud y alimentación de manera eficiente. También muestra cómo la aplicación se comunica con sistemas externos, como el servicio de pronóstico del tiempo y las bases de datos de razas.
+
+![containers](./assets/Structurizr-VacAPP-Containers.png)
+
 #### 4.1.3.3. Software Architecture Deployment Diagrams
 
-## 4.2. Tactical-Level Domain-Driven Design
-### 4.2.X. Bounded Context: <Bounded Context Name>
-#### 4.2.X.1. Domain Layer
-#### 4.2.X.2. Interface Layer
-#### 4.2.X.3. Application Layer
-#### 4.2.X.4. Infrastructure Layer
-#### 4.2.X.5. Bounded Context Software Architecture Component Level Diagrams
-#### 4.2.X.6. Bounded Context Software Architecture Code Level Diagrams
-##### 4.2.X.6.1. Bounded Context Domain Layer Class Diagrams
-##### 4.2.X.6.2. Bounded Context Database Design Diagram
+
+
+# 4.2. Tactical-Level Domain-Driven Design
+
+## 4.2.1. Bounded Context: Campaign Management
+### 4.2.1.1. Domain Layer
+### 4.2.2.3. Application Layer
+### 4.2.1.4. Infrastructure Layer
+### 4.2.1.5. Bounded Context Software Architecture Component Level Diagrams
+
+![Campaign Management Containers](./assets/Campaign-Management-Components.png)
+
+### 4.2.1.6. Bounded Context Software Architecture Code Level Diagrams
+#### 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams
+#### 2.6.1.6.2. Bounded Context Database Design Diagram
+
+## 4.2.2. Bounded Context: Ranch Management 
+### 4.2.2.1. Domain Layer
+
+### 4.2.2.2. Interface Layer
+
+### 4.2.2.3. Application Layer
+
+### 4.2.2.4. Infrastructure Layer
+
+### 4.2.2.5. Bounded Context Software Architecture Component Level Diagrams
+
+![Ranch Management Containers](./assets/Ranch-Management-Components.png)
+
+
+### 4.2.2.6. Bounded Context Software Architecture Code Level Diagrams
+#### 4.2.2.6.1. Bounded Context Domain Layer Class Diagrams
+#### 2.6.2.6.2. Bounded Context Database Design Diagram
 
 
 
