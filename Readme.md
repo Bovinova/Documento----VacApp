@@ -328,6 +328,9 @@ Finalmente, se realizó un análisis que permitió definir los valores y habilid
 #### 4.2.2.5. Bounded Context Software Architecture Component Level Diagrams
 #### 4.2.2.6. Bounded Context Software Architecture Code Level Diagrams
 ##### 4.2.2.6.1. Bounded Context Domain Layer Class Diagrams
+
+![ClassDiagram](assets/DiagramaClasesRanch.JPG)
+
 ##### 4.2.2.6.2. Bounded Context Database Design Diagram
 
 ![DatabaseDiagram](assets/DiagramaDatabaseRanch.JPG)
