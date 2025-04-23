@@ -261,7 +261,7 @@ Los Deployment Diagrams (diagramas de despliegue) forman parte de la arquitectur
 
 ## 4.2. Tactical-Level Domain-Driven Design
 
-## 4.2.1. Bounded Context: Campaign Management
+# 4.2.1. Bounded Context: Campaign Management
 En el contexto de VacApp, el módulo de Campaign Management representa una parte clave del sistema encargada de la creación, organización y seguimiento de campañas de comunicación, capacitación y promoción dirigidas a los ganaderos. Estas campañas pueden abarcar desde campañas educativas sobre buenas prácticas ganaderas, hasta promociones de nuevas funcionalidades de la app o actividades colaborativas dentro de la comunidad ganadera.
 
 Este bounded context se encarga de modelar el ciclo de vida completo de una campaña dentro de la plataforma, permitiendo su planificación estructurada mediante la definición de objetivos (como metas de participación o impacto), fechas de inicio y finalización, y canales a través de los cuales se difundirán los mensajes (como notificaciones push, correo electrónico o módulos dentro de la app).
@@ -323,6 +323,64 @@ Este bounded context se encarga de modelar el ciclo de vida completo de una camp
 ### 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams
 ### 2.6.1.6.2. Bounded Context Database Design Diagram
 
+
+# 4.2.2. Bounded Context: Ranch Management 
+### 4.2.2.1. Domain Layer
+
+| Clase             | Tipo               | Propósito                                                                 | Atributos                                                                                       |
+|-------------------|--------------------|---------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| Bovine            | Entity             | Representa a un bovino dentro del rancho                                  | `id`, `name`, `birthDate`, `breed`, `vaccines: Vaccine[]`, `stableId`                           |
+| Vaccine           | Entity             | Representa una vacuna aplicada a un bovino                                | `id`, `name`, `applicationDate`, `bovineId`                                                     |
+| Stable            | Entity             | Representa un establo que agrupa varios bovinos                           | `id`, `name`, `location`, `bovines: Bovine[]`                                                   |
+| Race             | Value Object       | Representa la raza del bovino, tomada del servicio externo                | `code`, `name`, `originRegion`                                                                  |
+| BovineAggregate   | Aggregate           | Coordina la creación y gestión de bovinos y su información sanitaria      | `Bovine`, `Vaccines`, `Stable`                                                                  |
+| BovineFactory     | Factory            | Crea un nuevo bovino con datos validados y raza asignada                 | `create(name, birthDate, breedCode, stableId)`                                                  |
+| IBovineRepository | Repository (interface) | Interfaz para persistencia y recuperación de bovinos                 | `findById(id)`, `save(bovine)`, `delete(id)`                                                    |
+
+---
+
+### 4.2.2.2. Interface Layer
+
+| Clase                  | Tipo              | Propósito                                                              | Métodos / Endpoints                                                        |
+|------------------------|-------------------|------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| BovineController       | Controller        | Gestiona endpoints para registro y manejo de bovinos                   | `POST /bovines`, `GET /bovines/:id`, `PATCH /bovines/:id`, `DELETE /bovines/:id` |
+| StableController       | Controller        | Gestión de establos y asignación de bovinos                            | `POST /stables`, `GET /stables/:id`, `POST /stables/:id/bovines`           |
+| VaccineController      | Controller        | Registro de vacunas para bovinos                                       | `POST /vaccines`, `GET /vaccines/by-bovine/:bovineId`                      |
+| CreateBovineDTO        | DTO               | Datos requeridos para registrar un bovino                              | `name`, `birthDate`, `breedCode`, `stableId`                               |
+| CreateStableDTO        | DTO               | Datos requeridos para registrar un establo                             | `name`, `location`                                                         |
+| ApplyVaccineDTO        | DTO               | Datos requeridos para registrar una vacuna                             | `bovineId`, `vaccineName`, `applicationDate`                               |
+
+---
+
+### 4.2.2.3. Application Layer
+
+| Clase                      | Tipo             | Propósito                                                                  | Atributos / Métodos                                                          |
+|----------------------------|------------------|-----------------------------------------------------------------------------|-------------------------------------------------------------------------------|
+| RegisterBovineCommand      | Command          | Representa la intención de registrar un nuevo bovino                       | `name`, `birthDate`, `breedCode`, `stableId`                                 |
+| RegisterBovineCommandHandler      | Command Handler  | Lógica para registrar un bovino, obteniendo raza del servicio externo      | `handle(command: RegisterBovineCommand)`                                     |
+| ApplyVaccineCommand        | Command          | Encapsula la intención de aplicar una vacuna a un bovino                  | `bovineId`, `vaccineName`, `applicationDate`                                 |
+| ApplyVaccineHandler        | Command Handler  | Maneja la lógica de vacunación de un bovino                               | `handle(command: ApplyVaccineCommand)`                                       |
+| BovineRegisteredEvent      | Event            | Evento lanzado cuando un bovino es registrado                             | `bovineId`, `name`, `stableId`, `breed`                                      |
+| BovineRegisteredHandler    | Event Handler    | Reacciona al evento y puede notificar, auditar o iniciar otras acciones   | `handle(event: BovineRegisteredEvent)`                                       |
+
+---
+
+### 4.2.2.4. Infrastructure Layer
+
+| Clase                         | Tipo                   | Propósito                                                                 | Atributos / Métodos                                                        |
+|-------------------------------|------------------------|--------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| BovineRepositoryImpl          | Repository Impl        | Implementación de `IBovineRepository`, usa una base de datos relacional | `findById`, `save`, `delete`                                              |
+| RaceExternalService          | External Service       | Consulta razas de bovinos desde una base de datos externa               | `getBreedByCode(code: string): Breed`                                     |
+| EmailNotificationService      | External Service       | Envia emails tras registro o vacunación                                 | `sendBovineRegisteredEmail(bovine)`                                       |
+| EventBusImpl                  | Message Broker Impl    | Publica eventos como `BovineRegisteredEvent`                            | `publish(event: DomainEvent)`                                             |
+| VaccineMessageConsumer        | Consumer               | Escucha eventos de campaña o vacunas que afectan a los bovinos          | `onMessage(event: CampaignAppliedEvent)`                                  |
+
+### 4.2.2.5. Bounded Context Software Architecture Component Level Diagrams
+### 4.2.2.6. Bounded Context Software Architecture Code Level Diagrams
+### 4.2.2.6.1. Bounded Context Domain Layer Class Diagrams
+### 2.6.2.6.2. Bounded Context Database Design Diagram
+
+    
 
 
 
