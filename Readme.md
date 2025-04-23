@@ -340,6 +340,8 @@ Para enfrentarnos a la competencia en el sector ganadero, nuestra estrategia se 
 
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
+
+### 2.2.2. Registro de entrevistas
 **Segmento #1: Productores Ganaderos Independientes**
 
 VacApp ha desarrollado preguntas específicas para conocer las necesidades, experiencias y expectativas de los productores ganaderos independientes. Buscamos ayudarlos a gestionar mejor sus operaciones, optimizar el cuidado de sus animales y evaluar su impacto ambiental y social. A través de una plataforma intuitiva, VacApp ofrece herramientas que mejoran la eficiencia, el control de calidad y la conexión con los consumidores, simplificando los procesos diarios del productor.
@@ -376,7 +378,6 @@ Link del video: https://youtu.be/S0HHlhplbSk
 1. ¿Qué tipo de información le gustaría tener siempre disponible desde su celular o computadora?
 1. ¿Cómo le gustaría registrar la alimentación y consumo de sus animales dentro de la aplicación?
 1. ¿Qué beneficios espera lograr al implementar una solución como VacApp en su ganadería?
-### 2.2.2. Registro de entrevistas
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding
