@@ -581,6 +581,97 @@ Para la interacción con proveedores, ve útil una plataforma que facilite la co
 
 
 ### 2.2.3. Análisis de entrevistas
+Se realizaron entrevistas a dos segmentos clave del sector ganadero: Productores Ganaderos Independientes y Empresas Ganaderas. El objetivo fue identificar necesidades, desafíos, herramientas utilizadas y expectativas sobre una posible solución digital como VacApp. A continuación, se resumen los principales hallazgos por segmento.
+
+---
+
+## Segmento 1: Productores Ganaderos Independientes
+
+### Entrevistados
+- Luis Raimundo
+- Jorge Torres
+- Christian Matos
+
+### Principales Hallazgos
+
+#### Manejo de la Ganadería
+- La alimentación del ganado se decide por experiencia personal o con ayuda de veterinarios.
+- Hay una fuerte conexión práctica con el cuidado directo de los animales.
+- Se aplican prácticas sanitarias básicas como limpieza, vacunación, desparasitación y suplementación.
+
+#### Registro de Información
+- Uso común de métodos manuales (libretas) o rudimentarios (Excel).
+- Dificultades para mantener organización y acceso rápido a información.
+- Pérdida de datos o desactualización son riesgos frecuentes.
+
+#### Desafíos Identificados
+- Falta de organización y sistematización.
+- Limitaciones por tiempo para realizar tareas administrativas.
+- Clima y factores externos afectan productividad.
+- Falta de personal o asesoría profesional.
+
+#### Requerimientos para VacApp
+- Recordatorios y alertas para actividades críticas (vacunas, alimentación).
+- Registro digital de salud, peso, nacimientos y tratamientos.
+- Visualización del historial por animal o lote.
+- Acceso multiplataforma (celular/computadora) con interfaz sencilla.
+
+#### Beneficios Esperados
+- Mejor organización y control.
+- Reducción de pérdidas por enfermedades.
+- Gestión eficiente del alimento y reducción de costos.
+- Mayor productividad y posibilidad de expansión.
+
+---
+
+## Segmento 2: Empresas Ganaderas
+
+### Entrevistados
+- Edgar Parry
+- Camila Sánchez
+
+### Principales Hallazgos
+
+#### Gestión de Gran Escala
+- Número de animales puede llegar a 3000 y fluctúa según la temporada.
+- Registro de datos aún en formatos físicos o Excel, con errores frecuentes.
+- Necesitan tomar decisiones basadas en datos productivos, sanitarios y reproductivos.
+
+#### Información Clave
+- Indicadores de producción láctea, estado sanitario, engorde y fertilidad.
+- Seguimiento individual por animal es esencial.
+- Análisis de costos y rendimiento como herramienta estratégica.
+
+#### Gestión del Personal y Proveedores
+- Requieren funcionalidades para:
+  - Asignación de tareas.
+  - Control de desempeño del personal.
+  - Comunicación interna.
+  - Registro de incidentes.
+- Interacción con proveedores: seguimiento de pedidos, inventarios y negociación.
+
+#### Personalización y Adaptabilidad
+- Alta necesidad de personalizar roles, informes, alertas y datos.
+- La plataforma debe adaptarse a los procesos existentes, no al revés.
+
+#### Beneficios Esperados
+- Reducción de errores en registros.
+- Mayor eficiencia en toma de decisiones.
+- Mejora en rentabilidad, bienestar animal y sostenibilidad.
+
+---
+
+## Conclusiones Generales
+
+| Categoría                         | Independientes                             | Empresas Ganaderas                        |
+|----------------------------------|--------------------------------------------|-------------------------------------------|
+| Registro de datos                | Manual o Excel, poco estructurado           | Similar situación, pero a mayor escala     |
+| Desafíos principales             | Organización, tiempo, clima                 | Coordinación, errores, análisis de datos   |
+| Interacción con tecnología       | Abiertos a soluciones móviles               | Necesidad crítica de digitalización        |
+| Funciones clave esperadas        | Recordatorios, historial, salud, alimentación | Reportes, planificación, gestión de personal |
+| Relevancia de personalización    | Media                                       | Alta                                       |
+
+---
 
 # Completar y agregar la entrevista faltante 
 
