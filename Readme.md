@@ -130,19 +130,19 @@ necesario, utilizando estrategias de aprendizaje apropiadas.
 
 
 
+
 | **Criterio específico** | **Acciones realizadas** | **Conclusiones** |  
 |-------------------------|------------------------|------------------|  
-| Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software | 1. Gómez Vallejos, Sergio André ------ <br><br> 2. Rojas Velasquez, Maycol Jhordan: Desarrollé los temas alcanzados en los ciclos anteriores, lo que me permitió adquirir conocimientos sólidos sobre el tema y realizarlos correctamente.<br><br> 3. Aranda Vallejos, Oscar Gabriel ------ <br><br>4. Ticona Panduro, Estrella del Pilar: TB1 Actualicé conceptos clave al diseñar entrevistas y realizar una con productores ganaderos, aplicando técnicas de investigación de usuario. A través del To Be Scenario Mapping, User Stories, Impact Mapping y Product Backlog, reforcé conocimientos en metodologías ágiles y diseño centrado en el usuario. Además, al desarrollar el Bounded Context, las capas de arquitectura (Application, Infrastructure, Domain), diagramas de clases y diseño de base de datos, fortalecí mi dominio en modelado de software y arquitectura orientada al dominio.n el desarrollo del proyecto de soluciones de software, llevé a cabo una serie de actividades clave que reflejan el compromiso con la actualización de conocimientos y el aprendizaje continuo. Estas acciones incluyeron: Diseño de entrevistas, una entrevista del segmento 1 (Productores Ganadores independientes), To be Scenario Mapping, User Stories, Impact Mapping, Product Backlog, Bounded Context: Staff administration, Application Layer, Infrastructure Layer, Bounded Context Domain Layer Class Diagrams y Bounded Context Database Design Diagram.Las actividades desarrolladas me permitieron actualizar conocimientos esenciales para mi crecimiento profesional, especialmente en metodologías ágiles, diseño centrado en el usuario y arquitectura de software. Esto refuerza mi capacidad para abordar proyectos tecnológicos con una base técnica actualizada y alineada a las mejores prácticas del sector.<br><br>5. Durand Vera, Gianfranco Angel: <br>TB1 <br> Realice las capas de Domain e Interface, además de el Component Level Diagrams, para el Bounded Context Staff Administration, asi como entrevistas hacia el segundo segmento <br><br> 6. Miranda Sinarahua, Piero Stephano ------ <br><br> |------- |  
-| Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software |  1. Gómez Vallejos, Sergio André ------ <br><br> 2. Rojas Velasquez, Maycol Jhordan ------ <br><br> 3. Aranda Vallejos, Oscar Gabriel ------ <br><br>4. Ticona Panduro, Estrella del Pilar:  Reconocí la necesidad del aprendizaje permanente al enfrentar retos que exigieron investigar nuevas herramientas y enfoques, como la validación de usuarios, metodologías ágiles y principios de diseño de software moderno. La evolución constante del proyecto me impulsó a seguir aprendiendo para tomar mejores decisiones técnicas y aportar soluciones más efectivas y alineadas con las necesidades del usuario. A lo largo del proyecto confirmé que el aprendizaje permanente es fundamental en el desarrollo de software, ya que cada etapa presentó nuevos desafíos que me motivaron a investigar, adaptarme y mejorar. Este proceso me permitió evolucionar como profesional comprometido con la mejora continua y con la entrega de soluciones efectivas.<br><br> 5. Durand Vera, Gianfranco Angel: <br>TB1 <br> Durante esta entrega, comprendí la importancia del aprendizaje permanente en mi desarrollo profesional y en la creación de soluciones de software efectivas. Al desarrollar declaraciones de problemas y suposiciones bajo Lean UX, reforcé mi compromiso con la actualización constante de conocimientos para garantizar que cada proyecto se ejecute con la máxima eficiencia y calidad.<br><br> 6. Miranda Sinarahua, Piero Stephano ------ <br><br> | ---- |. 
-
+| Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software | 1. Gómez Vallejos, Sergio André ------ <br><br> 2. Rojas Velasquez, Maycol Jhordan: Aplicó los conocimientos necesarios para el proyecto, desarrollando los diagramas C4 y definiendo el segmento objetivo.<br><br> 3. Aranda Vallejos, Oscar Gabriel <br> TB1 <br> Participé en el proceso del eventstorming, actualizando los conceptos y técnicas aprendidas del Domain Driven Design.<br><br>4. Ticona Panduro, Estrella del Pilar: TB1 Actualicé conceptos clave al diseñar entrevistas y realizar una con productores ganaderos, aplicando técnicas de investigación de usuario. A través del To Be Scenario Mapping, User Stories, Impact Mapping y Product Backlog, reforcé conocimientos en metodologías ágiles y diseño centrado en el usuario. Además, al desarrollar el Bounded Context, las capas de arquitectura (Application, Infrastructure, Domain), diagramas de clases y diseño de base de datos, fortalecí mi dominio en modelado de software y arquitectura orientada al dominio.n el desarrollo del proyecto de soluciones de software, llevé a cabo una serie de actividades clave que reflejan el compromiso con la actualización de conocimientos y el aprendizaje continuo. Estas acciones incluyeron: Diseño de entrevistas, una entrevista del segmento 1 (Productores Ganadores independientes), To be Scenario Mapping, User Stories, Impact Mapping, Product Backlog, Bounded Context: Staff administration, Application Layer, Infrastructure Layer, Bounded Context Domain Layer Class Diagrams y Bounded Context Database Design Diagram.Las actividades desarrolladas me permitieron actualizar conocimientos esenciales para mi crecimiento profesional, especialmente en metodologías ágiles, diseño centrado en el usuario y arquitectura de software. Esto refuerza mi capacidad para abordar proyectos tecnológicos con una base técnica actualizada y alineada a las mejores prácticas del sector.<br><br>5. Durand Vera, Gianfranco Angel: <br>TB1 <br> Realice las capas de Domain e Interface, además de el Component Level Diagrams, para el Bounded Context Staff Administration, asi como entrevistas hacia el segundo segmento <br><br> 6. Miranda Sinarahua, Piero Stephano ------ <br><br> |------- |  
+| Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software |  1. Gómez Vallejos, Sergio André ------ <br><br> 2. Rojas Velasquez, Maycol Jhordan: Desarrollé los temas alcanzados en los ciclos anteriores, lo que me permitió adquirir conocimientos sólidos sobre el tema y realizarlos correctamente.<br><br> 3. Aranda Vallejos, Oscar Gabriel <br> TB1 <br> Participé en el proceso del eventstorming, actualizando los conceptos y técnicas aprendidas del Domain Driven Design.<br><br>4. Ticona Panduro, Estrella del Pilar:  Reconocí la necesidad del aprendizaje permanente al enfrentar retos que exigieron investigar nuevas herramientas y enfoques, como la validación de usuarios, metodologías ágiles y principios de diseño de software moderno. La evolución constante del proyecto me impulsó a seguir aprendiendo para tomar mejores decisiones técnicas y aportar soluciones más efectivas y alineadas con las necesidades del usuario. A lo largo del proyecto confirmé que el aprendizaje permanente es fundamental en el desarrollo de software, ya que cada etapa presentó nuevos desafíos que me motivaron a investigar, adaptarme y mejorar. Este proceso me permitió evolucionar como profesional comprometido con la mejora continua y con la entrega de soluciones efectivas.<br><br> 5. Durand Vera, Gianfranco Angel: <br>TB1 <br> Durante esta entrega, comprendí la importancia del aprendizaje permanente en mi desarrollo profesional y en la creación de soluciones de software efectivas. Al desarrollar declaraciones de problemas y suposiciones bajo Lean UX, reforcé mi compromiso con la actualización constante de conocimientos para garantizar que cada proyecto se ejecute con la máxima eficiencia y calidad.<br><br> 6. Miranda Sinarahua, Piero Stephano ------ <br><br> | ---- |
 
 # OBJETIVOS SMART
-
 | Estudiante                             | Objetivo SMART                                                                                                                                                                                                                          |
 |----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Maycol Jhordan Rojas Velasquez         | Mi objetivo es poder alcanzar un desempeño profesional en análisis forense y en el diseño de nuevas aplicaciones móviles, que ayuden en la sociedad, siguiendo todo lo aprendido y gestionando correctamente las buenas prácticas.     |
 | Gianfranco Durand Vera                 | Mi objetivo es profundizar en el uso de la arquitectura clean en el desarrollo de aplicaciones móviles con el fin de construir aplicaciones robustas y escalables que mejoren la experiencia de usuario y la eficiencia de los productos digitales. |
 | Estrella del Pilar Ticona Panduro      | Al finalizar este curso, quiero haber fortalecido mis habilidades técnicas y profesionales en el área del desarrollo y diseño de aplicaciones móviles, logrando aplicar los conocimientos adquiridos en al menos un proyecto funcional, con el fin de especializarme en esta rama y mejorar mi perfil profesional en los próximos 6 meses. |
+|Oscar Gabriel Aranda Vallejos | Mi objetivo es poder especializarme en el desarrollo web full stack, integrando tecnologías emergentes para crear soluciones innovadoras que impacten positivamente en la sociedad. Para ello continuaré aprendiendo y participando en proyectos de desarrollo de aplicaciones web.
 
 
 # 1. CAPÍTULO I: Presentacion
@@ -179,7 +179,7 @@ Nos esforzamos por ofrecer una plataforma integral que empodere a los ganaderos 
 | Integrante | Descripción |
 | ---- | --- |
 | ![Sergio](https://hackmd.io/_uploads/SkU_5d9cR.png) | Sergio André Gómez Vallejos – Ingeniería de Software – u20221d401 <br> Soy una persona resiliente que, sin importar cuántas veces caiga, siempre encuentra la manera de levantarse. Tengo habilidades sociales sólidas y una amplia experiencia en la resolución de problemas de código. Suelo ser el miembro más activo de mi equipo de trabajo. Me apasionan los lenguajes de programación y la tecnología, y constantemente me esfuerzo por alcanzar mis objetivos y contribuir al desarrollo del startup. |
-| ![Oscar]() |Aranda Vallejos, Oscar Gabriel - U202218167 <br> |
+| [![Captura-de-pantalla-2024-09-08-151747.png](https://i.postimg.cc/6qRCcvNF/Captura-de-pantalla-2024-09-08-151747.png)](https://postimg.cc/kRJVXDGy) |Aranda Vallejos, Oscar Gabriel - U202218167 <br> Tengo 20 años y soy estudiante de la carrera de Ingeniería de Software, poseo conocimientos intermedios en Unity, C++, Java, Spring Boot y diseño web. Me considero una persona responsable y perseverante. Siempre estoy dispuesto a aprender nuevos conceptos y elegí esta carrera porque me apasiona el desarrollo de software y la posibilidad de crear soluciones que impacten positivamente en la sociedad. |
 |<img src="https://hackmd.io/_uploads/B1F_iuso0.jpg" alt="yo-3" style="width: 600px ; height: 200px;">|Maycol Jhordan Rojas Velasquez – Ingeniería de Software – u202219984<br>Elegí la carrera de Ingeniería de Software debido a mi gusto por la innovación y la implementación de la tecnología en cualquier rubro  social, de una manera creativa y en todos los aspectos. Me considero una persona creativa, en busca de ideas, estrategias con mente nueva. También me gusta escuchar ideas de mi equipo, dar ideas de mejora, evaluar las ventajas y desventajas . Además, tengo conocimientos de programación en C + +, HTML, Python,Angular,Backend en Java. Además, Tengo un enfoque responsable y dedicado mediante un aprendizaje rápido así puedo ayudar a mis compañeros en sus dudas. Por otro lado, mis hobbies son ver series, jugar , escuchar música, nadar y  manejar.|
 | <img src="./assets/estrella.jpeg">|Ticona Panduro, Estrella del Pilar - U202210659  <br> actualmente estudio la carrera de Ingeniería de Software en UPC. Opté por estudiar esta carrera porque me interesa programar y crear diferentes aplicativos o programas y emplearlo en la salud. En mis tiempos libres me gusta ver series o películas. Mi compromiso es aportar ideas innovadoras a lo largo del curso, en especial en las tareas en equipo. Mis habilidades son tener una actitud positiva, entusiasta y responsable. | 
 | <img src="assets/franco.jpg" style="width: 600px ; height: 200px;" > | Durand Vera, Gianfranco Angel - U20201f640 <br> Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, actualmente me encuentro en el septimo ciclo, escogí esta carrera porque me gusta mucho la programación. Tengo experiencia en lenguajes de programación como C#, Python, Kotlin y TypeScript.|
@@ -523,14 +523,263 @@ A continuación presentaremos 3 Business Goals que consideramos importantes en n
 
 
 # 4. CAPÍTULO IV: Solution Software Design
+
 ## 4.1. Strategic-Level Domain-Driven Design
+En esta sección se describe el proceso utilizado en las decisiones del negocio, aplicando el enfoque de Domain Driven Design. A través de esta metodología, se busca identificar y definir los distintos Bounded Contexts que conforman el sistema, es decir, subconjuntos con límites lógicos y naturales en función del dominio del problema. Para lograrlo, el equipo emplea herramientas como EventStorming y el Bounded Context Canvas, las cuales permiten visualizar, analizar y delimitar las responsabilidades, flujos de eventos y relaciones clave dentro del sistema. 
+
 ### 4.1.1. EventStorming
+En este apartado se documenta el proceso del Event Storming, una herramienta clave para construir una primera aproximación al modelado general del dominio del negocio. Esta técnica colaborativa permite identificar eventos relevantes, actors, commands y aggregates dentro del sistema. Con ello, el objetivo principal es explorar nuestro dominio para descubrir patrones de software relevantes, límites y conexiones claras entre nuestros bounded context y sentar las bases para una buena arquitectura. Para ello, se realizaron los siguientes pasos en la herramienta Lucidchart bajo la normativa del DDD Estratégico. https://lucid.app/lucidchart/485813a6-b859-4a14-a28a-7e048f209992/edit?viewport_loc=74140%2C-2906%2C11186%2C5074%2C0_0&invitationId=inv_b00dd762-3281-4382-8e1c-aa8db916cbfd
+
 #### 4.1.1.1. Candidate Context Discovery
+
+A continuación se detalla el proceso y la evolución final del event storming.
+
+#### Step 1: Unstructured exploration
+Primero tuvimos una lluvia de ideas en la cual nos propusimos identificar exhaustivamente todos los eventos que ocurrirán en nuestro aplicativo, para asegurarnos de abarcar una amplia gama de posibilidades y ofrecer una experiencia completa y satisfactoria a nuestros usuarios. Este paso se puede visualizar con mayor claridad en el siguiente enlace: 
+
+A continuación, se presentan una serie de figuras que evidencian este proceso de exploración inicial.
+
+[![es-step1.png](https://i.postimg.cc/6qfmcs5b/es-step1.png)](https://postimg.cc/JHtx72Xj)
+<br>En esta figura se aprecia un mural con todos los eventos del dominio que fueron rescatados de la lluvia de ideas que realizó el equipo.<br>
+
+#### Step 2: Timeline construction
+Una vez identificados los eventos, organizamos la secuencia cronológica en la que estos ocurren dentro del flujo del sistema. Esto nos permitió identificar la secuencia natural del negocio y clarificar la narrativa del dominio. Dicha representación se puede encontrar desarrollada en el siguiente enlace: https://lucid.app/lucidchart/485813a6-b859-4a14-a28a-7e048f209992/edit?viewport_loc=-9234%2C-1588%2C7434%2C3010%2C0_0&invitationId=inv_b00dd762-3281-4382-8e1c-aa8db916cbfd
+
+A continuación, se presentan una serie de capturas de pantalla que ilustran cómo estructuramos esta línea temporal. 
+
+[![Step2-1.png](https://i.postimg.cc/TPh6hXh2/Step2-1.png)](https://postimg.cc/qtfYZS8W)
+<br>En esta imagen se reflejan los eventos alineados según el orden lógico o temporal de su ocurrencia desde el proceso de adición de un bovino y la gestión del mismo hasta la adición de una nueva vacuna. Esto señala que el proceso natural del sistema consistirá en primero registrar un bovino para después registrar vacunas que serán aplicadas en ese bovino.<br>
+
+[![es-step2-2.png](https://i.postimg.cc/4N6mZWmf/es-step2-2.png)](https://postimg.cc/6yQ9fLrg)
+<br>Con esta figura podemos continuar describiendo la ruta de actividades dentro del negocio. A partir de haber sido registrada una vacuna con sus campos correspondientes y ya disponer de bovinos registrados, un servicio de asesoría veterinaria es habilitado para el usuario. <br>
+
+[![es-step2-3.png](https://i.postimg.cc/Znk5zNmv/es-step2-3.png)](https://postimg.cc/hzrB9ffK)
+<br>En esta imagen se muestra la secuencia de eventos que ocurren cuando un usuario con una empresa ganadera registra a sus trabajadores y decide crear una campaña. Tras haber sido creada la campaña, el empresario ganadero posee la opción de gestionar la campaña registrada y consultar el clima. Además, se representan los atibutos que tendrá la entidad campaña.<br>
+
+#### Step 3: Pain Points
+En este paso identificamos los puntos críticos que requieren especial atención dentro de nuestro dominio, ya sea por su nivel de impacto en el negocio, riesgo potencial o complejidad. Para facilitar su análisis y visualización, se ha elaborado un diagrama colaborativo que refleja dichos puntos críticos.
+
+A continuación, se presentan una serie de figuras que evidencian el proceso realizado durante la identificación y análisis de los puntos críticos del dominio. Estas capturas complementan el diagrama general elaborado en Lucidchart y permiten observar con mayor detalle los elementos clave identificados.
+
+[![Step3-1.png](https://i.postimg.cc/76P6YR0q/Step3-1.png)](https://postimg.cc/063xVcV4)
+<br>En esta imagen se aprecia la identificación de incertidumbres sobre cómo realizar la validación de los campos de los bovinos y cómo estos campos serán utilizados para filtrar la búsqueda. Al resolver estas interrogantes, lograremos mejorar la propuesta de diseño y facilitar el proceso de implementación.<br>
+
+[![Step3-2.png](https://i.postimg.cc/50pm6Drg/Step3-2.png)](https://postimg.cc/phhjScR5)
+<br>Esta figura muestra los puntos críticos identificados sobre la validación de los campos de una vacuna que además serán utilizados para aplicar filtros de búsqueda en las vacunas. Resolver esto es importante para evitar que datos ajenos a la información de una vacuna real sea introducido.<br>
+
+[![Step3-3.png](https://i.postimg.cc/hPdhP6fq/Step3-3.png)](https://postimg.cc/bsqqm6x6)
+<br>Esta figura muestra un punto crítico relacionado al servicio de asistencia veterinaria. Este fue identificado rápidamente debido a la complejidad en la implementación de respuestas a consultas veterinarias en tiempo real.<br>
+
+[![Step3-4.png](https://i.postimg.cc/8sgVKyR2/Step3-4.png)](https://postimg.cc/bSgMd9Fg)
+<br>En esta imagen se observa que limitar la capacidad de trabajadores que pueden ser ingresados al sistema es considerado un factor crítico, lo cual es debido al nivel de riesgo presente en recibir grandes volúmenes de datos.<br>
+
+#### Step 4: Pivotal Points
+ En esta sección se marcaron los puntos clave que denotan transiciones significativas dentro del proceso de desarrollo, especialmente aquellos eventos o decisiones que implican un cambio en el comportamiento del sistema o en la forma en que los distintos Bounded Contexts interactúan entre sí. Como se puede observar, los pivotal points son sumamente importantes. Por ello, para poder comprender y apreciar el diseño realizado en este paso, se muestran las siguientes imágenes. 
+
+[![es-step4-1.png](https://i.postimg.cc/vZ5j06qS/es-step4-1.png)](https://postimg.cc/w1T0v3dh)<br>
+
+[![es-step4-2.png](https://i.postimg.cc/Kz1Crpdt/es-step4-2.png)](https://postimg.cc/XG02nLNv)<br>
+
+[![es-step4-3.png](https://i.postimg.cc/Jh69XCd1/es-step4-3.png)](https://postimg.cc/zLhtm6rM)<br>
+
+#### Step 5: Commands
+
+En este paso se definen los comandos que representan las acciones que los usuarios pueden ejecutar en el sistema. Estos comandos son fundamentales para desencadenar eventos y modificar el estado del sistema, y deben estar alineados con los eventos identificados previamente. A continuación, se muestran los comandos relevantes para nuestro dominio.
+
+[![es-step5-1.png](https://i.postimg.cc/T398RDV5/es-step5-1.png)](https://postimg.cc/mPtpjh6T)
+<br>En este frame tenemos un command para registrar un bovino.<br>
+
+[![es-step5-2.png](https://i.postimg.cc/GphW9mK7/es-step5-2.png)](https://postimg.cc/zy6tc59K)
+<br>En esta imagen tenemos commands adicionales para actualizar un bovino y eliminar un bovino. Además podrá ser buscado mediante filtros. <br>
+
+[![es-step5-3.png](https://i.postimg.cc/x1YDDRzS/es-step5-3.png)](https://postimg.cc/D8CY116C)
+<br>En este marco se define un command para registrar, actualizar y eliminar una vacuna. Una vez añadida en el sistema también podrá ser buscada mediante filtros.<br>
+
+[![es-step5-4.png](https://i.postimg.cc/xTLD47qR/es-step5-4.png)](https://postimg.cc/0b5B6VYM)
+<br>En este marco se define un command con la función de atender una consulta veterinaria, respondiendo de manera satisfactoria.<br>
+
+[![es-step5-5.png](https://i.postimg.cc/8k2gwDkc/es-step5-5.png)](https://postimg.cc/bd95N7tf)
+<br>En este frame se define un command para registrar, actualizar y eliminar una campaña. Además, tendremos un command para consultar el clima.<br>
+
+[![es-step5-6.png](https://i.postimg.cc/pybCjsHV/es-step5-6.png)](https://postimg.cc/vxh5FLTC)
+<br>En este marco se define un command para registrar, actualizar y eliminar un empleado. Una vez añadido en el sistema también podrá ser buscado mediante filtros.<br>
+
+#### Step 6: Policies
+En este paso se describen políticas que rigen decisiones y acciones dentro del sistema, asegurando que este se alinie con las necesidades del usuario y los objetivos del negocio.
+
+Los siguientes frames contienen políticas que indican diferentes restricciones o condiciones descritas a continuación:
+- Campos que deben ser validados antes de proceder con la creación y registro de un objeto
+- Condiciones para eliminar un objeto
+- Condiciones que debe cumplir un objeto para ser creado como, por ejemplo, el caso de un establo que requiere de por lo menos un bovino asignado para existir.   
+
+[![es-step6-1.png](https://i.postimg.cc/ry0LSzk7/es-step6-1.png)](https://postimg.cc/rzkbTVz9)<br>
+
+[![es-step6-2.png](https://i.postimg.cc/kGtwDkLh/es-step6-2.png)](https://postimg.cc/FkN0Bnrj)<br>
+
+[![es-step6-3.png](https://i.postimg.cc/ydGv1VpZ/es-step6-3.png)](https://postimg.cc/0MppZqsk)<br>
+
+[![es-step6-4.png](https://i.postimg.cc/vm30K7WX/es-step6-4.png)](https://postimg.cc/VS09rCZb)<br>
+
+[![es-step6-5.png](https://i.postimg.cc/d0qWnNTL/es-step6-5.png)](https://postimg.cc/TK4q3906)<br>
+
+
+#### Step 7 & 8: Read Models & External Systems
+Estos dos pasos conforman la aparición de los read models y los external systems respectivamente. Por un lado, los read models son proyecciones que representan vistas personalizadas, dashboards, o reportes. Por otro lado, los external systems en DDD representan aquellos componentes o servicios externos con los que el sistema necesita interactuar, como pasarelas de pago, servicios de autenticación, sistemas de terceros, o integraciones con otras plataformas empresariales.
+
+[![es-step7-1.png](https://i.postimg.cc/C15cpZ70/es-step7-1.png)](https://postimg.cc/TL8Vr3BN)
+<br>En esta figura podemos apreciar los read models representando vistas de componentes como listas de bovinos.<br>
+
+[![es-step7-2.png](https://i.postimg.cc/Qdg4QZC2/es-step7-2.png)](https://postimg.cc/CR1s0tj7)
+<br>En esta figura podemos apreciar un external system coloreado de rojo, el cual representa un servicio externo de asistencia de consultas veterinarias que será integrado al negocio mediante un proveedor de inteligencia artificial que permita responder las consultas de manera eficiente.<br>
+
+[![es-step7-3.png](https://i.postimg.cc/wjY4Rjq5/es-step7-3.png)](https://postimg.cc/6yzfDwGT)
+<br>En esta figura también podemos apreciar otro external system coloreado de rojo, el cual representa un servicio para la gestión del clima que indicará el clima en tiempo real y
+será integrado al negocio.<br>
+
+#### Step 9 & 10: Aggregates & Bounded Contexts
+En los pasos 9 y 10 se introducen dos conceptos clave del Domain-Driven Design: Aggregates y Bounded Contexts. Los aggregates representan unidades de consistencia dentro del modelo de dominio, agrupando entidades y objetos de valor que deben mantenerse coherentes bajo una misma raíz (aggregate root). Por otro lado, los bounded contexts definen límites en los cuales un modelo tiene significado y coherencia, estableciendo una frontera clara para evitar ambigüedades conceptuales.
+
+Bounded Context: Ranch Management<br>
+[![es-stepfinal-bc-ranch-management-1.png](https://i.postimg.cc/yxJpcJ3j/es-stepfinal-bc-ranch-management-1.png)](https://postimg.cc/Wqv7P1nq)<br>
+[![es-stepfinal-bc-ranch-management-2.png](https://i.postimg.cc/NMjzGCgW/es-stepfinal-bc-ranch-management-2.png)](https://postimg.cc/nsNk0k9k)<br>
+
+Bounded Context: AssistVet Management<br>
+[![es-stepfinal-bc-assistvet-consulting-management.png](https://i.postimg.cc/T2S4GcB4/es-stepfinal-bc-assistvet-consulting-management.png)](https://postimg.cc/z3CjFTzC)<br>
+
+Bounded Context: Campaign Management<br>[![es-stepfinal-bc-campaign-management.png](https://i.postimg.cc/nzSwXKrM/es-stepfinal-bc-campaign-management.png)](https://postimg.cc/Q95qPTpr)<br>
+
+
+Bounded Context: Staff Administration<br>[![es-stepfinal-bc-staff-administration.png](https://i.postimg.cc/LsTWpFMt/es-stepfinal-bc-staff-administration.png)](https://postimg.cc/CZR7Gt55)<br>
 
 #### 4.1.1.2. Domain Message Flows Modeling
 
+En los siguientes gráficos, se representa el proceso seguido para visualizar cómo  deben colaborar los bounded contexts para resolver distintos escenarios que pueden presentarse en el negocio. https://miro.com/welcomeonboard/YlFjbmp4MVZyWklRQkowNWhEOWYyek9SNkdYQ2F6U2t3UDdnbHhRSkNVR1VlMUpKa0pRYTB5RGJ0ZjcyR0ZsUjVoMllXZExLMFFqNDM1aHFabUZHQTR2blhOaG04M0QzMVhhMXlnL3FsR21IUTNDSHQwOHRQREliZVIvMXZPV2RhWWluRVAxeXRuUUgwWDl3Mk1qRGVRPT0hdjE=?share_link_id=723977050478
+
+<br>[![scenario-ranch.png](https://i.postimg.cc/G2YrD0XT/scenario-ranch.png)](https://postimg.cc/629DsPJB)<br>
+Este es un escenario donde se requiere editar los datos de una vacuna que aún no ha sido asignada a un bovino. Para ello, primero se registra un bovino con sus atributos correspondientes. Este bovino puede ser designado a un establo y, de ser así, el establo creado queda disponible para una campaña. Además, se puede registrar y asignar una vacuna a un bovino determinado. Secuencialmente, las consultas son habilitadas para el AssistVet y los datos de la vacuna pueden ser editados si el usuario desea actualizar información determinada.<br> 
+
+<br>[![scenario-consulting.png](https://i.postimg.cc/90h2txk8/scenario-consulting.png)](https://postimg.cc/MMdgzYqV)<br>Este es un escenario donde se requiere realizar consultas al asistente veterinario que responderá utilizando inteligencia artificial.<br>
+
+<br>[![scenario-weather.png](https://i.postimg.cc/ZnxSf8tT/scenario-weather.png)](https://postimg.cc/Zvn2ny5g)<br>En esta figura se observa un escenario donde se requiere consultar el clima en tiempo real para evaluar si la campaña procederá o no.<br>
+
+<br>[![scenario-employ.png](https://i.postimg.cc/BZkwjhyH/scenario-employ.png)](https://postimg.cc/yWhT5T78)<br>Esta imagen expresa un escenario donde se requiere registrar y actualizar la lista de empleados que serán asignados a una campaña determinada.<br>
+
 #### 4.1.1.3. Bounded Context Canvases
+El Bounded Context Canvas es una herramienta visual del Domain-Driven Design (DDD) que permite definir, entender y comunicar de forma clara los límites, responsabilidades y elementos clave de un Bounded Context. Ayuda a alinear al equipo en torno a una visión compartida del dominio, identificando entidades, eventos, comandos y relaciones externas. Además, elaborar un diseño modular del sistema de manera coherente es posible gracias a las nomenclaturas establecidas por un Bounded Context Canvas. https://miro.com/app/board/uXjVID6SLCE=/?share_link_id=614179168415
+
+
+**Bounded Context: Ranch Management**<br>
+[![Canvas-BC1.png](https://i.postimg.cc/50fhGcsz/Canvas-BC1.png)](https://postimg.cc/3ybf4q5r)<br>
+
+**Description**
+<br>​En este bounded context se gestionan los registros de bovinos y vacunas.  
+
+**Strategic Clasification**
+<br>Su clasificación estratégica se divide en:
+
+- **Core:** Este bounded context es Core porque gestiona procesos fundamentales del negocio ganadero: el registro de bovinos y el control de vacunaciones.
+
+- **Compliance Enforcer:** Este bounded context es Compliance Enforcer porque es vital para la existencia del negocio. Esto se debe a que, sin un registro controlado del ganado, el negocio no podría operar de manera efectiva y cumplir con los objetivos esperados. Además, documentar correctamente las vacunaciones permite enfrentar inspecciones, auditorías o exportaciones sin riesgos legales ni pérdidas económicas.
+
+- **Custom Built:** En este contexto, la clasificación de la evolución es Custom Built porque cada empresa puede desarrollar su propia versión de este sistema para adaptarlo a sus necesidades particulares, ya sea por diferencias en procesos, normativas locales o integración con otros sistemas internos.
+
+**Domain Role**
+<br>Esta área es responsable de ejecutar los procesos operativos clave relacionados con el registro de bovinos y el control de vacunaciones, permitiendo trazabilidad básica del estado vacunal de cada animal. Por lo cual, el tipo de rol asumido es execution context.
+
+**Inbound Communication**
+<br>Los Ranchers pueden crear, editar o eliminar registros de bovinos y vacunas.
+
+**Outbound Communication**
+<br>Los bovinos registrados y asignados en un establo podrán ser seleccionados para una campaña. Además, tras haber completado el registro de bovinos y vacunas, se habilitará la opción de realizar consultas que serán enviadas y resueltas en AssistVet Management.
+
+
+<br>**Bounded Context: AssistVet Management**<br>
+[![Canvas-BC2.png](https://i.postimg.cc/8CgQRfWt/Canvas-BC2.png)](https://postimg.cc/hXs5gj2d)<br>
+
+**Description**
+<br>El propósito de este bounded context es realizar diagnósticos y responder consultas sobre los bovinos y las vacunas mediante el uso de inteligencia artificial especializada. 
+
+**Strategic Clasification**
+<br>Su clasificación estratégica se divide en:
+
+- **Supporting:** No logra ser parte del core business; sin embargo, es un área fundamental necesaria para que las funciones core cumplan su propósito. Por lo tanto, es Supporting.
+
+- **Compliance enforcer:** Este bounded context es Compliance enforcer porque incorpora diagnósticos y respuestas que aseguran recomendaciones vitales para respetar regulaciones sanitarias oficiales, como los calendarios de vacunación y alertas sobre enfermedades reportables.
+
+- **Product:** La inteligencia artificial está disponible para todo el mundo con variedad de versiones. Por ello, en este contexto, la clasificación de la evolución es de tipo Product al poder alcanzar el nivel de un producto en el mercado que esté listo para usar con diferentes versiones.
+
+**Domain Role**
+<br>Este contexto asume el rol de un Analysis Context, ya que su responsabilidad principal es analizar grandes cantidades de información para generar conocimientos útiles (insights). Utiliza técnicas de inteligencia artificial y lógica de negocio para emitir diagnósticos, sugerencias y respuestas automáticas, apoyando la toma de decisiones basada en datos dentro del sistema veterinario.
+
+**Inbound Communication**
+<br>Un Rancher solicita asesoría veterinaria y realiza una consulta al asisten veterinario. El asistente veterinario responde utilizando inteligencia artificial integrada al negocio, lo cual lo convierte en un sistema externo.  
+
+**Outbound Communication**
+<br>Los Ranchers reciben sus respuestas y pueden resolver consultas sobre bovinos o vacunas. Con dicha información, recibe sugerencias para tomar acción en la gestión del ganado y actualizar información importante de ser necesario.
+
+
+<br>**Bounded Context: Campaign Management**<br>
+[![Canvas-BC3.png](https://i.postimg.cc/3xvQ0Fyk/Canvas-BC3.png)](https://postimg.cc/PCTRBZQH)<br>
+
+**Description**
+<br>Campaign Management consiste en gestionar y coordinar campañas ganaderas, como vacunaciones, control sanitario, evaluaciones reproductivas o nutricionales, a lo largo de períodos definidos. Administra datos como el objetivo de la campaña, duración, fechas, trabajadores asignados y establos involucrados.
+  
+**Strategic Clasification**
+<br>Su clasificación estratégica se divide en:
+
+- **Core:** Este bounded context es Core porque forma parte esencial del negocio ganadero. La ejecución eficiente de campañas incide directamente en la productividad, salud animal y cumplimiento de los objetivos estratégicos del rancho.
+
+- **Compliance Enforcer:** Este contexto se alinea principalmente con un Compliance Enforcer. Esto es debido a que al estructurar y documentar las actividades ganaderas dentro de campañas bien definidas, se asegura el cumplimiento de normativas sanitarias y legales concretas, protegiendo la reputación y la existencia del negocio.
+
+- **Custom Built:** En este contexto, la clasificación de evolución es Custom Built porque las empresas desarrollan sus propias versiones de gestión de campañas adaptadas a sus necesidades específicas, métodos operativos y reglamentaciones locales.
+
+**Domain Role**
+<br>Este contexto actúa como un Execution Context, ya que su función principal es planificar, coordinar y ejecutar actividades operativas clave dentro de plazos definidos. Esto incluye campañas de vacunación, desparasitación, inseminación artificial, entre otras.
+
+**Inbound Communication**
+<br>El Livestock Rancher puede crear campañas, actualizar su información y cancelarlas de ser necesario. Además, contará con un servicio externo de gestión del clima.
+
+**Outbound Communication**
+<br>Ranch Management recibe eventos al momento de ingresar una campaña, permitiendo seleccionar un establo (grupo de bovinos) disponible. Además, el Livestock Rancher recibirá una confirmación para iniciar la campaña.
+
+<br>**Bounded Context: Staff Administration**<br>
+[![Canvas-BC4.png](https://i.postimg.cc/xdGrtj3Y/Canvas-BC4.png)](https://postimg.cc/Lqs0spW0)<br>
+
+**Description**
+<br>Este bounded context se encarga de administrar la información relacionada con el personal del rancho, incluyendo su registro, asignación a campañas, horarios y disponibilidad. Su propósito es asegurar una gestión organizada del equipo de trabajadores necesario para las campañas ganaderas. 
+
+**Strategic Clasification**
+<br>Su clasificación estratégica se divide en:
+
+- **Supporting:** Este bounded context es Supporting porque no forma parte del core business de la ganadería, pero es esencial para que las actividades operativas puedan ejecutarse correctamente con personal disponible y capacitado.
+
+- **Engagement:** Este bounded context es Engagement porque mejora la experiencia y organización del usuario dentro del sistema, permitiendo una mejor coordinación del personal. Es útil y valorado por los usuarios, pero no representa una fuente directa de ingresos, ya que no se paga por él: los usuarios lo aprecian, pero no pagan por ello.
+
+- **Commodity:** En este contexto, la clasificación de evolución es Commodity porque la gestión del personal es una necesidad común en muchas industrias, por lo que puede ser estandarizada o delegada a herramientas de software comunes.
+
+**Domain Role**
+<br>Este contexto cumple el rol de Execution Context, ya que ejecuta procesos operativos clave como la asignación de personal y el control de la disponibilidad del mismo. Con llo se permite coordinar al equipo humano en función de las necesidades operativas del rancho y de las campañas.
+
+**Inbound Communication**
+<br>El Livestock Rancher puede registrar personal, buscarlos mediante filtros, actualizar su información o eliminar un trabajador del sistema.
+
+**Outbound Communication**
+<br>Los trabajadores en su registro son asignados a una campaña que deberán acudir si tienen disponibilidad.<br>
+
+
 ### 4.1.2. Context Mapping
+
+A continuación se presentan las relaciones estructurales entre bounded contextos.
+
+#### Context Map Patterns
+
+![alt text](./assets/context-map-pattern-customer-supplier.png)
+
+![alt text](./assets/context-map-pattern-parternship.png)
+
+![alt text](./assets/context-map-pattern-open-host-service.png)
+
+
 ### 4.1.3. Software Architecture
 En esta sección, se presentan los diagramas C4 que describen la arquitectura del sistema VacApp, una solución integral para la gestión del ganado. Estos diagramas proporcionan una representación clara de cómo se organiza el sistema, cómo interactúan sus componentes y cómo se implementan en el entorno de ejecución.
 #### 4.1.3.1. Software Architecture Context Level Diagrams
@@ -540,9 +789,10 @@ El Diagrama de Contexto muestra la interacción de VacApp con los actores extern
 ![context](./assets/DiagramContainers.png)
 
 #### 4.1.3.2. Software Architecture Container Level Diagrams
+
 El Diagrama de Contenedores proporciona un nivel de detalle más profundo, mostrando los contenedores principales dentro de VacApp. Estos incluyen la aplicación web, la aplicación móvil, la API y la base de datos. Este diagrama ilustra cómo los diferentes componentes interactúan entre sí, permitiendo que los usuarios gestionen sus ganados, vacunas, salud y alimentación de manera eficiente. También muestra cómo la aplicación se comunica con sistemas externos, como el servicio de pronóstico del tiempo y las bases de datos de razas.
 
-![containers](./assets/DiagramSystemContext.png)
+![containers](./assets/Structurizr-VacAPP-Containers.png)
 
 #### 4.1.3.3. Software Architecture Deployment Diagrams
 
@@ -609,6 +859,7 @@ Este bounded context se encarga de modelar el ciclo de vida completo de una camp
 
 ### 4.2.1.5. Bounded Context Software Architecture Component Level Diagrams
 
+![Campaign Management Containers](./assets/Campaign-Management-Components.png)
 
 
 ### 4.2.1.6. Bounded Context Software Architecture Code Level Diagrams
@@ -668,6 +919,9 @@ Este bounded context se encarga de modelar el ciclo de vida completo de una camp
 | VaccineMessageConsumer        | Consumer               | Escucha eventos de campaña o vacunas que afectan a los bovinos          | `onMessage(event: CampaignAppliedEvent)`                                  |
 
 ### 4.2.2.5. Bounded Context Software Architecture Component Level Diagrams
+
+![Ranch Management Containers](./assets/Ranch-Management-Components.png)
+
 ### 4.2.2.6. Bounded Context Software Architecture Code Level Diagrams
 ### 4.2.2.6.1. Bounded Context Domain Layer Class Diagrams
 ### 2.6.2.6.2. Bounded Context Database Design Diagram
