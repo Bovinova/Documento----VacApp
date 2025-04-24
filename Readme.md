@@ -31,6 +31,9 @@
 
 | Entregables | Fecha       | Autor                             | Descripción de modificación                                                                                      |  
 |-------------|-------------|-----------------------------------|------------------------------------------------------------------------------------------------------------------|
+| TB1         | 7/4/2025    | Gianfranco Durand   | Lean UX Process.                                                             |  
+| TB1         | 23/4/2025    | Gianfranco Durand   | Bounded Context Staff Administration: Domain Layer, Interface Layer, Component Level Diagrams|  
+| TB1         | 21/4/2025    | Gianfranco Durand   | Entrevista para el segmento 2.                                                |  
 | TB1         | 10/04/2025  | Estrella del Pilar Ticona Panduro  | Diseño de entrevistas                              |
 | TB1         | 23/04/2025  | Estrella del Pilar Ticona Panduro  | Registro de entrevistas                            |
 | TB1         | 09/04/2025  | Estrella del Pilar Ticona Panduro  | To-Be Scenario Mapping                             |
@@ -41,6 +44,7 @@
 | TB1         | 21/04/2025  | Estrella del Pilar Ticona Panduro  | Infrastructure Layer                                |
 | TB1         | 21/04/2025  | Estrella del Pilar Ticona Panduro  | Bounded Context Domain Layer Class Diagrams         |
 | TB1         | 21/04/2025  | Estrella del Pilar Ticona Panduro  | Bounded Context Database Design Diagram             |
+
 
 **Project Report Collaboration Insights**
 
@@ -116,28 +120,19 @@ Criterio: La capacidad de adquirir y aplicar nuevos conocimientos según sea
 necesario, utilizando estrategias de aprendizaje apropiadas.
 
 
-<table><tr><th valign="top"><b>Criterio específico</b></th><th valign="top"><b>Acciones realizadas</b></th><th valign="top"><p><b>Conclusiones</b></p><p></p></th></tr>
-<tr><td rowspan="6"><p>Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software</p><p></p></td><td valign="top">1. Gómez Vallejos, Sergio André </td><td valign="top"></td></tr>
-<tr><td valign="top">2. Rojas Velasquez, Maycol Jhordan</td><td valign="top"></td></tr>
-<tr><td valign="top">3. Aranda Vallejos, Oscar Gabriel</td><td valign="top"></td></tr>
-<tr><td valign="top"><p>4. Ticona Panduro, Estrella del Pilar: Actualicé conceptos clave al diseñar entrevistas y realizar una con productores ganaderos, aplicando técnicas de investigación de usuario. A través del To Be Scenario Mapping, User Stories, Impact Mapping y Product Backlog, reforcé conocimientos en metodologías ágiles y diseño centrado en el usuario. Además, al desarrollar el Bounded Context, las capas de arquitectura (Application, Infrastructure, Domain), diagramas de clases y diseño de base de datos, fortalecí mi dominio en modelado de software y arquitectura orientada al dominio.n el desarrollo del proyecto de soluciones de software, llevé a cabo una serie de actividades clave que reflejan el compromiso con la actualización de conocimientos y el aprendizaje continuo. Estas acciones incluyeron: Diseño de entrevistas, una entrevista del segmento 1 (Productores Ganadores independientes), To be Scenario Mapping, User Stories, Impact Mapping, Product Backlog, Bounded Context: Staff administration, Application Layer, Infrastructure Layer, Bounded Context Domain Layer Class Diagrams y Bounded Context Database Design Diagram</p><p></p></td><td valign="top">Las actividades desarrolladas me permitieron actualizar conocimientos esenciales para mi crecimiento profesional, especialmente en metodologías ágiles, diseño centrado en el usuario y arquitectura de software. Esto refuerza mi capacidad para abordar proyectos tecnológicos con una base técnica actualizada y alineada a las mejores prácticas del sector.</td></tr>
-<tr><td valign="top">5. Durand Vera, Gianfranco Angel </td><td valign="top"></td></tr>
-<tr><td valign="top">6. Miranda Sinarahua, Piero Stephano</td><td valign="top"></td></tr>
-<tr><td rowspan="6"><p>Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software</p><p></p></td><td valign="top">1. Gómez Vallejos, Sergio André </td><td valign="top"></td></tr>
-<tr><td valign="top">2. Rojas Velasquez, Maycol Jhordan</td><td valign="top"></td></tr>
-<tr><td valign="top">3. Aranda Vallejos, Oscar Gabriel</td><td valign="top"></td></tr>
-<tr><td valign="top"><p>4. Ticona Panduro, Estrella del Pilar:  Reconocí la necesidad del aprendizaje permanente al enfrentar retos que exigieron investigar nuevas herramientas y enfoques, como la validación de usuarios, metodologías ágiles y principios de diseño de software moderno. La evolución constante del proyecto me impulsó a seguir aprendiendo para tomar mejores decisiones técnicas y aportar soluciones más efectivas y alineadas con las necesidades del usuario</p><p></p></td><td valign="top">A lo largo del proyecto confirmé que el aprendizaje permanente es fundamental en el desarrollo de software, ya que cada etapa presentó nuevos desafíos que me motivaron a investigar, adaptarme y mejorar. Este proceso me permitió evolucionar como profesional comprometido con la mejora continua y con la entrega de soluciones efectivas</td></tr>
-<tr><td valign="top">5. Durand Vera, Gianfranco Angel </td><td valign="top"></td></tr>
-<tr><td valign="top">6. Miranda Sinarahua, Piero Stephano</td><td valign="top"></td></tr>
-</table>
 
 
+| **Criterio específico** | **Acciones realizadas** | **Conclusiones** |  
+|-------------------------|------------------------|------------------|  
+| Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software | 1. Gómez Vallejos, Sergio André ------ <br><br> 2. Rojas Velasquez, Maycol Jhordan ------ <br><br> 3. Aranda Vallejos, Oscar Gabriel ------ <br><br>4. Ticona Panduro, Estrella del Pilar: TB1 Actualicé conceptos clave al diseñar entrevistas y realizar una con productores ganaderos, aplicando técnicas de investigación de usuario. A través del To Be Scenario Mapping, User Stories, Impact Mapping y Product Backlog, reforcé conocimientos en metodologías ágiles y diseño centrado en el usuario. Además, al desarrollar el Bounded Context, las capas de arquitectura (Application, Infrastructure, Domain), diagramas de clases y diseño de base de datos, fortalecí mi dominio en modelado de software y arquitectura orientada al dominio.n el desarrollo del proyecto de soluciones de software, llevé a cabo una serie de actividades clave que reflejan el compromiso con la actualización de conocimientos y el aprendizaje continuo. Estas acciones incluyeron: Diseño de entrevistas, una entrevista del segmento 1 (Productores Ganadores independientes), To be Scenario Mapping, User Stories, Impact Mapping, Product Backlog, Bounded Context: Staff administration, Application Layer, Infrastructure Layer, Bounded Context Domain Layer Class Diagrams y Bounded Context Database Design Diagram.Las actividades desarrolladas me permitieron actualizar conocimientos esenciales para mi crecimiento profesional, especialmente en metodologías ágiles, diseño centrado en el usuario y arquitectura de software. Esto refuerza mi capacidad para abordar proyectos tecnológicos con una base técnica actualizada y alineada a las mejores prácticas del sector.<br><br>5. Durand Vera, Gianfranco Angel: <br>TB1 <br> Realice las capas de Domain e Interface, además de el Component Level Diagrams, para el Bounded Context Staff Administration, asi como entrevistas hacia el segundo segmento <br><br> 6. Miranda Sinarahua, Piero Stephano ------ <br><br> |------- |  
+| Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software |  1. Gómez Vallejos, Sergio André ------ <br><br> 2. Rojas Velasquez, Maycol Jhordan ------ <br><br> 3. Aranda Vallejos, Oscar Gabriel ------ <br><br>4. Ticona Panduro, Estrella del Pilar:  Reconocí la necesidad del aprendizaje permanente al enfrentar retos que exigieron investigar nuevas herramientas y enfoques, como la validación de usuarios, metodologías ágiles y principios de diseño de software moderno. La evolución constante del proyecto me impulsó a seguir aprendiendo para tomar mejores decisiones técnicas y aportar soluciones más efectivas y alineadas con las necesidades del usuario. A lo largo del proyecto confirmé que el aprendizaje permanente es fundamental en el desarrollo de software, ya que cada etapa presentó nuevos desafíos que me motivaron a investigar, adaptarme y mejorar. Este proceso me permitió evolucionar como profesional comprometido con la mejora continua y con la entrega de soluciones efectivas.<br><br> 5. Durand Vera, Gianfranco Angel: <br>TB1 <br> Durante esta entrega, comprendí la importancia del aprendizaje permanente en mi desarrollo profesional y en la creación de soluciones de software efectivas. Al desarrollar declaraciones de problemas y suposiciones bajo Lean UX, reforcé mi compromiso con la actualización constante de conocimientos para garantizar que cada proyecto se ejecute con la máxima eficiencia y calidad.<br><br> 6. Miranda Sinarahua, Piero Stephano ------ <br><br> | ---- |. 
 
 # OBJETIVOS SMART
 
 | Estudiante                             | Objetivo SMART                                                                                                                                                                                                                          |
 |----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Maycol Jhordan Rojas Velasquez         | Mi objetivo es poder alcanzar un desempeño profesional en análisis forense y en el diseño de nuevas aplicaciones móviles, que ayuden en la sociedad, siguiendo todo lo aprendido y gestionando correctamente las buenas prácticas.     |
+| Gianfranco Durand Vera                 | Mi objetivo es profundizar en el uso de la arquitectura clean en el desarrollo de aplicaciones móviles con el fin de construir aplicaciones robustas y escalables que mejoren la experiencia de usuario y la eficiencia de los productos digitales. |
 | Estrella del Pilar Ticona Panduro      | Al finalizar este curso, quiero haber fortalecido mis habilidades técnicas y profesionales en el área del desarrollo y diseño de aplicaciones móviles, logrando aplicar los conocimientos adquiridos en al menos un proyecto funcional, con el fin de especializarme en esta rama y mejorar mi perfil profesional en los próximos 6 meses. |
 
 
@@ -178,17 +173,78 @@ Nos esforzamos por ofrecer una plataforma integral que empodere a los ganaderos 
 | ![Oscar]() |Aranda Vallejos, Oscar Gabriel - U202218167 <br> |
 |<img src="https://hackmd.io/_uploads/B1F_iuso0.jpg" alt="yo-3" style="width: 600px ; height: 200px;">|Maycol Jhordan Rojas Velasquez – Ingeniería de Software – u202219984<br>Elegí la carrera de Ingeniería de Software debido a mi gusto por la innovación y la implementación de la tecnología en cualquier rubro  social, de una manera creativa y en todos los aspectos. Me considero una persona creativa, en busca de ideas, estrategias con mente nueva. También me gusta escuchar ideas de mi equipo, dar ideas de mejora, evaluar las ventajas y desventajas . Además, tengo conocimientos de programación en C + +, HTML, Python,Angular,Backend en Java. Además, Tengo un enfoque responsable y dedicado mediante un aprendizaje rápido así puedo ayudar a mis compañeros en sus dudas. Por otro lado, mis hobbies son ver series, jugar , escuchar música, nadar y  manejar.|
 | <img src="./assets/estrella.jpeg">|Ticona Panduro, Estrella del Pilar - U202210659  <br> actualmente estudio la carrera de Ingeniería de Software en UPC. Opté por estudiar esta carrera porque me interesa programar y crear diferentes aplicativos o programas y emplearlo en la salud. En mis tiempos libres me gusta ver series o películas. Mi compromiso es aportar ideas innovadoras a lo largo del curso, en especial en las tareas en equipo. Mis habilidades son tener una actitud positiva, entusiasta y responsable. | 
-| ![Gianfranco]() | Durand Vera, Gianfranco Angel - U20201f640 <br>|
+| <img src="assets/franco.jpg" style="width: 600px ; height: 200px;" > | Durand Vera, Gianfranco Angel - U20201f640 <br> Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, actualmente me encuentro en el septimo ciclo, escogí esta carrera porque me gusta mucho la programación. Tengo experiencia en lenguajes de programación como C#, Python, Kotlin y TypeScript.|
 |![Piero]()| Miranda Sinarahua, Piero Stephano - U20181g752 <br> | 
 
 
 ## 1.2. Solution Profile
 ## 1.2.1 Antecedentes y problemática
-### 1.2.2 Lean UX Process.
+
+### 1.2.2. Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
+
+En un entorno donde los pequeños y medianos productores pecuarios dependían de métodos manuales y poco eficientes para gestionar la información de su ganado, nuestra aplicación móvil **VacApp** se destacó al ofrecer una solución moderna, accesible y optimizada para el trabajo en campo.
+Esta propuesta atrajo inicialmente a ganaderos que buscaban digitalizar sus operaciones y mejorar su productividad.
+Sin embargo, con el tiempo, el mercado ha comenzado a saturarse debido al ingreso de nuevos competidores con soluciones móviles similares y mayor presupuesto.
+Esto ha generado un aumento en los costos de adquisición de nuevos usuarios, un estancamiento en nuestra participación de mercado y mayores exigencias en soporte, lo cual afecta nuestra rentabilidad y limita la inversión en nuevas funcionalidades.
+
 #### 1.2.2.2. Lean UX Assumptions
+
+**User Assumptions**
+
+1. Los ganaderos, sin importar su nivel tecnológico, valorarán una app móvil fácil de usar, con interfaz intuitiva y accesible desde diferentes dispositivos.
+
+2. Los usuarios están dispuestos a adoptar tecnología si les permite ahorrar tiempo y mejorar la gestión de su ganado.
+
+3. Los usuarios usarán la aplicación incluso en áreas de baja conectividad si funciona correctamente offline.
+
+4. Los usuarios confiarán en la app si ven beneficios concretos en su productividad y en la salud del ganado.
+
+5. Los ganaderos prefieren soluciones prácticas y rápidas, por lo tanto, las funciones más utilizadas deben estar siempre accesibles con pocos pasos.
+
+**Business Assumptions**
+
+1. Si digitalizamos los registros del ganado, los usuarios podrán mejorar la organización y el control de su inventario animal.
+
+2. Si ofrecemos recordatorios automáticos y herramientas para gestionar la salud del ganado, los ganaderos reducirán los costos por enfermedades y mejorarán el bienestar animal.
+
+3. Si proporcionamos herramientas para planificar la alimentación, los productores optimizarán el uso de recursos y reducirán desperdicios.
+
+4. Si permitimos un seguimiento eficiente de la fertilidad y reproducción, los ganaderos incrementarán la productividad de sus animales.
+
+5. Si ofrecemos una experiencia fluida y confiable en dispositivos móviles incluso sin conexión, mejoraremos la adopción en zonas rurales con conectividad limitada.
+
+6. Si garantizamos privacidad y seguridad de los datos, los usuarios confiarán más en la plataforma y estarán dispuestos a almacenar información crítica en ella.
+
 #### 1.2.2.3. Lean UX Hypothesis Statements
+
+1. **Creemos que** los ganaderos valorarán una app fácil de usar con interfaz intuitiva,
+**porque** podrán gestionar su ganado sin necesidad de capacitación extensa.
+**Lo sabremos** cuando al menos el 70% complete el registro de animales en su primer uso sin asistencia.
+
+2. **Creemos que** los usuarios adoptarán la aplicación si les permite ahorrar tiempo en tareas diarias,
+**porque** desean enfocarse en actividades productivas más que en tareas administrativas.
+**Lo sabremos** cuando se reduzca en un 40% el tiempo promedio que reportan en registros manuales.
+
+3. **Creemos que** los ganaderos en zonas rurales usarán la app si funciona offline,
+**porque** tienen conectividad limitada en sus áreas de trabajo.
+**Lo sabremos** cuando el 60% de los usuarios active la app en modo sin conexión al menos una vez por semana.
+
+4. **Creemos que** los usuarios confiarán en la plataforma si garantizamos la privacidad de sus datos,
+**porque** manejan información sensible sobre su producción y operaciones.
+**Lo sabremos** cuando menos del 5% exprese preocupaciones sobre seguridad en encuestas de retroalimentación.
+
+5. **Creemos que** si destacamos funciones clave como salud animal, alimentación y reproducción,
+**los usuarios las usarán frecuentemente** para gestionar su ganado.
+**Lo sabremos** cuando estas funciones representen al menos el 70% del uso total dentro de la app.
+
+6. **Creemos que** los usuarios percibirán beneficios concretos en productividad y salud del ganado,
+**porque** tendrán herramientas para tomar decisiones informadas.
+**Lo sabremos** cuando el 60% reporte mejoras en rendimiento animal tras tres meses de uso.
+
 #### 1.2.2.4. Lean UX Canvas
+
+<img src="assets/canvas.png">
 
 ## 1.3. Segmentos objetivo
 
@@ -296,6 +352,7 @@ VacApp se orienta a mejorar la eficiencia y sostenibilidad en empresas ganaderas
 
 ### 2.2.2. Registro de entrevistas
 
+
 ## Segmento 1: Productores Ganadores independientes:
 
 *Entrevistado:* Luis Raimundo <br>
@@ -326,6 +383,25 @@ Luis considera valiosa una aplicación especializada para la gestión ganadera q
 *Resumen de la Entrevista*:
 Edgar Parry, ganadero con operaciones a gran escala que maneja aproximadamente 3,000 cabezas de ganado,tiene  experiencia directa, forma parte de una empresa consolidada en el sector. Edgar enfatiza la importancia de monitorear con precisión el rendimiento de cada vaca productora, especialmente en términos de producción láctea, para detectar irregularidades y tomar decisiones correctivas oportunas. Además, señala desafíos estructurales del mercado nacional, como la concentración de compra en una empresa dominante (Gloria), lo que limita las opciones de venta para los productores.
 Para Edgar, los indicadores productivos, reproductivos, de engorde y particularmente los sanitarios son cruciales para la toma de decisiones y la rentabilidad del negocio, aunque actualmente muchos registros se manejan en formatos físicos poco estructurados. Considera esencial que una plataforma digital como VacApp ofrezca seguimiento individualizado de cada animal (ciclo reproductivo, producción láctea y estado sanitario), integración de la gestión de alimentos y distribución del producto final, y alta personalización adaptada a sus procesos específicos. La nutrición representa un punto crítico, por lo que valora herramientas que permitan gestionar proveedores de alimentos y monitorear el consumo por lote o animal. En síntesis, ve en la tecnología especializada una oportunidad para transformar la ganadería tradicional y adaptarla a la realidad del productor peruano.
+
+*Entrevistada:* Camila Sanchez<br>
+*Sexo:*  Femenino<br>
+*Edad:* 23<br>
+*Inicio de la Entrevista:* <br>
+*Duración de la Entrevista:* <br>
+
+<img src="./assets/entrevista-cami.png" style="width: 600px; height: auto;">
+
+*Resumen de la Entrevista*:
+
+Camila Sánchez, de 23 años, cuenta con cinco años de experiencia como trabajadora en el sector ganadero. Actualmente participa en la gestión de una empresa con más de 2000 cabezas de ganado, número que puede variar según nacimientos o ventas estacionales. La gestión actual se basa mayormente en registros manuales y hojas de Excel, lo cual genera errores y retrasos.
+
+Camila considera fundamental contar con una plataforma digital que centralice la información, mejore la coordinación del personal y permita una mejor toma de decisiones. Entre los retos más importantes que enfrentan están la gestión de recursos, el bienestar animal y la rentabilidad del negocio.
+
+En cuanto a funcionalidades deseadas, menciona la planificación de tareas, seguimiento del desempeño del personal, generación de reportes, comunicación interna y gestión de incidentes. También valora informes sobre producción, análisis de costos, salud animal y herramientas para identificar áreas de mejora.
+
+Para la interacción con proveedores, ve útil una plataforma que facilite la comunicación, el seguimiento de pedidos, la gestión de inventarios y la negociación. Finalmente, destaca la importancia de que la plataforma se adapte a sus procesos y sea personalizable en aspectos como roles, alertas, datos del ganado e informes, con el fin de mejorar la eficiencia y reducir errores, siempre priorizando el bienestar animal y la rentabilidad.
+
 
 ### 2.2.3. Análisis de entrevistas
 
@@ -454,7 +530,25 @@ A continuación presentaremos 3 Business Goals que consideramos importantes en n
 ## 4.2. Tactical-Level Domain-Driven Design
 ### 4.2.3. Bounded Context: Staff Administration
 #### 4.2.3.1. Domain Layer
+
+| **Clase**             | **Tipo**        | **Propósito**                                                                                 |
+|-----------------------|-----------------|-----------------------------------------------------------------------------------------------|
+| StaffMember           | Entity          | Representa al empleado ganadero con atributos como id, nombre, rol, estado, campaña asignada. |
+| EmployeeStatus        | Value Object    | Define el estado del empleado: activo, eliminado, pendiente.                                  |
+| IStaffRepository      | Interface       | Expone métodos para registrar, editar, eliminar y listar empleados.                           |
+| StaffDomainService    | Domain Service	| Aplica reglas como validación de estado antes de eliminar o actualizar.                       |
+
 #### 4.2.3.2. Interface Layer
+
+| **Clase**              | **Tipo**     | **Propósito**                                                                 |
+|------------------------|--------------|-------------------------------------------------------------------------------|
+| AddStaffViewModel      | ViewModel    | Coordina el registro del empleado y maneja eventos desde el formulario.      |
+| SearchStaffViewModel   | ViewModel    | Gestiona los criterios de búsqueda y presenta los resultados.                |
+| EditStaffViewModel     | ViewModel    | Muestra datos actuales del empleado y permite su modificación.               |
+| DeleteStaffViewModel   | ViewModel    | Lógica para confirmar y ejecutar la eliminación de un empleado.             |
+| StaffListPage          | Screen       | Muestra lista de empleados filtrables por nombre y estado.                   |
+| StaffRegistrationPage  | Screen       | Formulario de registro de un nuevo miembro del staff.                        |
+| StaffController        | Controller   | Coordina la lógica de negocio relacionada al staff y comunica con los ViewModels. |
 #### 4.2.3.3. Application Layer
 
 |**Clase**               |**Tipo** |**Propósito**                                                            |
@@ -472,6 +566,9 @@ A continuación presentaremos 3 Business Goals que consideramos importantes en n
 ---
 
 #### 4.2.3.5. Bounded Context Software Architecture Component Level Diagrams
+
+<img src="./assets/staff-administration-bc.png" />
+
 #### 4.2.3.6. Bounded Context Software Architecture Code Level Diagrams
 
 ##### 4.2.3.6.1. Bounded Context Domain Layer Class Diagrams
