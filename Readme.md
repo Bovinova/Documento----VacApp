@@ -30,6 +30,12 @@
 </p>
 
 | Entregables | Fecha       | Autor                             | Descripción de modificación                                                                                      |  
+|-------------|-------------|-----------------------------------|------------------------------------------------------------------------------------------------------------------|  
+| TB1         | 23/08/2024  | Sergio André Gómez Vallejos       | Implementación de contenido en el Student Outcome   | 
+| TB1         | 23/08/2024  | Sergio André Gómez Vallejos       | Solution Profile y Antecendetes y problemática  | 
+| TB1         | 23/08/2024  | Sergio André Gómez Vallejos       |  Competidores y Desarrollo del perfil de integrante  | 
+| TB1         | 23/08/2024  | Sergio André Gómez Vallejos       |  Analisis Competitivo  |  
+| TB1         | 24/08/2024  | Sergio André Gómez Vallejos       | Registro de 1 entrevista del segmento objetivo Productores Ganadores independientes |  
 |-------------|-------------|----------------------------------|------------------------------------------------------------------------------------------------------------------|  
 | TB1         | 6/4/2025    | Maycol Jhordan Rojas Velásquez   | Implementación de la estructuración del informe.                                                                 |  
 | TB1         | 7/4/2025    | Maycol Jhordan Rojas Velásquez   | Se agregó la descripción y los segmentos objetivos de la Startup.                                                |  
@@ -133,8 +139,9 @@ necesario, utilizando estrategias de aprendizaje apropiadas.
 
 | **Criterio específico** | **Acciones realizadas** | **Conclusiones** |  
 |-------------------------|------------------------|------------------|  
-| Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software | 1. Gómez Vallejos, Sergio André ------ <br><br> 2. Rojas Velasquez, Maycol Jhordan: Aplicó los conocimientos necesarios para el proyecto, desarrollando los diagramas C4 y definiendo el segmento objetivo.<br><br> 3. Aranda Vallejos, Oscar Gabriel <br> TB1 <br> Participé en el proceso del eventstorming, actualizando los conceptos y técnicas aprendidas del Domain Driven Design.<br><br>4. Ticona Panduro, Estrella del Pilar: TB1 Actualicé conceptos clave al diseñar entrevistas y realizar una con productores ganaderos, aplicando técnicas de investigación de usuario. A través del To Be Scenario Mapping, User Stories, Impact Mapping y Product Backlog, reforcé conocimientos en metodologías ágiles y diseño centrado en el usuario. Además, al desarrollar el Bounded Context, las capas de arquitectura (Application, Infrastructure, Domain), diagramas de clases y diseño de base de datos, fortalecí mi dominio en modelado de software y arquitectura orientada al dominio.n el desarrollo del proyecto de soluciones de software, llevé a cabo una serie de actividades clave que reflejan el compromiso con la actualización de conocimientos y el aprendizaje continuo. Estas acciones incluyeron: Diseño de entrevistas, una entrevista del segmento 1 (Productores Ganadores independientes), To be Scenario Mapping, User Stories, Impact Mapping, Product Backlog, Bounded Context: Staff administration, Application Layer, Infrastructure Layer, Bounded Context Domain Layer Class Diagrams y Bounded Context Database Design Diagram.Las actividades desarrolladas me permitieron actualizar conocimientos esenciales para mi crecimiento profesional, especialmente en metodologías ágiles, diseño centrado en el usuario y arquitectura de software. Esto refuerza mi capacidad para abordar proyectos tecnológicos con una base técnica actualizada y alineada a las mejores prácticas del sector.<br><br>5. Durand Vera, Gianfranco Angel: <br>TB1 <br> Realice las capas de Domain e Interface, además de el Component Level Diagrams, para el Bounded Context Staff Administration, asi como entrevistas hacia el segundo segmento <br><br> 6. Miranda Sinarahua, Piero Stephano: Estuve encargado de realizar secciones dentro del Needfinding, entre estos estan el desarrollo de los user persona, task matrix, journey mapping, empathy mapping y as is scenario mapping. Al igual que reuní informacion clave dentro de una entrevista realizada, lo cual sirvió para obtener datos que serían útil durante el proceso de desarrollo. <br><br> |------- |  
-| Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software |  1. Gómez Vallejos, Sergio André ------ <br><br> 2. Rojas Velasquez, Maycol Jhordan: Desarrollé los temas alcanzados en los ciclos anteriores, lo que me permitió adquirir conocimientos sólidos sobre el tema y realizarlos correctamente.<br><br> 3. Aranda Vallejos, Oscar Gabriel <br> TB1 <br> Participé en el proceso del eventstorming, actualizando los conceptos y técnicas aprendidas del Domain Driven Design.<br><br>4. Ticona Panduro, Estrella del Pilar:  Reconocí la necesidad del aprendizaje permanente al enfrentar retos que exigieron investigar nuevas herramientas y enfoques, como la validación de usuarios, metodologías ágiles y principios de diseño de software moderno. La evolución constante del proyecto me impulsó a seguir aprendiendo para tomar mejores decisiones técnicas y aportar soluciones más efectivas y alineadas con las necesidades del usuario. A lo largo del proyecto confirmé que el aprendizaje permanente es fundamental en el desarrollo de software, ya que cada etapa presentó nuevos desafíos que me motivaron a investigar, adaptarme y mejorar. Este proceso me permitió evolucionar como profesional comprometido con la mejora continua y con la entrega de soluciones efectivas.<br><br> 5. Durand Vera, Gianfranco Angel: <br>TB1 <br> Durante esta entrega, comprendí la importancia del aprendizaje permanente en mi desarrollo profesional y en la creación de soluciones de software efectivas. Al desarrollar declaraciones de problemas y suposiciones bajo Lean UX, reforcé mi compromiso con la actualización constante de conocimientos para garantizar que cada proyecto se ejecute con la máxima eficiencia y calidad.<br><br> 6. Miranda Sinarahua, Piero Stephano: Tomé en cuenta la importancia de adquirir e implementar nuevos conocimientos con el fin de lograr un desarrollo superior dentro de las tareas asignadas.<br><br> | ---- |
+| Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software |  1. Gómez Vallejos, Sergio André: desarrollo de secciones clave como el Solution Profile, Antecedentes y problemática, el análisis de Competidores, y el Análisis competitivo. También realicé el Tactical-Level Domain-Driven Design y el Bounded Context Database Design Diagram. Para ello, estudié conceptos de diseño táctico, arquitectura basada en dominios y modelado de datos. <br><br> 2. Rojas Velasquez, Maycol Jhordan: Aplicó los conocimientos necesarios para el proyecto, desarrollando los diagramas C4 y definiendo el segmento objetivo.<br><br> 3. Aranda Vallejos, Oscar Gabriel <br> TB1 <br> Participé en el proceso del eventstorming, actualizando los conceptos y técnicas aprendidas del Domain Driven Design.<br><br>4. Ticona Panduro, Estrella del Pilar: TB1 Actualicé conceptos clave al diseñar entrevistas y realizar una con productores ganaderos, aplicando técnicas de investigación de usuario. A través del To Be Scenario Mapping, User Stories, Impact Mapping y Product Backlog, reforcé conocimientos en metodologías ágiles y diseño centrado en el usuario. Además, al desarrollar el Bounded Context, las capas de arquitectura (Application, Infrastructure, Domain), diagramas de clases y diseño de base de datos, fortalecí mi dominio en modelado de software y arquitectura orientada al dominio.n el desarrollo del proyecto de soluciones de software, llevé a cabo una serie de actividades clave que reflejan el compromiso con la actualización de conocimientos y el aprendizaje continuo. Estas acciones incluyeron: Diseño de entrevistas, una entrevista del segmento 1 (Productores Ganadores independientes), To be Scenario Mapping, User Stories, Impact Mapping, Product Backlog, Bounded Context: Staff administration, Application Layer, Infrastructure Layer, Bounded Context Domain Layer Class Diagrams y Bounded Context Database Design Diagram.Las actividades desarrolladas me permitieron actualizar conocimientos esenciales para mi crecimiento profesional, especialmente en metodologías ágiles, diseño centrado en el usuario y arquitectura de software. Esto refuerza mi capacidad para abordar proyectos tecnológicos con una base técnica actualizada y alineada a las mejores prácticas del sector.<br><br>5. Durand Vera, Gianfranco Angel: <br>TB1 <br> Realice las capas de Domain e Interface, además de el Component Level Diagrams, para el Bounded Context Staff Administration, asi como entrevistas hacia el segundo segmento <br><br> 6. Miranda Sinarahua, Piero Stephano: Estuve encargado de realizar secciones dentro del Needfinding, entre estos estan el desarrollo de los user persona, task matrix, journey mapping, empathy mapping y as is scenario mapping. Al igual que reuní informacion clave dentro de una entrevista realizada, lo cual sirvió para obtener datos que serían útil durante el proceso de desarrollo. <br><br> |------- |  
+| Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software |  1. Gómez Vallejos, Sergio André:  Para cada sección del trabajo investigué nuevas metodologías de análisis competitivo, bases de Domain-Driven Design, y enfoques de diseño de bases de datos adaptados a contextos delimitados. Utilicé documentación especializada, artículos académicos y experiencias de la industria como base para mis decisiones de diseño.  <br><br> 2. Rojas Velasquez, Maycol Jhordan: Desarrollé los temas alcanzados en los ciclos anteriores, lo que me permitió adquirir conocimientos sólidos sobre el tema y realizarlos correctamente.<br><br> 3. Aranda Vallejos, Oscar Gabriel <br> TB1 <br> Participé en el proceso del eventstorming, actualizando los conceptos y técnicas aprendidas del Domain Driven Design.<br><br>4. Ticona Panduro, Estrella del Pilar:  Reconocí la necesidad del aprendizaje permanente al enfrentar retos que exigieron investigar nuevas herramientas y enfoques, como la validación de usuarios, metodologías ágiles y principios de diseño de software moderno. La evolución constante del proyecto me impulsó a seguir aprendiendo para tomar mejores decisiones técnicas y aportar soluciones más efectivas y alineadas con las necesidades del usuario. A lo largo del proyecto confirmé que el aprendizaje permanente es fundamental en el desarrollo de software, ya que cada etapa presentó nuevos desafíos que me motivaron a investigar, adaptarme y mejorar. Este proceso me permitió evolucionar como profesional comprometido con la mejora continua y con la entrega de soluciones efectivas.<br><br> 5. Durand Vera, Gianfranco Angel: <br>TB1 <br> Durante esta entrega, comprendí la importancia del aprendizaje permanente en mi desarrollo profesional y en la creación de soluciones de software efectivas. Al desarrollar declaraciones de problemas y suposiciones bajo Lean UX, reforcé mi compromiso con la actualización constante de conocimientos para garantizar que cada proyecto se ejecute con la máxima eficiencia y calidad.<br><br> 6. Miranda Sinarahua, Piero Stephano: Tomé en cuenta la importancia de adquirir e implementar nuevos conocimientos con el fin de lograr un desarrollo superior dentro de las tareas asignadas.<br><br> | ---- |
+
 
 
 # OBJETIVOS SMART
@@ -145,6 +152,7 @@ necesario, utilizando estrategias de aprendizaje apropiadas.
 | Estrella del Pilar Ticona Panduro      | Al finalizar este curso, quiero haber fortalecido mis habilidades técnicas y profesionales en el área del desarrollo y diseño de aplicaciones móviles, logrando aplicar los conocimientos adquiridos en al menos un proyecto funcional, con el fin de especializarme en esta rama y mejorar mi perfil profesional en los próximos 6 meses. |
 |Oscar Gabriel Aranda Vallejos | Mi objetivo es poder especializarme en el desarrollo web full stack, integrando tecnologías emergentes para crear soluciones innovadoras que impacten positivamente en la sociedad. Para ello continuaré aprendiendo y participando en proyectos de desarrollo de aplicaciones web.
 |Piero Stephano Miranda Sinarahua | Mi objetivo es desarrollar en un plazo de 3 meses una version funcional de un aplicativo movil el cual este destinado a mejorar la experiencia de los usuarios objetivos, implementando por lo menos las funcionalidades principales que se plantearan, esto con el fin de incrementar la eficiencia y autonomia. 
+|Sergio André Gómez Vallejos | Mi objetivo es desarrollarme profesionalmente en el área de ciberseguridad (SOC) y en el desarrollo de aplicaciones móviles, demostrando los conocimientos adquiridos y creciendo continuamente a través de la experiencia y el tiempo.
 
 
 # 1. CAPÍTULO I: Presentacion
@@ -153,7 +161,7 @@ necesario, utilizando estrategias de aprendizaje apropiadas.
 
 __Nombre del Start:__ VacApp
 
-VacApp es una avanzada aplicación movil diseñada para capacitar a los ganaderos en la gestión eficiente y sostenible de su ganado. Esta plataforma ofrece una amplia gama de herramientas integrales que permiten a los usuarios realizar un seguimiento detallado de la salud, alimentación y reproducción de sus animales, lo que facilita una mejor toma de decisiones en la granja. Con PecuarioPro, los ganaderos pueden optimizar sus operaciones y maximizar sus ingresos, al tiempo que promueven prácticas agrícolas sostenibles y éticas, lo que contribuye al bienestar de los animales y al desarrollo sostenible de la industria ganadera.
+VacApp es una avanzada aplicación movil diseñada para capacitar a los ganaderos en la gestión eficiente y sostenible de su ganado. Esta plataforma ofrece una amplia gama de herramientas integrales que permiten a los usuarios realizar un seguimiento detallado de la salud, alimentación y reproducción de sus animales, lo que facilita una mejor toma de decisiones en la granja. Con VacApp, los ganaderos pueden optimizar sus operaciones y maximizar sus ingresos, al tiempo que promueven prácticas agrícolas sostenibles y éticas, lo que contribuye al bienestar de los animales y al desarrollo sostenible de la industria ganadera.
 
 <div style="text-align: center;">
   <img src="./assets/Bovinova.png" alt="vacapp Logo" style="width: 250px; height: 250px;">
@@ -161,19 +169,19 @@ VacApp es una avanzada aplicación movil diseñada para capacitar a los ganadero
 
 ### **Colaboraciones Estrategicas:**
 
-En Bovinova, estamos comprometidos a establecer solidad alianzas con cadenas de ganaderia, pequeños ganaderos y empresas ganaderas. Trabajamos en estrecha colaboración con estos socios para garantizar que nuestras soluciones tecnológicas respondan a sus necesidades operativas, facilitando la gestión diaria y mejorando la satisfacción del cliente. Invitamos a los ganaderos a integrar nuestras soluciones para optimizar la administración de ganado, la gestión de alimentacion, y la atención al cliente, creando una experiencia más fluida y eficiente.
+En va, estamos comprometidos a establecer solidad alianzas con cadenas de ganaderia, pequeños ganaderos y empresas ganaderas. Trabajamos en estrecha colaboración con estos socios para garantizar que nuestras soluciones tecnológicas respondan a sus necesidades operativas, facilitando la gestión diaria y mejorando la satisfacción del cliente. Invitamos a los ganaderos a integrar nuestras soluciones para optimizar la administración de ganado, la gestión de alimentacion, y la atención al cliente, creando una experiencia más fluida y eficiente.
 
 ### **Innovación y Tecnología**
-Nuestra plataforma utiliza tecnologías avanzadas para ofrecer una experiencia optimizada en la gestión ganadera. Desde el monitoreo de la salud, alimentación y reproducción del ganado, hasta la automatización de procesos clave en la granja, **VacApp** busca transformar la forma en que los ganaderos administran sus actividades diarias. Queremos que cada productor pecuario se sienta respaldado por una solución tecnológica que le permita tomar decisiones informadas, mejorar la eficiencia operativa y promover una producción sostenible y ética.
+Nuestra plataforma utiliza tecnologías avanzadas para ofrecer una experiencia optimizada en la gestión ganadera. Desde el monitoreo de la salud, alimentación y reproducción del ganado, hasta la automatización de procesos clave en la granja, **VacApp** busca transformar la forma en que los ganaderos administran sus actividades diarias. Queremos que cada productor VacApp se sienta respaldado por una solución tecnológica que le permita tomar decisiones informadas, mejorar la eficiencia operativa y promover una producción sostenible y ética.
 
 ### **Comunidad y Funciones Sociales**
-**VacApp** no es solo una herramienta de gestión; es también un espacio de aprendizaje y colaboración entre ganaderos. La plataforma incluye funciones que permiten a los usuarios compartir buenas prácticas, estrategias de manejo y mantenerse actualizados con las últimas innovaciones en el sector pecuario. Esta comunidad activa fomenta la mejora continua, el intercambio de conocimientos y el fortalecimiento de una red ganadera comprometida con el desarrollo sostenible y el bienestar animal.
+**VacApp** no es solo una herramienta de gestión; es también un espacio de aprendizaje y colaboración entre ganaderos. La plataforma incluye funciones que permiten a los usuarios compartir buenas prácticas, estrategias de manejo y mantenerse actualizados con las últimas innovaciones en el sector VacApp. Esta comunidad activa fomenta la mejora continua, el intercambio de conocimientos y el fortalecimiento de una red ganadera comprometida con el desarrollo sostenible y el bienestar animal.
 
 ### **Visión**
 Visualizamos un mundo donde la tecnología y la ganadería se integran para impulsar una producción más eficiente, responsable y rentable. Nuestro objetivo es que **VacApp** sea sinónimo de innovación en el manejo ganadero, un aliado indispensable para los productores que desean evolucionar hacia un modelo más moderno, conectado y sostenible. Aspiramos a liderar una transformación positiva en la industria, basada en la tecnología, la ética y el compromiso con el campo.
 
 ### **Misión**
-Nos esforzamos por ofrecer una plataforma integral que empodere a los ganaderos con herramientas inteligentes de gestión, mejorando su productividad y calidad de vida. Estamos decididos a utilizar la tecnología como motor de cambio en el sector pecuario, contribuyendo al bienestar animal, la sostenibilidad ambiental y el desarrollo económico de las comunidades rurales. **VacApp**, impulsado por **Bovinova**, será símbolo de excelencia, innovación y compromiso con el futuro de la ganadería.
+Nos esforzamos por ofrecer una plataforma integral que empodere a los ganaderos con herramientas inteligentes de gestión, mejorando su productividad y calidad de vida. Estamos decididos a utilizar la tecnología como motor de cambio en el sector VacApp, contribuyendo al bienestar animal, la sostenibilidad ambiental y el desarrollo económico de las comunidades rurales. **VacApp**, impulsado por **va**, será símbolo de excelencia, innovación y compromiso con el futuro de la ganadería.
 
 
 ### 1.1.2. Perfiles de integrantes del equipo
@@ -188,10 +196,76 @@ Nos esforzamos por ofrecer una plataforma integral que empodere a los ganaderos 
 |![Piero](assets/piero.jpg)| Miranda Sinarahua, Piero Stephano - U20181g752 <br> Estudiante de la carrera de Ingeniería de Software. Considero que soy una persona responsable y que puedo aportar al equipo en cualquier aspecto que se requiera. De igual manera, siento que los conocimientos que he ido adquiriendo en ciclos anteriores serán de gran ayuda para llevar a cabo el presente trabajo. | 
 
 
-## 1.2. Solution Profile
-## 1.2.1 Antecedentes y problemática
+## 1.2. **Solution Profile**
 
-### 1.2.2. Lean UX Process
+### **Descripción General de la Solución**
+
+**VacApp** es una innovadora aplicación móvil diseñada específicamente para los ganaderos peruanos, tanto independientes como empresas ganaderas. La plataforma proporciona un conjunto integral de herramientas para la gestión eficiente y sostenible del ganado, incluyendo el monitoreo de la salud, la alimentación y la reproducción de los animales. VacApp tiene como objetivo mejorar la productividad de los ganaderos y promover prácticas éticas y responsables que contribuyan al bienestar animal y al desarrollo sostenible de la ganadería en Perú.
+
+### **Características Clave de la Solución**
+
+- **Monitoreo Integral del Ganado:** La plataforma permite a los usuarios llevar un seguimiento detallado de la salud y el bienestar de sus animales, asegurando que reciban atención adecuada en tiempo y forma.
+
+- **Gestión de Alimentación:** VacApp ayuda a los ganaderos a planificar y gestionar la alimentación del ganado, garantizando que los animales reciban las raciones necesarias para su crecimiento y producción de manera saludable.
+
+- **Gestión Reproductiva:** La aplicación facilita el seguimiento de los ciclos reproductivos, desde el celo hasta el parto, optimizando la producción y la calidad del ganado.
+
+- **Acceso a Servicios Veterinarios:** Ofrece un sistema integrado para gestionar el acceso a consultas veterinarias, mejorando la atención médica de los animales y reduciendo pérdidas económicas por falta de cuidados adecuados.
+
+- **Automatización de Procesos:** Facilita la gestión de los procesos operativos en la granja, ayudando a los ganaderos a ahorrar tiempo y recursos en tareas rutinarias.
+
+- **Espacio Comunitario de Colaboración:** VacApp no solo es una herramienta de gestión, sino también un espacio donde los ganaderos pueden compartir buenas prácticas, consejos y mantenerse informados sobre innovaciones en el sector ganadero.
+
+### **Beneficios de la Solución**
+
+- **Mejor Gestión y Salud Animal:** Los ganaderos tienen acceso a herramientas que les permiten realizar un seguimiento eficiente de la salud y el bienestar de su ganado, reduciendo las pérdidas económicas causadas por enfermedades y accidentes.
+
+- **Optimización de Recursos:** La solución permite una mejor administración de la alimentación y reproducción del ganado, lo que se traduce en una mayor productividad y rentabilidad.
+
+- **Acceso a Tecnología Sostenible:** VacApp promueve prácticas de ganadería sostenible, mejorando las condiciones de vida del ganado y promoviendo el respeto por el medio ambiente.
+
+- **Reducción de Costos:** La automatización y la mejora en la gestión operativa ayudan a reducir los costos en diversas áreas de la granja, mejorando la eficiencia general.
+
+- **Educación y Soporte Continuo:** La plataforma ofrece recursos educativos que permiten a los ganaderos mantenerse actualizados con las mejores prácticas y desarrollos tecnológicos del sector.
+
+### **Tecnología y Arquitectura**
+
+VacApp está diseñada para ser una solución móvil accesible en plataformas Android e iOS, desarrollada con las tecnologías más avanzadas para asegurar su rendimiento y facilidad de uso. La plataforma utiliza un enfoque basado en datos para proporcionar recomendaciones personalizadas y predicciones que mejoren la gestión de la granja. Además, ofrece integración con sistemas de salud animal y automatización de tareas administrativas.
+
+### 1.2.1 **Antecedentes y problemática**
+
+Mediante la técnica de **“5W's & 2H’s”**, hemos identificado los antecedentes y la problemática que enfrentan los ganaderos peruanos en su día a día, lo que ha llevado al desarrollo de **VacApp**.
+
+#### **What? (¿Qué?)**
+
+El sector ganadero en Perú enfrenta desafíos significativos relacionados con la gestión del ganado, la salud, la alimentación, la reproducción y la producción de los animales. Sin embargo, la falta de herramientas tecnológicas adecuadas ha dificultado una gestión eficiente. Los ganaderos, especialmente los pequeños productores, carecen de acceso a sistemas que permitan un seguimiento detallado de sus animales y una toma de decisiones informada, lo que reduce su capacidad para optimizar operaciones y mejorar los ingresos.
+
+#### **When? (¿Cuándo?)**
+
+Este problema es de carácter continuo. La necesidad de una plataforma tecnológica que ayude a gestionar el ganado y optimizar la producción es actual y permanente. Los ganaderos deben contar con un sistema que les permita acceder a información en tiempo real, actualizando constantemente los datos sobre salud, alimentación, reproducción y venta del ganado.
+
+#### **Where? (¿Dónde?)**
+
+La problemática afecta principalmente a las zonas rurales y áreas productivas de Perú, donde la mayoría de los ganaderos se encuentran en condiciones de acceso limitado a servicios veterinarios y tecnológicos. La falta de acceso a internet en algunas regiones también limita el uso de soluciones digitales, pero con el crecimiento de la conectividad móvil, **VacApp** tiene la capacidad de operar en dispositivos móviles accesibles desde cualquier ubicación rural.
+
+#### **Who? (¿Quién?)**
+
+Los principales afectados son los ganaderos peruanos, tanto independientes como grandes empresas ganaderas. Los productores independientes, que poseen pequeñas cantidades de ganado, tienen recursos limitados para acceder a tecnologías y servicios de salud adecuados para sus animales. Por otro lado, las grandes empresas ganaderas también enfrentan dificultades relacionadas con la gestión masiva del ganado y el cumplimiento de estándares de bienestar animal. Además, veterinarios, encargados de alimentación y otros actores del sector ganadero son usuarios clave de la plataforma.
+
+#### **Why? (¿Por qué?)**
+
+La falta de herramientas adecuadas para la gestión eficiente del ganado genera una serie de problemas, como una mala alimentación, enfermedades no tratadas a tiempo, baja productividad, y pérdida económica. La toma de decisiones basadas en información incompleta o errónea afecta directamente el bienestar de los animales y las ganancias de los productores. **VacApp** busca resolver esta problemática proporcionando a los ganaderos una herramienta que les permita optimizar sus operaciones, mejorar la trazabilidad de los animales y facilitar la toma de decisiones informadas.
+
+#### **How? (¿Cómo?)**
+
+La solución propuesta por **VacApp** es una plataforma web y móvil que integra herramientas de gestión ganadera. La aplicación permite a los usuarios realizar un seguimiento detallado de la salud, alimentación y reproducción de sus animales, generar informes, y recibir notificaciones sobre eventos importantes relacionados con su ganado. Utilizando tecnologías modernas de desarrollo web y móvil, **VacApp** se adapta a las necesidades de los ganaderos en zonas rurales, brindando acceso a los datos en tiempo real desde cualquier dispositivo con conexión a internet.
+
+#### **How much? (¿Cuánto?)**
+
+El costo de desarrollar y mantener **VacApp** dependerá de la inversión en infraestructura tecnológica, desarrollo de funcionalidades adicionales y la implementación de soporte técnico. Sin embargo, el impacto económico para los ganaderos será positivo, ya que les permitirá mejorar su rentabilidad, optimizar los recursos y reducir pérdidas derivadas de la mala gestión. La plataforma también permitirá reducir costos en atención veterinaria mediante el acceso oportuno a datos que puedan prevenir enfermedades y mejorar la productividad del ganado.
+
+### 1.2.2 Lean UX Process.
+
 #### 1.2.2.1. Lean UX Problem Statements
 
 En un entorno donde los pequeños y medianos productores pecuarios dependían de métodos manuales y poco eficientes para gestionar la información de su ganado, nuestra aplicación móvil **VacApp** se destacó al ofrecer una solución moderna, accesible y optimizada para el trabajo en campo.
@@ -302,7 +376,60 @@ En el Perú, el bienestar animal en las empresas ganaderas es a menudo insuficie
 # 2. CAPÍTULO II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
 ### 2.1.1. Análisis competitivo
-### 2.1.2. Estrategias y tácticas frente a competidores
+
+<table>
+   <tr>
+      <td align="center" colspan="6">Competitive Analysis Landscaspe</td>
+   </tr>
+   <tr>
+      <td colspan="2">¿Porqué llevar a cabo este análisis?</td><td colspan="4">¿Cómo podemos proporcionar un buen servicio entre los restaurantes y los consumidores de manera que la comunicación entre ambos sea efectiva y agradable?</td>
+   </tr>
+   <tr align="center">
+      <td colspan="2"><td>VacApp</td><td>Control Ganadero</td><td>Agroptima</td><td>App Ganadera</td>
+   </tr>
+   <tr>
+      <td rowspan="2">Perfil</td><td>Overview</td><td> VacApp es una plataforma móvil accesible que optimiza la gestión ganadera con enfoque en sostenibilidad, bienestar animal y eficiencia, adaptada a pequeños y grandes productores. </td><td> Es una aplicación español, británico y brasileño en el sector de la ganadería. </td><td> Agroptima es un sitio web multiplataforma cofundado por la unión europea para los países de España, Francia e Inglaterra </td><td> Es una empresa fundada en Colombia que cuenta con una para la gestión de ganado. </td>
+   </tr>
+   <tr>
+      <td>Ventaja competitiva. ¿Qué valor ofrece a los clientes?</td><td>La plataforma se diferencia al integrar tecnología accesible con enfoque en sostenibilidad y bienestar animal, ofreciendo soluciones prácticas para productores de todos los tamaños. </td><td> es una app para la gestión de vacas y enfocada para móviles </td><td> cuenta con multiplataforma cuenta con algoritmos matemáticos para una mayor gestión del ganado. </td><td> Tiene gran variedad de herramientas y gran cantidad de distribuidores </td>
+   </tr>
+   <tr>
+      <td rowspan="2">Perfil de Marketing</td><td>Mercado Objetivo</td><td> Productores ganaderos, tanto independientes como empresas, que buscan optimizar el cuidado del ganado y mejorar su rentabilidad. </td><td> Para ganaderos españoles, brasileños e ingleses. </td><td> Para ganaderos españoles,franceses e ingleses. </td><td> Para ganaderos colombianos </td>
+   </tr>
+   <tr>
+      <td>Estrategias de Marketing</td><td> Difusión en redes sociales y anuncios pagados </td><td> Estrategia de posicionamiento </td><td> Estrategia de segmentación </td><td> Estrategia </td>
+   </tr>
+   <tr>
+      <td rowspan="3">Perfil de Producto</td><td>Productos & Servicios</td><td> Aplicación móvil con herramientas de gestión de ganado, monitoreo de salud, alimentación y reproducción.
+
+ </td><td> Web app de gestión de ganado. </td><td> Web app de gestión de ganado. </td><td> Web app de gestión de ganado. </td>
+   </tr>
+   <tr>
+      <td>Precios & Costos</td><td> Subscripcion Bajo costo </td><td> Subscripcion Bajo costo </td><td> Subscripcion Bajo costo </td><td> Subscripcion Bajo costo </td>
+   </tr>
+   <tr>
+      <td>Canales de distribución (Web y/o Móvil)</td><td> App </td><td> App </td><td> Web y móvil </td><td> App </td>
+   </tr>
+
+   <tr>
+      <td rowspan="5">Análisis SWOT</td><td>Fortalezas</td><td> Contamos con lo último en tecnología e implementamos lo nuevo en desarrollo para mejorar la productividad del servicio </td><td> Es una app netamente para la gestión de vacas cuenta con buena personalización </td><td> Es famoso por ser bueno en gestión ya que usa algoritmos matemáticos para un mejor cálculo del ganado. </td><td> Su ecosistema está basado en un país de origen conoce muy bien a sus clientes y se adapta a ellos </td>
+   </tr>
+   <tr>
+      <td>Debilidades</td><td> Está en pleno desarrollo puede ser un éxito o fracaso </td><td> Solo es de móvil eso limita que sea multiplataforma </td><td> Solo opera en Europa y se basa en reglas ya establecidas por la unión europea </td><td> Solo es una app y para la zona de Colombia por lo tanto solo está disponible en su país de origen </td>
+   </tr>
+   <tr>
+      <td>Oportunidades</td><td> Puede hacer productivos a los ganaderos y empresas de este rubro mejorando sus tomas de decisiones y eficiencia </td><td> Si planeas ir a Europa es buena idea ya que ese es su público objetivo y contará con más servicios. </td><td> Si planeas ir a Europa es buena idea ya que ese es su público objetivo y contará con más servicios. </td><td> Si eres colombiano estarás contento con la app ya que es de uso nacional. </td>
+   </tr>
+   <tr>
+      <td>Amenazas</td><td> Competencia de otras aplicaciones móviles y el riesgo de cambios regulatorios en la industria ganadera que puedan afectar las operaciones de la plataforma. </td><td> No cuenta con muchos clientes la ganadería sigue siendo a la antigua por tanto no hace falta usarla. </td><td> No cuenta con muchos clientes la ganadería sigue siendo a la antigua por tanto no hace falta usarla. </td><td> Falta de apoyo económico los gobiernos locales de Colombia no ven viable esta innovación puede llegar a su desaparición </td>
+   </tr>
+
+</table> 
+
+<br/>
+
+### 2.1.2. Estrategias y tácticas frente a competidores.
+Para enfrentarnos a la competencia en el sector ganadero, nuestra estrategia se centrará en ofrecer una plataforma accesible, intuitiva y adaptada a las necesidades locales de los ganaderos peruanos. A diferencia de competidores como Agroptima o Control Ganadero, VacApp destacará por su simplicidad y enfoque en la sostenibilidad y el bienestar animal, facilitando la gestión de la salud, alimentación y reproducción del ganado. Utilizaremos tácticas de marketing digital segmentadas, como campañas en redes sociales y alianzas con organizaciones locales, para aumentar la visibilidad de la aplicación y educar a los usuarios sobre sus beneficios. Además, ofreceremos precios flexibles y modelos de suscripción accesibles, lo que permitirá a pequeños y grandes productores optimizar sus operaciones sin complicaciones, mientras seguimos mejorando continuamente la plataforma para adaptarnos a las necesidades cambiantes del sector ganadero.
 
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
@@ -392,7 +519,17 @@ Experiencia en la ganaderia: 30 años
 
 El señor Jorge, ganadero desde hace ya varios años, cuenta como desde muy joven estuvo involucrado en temas ganaderos. Él habla acerca de como realiza la mayor parte de la gestion de su negocio por cuenta propia, desde el ciudado de la alimentacion de sus ganados, al igual que actividades de salud o limpieza que garanticen el bienestar de los animales. Tambien habla acerca de como lleva un registro de las actividades que realiza de manera tradicional, empleando un cuaderno de apuntes. Él considera que enfrenta varios desafios dentro de su negocio, como por ejemplo una falta de organizacion y eficiencia dentro del control de los ganados, que no cuenta con ayuda profesional, y que ciertos factores externos como el clima no siempre estan a su favor. Considera que una aplicacion movil podria ser de gran ayuda, y si contara con funciones que le ayudaran a superar esas dificultades que menciona, podria hacer crecer aun mas su negocio y volverlo mas rentable con el tiempo.
 
+- Entrevistado: Christian Matos
+- Edad: 25
+- Tiempo de experiencia en la ganadería: 5 años
 
+<img src="./assets/entrevista.png" alt="vacapp Logo" >
+
+*Resumen de la Entrevista*:
+
+Christian Matos, un ganadero de 25 años con cinco años de experiencia, gestiona su negocio basándose principalmente en conocimientos prácticos adquiridos con el tiempo, consultando ocasionalmente a veterinarios para decisiones sobre alimentación. Su rutina incluye revisiones diarias, limpieza del corral y seguimiento de un calendario de vacunación, demostrando su compromiso con el bienestar animal. Actualmente, registra manualmente en una libreta los nacimientos, enfermedades y tratamientos, un método funcional pero limitado que dificulta el acceso rápido a la información y puede resultar en pérdidas de datos importantes.
+La falta de tiempo representa su mayor desafío administrativo, impidiéndole completar todas sus tareas y afectando su capacidad organizativa. Christian ve positivamente la implementación de una aplicación móvil que funcione como recordatorio de actividades, facilite consultas rápidas de datos y mejore su eficiencia general. Desea una interfaz sencilla con acceso desde múltiples dispositivos que le permita registrar digitalmente nacimientos, vacunas y alimentación, recibir alertas para revisiones periódicas y consultar información clave como peso y tratamientos individuales de sus animales, lo que optimizaría su tiempo y fortalecería su toma de decisiones.
+ 
 ## Segmento 2: Productores Ganadores independientes:
 
 *Entrevistado:* Luis Raimundo <br>
@@ -872,6 +1009,7 @@ Los Deployment Diagrams (diagramas de despliegue) forman parte de la arquitectur
 ![containers](./assets/deployment.png)
 
 ## 4.2. Tactical-Level Domain-Driven Design
+El diseño táctico en Domain-Driven Design (DDD) se enfoca en la implementación detallada del modelo de dominio dentro de un Bounded Context. A través de patrones como entidades, value objects, agregados, servicios, repositorios y fábricas, permite traducir el conocimiento del dominio en estructuras de software claras, cohesionadas y mantenibles. Esta sección describe cómo se aplican estos patrones en cada capa de la arquitectura.
 
 # 4.2.1. Bounded Context: Campaign Management
 En el contexto de VacApp, el módulo de Campaign Management representa una parte clave del sistema encargada de la creación, organización y seguimiento de campañas de comunicación, capacitación y promoción dirigidas a los ganaderos. Estas campañas pueden abarcar desde campañas educativas sobre buenas prácticas ganaderas, hasta promociones de nuevas funcionalidades de la app o actividades colaborativas dentro de la comunidad ganadera.
@@ -929,12 +1067,14 @@ Este bounded context se encarga de modelar el ciclo de vida completo de una camp
 
 ### 4.2.1.5. Bounded Context Software Architecture Component Level Diagrams
 
+
 ![Campaign Management Containers](./assets/Campaign-Management-Components.png)
 
 
 ### 4.2.1.6. Bounded Context Software Architecture Code Level Diagrams
 ### 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams
 ### 2.6.1.6.2. Bounded Context Database Design Diagram
+<img src="./assets/campaign_db.png" alt="db_campaign_diagram" >
 
 
 # 4.2.2. Bounded Context: Ranch Management 
@@ -995,6 +1135,7 @@ Dentro de este módulo se modelan y gestionan los procesos clave para la operaci
 
 ### 4.2.2.5. Bounded Context Software Architecture Component Level Diagrams
 
+
 ![Ranch Management Containers](./assets/Ranch-Management-Components.png)
 
 ### 4.2.2.6. Bounded Context Software Architecture Code Level Diagrams
@@ -1005,6 +1146,8 @@ Dentro de este módulo se modelan y gestionan los procesos clave para la operaci
 ##### 4.2.2.6.2. Bounded Context Database Design Diagram
 
 ![DatabaseDiagram](assets/DiagramaDatabaseRanch.JPG)
+
+<img src="./assets/ranch.png" alt="db_ranch_diagram">
 
 |**Nombre**|**Descripción**|
 | :- | :- |
@@ -1081,7 +1224,6 @@ Dentro de este módulo se modelan y gestionan los procesos clave para la operaci
 |last\_name|Apellido del usuario.|
 |password|Contraseña del usuario (almacenada de forma segura, usualmente encriptada).|
 |name|Nombre de usuario único utilizado para iniciar sesión.|
-
 
 
 
