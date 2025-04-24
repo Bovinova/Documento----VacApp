@@ -594,6 +594,25 @@ En cuanto a funcionalidades deseadas, menciona la planificación de tareas, segu
 
 Para la interacción con proveedores, ve útil una plataforma que facilite la comunicación, el seguimiento de pedidos, la gestión de inventarios y la negociación. Finalmente, destaca la importancia de que la plataforma se adapte a sus procesos y sea personalizable en aspectos como roles, alertas, datos del ganado e informes, con el fin de mejorar la eficiencia y reducir errores, siempre priorizando el bienestar animal y la rentabilidad.
 
+---
+
+*Entrevistada:* Mayra Rodríguez<br>
+*Sexo:*  Femenino<br>
+*Edad:* 42<br>
+*Inicio de la Entrevista:* 00:00<br>
+*Duración de la Entrevista:* 07:12<br>
+
+<img src="./assets/entrevistaa.png" style="width: 600px; height: auto;">
+
+*Resumen de la Entrevista*:
+
+Mayra Rodríguez, de 42 años, cuenta con 18 años de experiencia en el sector ganadero. Toma decisiones alimenticias para sus animales combinando su experiencia con asesorías veterinarias, considerando factores como la etapa de vida, salud, disponibilidad de forraje y costos. A pesar de su experiencia, valora mucho el aprendizaje continuo y las recomendaciones de otros colegas del rubro.
+
+Para el bienestar de los animales, aplica medidas preventivas como vacunas, desparasitaciones, buenas condiciones higiénicas y monitoreo diario. Actualmente usa hojas de Excel para llevar registros, aunque reconoce que una aplicación móvil facilitaría mucho la gestión diaria por su inmediatez.
+
+Entre los principales desafíos que enfrenta está mantener actualizados los registros individuales, algo difícil por la carga de trabajo en el campo. Una solución digital como VacApp le permitiría registrar datos en tiempo real, acceder al historial de cada animal y organizar mejor sus campañas sanitarias, reduciendo errores y ahorrando tiempo.
+
+Le gustaría tener acceso rápido a datos sobre salud, peso, tratamientos, partos y productividad económica. También espera una interfaz sencilla para registrar la alimentación, permitiendo rutinas semanales programadas con alertas. Con VacApp, Mayra espera mejorar la gestión, evitar omisiones, tomar mejores decisiones basadas en datos, y tener todo controlado desde su celular sin depender tanto de su memoria o de registros físicos.
 
 ### 2.2.3. Análisis de entrevistas
 Se realizaron entrevistas a dos segmentos clave del sector ganadero: Productores Ganaderos Independientes y Empresas Ganaderas. El objetivo fue identificar necesidades, desafíos, herramientas utilizadas y expectativas sobre una posible solución digital como VacApp. A continuación, se resumen los principales hallazgos por segmento.
@@ -642,6 +661,7 @@ Se realizaron entrevistas a dos segmentos clave del sector ganadero: Productores
 ##### Entrevistados
 - Edgar Parry
 - Camila Sánchez
+- Mayra Rodríguez
 
 ##### Principales Hallazgos
 
