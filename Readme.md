@@ -451,7 +451,7 @@ Este bounded context se encarga de modelar el ciclo de vida completo de una camp
 ### 4.2.1.6. Bounded Context Software Architecture Code Level Diagrams
 ### 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams
 ### 2.6.1.6.2. Bounded Context Database Design Diagram
-<img src="./assets/campaign_db.png" alt="db_campaign_diagram" style="width: 250px; height: 250px;">
+<img src="./assets/campaign_db.png" alt="db_campaign_diagram" >
 
 # 4.2.2. Bounded Context: Ranch Management 
 ### 4.2.2.1. Domain Layer
@@ -508,7 +508,7 @@ Este bounded context se encarga de modelar el ciclo de vida completo de una camp
 ### 4.2.2.6. Bounded Context Software Architecture Code Level Diagrams
 ### 4.2.2.6.1. Bounded Context Domain Layer Class Diagrams
 ### 2.6.2.6.2. Bounded Context Database Design Diagram
-<img src="./assets/ranch.png" alt="db_ranch_diagram" style="width: 250px; height: 250px;">
+<img src="./assets/ranch.png" alt="db_ranch_diagram">
 
 
 
