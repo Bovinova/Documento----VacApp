@@ -24,58 +24,94 @@
         </ul>
 </div>
 
+<br>
 
-<p style="text-align: center;">
-  <strong>Registro de versiones de informe:</strong><br>
-</p>
+# Registro de versiones de informe
 
 | Entregables | Fecha       | Autor                             | Descripción de modificación                                                                                      |  
 |-------------|-------------|-----------------------------------|------------------------------------------------------------------------------------------------------------------|  
-| TB1         | 23/08/2024  | Sergio André Gómez Vallejos       | Implementación de contenido en el Student Outcome   | 
-| TB1         | 23/08/2024  | Sergio André Gómez Vallejos       | Solution Profile y Antecendetes y problemática  | 
-| TB1         | 23/08/2024  | Sergio André Gómez Vallejos       |  Competidores y Desarrollo del perfil de integrante  | 
-| TB1         | 23/08/2024  | Sergio André Gómez Vallejos       |  Analisis Competitivo  |  
-| TB1         | 24/08/2024  | Sergio André Gómez Vallejos       | Registro de 1 entrevista del segmento objetivo Productores Ganadores independientes |    
-| TB1         | 6/4/2025    | Maycol Jhordan Rojas Velásquez   | Implementación de la estructuración del informe.                                                                 |  
-| TB1         | 7/4/2025    | Maycol Jhordan Rojas Velásquez   | Se agregó la descripción y los segmentos objetivos de la Startup.                                                |  
-| TB1         | 7/4/2025    | Maycol Jhordan Rojas Velásquez   | Implementación de los diagramas C4: contexto y contenedores.                                                     |  
-| TB1         | 23/4/2025   | Maycol Jhordan Rojas Velásquez   | Implementación del diagrama de despliegue.                                                                       |  
-| TB1         | 23/4/2025   | Maycol Jhordan Rojas Velásquez   | Agregado parcial del bounded context "Campaign".                                                                 |  
-| TB1         | 23/4/2025   | Maycol Jhordan Rojas Velásquez   | Agregado parcial del bounded context "Ranch".                                                                    |  
-| TB1         | 23/4/2025   | Maycol Jhordan Rojas Velásquez   | Agregado del "Student Outcome".                                                                                    |  
-| TB1         | 7/4/2025    | Gianfranco Durand   | Lean UX Process.                                                             |  
-| TB1         | 23/4/2025    | Gianfranco Durand   | Bounded Context Staff Administration: Domain Layer, Interface Layer, Component Level Diagrams|  
-| TB1         | 21/4/2025    | Gianfranco Durand   | Entrevista para el segmento 2.                                                |  
-| TB1         | 10/04/2025  | Estrella del Pilar Ticona Panduro  | Diseño de entrevistas                              |
-| TB1         | 23/04/2025  | Estrella del Pilar Ticona Panduro  | Registro de entrevistas                            |
+| TB1         | 06/04/2025    | Maycol Jhordan Rojas Velásquez   | Implementación de la estructuración del informe.                                                                 |  
+| TB1         | 07/04/2024  | Sergio André Gómez Vallejos       | Implementación de contenido en el Student Outcome   | 
+| TB1         | 07/04/2024  | Sergio André Gómez Vallejos       | Solution Profile y Antecendetes y problemática  |       
+| TB1         | 07//04/2025    | Maycol Jhordan Rojas Velásquez   | Se agregó la descripción y los segmentos objetivos de la Startup.                                                |  
+| TB1         | 07//04/2025    | Maycol Jhordan Rojas Velásquez   | Implementación de los diagramas C4: contexto y contenedores.                                                     |
+| TB1         | 07/04/2025    | Gianfranco Durand   | Lean UX Process.                                                             |
+| TB1         | 09/04/2024  | Sergio André Gómez Vallejos       |  Competidores y Desarrollo del perfil de integrante  | 
+| TB1         | 09/04/2024  | Sergio André Gómez Vallejos       |  Analisis Competitivo  |
 | TB1         | 09/04/2025  | Estrella del Pilar Ticona Panduro  | To-Be Scenario Mapping                             |
 | TB1         | 09/04/2025  | Estrella del Pilar Ticona Panduro  | User Stories                                        |
 | TB1         | 10/04/2025  | Estrella del Pilar Ticona Panduro  | Impact Mapping                                      |
 | TB1         | 10/04/2025  | Estrella del Pilar Ticona Panduro  | Product Backlog                                     |
+| TB1         | 10/04/2025  | Estrella del Pilar Ticona Panduro  | Diseño de entrevistas                              |
+|TB1          |   10/04/2025  |   Oscar Gabriel Aranda Vallejos  |  Steps 1,2 y 3 del EventStorming     |
+|TB1          |  15/04/2025   |  Piero Stephano Miranda Sinarahua   | User Personas                     |
+|TB1          |    15/04/2025   |  Piero Stephano Miranda Sinarahua   | User Task Matrix                 |
+|TB1          |    15/04/2025   |  Piero Stephano Miranda Sinarahua  |  User Joruney Mapping            |
+|TB1          |    16/04/2025   |  Piero Stephano Miranda Sinarahua  | Empathy Mapping                  |
+|TB1          |    16/04/2025   |  Piero Stephano Miranda Sinarahua  | As I Scenario Mapping            |
+|TB1          |    16/04/2025   |  Piero Stephano Miranda Sinarahua  | Ubiquitous Language              |
+| TB1         | 21/04/2024  | Sergio André Gómez Vallejos       | Registro de 1 entrevista del segmento objetivo Productores Ganadores independientes |
+| TB1         | 21/04/2025    | Gianfranco Durand   | Entrevista para el segmento 2.                                                |
 | TB1         | 21/04/2025  | Estrella del Pilar Ticona Panduro  | Application Layer                                   |
 | TB1         | 21/04/2025  | Estrella del Pilar Ticona Panduro  | Infrastructure Layer                                |
 | TB1         | 21/04/2025  | Estrella del Pilar Ticona Panduro  | Bounded Context Domain Layer Class Diagrams         |
 | TB1         | 21/04/2025  | Estrella del Pilar Ticona Panduro  | Bounded Context Database Design Diagram             |
-|TB1          |  15/04/2025   |  Piero Miranda   | User Personas                     |
-|TB1          |    15/04/2025   |  Piero Miranda  | User Task Matrix                 |
-|TB1          |    15/04/2025   |  Piero Miranda  |  User Joruney Mapping            |
-|TB1          |    16/04/2025   |  Piero Miranda  | Empathy Mapping                  |
-|TB1          |    16/04/2025   |  Piero Miranda  | As I Scenario Mapping            |
-|TB1          |    16/04/2025   |  Piero Miranda  | Ubiquitous Language              |
-|TB1          |   23/04/2025   |  Piero Miranda  |  Bounded Context Domain Layer Class Diagram  |
-|TB1          |   23/04/2025  |   Piero Miranda  |  Bounded Context Database Design Diagram     |
-
+|TB1          |   22/04/2025  |   Oscar Gabriel Aranda Vallejos  |  Event Storming Completo    |
+|TB1          |   22/04/2025  |   Oscar Gabriel Aranda Vallejos  |  Candidate Context Discovery and Bounded Context Canvases    |
+|TB1          |   22/04/2025  |   Oscar Gabriel Aranda Vallejos  |  Student Outcome    |    
+| TB1         | 23//04/2025   | Maycol Jhordan Rojas Velásquez   | Implementación del diagrama de despliegue.                                                                       | 
+| TB1         | 23/04/2025   | Maycol Jhordan Rojas Velásquez   | Agregado parcial del bounded context "Campaign".                                                                 |  
+| TB1         | 23/04/2025   | Maycol Jhordan Rojas Velásquez   | Agregado parcial del bounded context "Ranch".                                                                    |  
+| TB1         | 23/04/2025   | Maycol Jhordan Rojas Velásquez   | Agregado del "Student Outcome".                                                                                    |    
+| TB1         | 23/04/2025    | Gianfranco Durand   | Bounded Context Staff Administration: Domain Layer, Interface Layer, Component Level Diagrams|  
+| TB1         | 23/04/2025  | Estrella del Pilar Ticona Panduro  | Registro de entrevistas                            |
+|TB1          |   23/04/2025   |  Piero Stephano Miranda Sinarahua  |  Bounded Context Domain Layer Class Diagram  |
+|TB1          |   23/04/2025  |   Piero Stephano Miranda Sinarahua  |  Bounded Context Database Design Diagram     |
+|TB1          |   23/04/2025  |   Piero Stephano Miranda Sinarahua  |  Bounded Context Domain Layer Class Diagrams for Ranch Bounded Context    |
+|TB1          |   23/04/2025  |   Oscar Gabriel Aranda Vallejos  |  Ranch and Campaign Management Component Diagram    |
+|TB1          |   23/04/2025  |   Oscar Gabriel Aranda Vallejos  |  Context Mapping    |
+|TB1          |   24/04/2025  |   Oscar Gabriel Aranda Vallejos  |  Bounded Context Domain Layer Class Diagrams for Campaign Management Bounded Context   |
+         
 
 **Project Report Collaboration Insights**
 
+#### 1. URL del Repositorio en GitHub
 
-### URL del Repositorio 
-https://github.com/orgs/Bovinova/repositories
+| Repositorio del Informe en GitHub |
+|-----------------------------------|
+| https://github.com/orgs/Bovinova/repositories |
 
+#### 2. Actividades de Elaboración del Informe
+
+| Actividad                           | Descripción                                                                                          |
+|-------------------------------------|------------------------------------------------------------------------------------------------------|
+| Comunicación de avances            | Se realizaron breves reuniones donde se comentaban los avances de cada integrante para garantizar un trabajo en equipo sincronizado y estar al tanto de cada modificación.                                |
+| Delegación de responsabilidades    | Se organizaron charlas y reuniones para la delegación de tareas, promoviendo el trabajo en equipo y el avance continuo de manera asíncrona.                            |
+| Recopilación de datos              | Se realizó un estudio del mercado, utilizando los segmentos objetivos para extraer datos significativos mediante entrevistas. Además, se utilizaron referencias bibliográficas para investigar información relevante dentro del desarrollo del informe                                                          |
+| Documentación             | Se desarrollaron diferentes capítulos del informe, utilizando las técnicas, herramientas y metodologías requeridas.                                                         |
+
+
+#### 3. Capturas de Imagen de los Analíticos de Colaboración y Commits en GitHub
+
+| Métrica                         | Descripción                                                                                          |
+|---------------------------------|------------------------------------------------------------------------------------------------------|
+| Número de commits por autor     | [![Captura-de-pantalla-2025-04-24-011829.png](https://i.postimg.cc/kGBq8HSZ/Captura-de-pantalla-2025-04-24-011829.png)](https://postimg.cc/XBSR6QQc) |
+| Historial de cambios            | [![Captura-de-pantalla-2025-04-24-012050.png](https://i.postimg.cc/wMC8Njgy/Captura-de-pantalla-2025-04-24-012050.png)](https://postimg.cc/1VrjhPgs) |
+
+
+#### 4. Participación de Todos los Miembros del Equipo
+
+| Evidencia                       | Descripción                                                                                          |
+|---------------------------------|------------------------------------------------------------------------------------------------------|
+| Contribuciones en GitHub       | Cada integrante del equipo completó sus tareas y subió sus avances al repositorio de GitHub. Adempas, cada uno colaboró revisando el trabajo de sus compañeros. |
+| Discusiones y actividades      | Se organizaron encuentros virtuales para compartir avances, resolver dudas y atender los desafíos de cada actividad. |
+| Exposiciones del proyecto       | Se llevaron a cabo sesiones para exponer el trabajo realizado antes de la fecha orrespondiente y prepararnos adecuadamente para la presentación final. |
+
+
+# Contenido
 
 <p style="text-align: center; font-weight: bold;">
   Tabla de contenido
-  
 </p>
 
 1. [CAPÍTULO I: Presentacion](#CAPÍTULO-I-Introducción)<br>
@@ -148,10 +184,10 @@ https://github.com/orgs/Bovinova/repositories
          4.2.2.5. [Bounded Context Software Architecture Component Level Diagrams](#bounded-context-software-architecture-component-level-diagrams) <br>
          4.2.2.6. [Bounded Context Software Architecture Code Level Diagrams](#bounded-context-software-architecture-code-level-diagrams) <br>
             4.2.2.6.1. [Bounded Context Domain Layer Class Diagrams](#bounded-context-domain-layer-class-diagrams) <br>
-            4.2.2.6.2. [Bounded Context Database Design Diagram](#bounded-context-database-design-diagram) <br>
+            4.2.2.6.2. [Bounded Context Database Design Diagram](#bounded-context-database-design-diagram) <br><br>
 
 
-   # STUDENT OUTCOME
+# STUDENT OUTCOME
 El curso contribuye al cumplimiento del Student Outcome ABET: 
 ##### ABET – EAC - Student Outcome 7 
 Criterio: La capacidad de adquirir y aplicar nuevos conocimientos según sea
@@ -1046,6 +1082,17 @@ El Bounded Context Canvas es una herramienta visual del Domain-Driven Design (DD
 **Outbound Communication**
 <br>Los bovinos registrados y asignados en un establo podrán ser seleccionados para una campaña. Además, tras haber completado el registro de bovinos y vacunas, se habilitará la opción de realizar consultas que serán enviadas y resueltas en AssistVet Management.
 
+**Capability Analysis**  
+El Bounded Context Ranch Management ofrece capacidades clave para la gestión operativa del ganado y el control vacunal, siendo esencial para el funcionamiento diario y la trazabilidad del sistema:
+
+- **Registro de bovinos:** Permite ingresar y actualizar información individual de cada animal, como identificador, raza, fecha de nacimiento, estado de salud, y ubicación dentro del rancho (establo o lote).
+- **Control de vacunación:** Gestiona los datos de vacunación aplicados a cada bovino, incluyendo tipo de vacuna, lote, fecha de aplicación, y nombre del responsable, asegurando un historial médico completo.
+- **Organización por establos:** Los animales pueden agruparse por establos o sectores, lo cual permite una gestión más ordenada, facilita la logística operativa, y sirve de base para la selección durante campañas ganaderas.
+- **Interacción con campañas:** Los registros gestionados aquí pueden ser utilizados por otros contextos, como *Campaign Management*, para planificar campañas específicas dirigidas a ciertos grupos de animales.
+- **Trazabilidad sanitaria:** La centralización de información del ganado y su estado vacunal permite generar reportes confiables que respaldan auditorías, exportaciones y certificaciones sanitarias.
+- **Edición y eliminación de registros:** Ranchers pueden mantener actualizado el sistema, corrigiendo datos o eliminando registros obsoletos, lo que mantiene la base de datos limpia y alineada con la realidad operativa.
+- **Interacción con diagnósticos (AssistVet):** Una vez cargada la información sanitaria, esta puede ser utilizada por el contexto de *AssistVet Management* para responder consultas veterinarias y emitir sugerencias personalizadas.
+
 
 <br>**Bounded Context: AssistVet Management**<br>
 [![Canvas-BC2.png](https://i.postimg.cc/8CgQRfWt/Canvas-BC2.png)](https://postimg.cc/hXs5gj2d)<br>
@@ -1070,6 +1117,17 @@ El Bounded Context Canvas es una herramienta visual del Domain-Driven Design (DD
 
 **Outbound Communication**
 <br>Los Ranchers reciben sus respuestas y pueden resolver consultas sobre bovinos o vacunas. Con dicha información, recibe sugerencias para tomar acción en la gestión del ganado y actualizar información importante de ser necesario.
+
+**Capability Analysis**  
+El *Bounded Context AssistVet Management* potencia las decisiones sanitarias en el rancho mediante inteligencia artificial especializada. Sus capacidades clave son:
+
+- **Análisis veterinario con IA:** Utiliza inteligencia artificial entrenada en información ganadera para emitir diagnósticos automáticos sobre la salud bovina y la aplicación de vacunas.
+- **Respuestas automatizadas a consultas:** Permite a los Ranchers realizar preguntas sobre bovinos específicos o tipos de vacunas, obteniendo respuestas inmediatas basadas en lógica de negocio y datos históricos.
+- **Validación del cumplimiento sanitario:** Ayuda a verificar si los bovinos cumplen con calendarios oficiales de vacunación o si presentan riesgos de enfermedades reportables.
+- **Sugerencias personalizadas:** Emite recomendaciones sobre próximas acciones a tomar en relación con bovinos, campañas, o vacunas, como refuerzos, alertas o aislamiento de animales en riesgo.
+- **Interacción con registros previos:** Integra datos provenientes de *Ranch Management* para nutrir su análisis, como historial de vacunas o características del bovino.
+- **Soporte a decisiones del rancher:** Actúa como un asistente veterinario inteligente que mejora la toma de decisiones y reduce la necesidad de intervención manual o externa.
+- **Escalabilidad como producto:** Al ser un sistema productizado, sus versiones pueden escalar o adaptarse a distintos ranchos o regiones con diferentes reglas y conocimientos veterinarios.
 
 
 <br>**Bounded Context: Campaign Management**<br>
@@ -1096,6 +1154,20 @@ El Bounded Context Canvas es una herramienta visual del Domain-Driven Design (DD
 **Outbound Communication**
 <br>Ranch Management recibe eventos al momento de ingresar una campaña, permitiendo seleccionar un establo (grupo de bovinos) disponible. Además, el Livestock Rancher recibirá una confirmación para iniciar la campaña.
 
+**Capability Analysis**
+El Bounded Context: Campaign Management proporciona las siguientes capacidades estratégicas y operativas clave para la gestión de campañas ganaderas:
+
+- **Creación y planificación de campañas:** Permite definir campañas con objetivos específicos (como vacunación o evaluación reproductiva), establecer fechas de inicio y fin, y registrar los recursos requeridos.
+
+- **Asignación de recursos:** Facilita la selección de establos (grupos de bovinos) y asignación de personal disponible, permitiendo una ejecución organizada y eficiente.
+
+- **Gestión de datos operativos:** Registra y mantiene actualizada la información clave de cada campaña, como duración, trabajadores involucrados, tipo de intervención, y condiciones externas (como el clima).
+
+- **Monitoreo y control de ejecución:** Brinda herramientas para realizar seguimiento al progreso de cada campaña, emitir alertas, confirmar actividades realizadas y cerrar campañas al completarlas.
+
+- **Integración con servicios externos:** Se comunica con otros sistemas como el servicio de pronóstico del clima y con otros bounded context como, por ejemplo, ranch para la ocupación de establos.
+
+
 <br>**Bounded Context: Staff Administration**<br>
 [![Canvas-BC4.png](https://i.postimg.cc/xdGrtj3Y/Canvas-BC4.png)](https://postimg.cc/Lqs0spW0)<br>
 
@@ -1118,21 +1190,43 @@ El Bounded Context Canvas es una herramienta visual del Domain-Driven Design (DD
 <br>El Livestock Rancher puede registrar personal, buscarlos mediante filtros, actualizar su información o eliminar un trabajador del sistema.
 
 **Outbound Communication**
-<br>Los trabajadores en su registro son asignados a una campaña que deberán acudir si tienen disponibilidad.<br>
+<br>Los trabajadores en su registro son asignados a una campaña que deberán acudir si tienen disponibilidad.
+
+**Capability Analysis**
+<br>Este Bounded Context proporciona capacidades clave relacionadas con la gestión eficiente del personal del rancho. Entre las principales funcionalidades que ofrece se encuentran:
+
+- **Registro y gestión de trabajadores:** Permite ingresar, actualizar y eliminar datos del personal, incluyendo información de contacto, habilidades, y disponibilidad.
+
+- **Asignación a campañas:** Facilita la planificación operativa al permitir vincular trabajadores disponibles con campañas específicas según criterios definidos (como fechas, ubicación o tipo de trabajo).
+
+- **Control de disponibilidad:** Registra y consulta la disponibilidad del personal para asegurar que las campañas cuenten con los recursos humanos necesarios.
+
+- **Búsqueda y filtrado de trabajadores:** Proporciona herramientas para encontrar trabajadores según características específicas, como experiencia o habilidades, optimizando así la asignación.<br>
 
 
 ### 4.1.2. Context Mapping
 
-A continuación se presentan las relaciones estructurales entre bounded contextos.
+A continuación se presentan las relaciones estructurales entre bounded contexts. El esquema de relación presentado consta de los siguientes tipos de relaciones: Mutually Dependent, , Upstream (U) y Downstream(D). En primer lugar, el equipo Downstream depende del Upstream y debe adaptarse a sus cambios o decisiones. Por el contrario, el equipo Upstream es autónomo, lo cual le da más poder y control sobre su propio destino y en el orden de las operaciones del negocio. Por otro lado, los bounded context que son considerados mutually dependent necesitan comunicarse entre sí para garantizar que se ofrezca de manera exitosa un servicio.
 
-#### Context Map Patterns
 
-![alt text](./assets/context-map-pattern-customer-supplier.png)
 
-![alt text](./assets/context-map-pattern-parternship.png)
+### Context Map Patterns
+
+**Open / Host Service:** El patrón Open Host Service permite identificar y definir los servicios que estarán disponibles para sistemas externos que interactúan con el dominio. Su objetivo es facilitar la integración con sistemas externos sin comprometer la lógica interna del dominio. Esto resulta especialmente útil cuando el dominio expone funcionalidades que deben ser consumidas por múltiples clientes, ya sea dentro o fuera de la organización. Un ejemplo de ello es el Servicio de Asesoramiento Veterinario en Línea, el cual es requerido por el Bounded Context de Ranch Management para solicitar recomendaciones automatizadas o programar consultas de manera eficiente y estandarizada.
 
 ![alt text](./assets/context-map-pattern-open-host-service.png)
+<br>
 
+**Customer / Supplier:** Entre los Bounded Contexts de Campaign Management y Ranch Management se puede identificar el patrón Customer/Supplier. Este tipo de relación indica que Campaign Management actúa como cliente (customer) y Ranch Management como proveedor (supplier). En el contexto del negocio, esto es debido a que Campaign Management requiere de establos disponibles para ser utilizados durante una campaña. De forma similar, se observa la misma relación entre Ranch Management con el Servicio de Asesoramiento Veterinario en Línea y Campaign Management con el Servicio de Pronóstico del Clima como customer y supplier respectivamente. Este tipo de vínculo facilita la colaboración entre equipos y asegura que los servicios proporcionados respondan adecuadamente a las necesidades del contexto que los consume, promoviendo una mejor integración y alineación de objetivos.
+
+![alt text](./assets/context-map-pattern-customer-supplier.png)
+<br>
+
+**Partnership:**
+El patrón Partnership representa una relación de colaboración entre dos Bounded Contexts, en la cual ambos equipos trabajan de manera conjunta para coordinar el desarrollo y gestionar de forma compartida la integración entre sus sistemas. A diferencia de una relación jerárquica como Customer/Supplier, en una Partnership ambos equipos tienen responsabilidades equitativas y un interés mutuo en el éxito de la integración. Un claro ejemplo de este patrón se observa entre los Bounded Contexts de Staff Administration y Campaign Management. Ambos dominios dependen uno del otro para lograr objetivos como la desparasitación del ganado, control de peso, alimentación y entre otros. Es en base a ello que establecen procesos de comunicación y planificación conjuntos, asegurando que las decisiones de desarrollo se tomen de forma colaborativa y alineadas a las necesidades de ambas partes.
+
+![alt text](./assets/context-map-pattern-parternship.png)
+<br>
 
 ### 4.1.3. Software Architecture
 En esta sección, se presentan los diagramas C4 que describen la arquitectura del sistema VacApp, una solución integral para la gestión del ganado. Estos diagramas proporcionan una representación clara de cómo se organiza el sistema, cómo interactúan sus componentes y cómo se implementan en el entorno de ejecución.
@@ -1235,7 +1329,7 @@ El Component Level Diagram representa visualmente los principales componentes de
 #### 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams
 Este diagrama de clases detalla los elementos del Domain Layer para Campaign Management, modelando entidades, agregados, objetos de valor y sus relaciones. A través de esta representación, se puede visualizar cómo se estructuran los conceptos principales del dominio y qué responsabilidades tiene cada clase dentro del modelo de negocio. Es esencial para alinear el diseño técnico con la lógica del dominio.
 
-#FALTAAAAA
+![Campaign Management Layer Class Diagram](./assets/DiagramaClasesCampaign.png)
 
 #### 2.6.1.6.2. Bounded Context Database Design Diagram
 El Database Design Diagram ilustra la estructura de la base de datos correspondiente al contexto de campañas. Incluye tablas, relaciones, claves primarias y foráneas, reflejando cómo se almacenan los datos del dominio. Este diseño garantiza una persistencia coherente con la lógica del sistema, facilitando tanto el acceso eficiente a la información como la integridad de los datos a lo largo de las operaciones del sistema.
@@ -1418,7 +1512,7 @@ El Component Level Diagram de Staff Administration ofrece una visión estructura
 
 El Class Diagram del Domain Layer detalla las clases que definen el núcleo del modelo de negocio en la administración del personal. Incluye entidades como StaffMember, objetos de valor como EmployeeStatus y servicios de dominio encargados de las reglas críticas. Este diagrama ayuda a comprender la estructura del dominio y cómo se articulan sus elementos para cumplir los objetivos del sistema.
 
-<img src="./assets/Staff_Administration.png">  
+<img src="./assets/DiagramaClasesStaff.png">  
 
 ##### 4.2.3.6.2. Bounded Context Database Design Diagram
 
@@ -1426,17 +1520,17 @@ El Database Design Diagram de Staff Administration presenta la estructura de la 
 
 
 
-<img src="./assets/diagramaa.png">  
+<img src="./assets/StaffDatabaseDiagram.png">  
 
 |**Nombre**|**Descripción**|
 | :- | :- |
 |id|Identificador único del registro, generalmente una clave primaria.|
-|register|Fecha y hora en que se creó el registro.|
-|email|Dirección de correo electrónico del usuario.|
 |first\_name|Primer nombre del usuario.|
 |last\_name|Apellido del usuario.|
-|password|Contraseña del usuario (almacenada de forma segura, usualmente encriptada).|
-|name|Nombre de usuario único utilizado para iniciar sesión.|
+|job\_status|Estado del empleado.|
+|job\_description|Descripción del puesto a cargo del empleado|
+|dni|DNI del empleado|
+|email\_address|Dirección de correo electrónico del usuario.|
 
 
 ##  Conclusiones 
@@ -1453,13 +1547,14 @@ Durante el desarrollo se priorizó la interacción constante con los usuarios fi
 
 ##  Bibliografía
 
-- Evans, E. (2004). *Domain-Driven Design: Tackling Complexity in the Heart of Software*. Addison-Wesley.
-- Vernon, V. (2013). *Implementing Domain-Driven Design*. Addison-Wesley.
-- Poppendieck, M., & Poppendieck, T. (2003). *Lean Software Development: An Agile Toolkit*. Addison-Wesley.
 - Cohn, M. (2004). *User Stories Applied: For Agile Software Development*. Addison-Wesley.
-- Gothelf, J. (2013). *Lean UX: Applying Lean Principles to Improve User Experience*. O’Reilly Media.
+- Evans, E. (2004). *Domain-Driven Design: Tackling Complexity in the Heart of Software*. Addison-Wesley.
+- Evans, E. (2015). *Domain-Driven Design Reference: Definitions and Pattern Summaries*. Domain Language, Inc. https://www.domainlanguage.com/ddd/reference/
 - Fowler, M. (2003). *Patterns of Enterprise Application Architecture*. Addison-Wesley.
+- Gothelf, J. (2013). *Lean UX: Applying Lean Principles to Improve User Experience*. O’Reilly Media.
 - ISO/IEC/IEEE 12207:2017 – *Systems and software engineering – Software life cycle processes*.
+- Poppendieck, M., & Poppendieck, T. (2003). *Lean Software Development: An Agile Toolkit*. Addison-Wesley.
+- Vernon, V. (2013). *Implementing Domain-Driven Design*. Addison-Wesley.
 
 
 
