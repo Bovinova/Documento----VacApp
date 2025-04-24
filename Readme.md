@@ -32,13 +32,13 @@
 | Entregables | Fecha       | Autor                             | Descripción de modificación                                                                                      |  
 |-------------|-------------|-----------------------------------|------------------------------------------------------------------------------------------------------------------|  
 | TB1         | 06/04/2025    | Maycol Jhordan Rojas Velásquez   | Implementación de la estructuración del informe.                                                                 |  
-| TB1         | 07/04/2024  | Sergio André Gómez Vallejos       | Implementación de contenido en el Student Outcome   | 
-| TB1         | 07/04/2024  | Sergio André Gómez Vallejos       | Solution Profile y Antecendetes y problemática  |       
+| TB1         | 07/04/2025  | Sergio André Gómez Vallejos       | Implementación de contenido en el Student Outcome   | 
+| TB1         | 07/04/2025  | Sergio André Gómez Vallejos       | Solution Profile y Antecendetes y problemática  |       
 | TB1         | 07//04/2025    | Maycol Jhordan Rojas Velásquez   | Se agregó la descripción y los segmentos objetivos de la Startup.                                                |  
 | TB1         | 07//04/2025    | Maycol Jhordan Rojas Velásquez   | Implementación de los diagramas C4: contexto y contenedores.                                                     |
 | TB1         | 07/04/2025    | Gianfranco Durand   | Lean UX Process.                                                             |
-| TB1         | 09/04/2024  | Sergio André Gómez Vallejos       |  Competidores y Desarrollo del perfil de integrante  | 
-| TB1         | 09/04/2024  | Sergio André Gómez Vallejos       |  Analisis Competitivo  |
+| TB1         | 09/04/2025  | Sergio André Gómez Vallejos       |  Competidores y Desarrollo del perfil de integrante  | 
+| TB1         | 09/04/2025  | Sergio André Gómez Vallejos       |  Analisis Competitivo  |
 | TB1         | 09/04/2025  | Estrella del Pilar Ticona Panduro  | To-Be Scenario Mapping                             |
 | TB1         | 09/04/2025  | Estrella del Pilar Ticona Panduro  | User Stories                                        |
 | TB1         | 10/04/2025  | Estrella del Pilar Ticona Panduro  | Impact Mapping                                      |
@@ -51,7 +51,7 @@
 |TB1          |    16/04/2025   |  Piero Stephano Miranda Sinarahua  | Empathy Mapping                  |
 |TB1          |    16/04/2025   |  Piero Stephano Miranda Sinarahua  | As I Scenario Mapping            |
 |TB1          |    16/04/2025   |  Piero Stephano Miranda Sinarahua  | Ubiquitous Language              |
-| TB1         | 21/04/2024  | Sergio André Gómez Vallejos       | Registro de 1 entrevista del segmento objetivo Productores Ganadores independientes |
+| TB1         | 21/04/2025  | Sergio André Gómez Vallejos       | Registro de 1 entrevista del segmento objetivo Productores Ganadores independientes |
 | TB1         | 21/04/2025    | Gianfranco Durand   | Entrevista para el segmento 2.                                                |
 | TB1         | 21/04/2025  | Estrella del Pilar Ticona Panduro  | Application Layer                                   |
 | TB1         | 21/04/2025  | Estrella del Pilar Ticona Panduro  | Infrastructure Layer                                |
@@ -1424,8 +1424,6 @@ El Class Diagram del Domain Layer presenta una vista detallada de las clases pri
 
 ##### 4.2.2.6.2. Bounded Context Database Design Diagram
 
-![DatabaseDiagram](assets/DiagramaDatabaseRanch.JPG)
-
 <img src="./assets/ranch.png" alt="db_ranch_diagram">
 
 |**Nombre**|**Descripción**|
@@ -1561,4 +1559,4 @@ Durante el desarrollo se priorizó la interacción constante con los usuarios fi
 
 
 ##  Anexos
-[Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f640_upc_edu_pe/ER8vI9Lup6RAgZfHhoOU040BJfcx91lCki00DuO4pL4-rw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=zGqxMY): https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f640_upc_edu_pe/ER8vI9Lup6RAgZfHhoOU040BJfcx91lCki00DuO4pL4-rw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=zGqxMY
+[Entrevistas](https://shorturl.at/F1HUB): https://shorturl.at/F1HUB
