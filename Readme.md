@@ -133,8 +133,9 @@ necesario, utilizando estrategias de aprendizaje apropiadas.
 
 | **Criterio específico** | **Acciones realizadas** | **Conclusiones** |  
 |-------------------------|------------------------|------------------|  
-| Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software | 1. Gómez Vallejos, Sergio André ------ <br><br> 2. Rojas Velasquez, Maycol Jhordan: Aplicó los conocimientos necesarios para el proyecto, desarrollando los diagramas C4 y definiendo el segmento objetivo.<br><br> 3. Aranda Vallejos, Oscar Gabriel <br> TB1 <br> Participé en el proceso del eventstorming, actualizando los conceptos y técnicas aprendidas del Domain Driven Design.<br><br>4. Ticona Panduro, Estrella del Pilar: TB1 Actualicé conceptos clave al diseñar entrevistas y realizar una con productores ganaderos, aplicando técnicas de investigación de usuario. A través del To Be Scenario Mapping, User Stories, Impact Mapping y Product Backlog, reforcé conocimientos en metodologías ágiles y diseño centrado en el usuario. Además, al desarrollar el Bounded Context, las capas de arquitectura (Application, Infrastructure, Domain), diagramas de clases y diseño de base de datos, fortalecí mi dominio en modelado de software y arquitectura orientada al dominio.n el desarrollo del proyecto de soluciones de software, llevé a cabo una serie de actividades clave que reflejan el compromiso con la actualización de conocimientos y el aprendizaje continuo. Estas acciones incluyeron: Diseño de entrevistas, una entrevista del segmento 1 (Productores Ganadores independientes), To be Scenario Mapping, User Stories, Impact Mapping, Product Backlog, Bounded Context: Staff administration, Application Layer, Infrastructure Layer, Bounded Context Domain Layer Class Diagrams y Bounded Context Database Design Diagram.Las actividades desarrolladas me permitieron actualizar conocimientos esenciales para mi crecimiento profesional, especialmente en metodologías ágiles, diseño centrado en el usuario y arquitectura de software. Esto refuerza mi capacidad para abordar proyectos tecnológicos con una base técnica actualizada y alineada a las mejores prácticas del sector.<br><br>5. Durand Vera, Gianfranco Angel: <br>TB1 <br> Realice las capas de Domain e Interface, además de el Component Level Diagrams, para el Bounded Context Staff Administration, asi como entrevistas hacia el segundo segmento <br><br> 6. Miranda Sinarahua, Piero Stephano ------ <br><br> |------- |  
-| Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software |  1. Gómez Vallejos, Sergio André ------ <br><br> 2. Rojas Velasquez, Maycol Jhordan: Desarrollé los temas alcanzados en los ciclos anteriores, lo que me permitió adquirir conocimientos sólidos sobre el tema y realizarlos correctamente.<br><br> 3. Aranda Vallejos, Oscar Gabriel <br> TB1 <br> Participé en el proceso del eventstorming, actualizando los conceptos y técnicas aprendidas del Domain Driven Design.<br><br>4. Ticona Panduro, Estrella del Pilar:  Reconocí la necesidad del aprendizaje permanente al enfrentar retos que exigieron investigar nuevas herramientas y enfoques, como la validación de usuarios, metodologías ágiles y principios de diseño de software moderno. La evolución constante del proyecto me impulsó a seguir aprendiendo para tomar mejores decisiones técnicas y aportar soluciones más efectivas y alineadas con las necesidades del usuario. A lo largo del proyecto confirmé que el aprendizaje permanente es fundamental en el desarrollo de software, ya que cada etapa presentó nuevos desafíos que me motivaron a investigar, adaptarme y mejorar. Este proceso me permitió evolucionar como profesional comprometido con la mejora continua y con la entrega de soluciones efectivas.<br><br> 5. Durand Vera, Gianfranco Angel: <br>TB1 <br> Durante esta entrega, comprendí la importancia del aprendizaje permanente en mi desarrollo profesional y en la creación de soluciones de software efectivas. Al desarrollar declaraciones de problemas y suposiciones bajo Lean UX, reforcé mi compromiso con la actualización constante de conocimientos para garantizar que cada proyecto se ejecute con la máxima eficiencia y calidad.<br><br> 6. Miranda Sinarahua, Piero Stephano ------ <br><br> | ---- |
+| Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software | 1. Gómez Vallejos, Sergio André ------ <br><br> 2. Rojas Velasquez, Maycol Jhordan: Aplicó los conocimientos necesarios para el proyecto, desarrollando los diagramas C4 y definiendo el segmento objetivo.<br><br> 3. Aranda Vallejos, Oscar Gabriel <br> TB1 <br> Participé en el proceso del eventstorming, actualizando los conceptos y técnicas aprendidas del Domain Driven Design.<br><br>4. Ticona Panduro, Estrella del Pilar: TB1 Actualicé conceptos clave al diseñar entrevistas y realizar una con productores ganaderos, aplicando técnicas de investigación de usuario. A través del To Be Scenario Mapping, User Stories, Impact Mapping y Product Backlog, reforcé conocimientos en metodologías ágiles y diseño centrado en el usuario. Además, al desarrollar el Bounded Context, las capas de arquitectura (Application, Infrastructure, Domain), diagramas de clases y diseño de base de datos, fortalecí mi dominio en modelado de software y arquitectura orientada al dominio.n el desarrollo del proyecto de soluciones de software, llevé a cabo una serie de actividades clave que reflejan el compromiso con la actualización de conocimientos y el aprendizaje continuo. Estas acciones incluyeron: Diseño de entrevistas, una entrevista del segmento 1 (Productores Ganadores independientes), To be Scenario Mapping, User Stories, Impact Mapping, Product Backlog, Bounded Context: Staff administration, Application Layer, Infrastructure Layer, Bounded Context Domain Layer Class Diagrams y Bounded Context Database Design Diagram.Las actividades desarrolladas me permitieron actualizar conocimientos esenciales para mi crecimiento profesional, especialmente en metodologías ágiles, diseño centrado en el usuario y arquitectura de software. Esto refuerza mi capacidad para abordar proyectos tecnológicos con una base técnica actualizada y alineada a las mejores prácticas del sector.<br><br>5. Durand Vera, Gianfranco Angel: <br>TB1 <br> Realice las capas de Domain e Interface, además de el Component Level Diagrams, para el Bounded Context Staff Administration, asi como entrevistas hacia el segundo segmento <br><br> 6. Miranda Sinarahua, Piero Stephano: Estuve encargado de realizar secciones dentro del Needfinding, entre estos estan el desarrollo de los user persona, task matrix, journey mapping, empathy mapping y as is scenario mapping. Al igual que reuní informacion clave dentro de una entrevista realizada, lo cual sirvió para obtener datos que serían útil durante el proceso de desarrollo. <br><br> |------- |  
+| Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software |  1. Gómez Vallejos, Sergio André ------ <br><br> 2. Rojas Velasquez, Maycol Jhordan: Desarrollé los temas alcanzados en los ciclos anteriores, lo que me permitió adquirir conocimientos sólidos sobre el tema y realizarlos correctamente.<br><br> 3. Aranda Vallejos, Oscar Gabriel <br> TB1 <br> Participé en el proceso del eventstorming, actualizando los conceptos y técnicas aprendidas del Domain Driven Design.<br><br>4. Ticona Panduro, Estrella del Pilar:  Reconocí la necesidad del aprendizaje permanente al enfrentar retos que exigieron investigar nuevas herramientas y enfoques, como la validación de usuarios, metodologías ágiles y principios de diseño de software moderno. La evolución constante del proyecto me impulsó a seguir aprendiendo para tomar mejores decisiones técnicas y aportar soluciones más efectivas y alineadas con las necesidades del usuario. A lo largo del proyecto confirmé que el aprendizaje permanente es fundamental en el desarrollo de software, ya que cada etapa presentó nuevos desafíos que me motivaron a investigar, adaptarme y mejorar. Este proceso me permitió evolucionar como profesional comprometido con la mejora continua y con la entrega de soluciones efectivas.<br><br> 5. Durand Vera, Gianfranco Angel: <br>TB1 <br> Durante esta entrega, comprendí la importancia del aprendizaje permanente en mi desarrollo profesional y en la creación de soluciones de software efectivas. Al desarrollar declaraciones de problemas y suposiciones bajo Lean UX, reforcé mi compromiso con la actualización constante de conocimientos para garantizar que cada proyecto se ejecute con la máxima eficiencia y calidad.<br><br> 6. Miranda Sinarahua, Piero Stephano: Tomé en cuenta la importancia de adquirir e implementar nuevos conocimientos con el fin de lograr un desarrollo superior dentro de las tareas asignadas.<br><br> | ---- |
+
 
 # OBJETIVOS SMART
 | Estudiante                             | Objetivo SMART                                                                                                                                                                                                                          |
@@ -143,6 +144,7 @@ necesario, utilizando estrategias de aprendizaje apropiadas.
 | Gianfranco Durand Vera                 | Mi objetivo es profundizar en el uso de la arquitectura clean en el desarrollo de aplicaciones móviles con el fin de construir aplicaciones robustas y escalables que mejoren la experiencia de usuario y la eficiencia de los productos digitales. |
 | Estrella del Pilar Ticona Panduro      | Al finalizar este curso, quiero haber fortalecido mis habilidades técnicas y profesionales en el área del desarrollo y diseño de aplicaciones móviles, logrando aplicar los conocimientos adquiridos en al menos un proyecto funcional, con el fin de especializarme en esta rama y mejorar mi perfil profesional en los próximos 6 meses. |
 |Oscar Gabriel Aranda Vallejos | Mi objetivo es poder especializarme en el desarrollo web full stack, integrando tecnologías emergentes para crear soluciones innovadoras que impacten positivamente en la sociedad. Para ello continuaré aprendiendo y participando en proyectos de desarrollo de aplicaciones web.
+|Piero Stephano Miranda Sinarahua | Mi objetivo es desarrollar en un plazo de 3 meses una version funcional de un aplicativo movil el cual este destinado a mejorar la experiencia de los usuarios objetivos, implementando por lo menos las funcionalidades principales que se plantearan, esto con el fin de incrementar la eficiencia y autonomia. 
 
 
 # 1. CAPÍTULO I: Presentacion
@@ -183,7 +185,7 @@ Nos esforzamos por ofrecer una plataforma integral que empodere a los ganaderos 
 |<img src="https://hackmd.io/_uploads/B1F_iuso0.jpg" alt="yo-3" style="width: 600px ; height: 200px;">|Maycol Jhordan Rojas Velasquez – Ingeniería de Software – u202219984<br>Elegí la carrera de Ingeniería de Software debido a mi gusto por la innovación y la implementación de la tecnología en cualquier rubro  social, de una manera creativa y en todos los aspectos. Me considero una persona creativa, en busca de ideas, estrategias con mente nueva. También me gusta escuchar ideas de mi equipo, dar ideas de mejora, evaluar las ventajas y desventajas . Además, tengo conocimientos de programación en C + +, HTML, Python,Angular,Backend en Java. Además, Tengo un enfoque responsable y dedicado mediante un aprendizaje rápido así puedo ayudar a mis compañeros en sus dudas. Por otro lado, mis hobbies son ver series, jugar , escuchar música, nadar y  manejar.|
 | <img src="./assets/estrella.jpeg">|Ticona Panduro, Estrella del Pilar - U202210659  <br> actualmente estudio la carrera de Ingeniería de Software en UPC. Opté por estudiar esta carrera porque me interesa programar y crear diferentes aplicativos o programas y emplearlo en la salud. En mis tiempos libres me gusta ver series o películas. Mi compromiso es aportar ideas innovadoras a lo largo del curso, en especial en las tareas en equipo. Mis habilidades son tener una actitud positiva, entusiasta y responsable. | 
 | <img src="assets/franco.jpg" style="width: 600px ; height: 200px;" > | Durand Vera, Gianfranco Angel - U20201f640 <br> Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, actualmente me encuentro en el septimo ciclo, escogí esta carrera porque me gusta mucho la programación. Tengo experiencia en lenguajes de programación como C#, Python, Kotlin y TypeScript.|
-|![Piero]()| Miranda Sinarahua, Piero Stephano - U20181g752 <br> | 
+|![Piero](assets/piero.jpg)| Miranda Sinarahua, Piero Stephano - U20181g752 <br> Estudiante de la carrera de Ingeniería de Software. Considero que soy una persona responsable y que puedo aportar al equipo en cualquier aspecto que se requiera. De igual manera, siento que los conocimientos que he ido adquiriendo en ciclos anteriores serán de gran ayuda para llevar a cabo el presente trabajo. | 
 
 
 ## 1.2. Solution Profile
@@ -361,7 +363,6 @@ VacApp se orienta a mejorar la eficiencia y sostenibilidad en empresas ganaderas
 
 ### 2.2.2. Registro de entrevistas
 
-
 ## Segmento 1: Productores Ganadores independientes:
 
 *Entrevistado:* Luis Raimundo <br>
@@ -377,6 +378,20 @@ VacApp se orienta a mejorar la eficiencia y sostenibilidad en empresas ganaderas
 
 Luis Raimundo, estudiante de cuarto año de Medicina Veterinaria con experiencia empírica y académica en la crianza de bovinos, comparte su experiencia en la gestión de una ganadería familiar en Oxapampa. Comenzó en el sector hace seis o siete años, primero de forma práctica con veterinarios y luego con enfoque más técnico por su formación académica. En cuanto al manejo, adapta la alimentación según el propósito del animal (leche o carne), implementa protocolos sanitarios como desinfección, control de parásitos y suplementación vitamínica, y ha evolucionado del registro manual a hojas de cálculo en Excel, aunque la falta de organización sigue siendo un desafío importante.
 Luis considera valiosa una aplicación especializada para la gestión ganadera que incluya notificaciones sobre la salud animal, registros históricos de enfermedades, seguimiento del ciclo productivo de cada lote y programación de tareas con recordatorios. También destaca la importancia de centralizar la información sobre alimentación con detalles de cantidades y tipos de alimento. Los beneficios principales que espera de una solución como "VacApp" son: mejor organización del fundo, mayor control sanitario para reducir pérdidas por enfermedades y gestión más eficiente del alimento para optimizar gastos, elementos clave para la digitalización del manejo ganadero y el fortalecimiento de la productividad rural.
+
+Entrevistado : Jorge Torres
+
+Edad: 50 años
+
+Experiencia en la ganaderia: 30 años
+
+
+![GanaderoIndependienteJorge](assets/EntrevistaGanaderoIndependienteJorge.JPG)
+
+*Resumen:* 
+
+El señor Jorge, ganadero desde hace ya varios años, cuenta como desde muy joven estuvo involucrado en temas ganaderos. Él habla acerca de como realiza la mayor parte de la gestion de su negocio por cuenta propia, desde el ciudado de la alimentacion de sus ganados, al igual que actividades de salud o limpieza que garanticen el bienestar de los animales. Tambien habla acerca de como lleva un registro de las actividades que realiza de manera tradicional, empleando un cuaderno de apuntes. Él considera que enfrenta varios desafios dentro de su negocio, como por ejemplo una falta de organizacion y eficiencia dentro del control de los ganados, que no cuenta con ayuda profesional, y que ciertos factores externos como el clima no siempre estan a su favor. Considera que una aplicacion movil podria ser de gran ayuda, y si contara con funciones que le ayudaran a superar esas dificultades que menciona, podria hacer crecer aun mas su negocio y volverlo mas rentable con el tiempo.
+
 
 ## Segmento 2: Productores Ganadores independientes:
 
@@ -416,12 +431,68 @@ Para la interacción con proveedores, ve útil una plataforma que facilite la co
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
+Para construir nuestros User Persona, nos basamos en la información obtenida y analizada a partir de las entrevistas realizadas. Se identificó que ambos segmentos debían estar representados por perfiles masculinos.
+A partir de las respuestas recopiladas, se elaboró un User Persona que refleja los objetivos, motivaciones y frustraciones más comunes entre los participantes.
+Finalmente, se realizó un análisis que permitió definir los valores y habilidades que resume las características más destacadas de cada uno de los segmentos definidos.
+
+**Segmento Ganadero Independiente**
+![UserPersonaGanadero](assets/UserPersonaGanaderoIndependiente.png)
+
+**Segmento Empresa Ganadera**
+![UserPersonaEmpresa](assets/UserPersonaEmpresaGanadera.png)
+
 ### 2.3.2. User Task Matrix
+
+| Tarea                                       | Ganadero Independiente                       | Empresa Ganadera                          |
+|---------------------------------------------|----------------------------------------------|-------------------------------------------|
+| Registrar nuevos animales                   | Alta (Manualmente con papel y lápiz)        | Alta (Manualmente con registros en cuadernos) |
+| Controlar la alimentación del ganado        | Alta (Registro manual en cuadernos)          | Alta (Registro manual en registros de alimentación) |
+| Programar citas con el veterinario          | Media (Llamadas telefónicas)                | Alta (Agenda manual de citas)             |
+| Gestionar vacunaciones                      | Alta (Registro manual en registros de vacunación) | Alta (Registro manual en cuadernos de vacunación) |
+| Realizar seguimiento del estado de salud    | Alta (Observación manual del ganado)        | Alta (Registro manual de síntomas y signos) |
+| Verificar el pronóstico del tiempo          | Media (Consultando en línea o escuchando el pronóstico) | Alta (Consultando en línea o por radio) |
+| Consultar información sobre razas de ganado| Media (Investigación en línea o en libros)  | Alta (Investigación en línea o en libros) |
+| Mantenimiento de infraestructura y equipos  | Alta (Reparaciones manuales y limpieza)     | Alta (Reparaciones manuales y limpieza)   |
+| Manejo de la reproducción y cría de ganado | Alta (Observación y gestión manual del ciclo reproductivo) | Alta (Observación y gestión manual del ciclo reproductivo) |
+| Registro de movimientos de ganado           | Alta (Registro manual de traslados, compra y venta) | Alta (Registro manual de traslados, compra y venta) |
+
 ### 2.3.3. User Journey Mapping
+
+**Journey Map for Ganadero Indepeniente**
+![JourneyMapGanaderoIndependiente](assets/GanaderoIndependienteJourneyMap.png)
+
+**Journey Map for Empresa Ganadera**
+![JourneyMapEmpresaGanadera](assets/EmpresaGanaderaJourneyMap.png)
+
 ### 2.3.4. Empathy Mapping
+
+**Empathy Map for Ganadero Indepeniente**
+![EmpathyMapGanaderoIndependiente](assets/EmpathyMapGanaderoIndependiente.png)
+
+**Empathy Map for Empresa Ganadera**
+![EmpathyMapEmpresaGanadera](assets/EmpathyMapEmpresaGanadera.png)
+
 ### 2.3.5. As-is Scenario Mapping
 
+![AsIsScenarioMap](assets/AsIsScenarioMapping.jpg)
+
 ## 2.4. Ubiquitous Language
+
+| Palabra                         | Descripción                                                                                                                                                     |
+|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Animal Health (Salud Animal) | Mantener la salud y prevenir enfermedades en el ganado.                                                                                                       |
+| Balanced Feeding (Alimentación Equilibrada) | Proporcionar una dieta equilibrada que cumpla con los requisitos nutricionales específicos de los animales.                                                    |
+| Artificial Insemination (Inseminación Artificial) | Introducir esperma en el tracto reproductivo de una hembra sin necesidad de apareamiento natural.                                                             |
+| Rectal Palpation (Palpación Rectal) | Examen para evaluar la condición reproductiva de una hembra, especialmente en el ganado vacuno.                                                               |
+| Deworming (Desparasitación) | Administrar medicamentos antiparasitarios para controlar y prevenir la infestación de parásitos internos y externos en el ganado.                              |
+| Branding (Marcado) | Identificación de ganado mediante la aplicación de un sello metálico caliente en la piel del animal.                                                          |
+| Weaning (Destete) | Separación gradual de los terneros de sus madres para cesar la lactancia y promover la independencia alimentaria.                                             |
+| Grazing Rotation (Rotación de Pastoreo) | Mover el ganado entre diferentes áreas de pastoreo para optimizar el uso del suelo y prevenir el sobrepastoreo.                                               |
+| Dystocia (Distocia) | Dificultades durante el parto que pueden requerir intervención veterinaria.                                                                                   |
+| Dusting (Aplicación de Polvos) | Aplicación de insecticidas en polvo o en aerosol sobre el pelaje del ganado para controlar infestaciones de insectos y parásitos externos.                    |
+| Campaign (Campaña) | Período durante el cual se llevan a cabo actividades específicas en la gestión de ganadería, con objetivos definidos y metas establecidas.                   |
+| Batch (Lote) | Grupo de animales criados o tratados juntos, que se manejan y monitorean como una unidad durante un período específico de tiempo.                              |
+| Fumigation (Fumigación) | Aplicación de productos químicos o biológicos para eliminar o controlar plagas, insectos, parásitos o enfermedades en el ganado y su entorno.                |
 
 # 3. CAPÍTULO III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
@@ -802,7 +873,6 @@ Los Deployment Diagrams (diagramas de despliegue) forman parte de la arquitectur
 
 ## 4.2. Tactical-Level Domain-Driven Design
 
-
 # 4.2.1. Bounded Context: Campaign Management
 En el contexto de VacApp, el módulo de Campaign Management representa una parte clave del sistema encargada de la creación, organización y seguimiento de campañas de comunicación, capacitación y promoción dirigidas a los ganaderos. Estas campañas pueden abarcar desde campañas educativas sobre buenas prácticas ganaderas, hasta promociones de nuevas funcionalidades de la app o actividades colaborativas dentro de la comunidad ganadera.
 
@@ -868,6 +938,11 @@ Este bounded context se encarga de modelar el ciclo de vida completo de una camp
 
 
 # 4.2.2. Bounded Context: Ranch Management 
+
+En el contexto de VacApp, el módulo de Ranch Management constituye un pilar fundamental del sistema, orientado a la gestión integral de los registros de bovinos y sus respectivas vacunaciones. Este bounded context permite a los ganaderos mantener un control preciso y actualizado sobre su ganado, asegurando la trazabilidad sanitaria y la preparación para auditorías e inspecciones relacionadas a próximas campañas.
+
+Dentro de este módulo se modelan y gestionan los procesos clave para la operación ganadera, como el alta, edición y eliminación de registros de animales y vacunas, así como la asignación de bovinos a establos específicos y la creación de registros de establos. Esto permite mantener una base de datos confiable, estructurada y adaptable a las particularidades de cada unidad productiva. Además, la información registrada en este contexto se integra con otras áreas del sistema, como Campaign Management, permitiendo seleccionar animales específicos para campañas de vacunación u otras acciones estratégicas.
+
 ### 4.2.2.1. Domain Layer
 
 | Clase             | Tipo               | Propósito                                                                 | Atributos                                                                                       |
@@ -923,8 +998,26 @@ Este bounded context se encarga de modelar el ciclo de vida completo de una camp
 ![Ranch Management Containers](./assets/Ranch-Management-Components.png)
 
 ### 4.2.2.6. Bounded Context Software Architecture Code Level Diagrams
-### 4.2.2.6.1. Bounded Context Domain Layer Class Diagrams
-### 2.6.2.6.2. Bounded Context Database Design Diagram
+##### 4.2.2.6.1. Bounded Context Domain Layer Class Diagrams
+
+![ClassDiagram](assets/DiagramaClasesRanch.JPG)
+
+##### 4.2.2.6.2. Bounded Context Database Design Diagram
+
+![DatabaseDiagram](assets/DiagramaDatabaseRanch.JPG)
+
+|**Nombre**|**Descripción**|
+| :- | :- |
+|ID|Identificador único de registro usado como clave primaria|
+|Name|Nombre del animal|
+|Birthday|Fecha de nacimiento del animal|
+|Birth\_place|Lugar de Nacimiento del animal|
+|Gender|Genero del animal|
+|Breed|Raza del animal|
+|Location|Lugar donde se ubica el animal|
+|Parent\_ID|Identificar de registro de la madre del animal|
+|Expire_date|Fecha de expiracion de la identificacion del bovino|
+|Animal_ID|Identificar de registro de la madre del animal|
 
     
 
@@ -988,7 +1081,6 @@ Este bounded context se encarga de modelar el ciclo de vida completo de una camp
 |last\_name|Apellido del usuario.|
 |password|Contraseña del usuario (almacenada de forma segura, usualmente encriptada).|
 |name|Nombre de usuario único utilizado para iniciar sesión.|
-
 
 
 
