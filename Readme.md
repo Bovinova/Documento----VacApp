@@ -56,6 +56,14 @@
 | TB1         | 21/04/2025  | Estrella del Pilar Ticona Panduro  | Infrastructure Layer                                |
 | TB1         | 21/04/2025  | Estrella del Pilar Ticona Panduro  | Bounded Context Domain Layer Class Diagrams         |
 | TB1         | 21/04/2025  | Estrella del Pilar Ticona Panduro  | Bounded Context Database Design Diagram             |
+|TB1          |  15/04/2025   |  Piero Miranda   | User Personas                     |
+|TB1          |    15/04/2025   |  Piero Miranda  | User Task Matrix                 |
+|TB1          |    15/04/2025   |  Piero Miranda  |  User Joruney Mapping            |
+|TB1          |    16/04/2025   |  Piero Miranda  | Empathy Mapping                  |
+|TB1          |    16/04/2025   |  Piero Miranda  | As I Scenario Mapping            |
+|TB1          |    16/04/2025   |  Piero Miranda  | Ubiquitous Language              |
+|TB1          |   23/04/2025   |  Piero Miranda  |  Bounded Context Domain Layer Class Diagram  |
+|TB1          |   23/04/2025  |   Piero Miranda  |  Bounded Context Database Design Diagram     |
 
 
 **Project Report Collaboration Insights**
