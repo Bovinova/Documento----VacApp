@@ -1145,8 +1145,6 @@ Dentro de este módulo se modelan y gestionan los procesos clave para la operaci
 
 ##### 4.2.2.6.2. Bounded Context Database Design Diagram
 
-![DatabaseDiagram](assets/DiagramaDatabaseRanch.JPG)
-
 <img src="./assets/ranch.png" alt="db_ranch_diagram">
 
 |**Nombre**|**Descripción**|
