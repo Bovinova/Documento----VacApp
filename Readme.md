@@ -479,7 +479,15 @@ El Bounded Context Canvas es una herramienta visual del Domain-Driven Design (DD
 
 ### 4.1.2. Context Mapping
 
-<!--  -->
+A continuación se presentan las relaciones estructurales entre bounded contextos.
+
+#### Context Map Patterns
+
+![alt text](./assets/context-map-pattern-customer-supplier.png)
+
+![alt text](./assets/context-map-pattern-parternship.png)
+
+![alt text](./assets/context-map-pattern-open-host-service.png)
 
 
 ### 4.1.3. Software Architecture
