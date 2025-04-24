@@ -35,8 +35,7 @@
 | TB1         | 23/08/2024  | Sergio André Gómez Vallejos       | Solution Profile y Antecendetes y problemática  | 
 | TB1         | 23/08/2024  | Sergio André Gómez Vallejos       |  Competidores y Desarrollo del perfil de integrante  | 
 | TB1         | 23/08/2024  | Sergio André Gómez Vallejos       |  Analisis Competitivo  |  
-| TB1         | 24/08/2024  | Sergio André Gómez Vallejos       | Registro de 1 entrevista del segmento objetivo Productores Ganadores independientes |  
-|-------------|-------------|----------------------------------|------------------------------------------------------------------------------------------------------------------|  
+| TB1         | 24/08/2024  | Sergio André Gómez Vallejos       | Registro de 1 entrevista del segmento objetivo Productores Ganadores independientes |    
 | TB1         | 6/4/2025    | Maycol Jhordan Rojas Velásquez   | Implementación de la estructuración del informe.                                                                 |  
 | TB1         | 7/4/2025    | Maycol Jhordan Rojas Velásquez   | Se agregó la descripción y los segmentos objetivos de la Startup.                                                |  
 | TB1         | 7/4/2025    | Maycol Jhordan Rojas Velásquez   | Implementación de los diagramas C4: contexto y contenedores.                                                     |  
@@ -44,7 +43,6 @@
 | TB1         | 23/4/2025   | Maycol Jhordan Rojas Velásquez   | Agregado parcial del bounded context "Campaign".                                                                 |  
 | TB1         | 23/4/2025   | Maycol Jhordan Rojas Velásquez   | Agregado parcial del bounded context "Ranch".                                                                    |  
 | TB1         | 23/4/2025   | Maycol Jhordan Rojas Velásquez   | Agregado del "Student Outcome".                                                                                    |  
-|-------------|-------------|-----------------------------------|------------------------------------------------------------------------------------------------------------------|
 | TB1         | 7/4/2025    | Gianfranco Durand   | Lean UX Process.                                                             |  
 | TB1         | 23/4/2025    | Gianfranco Durand   | Bounded Context Staff Administration: Domain Layer, Interface Layer, Component Level Diagrams|  
 | TB1         | 21/4/2025    | Gianfranco Durand   | Entrevista para el segmento 2.                                                |  
@@ -62,9 +60,9 @@
 
 **Project Report Collaboration Insights**
 
+
 ### URL del Repositorio 
 https://github.com/orgs/Bovinova/repositories
-
 
 
 <p style="text-align: center; font-weight: bold;">
@@ -116,15 +114,33 @@ https://github.com/orgs/Bovinova/repositories
          4.1.3.2. [Software Architecture Container Level Diagrams](#software-architecture-container-level-diagrams) <br>
          4.1.3.3. [Software Architecture Deployment Diagrams](#software-architecture-deployment-diagrams) <br>
    4.2. [Tactical-Level Domain-Driven Design](#tactical-level-domain-driven-design) <br>
-      4.2.X. [Bounded Context: &lt;Bounded Context Name&gt;](#bounded-context-bounded-context-name) <br>
-         4.2.X.1. [Domain Layer](#domain-layer) <br>
-         4.2.X.2. [Interface Layer](#interface-layer) <br>
-         4.2.X.3. [Application Layer](#application-layer) <br>
-         4.2.X.4. [Infrastructure Layer](#infrastructure-layer) <br>
-         4.2.X.5. [Bounded Context Software Architecture Component Level Diagrams](#bounded-context-software-architecture-component-level-diagrams) <br>
-         4.2.X.6. [Bounded Context Software Architecture Code Level Diagrams](#bounded-context-software-architecture-code-level-diagrams) <br>
-            4.2.X.6.1. [Bounded Context Domain Layer Class Diagrams](#bounded-context-domain-layer-class-diagrams) <br>
-            4.2.X.6.2. [Bounded Context Database Design Diagram](#bounded-context-database-design-diagram) <br>
+      4.2.1. [Bounded Context: Campaign Managment](#bounded-context-bounded-context-name) <br>
+         4.2.1.1. [Domain Layer](#domain-layer) <br>
+         4.2.1.2. [Interface Layer](#interface-layer) <br>
+         4.2.1.3. [Application Layer](#application-layer) <br>
+         4.2.1.4. [Infrastructure Layer](#infrastructure-layer) <br>
+         4.2.1.5. [Bounded Context Software Architecture Component Level Diagrams](#bounded-context-software-architecture-component-level-diagrams) <br>
+         4.2.1.6. [Bounded Context Software Architecture Code Level Diagrams](#bounded-context-software-architecture-code-level-diagrams) <br>
+            4.2.1.6.1. [Bounded Context Domain Layer Class Diagrams](#bounded-context-domain-layer-class-diagrams) <br>
+            4.2.1.6.2. [Bounded Context Database Design Diagram](#bounded-context-database-design-diagram) <br>
+            4.2.2. [Bounded Context: Ranch Managment](#bounded-context-bounded-context-name) <br>
+         4.2.2.1. [Domain Layer](#domain-layer) <br>
+         4.2.2.2. [Interface Layer](#interface-layer) <br>
+         4.2.2.3. [Application Layer](#application-layer) <br>
+         4.2.2.4. [Infrastructure Layer](#infrastructure-layer) <br>
+         4.2.2.5. [Bounded Context Software Architecture Component Level Diagrams](#bounded-context-software-architecture-component-level-diagrams) <br>
+         4.2.2.6. [Bounded Context Software Architecture Code Level Diagrams](#bounded-context-software-architecture-code-level-diagrams) <br>
+            4.2.2.6.1. [Bounded Context Domain Layer Class Diagrams](#bounded-context-domain-layer-class-diagrams) <br>
+            4.2.2.6.2. [Bounded Context Database Design Diagram](#bounded-context-database-design-diagram) <br>
+            4.2.3. [Bounded Context: Staff Administration ](#bounded-context-bounded-context-name) <br>
+         4.2.2.1. [Domain Layer](#domain-layer) <br>
+         4.2.2.2. [Interface Layer](#interface-layer) <br>
+         4.2.2.3. [Application Layer](#application-layer) <br>
+         4.2.2.4. [Infrastructure Layer](#infrastructure-layer) <br>
+         4.2.2.5. [Bounded Context Software Architecture Component Level Diagrams](#bounded-context-software-architecture-component-level-diagrams) <br>
+         4.2.2.6. [Bounded Context Software Architecture Code Level Diagrams](#bounded-context-software-architecture-code-level-diagrams) <br>
+            4.2.2.6.1. [Bounded Context Domain Layer Class Diagrams](#bounded-context-domain-layer-class-diagrams) <br>
+            4.2.2.6.2. [Bounded Context Database Design Diagram](#bounded-context-database-design-diagram) <br>
 
 
    # STUDENT OUTCOME
@@ -139,8 +155,8 @@ necesario, utilizando estrategias de aprendizaje apropiadas.
 
 | **Criterio específico** | **Acciones realizadas** | **Conclusiones** |  
 |-------------------------|------------------------|------------------|  
-| Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software |  1. Gómez Vallejos, Sergio André: desarrollo de secciones clave como el Solution Profile, Antecedentes y problemática, el análisis de Competidores, y el Análisis competitivo. También realicé el Tactical-Level Domain-Driven Design y el Bounded Context Database Design Diagram. Para ello, estudié conceptos de diseño táctico, arquitectura basada en dominios y modelado de datos. <br><br> 2. Rojas Velasquez, Maycol Jhordan: Aplicó los conocimientos necesarios para el proyecto, desarrollando los diagramas C4 y definiendo el segmento objetivo.<br><br> 3. Aranda Vallejos, Oscar Gabriel <br> TB1 <br> Participé en el proceso del eventstorming, actualizando los conceptos y técnicas aprendidas del Domain Driven Design.<br><br>4. Ticona Panduro, Estrella del Pilar: TB1 Actualicé conceptos clave al diseñar entrevistas y realizar una con productores ganaderos, aplicando técnicas de investigación de usuario. A través del To Be Scenario Mapping, User Stories, Impact Mapping y Product Backlog, reforcé conocimientos en metodologías ágiles y diseño centrado en el usuario. Además, al desarrollar el Bounded Context, las capas de arquitectura (Application, Infrastructure, Domain), diagramas de clases y diseño de base de datos, fortalecí mi dominio en modelado de software y arquitectura orientada al dominio.n el desarrollo del proyecto de soluciones de software, llevé a cabo una serie de actividades clave que reflejan el compromiso con la actualización de conocimientos y el aprendizaje continuo. Estas acciones incluyeron: Diseño de entrevistas, una entrevista del segmento 1 (Productores Ganadores independientes), To be Scenario Mapping, User Stories, Impact Mapping, Product Backlog, Bounded Context: Staff administration, Application Layer, Infrastructure Layer, Bounded Context Domain Layer Class Diagrams y Bounded Context Database Design Diagram.Las actividades desarrolladas me permitieron actualizar conocimientos esenciales para mi crecimiento profesional, especialmente en metodologías ágiles, diseño centrado en el usuario y arquitectura de software. Esto refuerza mi capacidad para abordar proyectos tecnológicos con una base técnica actualizada y alineada a las mejores prácticas del sector.<br><br>5. Durand Vera, Gianfranco Angel: <br>TB1 <br> Realice las capas de Domain e Interface, además de el Component Level Diagrams, para el Bounded Context Staff Administration, asi como entrevistas hacia el segundo segmento <br><br> 6. Miranda Sinarahua, Piero Stephano: Estuve encargado de realizar secciones dentro del Needfinding, entre estos estan el desarrollo de los user persona, task matrix, journey mapping, empathy mapping y as is scenario mapping. Al igual que reuní informacion clave dentro de una entrevista realizada, lo cual sirvió para obtener datos que serían útil durante el proceso de desarrollo. <br><br> |------- |  
-| Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software |  1. Gómez Vallejos, Sergio André:  Para cada sección del trabajo investigué nuevas metodologías de análisis competitivo, bases de Domain-Driven Design, y enfoques de diseño de bases de datos adaptados a contextos delimitados. Utilicé documentación especializada, artículos académicos y experiencias de la industria como base para mis decisiones de diseño.  <br><br> 2. Rojas Velasquez, Maycol Jhordan: Desarrollé los temas alcanzados en los ciclos anteriores, lo que me permitió adquirir conocimientos sólidos sobre el tema y realizarlos correctamente.<br><br> 3. Aranda Vallejos, Oscar Gabriel <br> TB1 <br> Participé en el proceso del eventstorming, actualizando los conceptos y técnicas aprendidas del Domain Driven Design.<br><br>4. Ticona Panduro, Estrella del Pilar:  Reconocí la necesidad del aprendizaje permanente al enfrentar retos que exigieron investigar nuevas herramientas y enfoques, como la validación de usuarios, metodologías ágiles y principios de diseño de software moderno. La evolución constante del proyecto me impulsó a seguir aprendiendo para tomar mejores decisiones técnicas y aportar soluciones más efectivas y alineadas con las necesidades del usuario. A lo largo del proyecto confirmé que el aprendizaje permanente es fundamental en el desarrollo de software, ya que cada etapa presentó nuevos desafíos que me motivaron a investigar, adaptarme y mejorar. Este proceso me permitió evolucionar como profesional comprometido con la mejora continua y con la entrega de soluciones efectivas.<br><br> 5. Durand Vera, Gianfranco Angel: <br>TB1 <br> Durante esta entrega, comprendí la importancia del aprendizaje permanente en mi desarrollo profesional y en la creación de soluciones de software efectivas. Al desarrollar declaraciones de problemas y suposiciones bajo Lean UX, reforcé mi compromiso con la actualización constante de conocimientos para garantizar que cada proyecto se ejecute con la máxima eficiencia y calidad.<br><br> 6. Miranda Sinarahua, Piero Stephano: Tomé en cuenta la importancia de adquirir e implementar nuevos conocimientos con el fin de lograr un desarrollo superior dentro de las tareas asignadas.<br><br> | ---- |
+| Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software |  1. Gómez Vallejos, Sergio André: desarrollo de secciones clave como el Solution Profile, Antecedentes y problemática, el análisis de Competidores, y el Análisis competitivo. También realicé el Tactical-Level Domain-Driven Design y el Bounded Context Database Design Diagram. Para ello, estudié conceptos de diseño táctico, arquitectura basada en dominios y modelado de datos. <br><br> 2. Rojas Velasquez, Maycol Jhordan: Aplicó los conocimientos necesarios para el proyecto, desarrollando los diagramas C4 y definiendo el segmento objetivo.<br><br> 3. Aranda Vallejos, Oscar Gabriel <br> TB1 <br> Participé en el proceso del eventstorming, actualizando los conceptos y técnicas aprendidas del Domain Driven Design.<br><br>4. Ticona Panduro, Estrella del Pilar: TB1 Actualicé conceptos clave al diseñar entrevistas y realizar una con productores ganaderos, aplicando técnicas de investigación de usuario. A través del To Be Scenario Mapping, User Stories, Impact Mapping y Product Backlog, reforcé conocimientos en metodologías ágiles y diseño centrado en el usuario. Además, al desarrollar el Bounded Context, las capas de arquitectura (Application, Infrastructure, Domain), diagramas de clases y diseño de base de datos, fortalecí mi dominio en modelado de software y arquitectura orientada al dominio.n el desarrollo del proyecto de soluciones de software, llevé a cabo una serie de actividades clave que reflejan el compromiso con la actualización de conocimientos y el aprendizaje continuo. Estas acciones incluyeron: Diseño de entrevistas, una entrevista del segmento 1 (Productores Ganadores independientes), To be Scenario Mapping, User Stories, Impact Mapping, Product Backlog, Bounded Context: Staff administration, Application Layer, Infrastructure Layer, Bounded Context Domain Layer Class Diagrams y Bounded Context Database Design Diagram.Las actividades desarrolladas me permitieron actualizar conocimientos esenciales para mi crecimiento profesional, especialmente en metodologías ágiles, diseño centrado en el usuario y arquitectura de software. Esto refuerza mi capacidad para abordar proyectos tecnológicos con una base técnica actualizada y alineada a las mejores prácticas del sector.<br><br>5. Durand Vera, Gianfranco Angel: <br>TB1 <br> Realice las capas de Domain e Interface, además de el Component Level Diagrams, para el Bounded Context Staff Administration, asi como entrevistas hacia el segundo segmento <br><br> 6. Miranda Sinarahua, Piero Stephano: Estuve encargado de realizar secciones dentro del Needfinding, entre estos estan el desarrollo de los user persona, task matrix, journey mapping, empathy mapping y as is scenario mapping. Al igual que reuní informacion clave dentro de una entrevista realizada, lo cual sirvió para obtener datos que serían útil durante el proceso de desarrollo. <br><br> |TB1: A lo largo del desarrollo del proyecto de soluciones de software, los integrantes del equipo demostraron un fuerte compromiso con la actualización de conocimientos y la aplicación de metodologías modernas, lo cual contribuyó significativamente a su crecimiento profesional. Se evidenció una sólida comprensión y uso de principios del Domain-Driven Design, diseño centrado en el usuario, y metodologías ágiles, mediante la elaboración de artefactos clave como diagramas C4, mapeos de escenarios, backlog de producto, y diseño de base de datos por contexto. Las contribuciones individuales, desde la investigación de usuarios hasta el diseño de arquitectura por capas, muestran un trabajo colaborativo bien fundamentado y orientado a las mejores prácticas del desarrollo de software actual. Esto no solo enriqueció el proyecto, sino que también fortaleció las competencias técnicas y analíticas de cada miembro del equipo.|  
+| Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software |  1. Gómez Vallejos, Sergio André:  Para cada sección del trabajo investigué nuevas metodologías de análisis competitivo, bases de Domain-Driven Design, y enfoques de diseño de bases de datos adaptados a contextos delimitados. Utilicé documentación especializada, artículos académicos y experiencias de la industria como base para mis decisiones de diseño.  <br><br> 2. Rojas Velasquez, Maycol Jhordan: Desarrollé los temas alcanzados en los ciclos anteriores, lo que me permitió adquirir conocimientos sólidos sobre el tema y realizarlos correctamente.<br><br> 3. Aranda Vallejos, Oscar Gabriel <br> TB1 <br> Participé en el proceso del eventstorming, actualizando los conceptos y técnicas aprendidas del Domain Driven Design.<br><br>4. Ticona Panduro, Estrella del Pilar:  Reconocí la necesidad del aprendizaje permanente al enfrentar retos que exigieron investigar nuevas herramientas y enfoques, como la validación de usuarios, metodologías ágiles y principios de diseño de software moderno. La evolución constante del proyecto me impulsó a seguir aprendiendo para tomar mejores decisiones técnicas y aportar soluciones más efectivas y alineadas con las necesidades del usuario. A lo largo del proyecto confirmé que el aprendizaje permanente es fundamental en el desarrollo de software, ya que cada etapa presentó nuevos desafíos que me motivaron a investigar, adaptarme y mejorar. Este proceso me permitió evolucionar como profesional comprometido con la mejora continua y con la entrega de soluciones efectivas.<br><br> 5. Durand Vera, Gianfranco Angel: <br>TB1 <br> Durante esta entrega, comprendí la importancia del aprendizaje permanente en mi desarrollo profesional y en la creación de soluciones de software efectivas. Al desarrollar declaraciones de problemas y suposiciones bajo Lean UX, reforcé mi compromiso con la actualización constante de conocimientos para garantizar que cada proyecto se ejecute con la máxima eficiencia y calidad.<br><br> 6. Miranda Sinarahua, Piero Stephano: Tomé en cuenta la importancia de adquirir e implementar nuevos conocimientos con el fin de lograr un desarrollo superior dentro de las tareas asignadas.<br><br> | TB1: El equipo demostró una clara conciencia sobre la importancia del aprendizaje permanente como pilar fundamental para el desarrollo profesional y la ejecución efectiva de proyectos en soluciones de software. A través de la investigación constante, la aplicación de nuevas metodologías y la adaptación a desafíos técnicos, cada integrante fortaleció sus competencias y mostró un compromiso genuino con la mejora continua. La necesidad de mantenerse actualizado frente a las exigencias del sector tecnológico fue reconocida y asumida con responsabilidad, permitiendo no solo el cumplimiento exitoso de sus tareas, sino también una evolución profesional sostenible y alineada con las mejores prácticas de la industria.|
 
 
 
@@ -566,6 +582,8 @@ Para la interacción con proveedores, ve útil una plataforma que facilite la co
 
 ### 2.2.3. Análisis de entrevistas
 
+# Completar y agregar la entrevista faltante 
+
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 Para construir nuestros User Persona, nos basamos en la información obtenida y analizada a partir de las entrevistas realizadas. Se identificó que ambos segmentos debían estar representados por perfiles masculinos.
@@ -632,10 +650,16 @@ Finalmente, se realizó un análisis que permitió definir los valores y habilid
 | Fumigation (Fumigación) | Aplicación de productos químicos o biológicos para eliminar o controlar plagas, insectos, parásitos o enfermedades en el ganado y su entorno.                |
 
 # 3. CAPÍTULO III: Requirements Specification
+Con el objetivo de diseñar una solución de software centrada en las necesidades reales de los usuarios, se desarrollaron una serie de herramientas y técnicas que permiten comprender, planificar y proyectar el comportamiento del sistema desde una perspectiva empática y funcional.
 ## 3.1. To-Be Scenario Mapping
+El To-Be Scenario Mapping permite proyectar el escenario ideal de interacción del usuario con el sistema, describiendo cómo deberían desarrollarse los procesos una vez implementada la solución. A través de esta técnica se identifican los cambios esperados respecto al estado actual, destacando mejoras en la experiencia del usuario, eficiencia operativa y cumplimiento de objetivos del proyecto. Este mapeo resulta clave para alinear el diseño del sistema con las verdaderas necesidades de los usuarios y los objetivos estratégicos de la solución.
+
 <img src="./assets/Scenariomapping.jpg">
 
 ## 3.2. User Stories
+
+Las User Stories representan una herramienta fundamental dentro de las metodologías ágiles para capturar los requerimientos funcionales desde la perspectiva del usuario. Cada historia describe una necesidad concreta, quién la necesita y con qué propósito, facilitando la planificación, priorización y desarrollo iterativo del sistema. Esta técnica garantiza que cada funcionalidad responda a una necesidad real, fomentando un desarrollo orientado al valor y alineado con las expectativas del usuario final.
+
 |Epic ID|Título|Descripción|||
 | :-: | :-: | :-: | :- | :- |
 |EP001|Registrar Vacuna|Como ganadero quiero poder registrar mi vacuna para que tenga control sobre la salud de mi bovino|||
@@ -705,6 +729,9 @@ A continuación presentaremos 3 Business Goals que consideramos importantes en n
 
 
 ## 3.4. Product Backlog
+
+El Product Backlog es un elemento esencial en la gestión ágil de proyectos, ya que representa una lista priorizada de funcionalidades, mejoras y tareas necesarias para el desarrollo del producto. Este backlog fue construido a partir de las necesidades identificadas en las entrevistas, el To-Be Scenario Mapping y las User Stories, permitiendo organizar y planificar el trabajo del equipo de forma estructurada y alineada con los objetivos del proyecto. Cada ítem del backlog está enfocado en generar valor para el usuario final y facilitar una entrega incremental y efectiva de la solución.
+
 |**Orden**|**User Story ID**|**Título**|**Descripción**|**Story Points (1/2/3)**|
 | :- | :- | :- | :- | :- |
 |1|US001|Agregar Vacuna al Registro|Como ganadero, quiero agregar una nueva vacuna al registro de mis bovinos para mantener un control actualizado y efectivo de la salud de mi rebaño|2|
@@ -1018,6 +1045,9 @@ Este bounded context se encarga de modelar el ciclo de vida completo de una camp
 
 
 ### 4.2.1.1. Domain Layer
+
+El Domain Layer define la lógica central del negocio relacionada a la gestión de campañas dentro de VacApp. En esta capa se modelan los conceptos principales como campañas, objetivos, participantes y canales de difusión, así como las reglas y comportamientos que rigen su funcionamiento. Este nivel captura la esencia del dominio de manera independiente a cualquier tecnología, asegurando una estructura coherente, reutilizable y alineada con los requerimientos del negocio.
+
     
 | Clase                  | Tipo             | Propósito                                                                 | Atributos                                                                                       |
 |------------------------|------------------|---------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
@@ -1031,7 +1061,10 @@ Este bounded context se encarga de modelar el ciclo de vida completo de una camp
 | CampaignSchedulerService | Domain Service | Verifica conflictos de tiempo entre campañas                             | `checkOverlap(campaign: Campaign)`                                                              |
 
 
-4.2.1.2. Interface Layer
+### 4.2.1.2. Interface Layer
+
+La Interface Layer actúa como el punto de interacción entre los usuarios o sistemas externos y el dominio de campañas. Aquí se exponen las funcionalidades disponibles mediante controladores o interfaces API, gestionando la comunicación de entrada y salida del sistema. Esta capa garantiza que las operaciones del dominio sean accesibles de forma segura, eficiente y comprensible para quienes interactúan con el sistema.
+
 | Clase                    | Tipo              | Propósito                                                                   | Atributos / Métodos                                                       |
 |--------------------------|-------------------|------------------------------------------------------------------------------|----------------------------------------------------------------------------|
 | CampaignController       | Controller         | Maneja endpoints HTTP para gestionar campañas                               | `POST /campaigns`, `GET /:id`, `PATCH /:id/status`, `POST /:id/goals`     |
@@ -1041,7 +1074,10 @@ Este bounded context se encarga de modelar el ciclo de vida completo de una camp
 
 
 
-4.2.2.3. Application Layer
+### 4.2.2.3. Application Layer
+
+La Application Layer coordina las operaciones del sistema relacionadas al ciclo de vida de las campañas, actuando como intermediario entre la lógica de negocio y las interfaces de usuario o servicios externos. Se encarga de orquestar casos de uso específicos como la creación, edición, activación o seguimiento de campañas, sin involucrar reglas del dominio directamente. Esta capa facilita la organización del flujo de trabajo y la separación de responsabilidades dentro del sistema.
+
 | Clase                        | Tipo              | Propósito                                                                                      | Atributos / Métodos                                                                            |
 |------------------------------|-------------------|-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
 | CreateCampaignCommand        | Command           | Representa la intención de crear una campaña                                                  | `name`, `description`, `startDate`, `endDate`, `ownerId`                                      |
@@ -1055,7 +1091,10 @@ Este bounded context se encarga de modelar el ciclo de vida completo de una camp
 | CampaignCreatedEvent         | Domain Event      | Evento que indica que una campaña ha sido creada                                              | `campaignId`, `name`, `ownerId`                                                                |
 | CampaignCreatedEventHandler  | Event Handler     | Reacciona al evento de campaña creada y ejecuta acciones (e.g., notificación, logging)        | `handle(event: CampaignCreatedEvent)`                                                          |
 
-4.2.1.4. Infrastructure Layer
+### 4.2.1.4. Infrastructure Layer
+
+La Infrastructure Layer proporciona los mecanismos técnicos que soportan el funcionamiento del sistema, incluyendo persistencia de datos, mensajería, servicios externos y otros recursos necesarios para ejecutar las funcionalidades definidas en capas superiores. En el contexto de Campaign Management, esta capa conecta el dominio con bases de datos, colas de eventos y sistemas de notificaciones, asegurando la correcta implementación técnica del modelo conceptual.
+
 
 | Clase                              | Tipo                  | Propósito                                                                                 | Atributos / Métodos                                                                            |
 |------------------------------------|-----------------------|--------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
@@ -1067,13 +1106,21 @@ Este bounded context se encarga de modelar el ciclo de vida completo de una camp
 
 ### 4.2.1.5. Bounded Context Software Architecture Component Level Diagrams
 
+El Component Level Diagram representa visualmente los principales componentes de software involucrados en el bounded context de Campaign Management, y cómo se relacionan entre sí. Este diagrama permite comprender la estructura modular del sistema, destacando las dependencias, responsabilidades y la organización de las funcionalidades en distintas capas de arquitectura. Es una herramienta clave para garantizar claridad, mantenibilidad y escalabilidad del sistema.
+
 
 ![Campaign Management Containers](./assets/Campaign-Management-Components.png)
 
 
 ### 4.2.1.6. Bounded Context Software Architecture Code Level Diagrams
-### 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams
-### 2.6.1.6.2. Bounded Context Database Design Diagram
+#### 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams
+Este diagrama de clases detalla los elementos del Domain Layer para Campaign Management, modelando entidades, agregados, objetos de valor y sus relaciones. A través de esta representación, se puede visualizar cómo se estructuran los conceptos principales del dominio y qué responsabilidades tiene cada clase dentro del modelo de negocio. Es esencial para alinear el diseño técnico con la lógica del dominio.
+
+#FALTAAAAA
+
+#### 2.6.1.6.2. Bounded Context Database Design Diagram
+El Database Design Diagram ilustra la estructura de la base de datos correspondiente al contexto de campañas. Incluye tablas, relaciones, claves primarias y foráneas, reflejando cómo se almacenan los datos del dominio. Este diseño garantiza una persistencia coherente con la lógica del sistema, facilitando tanto el acceso eficiente a la información como la integridad de los datos a lo largo de las operaciones del sistema.
+
 <img src="./assets/campaign_db.png" alt="db_campaign_diagram" >
 
 
@@ -1084,6 +1131,9 @@ En el contexto de VacApp, el módulo de Ranch Management constituye un pilar fun
 Dentro de este módulo se modelan y gestionan los procesos clave para la operación ganadera, como el alta, edición y eliminación de registros de animales y vacunas, así como la asignación de bovinos a establos específicos y la creación de registros de establos. Esto permite mantener una base de datos confiable, estructurada y adaptable a las particularidades de cada unidad productiva. Además, la información registrada en este contexto se integra con otras áreas del sistema, como Campaign Management, permitiendo seleccionar animales específicos para campañas de vacunación u otras acciones estratégicas.
 
 ### 4.2.2.1. Domain Layer
+
+El Domain Layer de Ranch Management encapsula la lógica del negocio relacionada con la gestión de bovinos, vacunas y establos. En esta capa se modelan los conceptos fundamentales como Animal, Vacuna y Establo, junto con sus respectivas reglas, comportamientos y restricciones. El diseño está orientado a reflejar fielmente las operaciones ganaderas reales, asegurando una representación precisa, coherente y extensible del dominio productivo.
+
 
 | Clase             | Tipo               | Propósito                                                                 | Atributos                                                                                       |
 |-------------------|--------------------|---------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
@@ -1099,6 +1149,9 @@ Dentro de este módulo se modelan y gestionan los procesos clave para la operaci
 
 ### 4.2.2.2. Interface Layer
 
+La Interface Layer proporciona los puntos de entrada al sistema para la gestión de ranchos, permitiendo a usuarios o sistemas externos interactuar con las funcionalidades clave de este módulo. A través de controladores, endpoints o interfaces gráficas, esta capa facilita la comunicación con el dominio, asegurando que las acciones como registrar, actualizar o consultar animales y vacunas se realicen de forma clara, segura y eficiente.
+
+
 | Clase                  | Tipo              | Propósito                                                              | Métodos / Endpoints                                                        |
 |------------------------|-------------------|------------------------------------------------------------------------|-----------------------------------------------------------------------------|
 | BovineController       | Controller        | Gestiona endpoints para registro y manejo de bovinos                   | `POST /bovines`, `GET /bovines/:id`, `PATCH /bovines/:id`, `DELETE /bovines/:id` |
@@ -1111,6 +1164,8 @@ Dentro de este módulo se modelan y gestionan los procesos clave para la operaci
 ---
 
 ### 4.2.2.3. Application Layer
+
+La Application Layer en Ranch Management se encarga de coordinar las acciones específicas del sistema, como registrar un nuevo bovino, vacunar animales, o asignarlos a establos. Esta capa actúa como puente entre la lógica del negocio y la infraestructura, orquestando casos de uso concretos sin comprometer la lógica del dominio. Así, garantiza que los procesos operativos se ejecuten de manera consistente y alineada a los flujos de trabajo definidos.
 
 | Clase                      | Tipo             | Propósito                                                                  | Atributos / Métodos                                                          |
 |----------------------------|------------------|-----------------------------------------------------------------------------|-------------------------------------------------------------------------------|
@@ -1125,6 +1180,9 @@ Dentro de este módulo se modelan y gestionan los procesos clave para la operaci
 
 ### 4.2.2.4. Infrastructure Layer
 
+La Infrastructure Layer sustenta la ejecución técnica del módulo Ranch Management, proporcionando los mecanismos necesarios para persistencia, mensajería y servicios externos. Aquí se implementan repositorios para almacenamiento de datos, conexiones con otras partes del sistema como Campaign Management, y servicios para notificaciones o sincronización. Esta capa garantiza una integración sólida entre el modelo de dominio y las herramientas tecnológicas.
+
+
 | Clase                         | Tipo                   | Propósito                                                                 | Atributos / Métodos                                                        |
 |-------------------------------|------------------------|--------------------------------------------------------------------------|----------------------------------------------------------------------------|
 | BovineRepositoryImpl          | Repository Impl        | Implementación de `IBovineRepository`, usa una base de datos relacional | `findById`, `save`, `delete`                                              |
@@ -1135,37 +1193,42 @@ Dentro de este módulo se modelan y gestionan los procesos clave para la operaci
 
 ### 4.2.2.5. Bounded Context Software Architecture Component Level Diagrams
 
+El Component Level Diagram describe gráficamente la organización de los componentes de software dentro del bounded context de Ranch Management. Muestra cómo se estructuran las capas del sistema, qué responsabilidades tiene cada una, y cómo interactúan entre sí. Este diagrama es clave para entender la modularidad, las dependencias y la escalabilidad del sistema de gestión ganadera dentro de VacApp.
+
 
 ![Ranch Management Containers](./assets/Ranch-Management-Components.png)
 
 ### 4.2.2.6. Bounded Context Software Architecture Code Level Diagrams
 ##### 4.2.2.6.1. Bounded Context Domain Layer Class Diagrams
 
+El Class Diagram del Domain Layer presenta una vista detallada de las clases principales que componen el dominio de Ranch Management. Incluye entidades como Bovino, Vacuna y Establo, sus atributos, relaciones y métodos, permitiendo visualizar cómo se estructura la lógica de negocio y se representan los objetos reales del sistema productivo. Este diagrama fortalece la alineación entre la realidad ganadera y su implementación en software.
+
+
+
 ![ClassDiagram](assets/DiagramaClasesRanch.JPG)
 
 ##### 4.2.2.6.2. Bounded Context Database Design Diagram
 
-![DatabaseDiagram](assets/DiagramaDatabaseRanch.JPG)
+El Database Design Diagram representa la estructura de la base de datos correspondiente al módulo de Ranch Management. Muestra las tablas que almacenan la información de animales, vacunas y establos, así como sus relaciones y claves. Esta estructura asegura la integridad, trazabilidad y facilidad de acceso a la información, siendo clave para auditorías, campañas sanitarias y reportes de gestión ganadera.
+
+
 
 <img src="./assets/ranch.png" alt="db_ranch_diagram">
-
-|**Nombre**|**Descripción**|
-| :- | :- |
-|ID|Identificador único de registro usado como clave primaria|
-|Name|Nombre del animal|
-|Birthday|Fecha de nacimiento del animal|
-|Birth\_place|Lugar de Nacimiento del animal|
-|Gender|Genero del animal|
-|Breed|Raza del animal|
-|Location|Lugar donde se ubica el animal|
-|Parent\_ID|Identificar de registro de la madre del animal|
-|Expire_date|Fecha de expiracion de la identificacion del bovino|
-|Animal_ID|Identificar de registro de la madre del animal|
 
     
 
 ### 4.2.3. Bounded Context: Staff Administration
+
+El módulo Staff Administration en el ecosistema de VacApp representa un componente esencial para la gestión de los recursos humanos ganaderos involucrados en las campañas, operativas y labores administrativas del sistema. Este bounded context se centra en el ciclo de vida del personal, permitiendo registrar, modificar, eliminar y asignar empleados a distintas campañas o funciones dentro de la plataforma.
+
+Su diseño está orientado a mantener un control riguroso, estructurado y flexible del personal ganadero, considerando estados de actividad, roles operativos, y procesos de asignación estratégica. Asimismo, se integra de forma armoniosa con otros módulos como Campaign Management, garantizando que las acciones relacionadas con el staff estén alineadas con los objetivos generales de las campañas y con los flujos operativos del rancho.
+
+Mediante la separación en capas (dominio, aplicación, interfaz e infraestructura), este contexto asegura una arquitectura limpia, escalable y coherente con los principios de diseño de software moderno, facilitando la evolución del sistema y el mantenimiento de la calidad en el tiempo.
+
 #### 4.2.3.1. Domain Layer
+
+El Domain Layer del módulo de Staff Administration define los elementos esenciales que rigen la gestión del personal ganadero dentro de VacApp. Aquí se modelan las entidades, objetos de valor, servicios de dominio e interfaces que permiten representar con precisión las reglas del negocio, como la asignación de roles, control de estados de los empleados, y validaciones antes de realizar operaciones críticas. Esta capa garantiza que el comportamiento del sistema esté alineado con las políticas organizacionales y operativas del entorno productivo.
+
 
 | **Clase**             | **Tipo**        | **Propósito**                                                                                 |
 |-----------------------|-----------------|-----------------------------------------------------------------------------------------------|
@@ -1175,6 +1238,9 @@ Dentro de este módulo se modelan y gestionan los procesos clave para la operaci
 | StaffDomainService    | Domain Service	| Aplica reglas como validación de estado antes de eliminar o actualizar.                       |
 
 #### 4.2.3.2. Interface Layer
+
+La Interface Layer del contexto Staff Administration actúa como la capa de presentación del módulo, permitiendo la interacción fluida del usuario con las funcionalidades de gestión de personal. A través de pantallas, controladores y ViewModels, esta capa facilita la creación, edición, búsqueda y eliminación de miembros del staff, asegurando una experiencia intuitiva y una conexión directa con la lógica de negocio subyacente.
+
 
 | **Clase**              | **Tipo**     | **Propósito**                                                                 |
 |------------------------|--------------|-------------------------------------------------------------------------------|
@@ -1187,6 +1253,9 @@ Dentro de este módulo se modelan y gestionan los procesos clave para la operaci
 | StaffController        | Controller   | Coordina la lógica de negocio relacionada al staff y comunica con los ViewModels. |
 #### 4.2.3.3. Application Layer
 
+La Application Layer coordina los casos de uso que permiten operar sobre el personal registrado en VacApp. Esta capa es responsable de procesar flujos como el registro de nuevos miembros del staff, la edición de sus datos, su desvinculación, y la búsqueda por diferentes criterios. De esta manera, se garantiza que la ejecución de cada funcionalidad ocurra bajo una lógica estructurada, consistente y desacoplada del dominio e infraestructura.
+
+
 |**Clase**               |**Tipo** |**Propósito**                                                            |
 |------------------------|---------|-------------------------------------------------------------------------|
 | RegisterStaffUseCase   | UseCase | Coordina el flujo de creación del staff desde datos de entrada hasta persistencia. |
@@ -1196,6 +1265,9 @@ Dentro de este módulo se modelan y gestionan los procesos clave para la operaci
 ---
 #### 4.2.3.4. Infrastructure Layer
 
+La Infrastructure Layer proporciona los servicios técnicos necesarios para que las funcionalidades del módulo Staff Administration interactúen con componentes externos o internos del sistema. Entre estos servicios destaca el CampaignAssignmentService, encargado de vincular miembros del personal con campañas específicas, asegurando una gestión integral y una correcta interoperabilidad con el contexto de Campaign Management.
+
+
 |**Clase**                  |**Tipo**         |**Propósito**                                                  |
 |---------------------------|-----------------|---------------------------------------------------------------|
 | CampaignAssignmentService | Service| Servicio  que vincula empleados con campañas. |
@@ -1203,15 +1275,26 @@ Dentro de este módulo se modelan y gestionan los procesos clave para la operaci
 
 #### 4.2.3.5. Bounded Context Software Architecture Component Level Diagrams
 
+El Component Level Diagram de Staff Administration ofrece una visión estructural de los principales componentes de software que conforman este módulo. A través de este diagrama, se puede visualizar cómo interactúan las diferentes capas del sistema (dominio, aplicación, interfaz e infraestructura), permitiendo evaluar la cohesión, modularidad y responsabilidades de cada parte del contexto.
+
+
+
+
 <img src="./assets/staff-administration-bc.png" />
 
 #### 4.2.3.6. Bounded Context Software Architecture Code Level Diagrams
 
 ##### 4.2.3.6.1. Bounded Context Domain Layer Class Diagrams
 
+El Class Diagram del Domain Layer detalla las clases que definen el núcleo del modelo de negocio en la administración del personal. Incluye entidades como StaffMember, objetos de valor como EmployeeStatus y servicios de dominio encargados de las reglas críticas. Este diagrama ayuda a comprender la estructura del dominio y cómo se articulan sus elementos para cumplir los objetivos del sistema.
+
 <img src="./assets/Staff_Administration.png">  
 
 ##### 4.2.3.6.2. Bounded Context Database Design Diagram
+
+El Database Design Diagram de Staff Administration presenta la estructura de la base de datos que respalda la gestión de los empleados ganaderos. En él se reflejan las tablas, campos clave, relaciones y restricciones necesarias para mantener la integridad y seguridad de la información. Este modelo de datos está diseñado para facilitar la trazabilidad, búsqueda eficiente y vinculación con otros módulos como campañas o reportes administrativos.
+
+
 
 <img src="./assets/diagramaa.png">  
 
@@ -1226,6 +1309,27 @@ Dentro de este módulo se modelan y gestionan los procesos clave para la operaci
 |name|Nombre de usuario único utilizado para iniciar sesión.|
 
 
+##  Conclusiones 
+
+- Conclusión 1: Integración de módulos orientados al dominio
+VacApp demuestra la efectividad de aplicar **Domain-Driven Design (DDD)** para el desarrollo de software complejo. La implementación de módulos como *Campaign Management*, *Ranch Management* y *Staff Administration* en bounded contexts bien definidos ha permitido mantener una arquitectura limpia, escalable y centrada en las necesidades reales del usuario ganadero.
+
+- Conclusión 2: Enfoque centrado en el usuario y metodologías ágiles
+Durante el desarrollo se priorizó la interacción constante con los usuarios finales mediante entrevistas, mapeos de escenarios, user stories e impacto. Este enfoque centrado en el usuario, apoyado por metodologías ágiles como *Scrum* y herramientas como *Lean UX*, facilitó la identificación de necesidades reales y la entrega continua de valor funcional.
+
+- El trabajo colaborativo en VacApp no solo logró un producto funcional, sino también el fortalecimiento de competencias técnicas clave en el equipo. Se consolidaron habilidades en diseño de arquitecturas por capas, modelado de bases de datos, diseño de interfaces, uso de patrones estratégicos y tácticos de DDD, y gestión de proyectos con visión profesional.
+
+---
+
+##  Bibliografía
+
+- Evans, E. (2004). *Domain-Driven Design: Tackling Complexity in the Heart of Software*. Addison-Wesley.
+- Vernon, V. (2013). *Implementing Domain-Driven Design*. Addison-Wesley.
+- Poppendieck, M., & Poppendieck, T. (2003). *Lean Software Development: An Agile Toolkit*. Addison-Wesley.
+- Cohn, M. (2004). *User Stories Applied: For Agile Software Development*. Addison-Wesley.
+- Gothelf, J. (2013). *Lean UX: Applying Lean Principles to Improve User Experience*. O’Reilly Media.
+- Fowler, M. (2003). *Patterns of Enterprise Application Architecture*. Addison-Wesley.
+- ISO/IEC/IEEE 12207:2017 – *Systems and software engineering – Software life cycle processes*.
 
 
 
