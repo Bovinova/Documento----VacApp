@@ -512,7 +512,7 @@ VacApp se orienta a mejorar la eficiencia y sostenibilidad en empresas ganaderas
 *Sexo:* Masculino <br>
 *Edad:* 25 <br>
 *Domicilio:* Lima, Peru <br>
-*Inicio de la Entrevista:*  <br>
+*Inicio de la Entrevista:* 07:12 <br>
 *Duración de la Entrevista:* 10:30 <br>
 
 <img src="assets/segmento1.png" alt="" style="width: 600px; height: auto;">
@@ -522,22 +522,27 @@ VacApp se orienta a mejorar la eficiencia y sostenibilidad en empresas ganaderas
 Luis Raimundo, estudiante de cuarto año de Medicina Veterinaria con experiencia empírica y académica en la crianza de bovinos, comparte su experiencia en la gestión de una ganadería familiar en Oxapampa. Comenzó en el sector hace seis o siete años, primero de forma práctica con veterinarios y luego con enfoque más técnico por su formación académica. En cuanto al manejo, adapta la alimentación según el propósito del animal (leche o carne), implementa protocolos sanitarios como desinfección, control de parásitos y suplementación vitamínica, y ha evolucionado del registro manual a hojas de cálculo en Excel, aunque la falta de organización sigue siendo un desafío importante.
 Luis considera valiosa una aplicación especializada para la gestión ganadera que incluya notificaciones sobre la salud animal, registros históricos de enfermedades, seguimiento del ciclo productivo de cada lote y programación de tareas con recordatorios. También destaca la importancia de centralizar la información sobre alimentación con detalles de cantidades y tipos de alimento. Los beneficios principales que espera de una solución como "VacApp" son: mejor organización del fundo, mayor control sanitario para reducir pérdidas por enfermedades y gestión más eficiente del alimento para optimizar gastos, elementos clave para la digitalización del manejo ganadero y el fortalecimiento de la productividad rural.
 
-Entrevistado : Jorge Torres
+---
 
-Edad: 50 años
-
-Experiencia en la ganaderia: 30 años
-
+*Entrevistado* : Jorge Torres<br>
+*Edad*: 50 años<br>
+*Experiencia en la ganaderia*: 30 años<br>
+*Inicio de la Entrevista:* 17:43 <br>
+*Duración de la Entrevista:* 06:19 <br>
 
 ![GanaderoIndependienteJorge](assets/EntrevistaGanaderoIndependienteJorge.JPG)
 
 *Resumen:* 
 
 El señor Jorge, ganadero desde hace ya varios años, cuenta como desde muy joven estuvo involucrado en temas ganaderos. Él habla acerca de como realiza la mayor parte de la gestion de su negocio por cuenta propia, desde el ciudado de la alimentacion de sus ganados, al igual que actividades de salud o limpieza que garanticen el bienestar de los animales. Tambien habla acerca de como lleva un registro de las actividades que realiza de manera tradicional, empleando un cuaderno de apuntes. Él considera que enfrenta varios desafios dentro de su negocio, como por ejemplo una falta de organizacion y eficiencia dentro del control de los ganados, que no cuenta con ayuda profesional, y que ciertos factores externos como el clima no siempre estan a su favor. Considera que una aplicacion movil podria ser de gran ayuda, y si contara con funciones que le ayudaran a superar esas dificultades que menciona, podria hacer crecer aun mas su negocio y volverlo mas rentable con el tiempo.
+ 
+---
 
-- Entrevistado: Christian Matos
-- Edad: 25
-- Tiempo de experiencia en la ganadería: 5 años
+*Entrevistado*: Christian Matos<br>
+*Edad*: 25<br>
+*Tiempo de experiencia en la ganadería*: 5 años<br>
+*Inicio de la Entrevista:* 29:40 <br>
+*Duración de la Entrevista:* 02:30 <br>
 
 <img src="./assets/entrevista.png" alt="vacapp Logo" >
 
@@ -548,11 +553,11 @@ La falta de tiempo representa su mayor desafío administrativo, impidiéndole co
  
 ## Segmento 2: Productores Ganadores independientes:
 
-*Entrevistado:* Luis Raimundo <br>
+*Entrevistado:* Edgar Parry <br>
 *Sexo:* Masculino <br>
 *Edad:* 29 <br>
 *Domicilio:* Lima, Peru <br>
-*Inicio de la Entrevista:*  <br>
+*Inicio de la Entrevista:*  24:02<br>
 *Duración de la Entrevista:* 05:27 <br>
 
 <img src="assets/segmento2.png" alt="" style="width: 600px; height: auto;">
@@ -561,11 +566,13 @@ La falta de tiempo representa su mayor desafío administrativo, impidiéndole co
 Edgar Parry, ganadero con operaciones a gran escala que maneja aproximadamente 3,000 cabezas de ganado,tiene  experiencia directa, forma parte de una empresa consolidada en el sector. Edgar enfatiza la importancia de monitorear con precisión el rendimiento de cada vaca productora, especialmente en términos de producción láctea, para detectar irregularidades y tomar decisiones correctivas oportunas. Además, señala desafíos estructurales del mercado nacional, como la concentración de compra en una empresa dominante (Gloria), lo que limita las opciones de venta para los productores.
 Para Edgar, los indicadores productivos, reproductivos, de engorde y particularmente los sanitarios son cruciales para la toma de decisiones y la rentabilidad del negocio, aunque actualmente muchos registros se manejan en formatos físicos poco estructurados. Considera esencial que una plataforma digital como VacApp ofrezca seguimiento individualizado de cada animal (ciclo reproductivo, producción láctea y estado sanitario), integración de la gestión de alimentos y distribución del producto final, y alta personalización adaptada a sus procesos específicos. La nutrición representa un punto crítico, por lo que valora herramientas que permitan gestionar proveedores de alimentos y monitorear el consumo por lote o animal. En síntesis, ve en la tecnología especializada una oportunidad para transformar la ganadería tradicional y adaptarla a la realidad del productor peruano.
 
+---
+
 *Entrevistada:* Camila Sanchez<br>
 *Sexo:*  Femenino<br>
 *Edad:* 23<br>
-*Inicio de la Entrevista:* <br>
-*Duración de la Entrevista:* <br>
+*Inicio de la Entrevista:* 32:10<br>
+*Duración de la Entrevista:* 05:43<br>
 
 <img src="./assets/entrevista-cami.png" style="width: 600px; height: auto;">
 
@@ -583,66 +590,64 @@ Para la interacción con proveedores, ve útil una plataforma que facilite la co
 ### 2.2.3. Análisis de entrevistas
 Se realizaron entrevistas a dos segmentos clave del sector ganadero: Productores Ganaderos Independientes y Empresas Ganaderas. El objetivo fue identificar necesidades, desafíos, herramientas utilizadas y expectativas sobre una posible solución digital como VacApp. A continuación, se resumen los principales hallazgos por segmento.
 
----
 
-## Segmento 1: Productores Ganaderos Independientes
+#### **Segmento 1: Productores Ganaderos Independientes**
 
-### Entrevistados
+##### Entrevistados
 - Luis Raimundo
 - Jorge Torres
 - Christian Matos
 
-### Principales Hallazgos
+##### Principales Hallazgos
 
-#### Manejo de la Ganadería
+###### Manejo de la Ganadería
 - La alimentación del ganado se decide por experiencia personal o con ayuda de veterinarios.
 - Hay una fuerte conexión práctica con el cuidado directo de los animales.
 - Se aplican prácticas sanitarias básicas como limpieza, vacunación, desparasitación y suplementación.
 
-#### Registro de Información
+###### Registro de Información
 - Uso común de métodos manuales (libretas) o rudimentarios (Excel).
 - Dificultades para mantener organización y acceso rápido a información.
 - Pérdida de datos o desactualización son riesgos frecuentes.
 
-#### Desafíos Identificados
+###### Desafíos Identificados
 - Falta de organización y sistematización.
 - Limitaciones por tiempo para realizar tareas administrativas.
 - Clima y factores externos afectan productividad.
 - Falta de personal o asesoría profesional.
 
-#### Requerimientos para VacApp
+###### Requerimientos para VacApp
 - Recordatorios y alertas para actividades críticas (vacunas, alimentación).
 - Registro digital de salud, peso, nacimientos y tratamientos.
 - Visualización del historial por animal o lote.
 - Acceso multiplataforma (celular/computadora) con interfaz sencilla.
 
-#### Beneficios Esperados
+###### Beneficios Esperados
 - Mejor organización y control.
 - Reducción de pérdidas por enfermedades.
 - Gestión eficiente del alimento y reducción de costos.
 - Mayor productividad y posibilidad de expansión.
 
----
 
-## Segmento 2: Empresas Ganaderas
+#### **Segmento 2: Empresas Ganaderas**
 
-### Entrevistados
+##### Entrevistados
 - Edgar Parry
 - Camila Sánchez
 
-### Principales Hallazgos
+##### Principales Hallazgos
 
-#### Gestión de Gran Escala
+###### Gestión de Gran Escala
 - Número de animales puede llegar a 3000 y fluctúa según la temporada.
 - Registro de datos aún en formatos físicos o Excel, con errores frecuentes.
 - Necesitan tomar decisiones basadas en datos productivos, sanitarios y reproductivos.
 
-#### Información Clave
+###### Información Clave
 - Indicadores de producción láctea, estado sanitario, engorde y fertilidad.
 - Seguimiento individual por animal es esencial.
 - Análisis de costos y rendimiento como herramienta estratégica.
 
-#### Gestión del Personal y Proveedores
+###### Gestión del Personal y Proveedores
 - Requieren funcionalidades para:
   - Asignación de tareas.
   - Control de desempeño del personal.
@@ -650,18 +655,17 @@ Se realizaron entrevistas a dos segmentos clave del sector ganadero: Productores
   - Registro de incidentes.
 - Interacción con proveedores: seguimiento de pedidos, inventarios y negociación.
 
-#### Personalización y Adaptabilidad
+###### Personalización y Adaptabilidad
 - Alta necesidad de personalizar roles, informes, alertas y datos.
 - La plataforma debe adaptarse a los procesos existentes, no al revés.
 
-#### Beneficios Esperados
+###### Beneficios Esperados
 - Reducción de errores en registros.
 - Mayor eficiencia en toma de decisiones.
 - Mejora en rentabilidad, bienestar animal y sostenibilidad.
 
----
 
-## Conclusiones Generales
+#### **Conclusiones Generales**
 
 | Categoría                         | Independientes                             | Empresas Ganaderas                        |
 |----------------------------------|--------------------------------------------|-------------------------------------------|
@@ -670,10 +674,6 @@ Se realizaron entrevistas a dos segmentos clave del sector ganadero: Productores
 | Interacción con tecnología       | Abiertos a soluciones móviles               | Necesidad crítica de digitalización        |
 | Funciones clave esperadas        | Recordatorios, historial, salud, alimentación | Reportes, planificación, gestión de personal |
 | Relevancia de personalización    | Media                                       | Alta                                       |
-
----
-
-# Completar y agregar la entrevista faltante 
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
@@ -1435,3 +1435,6 @@ Durante el desarrollo se priorizó la interacción constante con los usuarios fi
 
 
 
+##  Anexos
+
+[Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f640_upc_edu_pe/ER8vI9Lup6RAgZfHhoOU040BJfcx91lCki00DuO4pL4-rw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=zGqxMY): https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f640_upc_edu_pe/ER8vI9Lup6RAgZfHhoOU040BJfcx91lCki00DuO4pL4-rw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=zGqxMY
