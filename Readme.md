@@ -1209,11 +1209,22 @@ El Class Diagram del Domain Layer presenta una vista detallada de las clases pri
 
 ##### 4.2.2.6.2. Bounded Context Database Design Diagram
 
-El Database Design Diagram representa la estructura de la base de datos correspondiente al módulo de Ranch Management. Muestra las tablas que almacenan la información de animales, vacunas y establos, así como sus relaciones y claves. Esta estructura asegura la integridad, trazabilidad y facilidad de acceso a la información, siendo clave para auditorías, campañas sanitarias y reportes de gestión ganadera.
-
-
+![DatabaseDiagram](assets/DiagramaDatabaseRanch.JPG)
 
 <img src="./assets/ranch.png" alt="db_ranch_diagram">
+
+|**Nombre**|**Descripción**|
+| :- | :- |
+|ID|Identificador único de registro usado como clave primaria|
+|Name|Nombre del animal|
+|Birthday|Fecha de nacimiento del animal|
+|Birth\_place|Lugar de Nacimiento del animal|
+|Gender|Genero del animal|
+|Breed|Raza del animal|
+|Location|Lugar donde se ubica el animal|
+|Parent\_ID|Identificar de registro de la madre del animal|
+|Expire_date|Fecha de expiracion de la identificacion del bovino|
+|Animal_ID|Identificar de registro de la madre del animal|
 
     
 
