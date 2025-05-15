@@ -1539,6 +1539,94 @@ El Database Design Diagram de Staff Administration presenta la estructura de la 
 |email\_address|Dirección de correo electrónico del usuario.|
 
 
+# 6. CAPÍTULO VI: Product Implementation, Validation & Deployment
+En este apartado se resume todo el contenido recopilado, examinando los procedimientos a seguir y evaluando el estado emocional.
+
+## 6.1. Software Configuration Management
+En la siguiente sección se detalla la ruta de acceso de cada uno de los productos de software, facilitando a cualquier miembro del equipo el desarrollo de cada aspecto del trabajo:
+
+### 6.1.1. Software Development Environment Configuration
+* **Android Studio:** Entorno de desarrollo.\
+![image](https://i.imgur.com/DdPu0Sd.png)
+* **GitHub:** Repositorio colaborativo en la nube.\
+![image](https://hackmd.io/_uploads/ryiVhJXxC.png)
+* **Netifly:** Plataforma que facilita implementar despliegues sencillos para nuestras páginas web.\
+![image](./assets/netifly.png)
+* **Vertabelo:** Plataforma colaborativa para la creación de diagramas de base de datos.\
+![image](https://hackmd.io/_uploads/r1BjjyQgC.png)
+* **Visual Studio Code:** Entorno de desarrollo para diseño de base de datos.\
+![image](https://hackmd.io/_uploads/Hy8d2y7lR.png)
+* **Figma:** Herramienta colaborativa que permite elaborar wireframes y mockups.\
+![image](https://hackmd.io/_uploads/BJ99okXeR.png)
+### 6.1.2. Source Code Management
+**Repositorio de la Landing Page:** 
+**Implementación de GitFlow:**
+Para nuestra estrategia de gestión de versiones con Git, nos hemos inspirado en el artículo "A successful Git branching model" de Vincent Driessen, adoptando el modelo de ramificación GitFlow. Este enfoque nos permite establecer claramente las convenciones de ramificación que aplicamos en nuestro proyecto.
+![image](https://hackmd.io/_uploads/rJt95BobA.png)
+* **Rama Principal (Main branch):** Contiene el código en producción y se conoce como la Master branch o Main branch.
+    * Notación: main
+* **Rama de Desarrollo (Develop branch):** Acumula las últimas actualizaciones y cambios para la próxima versión. Funciona como un entorno de integración y prueba continua.
+    * Notación: develop
+* **Rama de Lanzamiento (Release branch):** Facilita la preparación de una nueva versión del producto, permitiendo correcciones de errores y recibiendo más actualizaciones de Develop.
+    * Debe derivarse de: develop
+    * Debe fusionarse con: develop y master/main
+    * Notación: release
+* **Rama de Características (Feature branch):** Se utiliza para desarrollar nuevas funcionalidades para la siguiente versión o futuras iteraciones.
+    * Debe derivarse de: develop
+    * Debe fusionarse de vuelta a: develop
+    * Notación: feature
+* **Rama de Corrección Rápida (Hotfix branch):** Aborda errores críticos en producción, permitiendo la implementación rápida de soluciones.
+    * Debe derivarse de: master/main
+    * Debe fusionarse con: develop y master/main
+    * Notación: hotfix
+
+**Conventional Commits:** 
+Adoptamos esta metodología para estructurar los mensajes de confirmación de cambios de manera estándar y semántica, lo que facilita la comunicación y la automatización de registros de cambios.
+**Tipos de Commits Convencionales:**
+* feat: Nuevas características o funcionalidades.
+* fix: Correcciones de errores.
+* docs: Cambios o mejoras en la documentación.
+* style: Cambios de formato que no afectan la funcionalidad.
+* refactor: Mejoras en la estructura o legibilidad del código.
+* test: Adición o modificación de pruebas.
+* chore: Cambios en el proceso de construcción o tareas de mantenimiento.
+* perf: Mejoras de rendimiento en el código.
+
+### 6.1.3. Source Code Style Guide & Conventions
+
+### 6.1.4. Software Deployment Configuration
+**Deploymen Landing Page:** 
+En esta sección, detallamos el proceso de implementación de nuestra landing page en la plataforma de GitHub.
+
+1. Se crea un repositorio en GitHub para alojar el código de nuestra landing page.
+
+![image](https://i.imgur.com/rEVqKl6.png)
+
+2. Agregamos a los participantes:
+
+![image](https://i.imgur.com/zelKt9F.png)
+
+3. Habilitamos Netlifly para poder importar nuestro proyecto:
+
+![image](https://i.imgur.com/Xf4X2G2.jpeg)
+
+
+4. Finalmente, se confirma el despliegue de nuestra página web después de completar todo el procedimiento.
+
+![image](blob:https://imgur.com/7500e25c-1c2d-4b6d-bd9f-2cca47833bcb)
+
+Este proceso garantiza el despliegue satisfactorio de nuestra landing page en la plataforma de Netlifly, siguiendo las especificaciones y requisitos de nuestro proyecto.
+**Enlace de la Landing Page: [https://kingreserve.netlify.app/](https://kingreserve.netlify.app/)**
+## 6.2. Landing Page, Services & Applications Implementation
+### 6.2.1. Sprint 1
+#### 6.2.1.1. Sprint Planning 1
+#### 6.2.1.2. Sprint Backlog 1
+#### 6.2.1.3. Development Evidence for Sprint Review
+#### 6.2.1.4. Execution Evidence for Sprint Review
+#### 6.2.1.5. Services Documentation Evidence for Sprint Review
+#### 6.2.1.6. Software Deployment Evidence for Sprint Review
+#### 6.2.1.7. Team Collaboration Insights during Sprint
+
 ##  Conclusiones 
 
 - Conclusión 1: Integración de módulos orientados al dominio
