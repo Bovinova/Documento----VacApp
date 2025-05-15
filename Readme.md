@@ -71,6 +71,7 @@
 |TB1          |   23/04/2025  |   Piero Stephano Miranda Sinarahua  |  Bounded Context Domain Layer Class Diagrams for Ranch Bounded Context    |
 |TB1          |   23/04/2025  |   Oscar Gabriel Aranda Vallejos  |  Ranch and Campaign Management Component Diagram    |
 |TB1          |   23/04/2025  |   Oscar Gabriel Aranda Vallejos  |  Context Mapping    |
+TB1          |   24/04/2025  |   Oscar Gabriel Aranda Vallejos  |  Bounded Context Domain Layer Class Diagrams for Campaign Management Bounded Context   |
 |TP1          |   31/04/2025  |  Estrella del Pilar Ticona Panduro  | Landing Page Wireframe    |
 |TP1          |   1/05/2025  |   Estrella del Pilar Ticona Panduro | Landing Page Mock-up   |
 |TP1          |   12/05/2025  |   Estrella del Pilar Ticona Panduro | Mobile Applications Wireframes   |
@@ -1906,5 +1907,8 @@ Para el desarrollo de VacApp, utilizaremos Figma como herramienta principal para
 
 
 ##  Anexos
-[Entrevistas](https://shorturl.at/F1HUB): https://shorturl.at/F1HUB
+[Entrevistas] (https://shorturl.at/F1HUB): https://shorturl.at/F1HUB
+
+
+FIGMA:https://www.figma.com/design/Ck5RdO3MzAm16SIReLDO15/Sin-t%C3%ADtulo?node-id=150-5796&t=hGN3YL7RfASQ5FFk-1 
 
