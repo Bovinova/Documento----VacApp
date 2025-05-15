@@ -1900,5 +1900,7 @@ Para el desarrollo de VacApp, utilizaremos Figma como herramienta principal para
 
 ##  Anexos
 [Entrevistas] (https://shorturl.at/F1HUB): https://shorturl.at/F1HUB
+
+
 FIGMA:https://www.figma.com/design/Ck5RdO3MzAm16SIReLDO15/Sin-t%C3%ADtulo?node-id=150-5796&t=hGN3YL7RfASQ5FFk-1 
 
