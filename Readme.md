@@ -1615,14 +1615,175 @@ En esta sección, detallamos el proceso de implementación de nuestra landing pa
 
 ![image](blob:https://imgur.com/7500e25c-1c2d-4b6d-bd9f-2cca47833bcb)
 
+
+
 Este proceso garantiza el despliegue satisfactorio de nuestra landing page en la plataforma de Netlifly, siguiendo las especificaciones y requisitos de nuestro proyecto.
-**Enlace de la Landing Page: [https://kingreserve.netlify.app/](https://kingreserve.netlify.app/)**
+**Enlace de la Landing Page: [vacapp-landing.netlify.app/](vacapp-landing.netlify.app/)**
+
+**Deploymen Landing Page:** 
+
 ## 6.2. Landing Page, Services & Applications Implementation
 ### 6.2.1. Sprint 1
+Este informe documenta el progreso realizado durante la fase de definición de requisitos del proyecto, que incluye entrevistas con los interesados y creación de artefactos antes y después de la implementación de la aplicación web estática. Proporcionar una visión clara del avance y garantizar una comunicación efectiva entre el equipo de desarrollo y los interesados son los objetivos principales.
+
+Durante esta etapa, se realizaron extensas entrevistas con los interesados para comprender sus necesidades, expectativas y requisitos particulares para la aplicación. Las entrevistas proporcionaron información útil que ayudó a definir los requisitos del proyecto.
+
+Se realizaron actividades de creación de artefactos antes y después de la implementación de la aplicación web estática, además de entrevistas. Estos objetos fueron
 #### 6.2.1.1. Sprint Planning 1
+| Sprint # | Sprint 1  | 
+|--------------------|------------|
+| Sprint Planning Background | 
+| Date | 2025-05-14 | 
+| Time |  10:00 AM |
+| Location |  UPC - Monterrico |
+| Preparate by| Maycol Jhordan Rojas Velasquez | 
+|  Attendees (to planning meeting) | Gómez Vallejos Sergio André ,Aranda Vallejos, Oscar Gabriel ,Ticona Panduro, Estrella del Pilar ,Durand Vera, Gianfranco Angel, Miranda Sinarahua, Piero Stephano  | 
+| Sprint n-1 Review Summary | --- | 
+| Sprint Planning Background | Durante esta etapa, se llevó a cabo una exhaustiva verificación de la funcionalidad de la landing page diseñada para el proyecto. El objetivo principal fue asegurar que la landing page cumpla con los estándares de calidad y proporcionar una experiencia óptima para los visitantes. |
+| Sprint Goal & User Stories | 
+| Sprint 1 Goal | Desarrolar la funcionalidad de la página web con i18n. Se considerará que el objetivo del sprint se ha cumplido si todas las historias de usuario relacionadas con la landing page están implementadas y hecho con las entrevistas de segmentos objetivos.|  
+| Sprint Velocity | Se establece un Velocity de 20 Story Points para este Sprint. | 
+| Sum of Story Points | 20 Story Points | 
 #### 6.2.1.2. Sprint Backlog 1
+
+<table align="center" border="1" width="90%" style="text-align:center">
+ <tr>
+    <td colspan="2"><b>User Story</b></td>
+    <td colspan="6"><b>Work-Item / Task</b></td>
+  </tr>
+  <tr>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Estimation</b></td>
+    <td><b>Assigned To</b></td>
+    <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+  </tr>
+  <tr>
+    <td>US001</td>
+    <td>Acceso a la sección de Resumen</td>
+    <td>T01</td>
+    <td>Implementar acceso a la sección de Resumen</td>
+    <td>2</td>
+    <td>Rojas Velasquez, Maycol Jhordan</td>
+    <td>Done</td>
+ </tr>
+ <tr>
+    <td>US002</td>
+    <td>Acceso a la sección de Características</td>
+    <td>T02</td>
+    <td>Implementar acceso a la sección de Características</td>
+    <td>1</td>
+    <td>Rojas Velasquez, Maycol Jhordan</td>
+    <td>Done</td>
+ </tr>
+ <tr>
+    <td>US003</td>
+    <td>Envío de Correos a los CEO de KingGroup</td>
+    <td>T03</td>
+    <td>Implementar envío de correos</td>
+    <td>2</td>
+    <td>Rojas Velasquez, Maycol Jhordan</td>
+    <td>Done</td>
+ </tr>
+ <tr>
+    <td>US004</td>
+    <td>Registro de Nuevos Usuarios</td>
+    <td>T04</td>
+    <td>Implementar registro de nuevos usuarios</td>
+    <td>3</td>
+    <td>Rojas Velasquez, Maycol Jhordan</td>
+    <td>Done</td>
+ </tr>
+ <tr>
+    <td>US005</td>
+    <td>Información de Funcionalidades</td>
+    <td>T05</td>
+    <td>Implementar sección de funcionalidades</td>
+    <td>2</td>
+    <td>Rojas Velasquez, Maycol Jhordan</td>
+    <td>Done</td>
+ </tr>
+ <tr>
+    <td>US006</td>
+    <td>Sector de Planes Disponibles</td>
+    <td>T06</td>
+    <td>Implementar sector de planes disponibles</td>
+    <td>3</td>
+    <td>Rojas Velasquez, Maycol Jhordan</td>
+    <td>Done</td>
+ </tr>
+ <tr>
+    <td>US007</td>
+    <td>Sector de Preguntas Frecuentes</td>
+    <td>T07</td>
+    <td>Implementar sector de preguntas frecuentes</td>
+    <td>2</td>
+    <td>Rojas Velasquez, Maycol Jhordan</td>
+    <td>Done</td>
+ </tr>
+ <tr>
+    <td>US008</td>
+    <td>Conexión de King Group con la Aplicación</td>
+    <td>T08</td>
+    <td>Implementar conexión de King Group con la aplicación</td>
+    <td>3</td>
+    <td>Rojas Velasquez, Maycol Jhordan</td>
+    <td>Done</td>
+ </tr>
+ <tr>
+    <td>US009</td>
+    <td>Conexión de Datos del Formulario a Firebase</td>
+    <td>T09</td>
+    <td>Implementar conexión de datos del formulario a Firebase</td>
+    <td>2</td>
+    <td>Rojas Velasquez, Maycol Jhordan</td>
+    <td>Done</td>
+ </tr>
+     <tr>
+    <td>US029</td>
+    <td>Incluir Internacionalización (i18n)</td>
+    <td>T10</td>
+    <td>Implementar el cambio de idioma</td>
+    <td>2</td>
+    <td>Rojas Velasquez, Maycol Jhordan</td>
+    <td>Done</td>
+ </tr>
+</table>
+
 #### 6.2.1.3. Development Evidence for Sprint Review
+Durante este sprint, se han realizado avances significativos en la implementación de la Landing Page. Se han completado varias historias de usuario de la landing page y se han realizado múltiples commits en los repositorios correspondientes. A continuación, se presenta una tabla que incluye los commits relacionados con la implementación para el repositorio de la landing page.
+
 #### 6.2.1.4. Execution Evidence for Sprint Review
+Durante este Sprint, se han alcanzado varios hitos importantes en la implementación de la Landing Page, las aplicaciones web y los servicios web de King Reserve. Se han completado las siguientes tareas:
+
+- Implementación de la sección de Resumen.
+- Implementación de la sección de Características.
+- Envío de correos a los CEO de KingGroup.
+- Registro de nuevos usuarios.
+- Visualización de funcionalidades.
+- Visualización de planes disponibles.
+- Implementación de la sección de Preguntas Frecuentes.
+- Conexión de King Group con la aplicación.
+- Conexión de datos del formulario a Firebase.
+- Implementacion de la Internacionalizacion
+
+### Screenshots
+
+#### Landing Page
+![Landing Page](https://i.imgur.com/P4EipKO.png)
+
+#### Funciones claves
+![Características](https://i.imgur.com/pWEAI9e.png)
+
+#### Sección de Planes Disponibles
+![Planes Disponibles](https://i.imgur.com/KEw3jG2.png)
+
+
+### Seccion de cambio de idioma 
+![I18n](https://i.imgur.com/MPdtDqj.png)
+
 #### 6.2.1.5. Services Documentation Evidence for Sprint Review
 #### 6.2.1.6. Software Deployment Evidence for Sprint Review
 #### 6.2.1.7. Team Collaboration Insights during Sprint
