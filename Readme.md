@@ -1547,9 +1547,9 @@ En la siguiente sección se detalla la ruta de acceso de cada uno de los product
 
 ### 6.1.1. Software Development Environment Configuration
 * **Android Studio:** Entorno de desarrollo.\
-![image](https://i.imgur.com/DdPu0Sd.png)
+![image](https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg)
 * **GitHub:** Repositorio colaborativo en la nube.\
-![image](https://hackmd.io/_uploads/ryiVhJXxC.png)
+![image](https://cdn-1.webcatalog.io/catalog/github/github-icon-filled-256.png?v=1744774208192)
 * **Netifly:** Plataforma que facilita implementar despliegues sencillos para nuestras páginas web.\
 ![image](./assets/netifly.png)
 * **Vertabelo:** Plataforma colaborativa para la creación de diagramas de base de datos.\
@@ -1613,7 +1613,7 @@ En esta sección, detallamos el proceso de implementación de nuestra landing pa
 
 4. Finalmente, se confirma el despliegue de nuestra página web después de completar todo el procedimiento.
 
-![image](blob:https://imgur.com/7500e25c-1c2d-4b6d-bd9f-2cca47833bcb)
+![image](https://i.imgur.com/P4EipKO.png)
 
 
 
@@ -1666,7 +1666,7 @@ Se realizaron actividades de creación de artefactos antes y después de la impl
     <td>T01</td>
     <td>Implementar acceso a la sección de Resumen</td>
     <td>2</td>
-    <td>Rojas Velasquez, Maycol Jhordan</td>
+    <td>Ticona Panduro, Estrella del Pilar </td>
     <td>Done</td>
  </tr>
  <tr>
@@ -1675,7 +1675,7 @@ Se realizaron actividades de creación de artefactos antes y después de la impl
     <td>T02</td>
     <td>Implementar acceso a la sección de Características</td>
     <td>1</td>
-    <td>Rojas Velasquez, Maycol Jhordan</td>
+    <td>Durand Vera, Gianfranco Angel </td>
     <td>Done</td>
  </tr>
  <tr>
@@ -1684,7 +1684,7 @@ Se realizaron actividades de creación de artefactos antes y después de la impl
     <td>T03</td>
     <td>Implementar envío de correos</td>
     <td>2</td>
-    <td>Rojas Velasquez, Maycol Jhordan</td>
+    <td>Durand Vera, Gianfranco Angel </td>
     <td>Done</td>
  </tr>
  <tr>
@@ -1693,7 +1693,7 @@ Se realizaron actividades de creación de artefactos antes y después de la impl
     <td>T04</td>
     <td>Implementar registro de nuevos usuarios</td>
     <td>3</td>
-    <td>Rojas Velasquez, Maycol Jhordan</td>
+    <td>Ticona Panduro, Estrella del Pilar </td>
     <td>Done</td>
  </tr>
  <tr>
@@ -1702,7 +1702,7 @@ Se realizaron actividades de creación de artefactos antes y después de la impl
     <td>T05</td>
     <td>Implementar sección de funcionalidades</td>
     <td>2</td>
-    <td>Rojas Velasquez, Maycol Jhordan</td>
+    <td>Durand Vera, Gianfranco Angel </td>
     <td>Done</td>
  </tr>
  <tr>
@@ -1711,7 +1711,7 @@ Se realizaron actividades de creación de artefactos antes y después de la impl
     <td>T06</td>
     <td>Implementar sector de planes disponibles</td>
     <td>3</td>
-    <td>Rojas Velasquez, Maycol Jhordan</td>
+    <td>Durand Vera, Gianfranco Angel </td>
     <td>Done</td>
  </tr>
  <tr>
@@ -1720,7 +1720,7 @@ Se realizaron actividades de creación de artefactos antes y después de la impl
     <td>T07</td>
     <td>Implementar sector de preguntas frecuentes</td>
     <td>2</td>
-    <td>Rojas Velasquez, Maycol Jhordan</td>
+    <td>Durand Vera, Gianfranco Angel </td>
     <td>Done</td>
  </tr>
  <tr>
@@ -1729,7 +1729,7 @@ Se realizaron actividades de creación de artefactos antes y después de la impl
     <td>T08</td>
     <td>Implementar conexión de King Group con la aplicación</td>
     <td>3</td>
-    <td>Rojas Velasquez, Maycol Jhordan</td>
+    <td>Durand Vera, Gianfranco Angel </td>
     <td>Done</td>
  </tr>
  <tr>
@@ -1738,7 +1738,7 @@ Se realizaron actividades de creación de artefactos antes y después de la impl
     <td>T09</td>
     <td>Implementar conexión de datos del formulario a Firebase</td>
     <td>2</td>
-    <td>Rojas Velasquez, Maycol Jhordan</td>
+    <td>Ticona Panduro, Estrella del Pilar </td>
     <td>Done</td>
  </tr>
      <tr>
@@ -1747,7 +1747,7 @@ Se realizaron actividades de creación de artefactos antes y después de la impl
     <td>T10</td>
     <td>Implementar el cambio de idioma</td>
     <td>2</td>
-    <td>Rojas Velasquez, Maycol Jhordan</td>
+    <td>Ticona Panduro, Estrella del Pilar </td>
     <td>Done</td>
  </tr>
 </table>
