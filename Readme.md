@@ -1781,7 +1781,8 @@ Durante este Sprint, se han alcanzado varios hitos importantes en la implementac
 ![Planes Disponibles](https://i.imgur.com/KEw3jG2.png)
 
 
-### Seccion de cambio de idioma 
+### Seccion de cambio de idioma
+
 ![I18n](https://i.imgur.com/MPdtDqj.png)
 
 #### 6.2.1.5. Services Documentation Evidence for Sprint Review
