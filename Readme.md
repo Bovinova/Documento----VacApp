@@ -1551,7 +1551,7 @@ En la siguiente sección se detalla la ruta de acceso de cada uno de los product
 * **GitHub:** Repositorio colaborativo en la nube.\
 ![image](https://cdn-1.webcatalog.io/catalog/github/github-icon-filled-256.png?v=1744774208192)
 * **Netifly:** Plataforma que facilita implementar despliegues sencillos para nuestras páginas web.\
-![image](./assets/netifly.png)
+![image](https://cmscritic.com/ms-content/uploads/2023/11/netlifty-icon.png?format=auto&width=256)
 * **Vertabelo:** Plataforma colaborativa para la creación de diagramas de base de datos.\
 ![image](https://hackmd.io/_uploads/r1BjjyQgC.png)
 * **Visual Studio Code:** Entorno de desarrollo para diseño de base de datos.\
