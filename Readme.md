@@ -713,5 +713,7 @@ Representa cómo el usuario accede a la gestión del ganado desde el dashboard. 
 
 #### 5.1.4.5. Mobile Applications Prototyping
 
+<img src="./assets/prototipo.png" style="width: 400px">
 
+**FIGMA:https://www.figma.com/design/Ck5RdO3MzAm16SIReLDO15/Sin-t%C3%ADtulo?node-id=150-5796&t=hGN3YL7RfASQ5FFk-1**
 
