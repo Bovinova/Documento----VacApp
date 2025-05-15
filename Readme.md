@@ -253,9 +253,8 @@ Nos esforzamos por ofrecer una plataforma integral que empodere a los ganaderos 
 | [![Captura-de-pantalla-2024-09-08-151747.png](https://i.postimg.cc/6qRCcvNF/Captura-de-pantalla-2024-09-08-151747.png)](https://postimg.cc/kRJVXDGy) |Aranda Vallejos, Oscar Gabriel - U202218167 <br> Tengo 20 años y soy estudiante de la carrera de Ingeniería de Software, poseo conocimientos intermedios en Unity, C++, Java, Spring Boot y diseño web. Me considero una persona responsable y perseverante. Siempre estoy dispuesto a aprender nuevos conceptos y elegí esta carrera porque me apasiona el desarrollo de software y la posibilidad de crear soluciones que impacten positivamente en la sociedad. |
 |<img src="https://hackmd.io/_uploads/B1F_iuso0.jpg" alt="yo-3" style="width: 600px ; height: 200px;">|Maycol Jhordan Rojas Velasquez – Ingeniería de Software – u202219984<br>Elegí la carrera de Ingeniería de Software debido a mi gusto por la innovación y la implementación de la tecnología en cualquier rubro  social, de una manera creativa y en todos los aspectos. Me considero una persona creativa, en busca de ideas, estrategias con mente nueva. También me gusta escuchar ideas de mi equipo, dar ideas de mejora, evaluar las ventajas y desventajas . Además, tengo conocimientos de programación en C + +, HTML, Python,Angular,Backend en Java. Además, Tengo un enfoque responsable y dedicado mediante un aprendizaje rápido así puedo ayudar a mis compañeros en sus dudas. Por otro lado, mis hobbies son ver series, jugar , escuchar música, nadar y  manejar.|
 | <img src="./assets/estrella.jpeg">|Ticona Panduro, Estrella del Pilar - U202210659  <br> actualmente estudio la carrera de Ingeniería de Software en UPC. Opté por estudiar esta carrera porque me interesa programar y crear diferentes aplicativos o programas y emplearlo en la salud. En mis tiempos libres me gusta ver series o películas. Mi compromiso es aportar ideas innovadoras a lo largo del curso, en especial en las tareas en equipo. Mis habilidades son tener una actitud positiva, entusiasta y responsable. | 
-| <img src="assets/franco.jpg" style="width: 600px ; height: 200px;" > | Durand Vera, Gianfranco Angel - U20201f640 <br> Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, actualmente me encuentro en el septimo ciclo, escogí esta carrera porque me gusta mucho la programación. Tengo experiencia en lenguajes de programación como C#, Python, Kotlin y TypeScript.|
-|![Piero](assets/piero.jpg)| Miranda Sinarahua, Piero Stephano - U20181g752 <br> Estudiante de la carrera de Ingeniería de Software. Considero que soy una persona responsable y que puedo aportar al equipo en cualquier aspecto que se requiera. De igual manera, siento que los conocimientos que he ido adquiriendo en ciclos anteriores serán de gran ayuda para llevar a cabo el presente trabajo. | 
-
+| <img src="assets/franco.jpg" > | Durand Vera, Gianfranco Angel - U20201f640 <br> Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, actualmente me encuentro en el septimo ciclo, escogí esta carrera porque me gusta mucho la programación. Tengo experiencia en lenguajes de programación como C#, Python, Kotlin y TypeScript.|
+|![Piero]()| Miranda Sinarahua, Piero Stephano - U20181g752 <br> | 
 
 ## 1.2. **Solution Profile**
 
@@ -300,6 +299,7 @@ Mediante la técnica de **“5W's & 2H’s”**, hemos identificado los antecede
 #### **What? (¿Qué?)**
 
 El sector ganadero en Perú enfrenta desafíos significativos relacionados con la gestión del ganado, la salud, la alimentación, la reproducción y la producción de los animales. Sin embargo, la falta de herramientas tecnológicas adecuadas ha dificultado una gestión eficiente. Los ganaderos, especialmente los pequeños productores, carecen de acceso a sistemas que permitan un seguimiento detallado de sus animales y una toma de decisiones informada, lo que reduce su capacidad para optimizar operaciones y mejorar los ingresos.
+
 
 #### **When? (¿Cuándo?)**
 
@@ -1551,6 +1551,113 @@ Durante el desarrollo se priorizó la interacción constante con los usuarios fi
 
 ---
 
+
+# Capítulo V: Solution UI/UX Design
+
+## 5.1. Product design
+### 5.1.1. Style Guidelines
+
+
+#### 5.1.1.1. General Style Guidelines
+
+
+**Branding**
+
+El branding de VacApp está diseñado para transmitir confianza, solidez y un compromiso con la sostenibilidad en la ganadería bovina. La identidad visual refleja una conexión directa con la naturaleza y la productividad del campo, utilizando elementos gráficos que representan el cuidado responsable del ganado. Se buscará una imagen fuerte y clara, que sea fácilmente reconocible por los productores y profesionales del sector
+
+**Typography**
+
+La tipografía elegida para VacApp es moderna y clara, con un enfoque en la legibilidad, especialmente en pantallas móviles. Se utilizará una fuente Rokkitt para los encabezados, destacando la jerarquía visual de la información, y una tipografía Mulish para el cuerpo de texto, lo que asegura una lectura fácil y cómoda durante el uso prolongado. La tipografía debe reflejar seriedad, sin perder cercanía ni accesibilidad.
+
+<img src="./assets/rokkitt.png" style="height: 400px">
+<img src="./assets/mulish.png" style="height: 400px">
+
+**Colors**
+
+La paleta de colores de VacApp está compuesta por tonos verdes y cremas, los cuales se seleccionaron para evocar la naturaleza y la confianza en la gestión sostenible de animales. Los verdes representan frescura, salud y sostenibilidad, mientras que los tonos crema refuerzan la sensación de conexión con la tierra y la tradición del campo. Estos colores se emplearán de manera estratégica para crear una interfaz armónica y accesible en dispositivos móviles.
+
+<img src="./assets/vacapp-colors.png" style="height: 400px">
+
+**Spacing**
+
+Se aplicará un espaciado adecuado en toda la interfaz para asegurar que los elementos no estén sobrecargados, garantizando una navegación fluida y cómoda. Los márgenes y los espacios entre los componentes estarán cuidadosamente diseñados para ofrecer un diseño equilibrado y organizado, lo que también facilitará la interacción en dispositivos móviles, donde la precisión es crucial.
+
+**Tono de Comunicación**
+
+El tono de comunicación de VacApp será informativo, respetuoso y cercano, con un enfoque que hable directamente al usuario del sector ganadero bovino. Utilizaremos un lenguaje claro y profesional, pero accesible, para transmitir confianza y conocimiento en temas relacionados con el manejo de ganado. El objetivo es que el usuario se sienta apoyado y bien informado, mientras mantiene la seriedad y la responsabilidad que caracteriza al sector.
+
+### 5.1.2. Information Architecture
+
+La arquitectura de información de VacApp está diseñada para facilitar una experiencia de uso fluida y natural, tanto en la aplicación móvil como en la Landing Page. Las decisiones tomadas buscan que los usuarios encuentren de manera rápida y sencilla las funciones clave de la plataforma. Se aplican principios de organización claros, etiquetas simples, sistemas de búsqueda eficientes y una navegación intuitiva.
+
+#### 5.1.2.1. Organization Systems
+
+Para VacApp, se han definido diferentes esquemas de organización según el tipo de contenido:
+
+- **Jerárquica (Visual Hierarchy):** Se aplica en la Landing Page y en la pantalla principal de la app, destacando las funciones más importantes como registro de ganado y control sanitario. Las acciones frecuentes se ubican en la parte superior o centradas.
+
+- **Secuencial (Step-by-step):** Utilizada en procesos como el registro de animales, guiando al usuario en pasos definidos.
+
+- **Por Tópicos:** En las secciones de información técnica, como manuales o ayudas, la organización se basa en temas relevantes (salud animal, nutrición, reproducción, etc.).
+
+- **Según Audiencia:** Algunas vistas como el panel administrativo o el perfil del veterinario muestran información personalizada, según el rol del usuario dentro del sistema.
+
+#### 5.1.2.2. Labelling Systems
+
+El sistema de etiquetado de VacApp prioriza la claridad y la economía del lenguaje. Las etiquetas han sido diseñadas con términos que el usuario del sector ganadero ya reconoce:
+
+- Se evita el uso de jergas técnicas excesivas. 
+- Las acciones se etiquetan con verbos directos como "Registrar", "Consultar", "Programar".
+- Las categorías principales usan términos como "Animales", "Citas", "Inventario", "Diagnósticos".
+- Se emplean iconos acompañantes para reforzar visualmente el significado de cada etiqueta.
+
+#### 5.1.2.3. SEO Tags and Meta Tags
+
+Para mejorar la visibilidad de VacApp en motores de búsqueda y en tiendas de aplicaciones, se han definido los siguientes valores de optimización:
+
+**Landing Page y Web App:**
+
+- **Title:** VacApp – Gestión inteligente para la ganadería bovina
+- **Meta Description:** Plataforma digital que optimiza el control sanitario, inventario y manejo del ganado bovino.
+- **Keywords:** ganadería, salud animal, veterinaria, bovino, control de ganado, app ganadera
+- **Author:** VacApp
+
+**App Store Optimization (ASO):**
+- **App Title:** VacApp 
+- **App Subtitle:** Manejo digital de tu ganado bovino
+- **App Keywords:** ganadería, bovinos, recetas, veterinarios, animales
+- **App Description:** VacApp es una aplicación móvil diseñada para modernizar y optimizar la gestión ganadera en el Perú. Pensada tanto para ganaderos independientes como para empresas del sector.
+
+#### 5.1.2.4. Searching Systems
+
+VacApp contará con sistemas de búsqueda contextual y filtros específicos según la sección:
+
+- Búsqueda global por nombre, código de animal o categoría.
+- Filtros personalizados por estado de salud, tipo de ganado, fechas de registro, entre otros.
+- Sugerencias automáticas mientras se escribe (auto-complete).
+- Resultados mostrados con etiquetas claras, iconos e información resumida (como nombre, fecha, categoría).
+
+#### 5.1.2.5. Navigation Systems
+
+La navegación de VacApp se basa en patrones comunes de apps móviles para reducir la curva de aprendizaje:
+
+- Navegación inferior (Bottom Navigation) con accesos rápidos a secciones clave: Inicio, Animales, Perfil, etc.
+- Menú hamburguesa con opciones complementarias como configuración, soporte y cerrar sesión.
+- Enlaces jerárquicos que permiten ir y volver entre secciones sin perder contexto.
+- Flujos de usuario optimizados: pasos guiados para tareas como registrar un animal.
+- Indicadores visuales (breadcrumbs, estados activos) para mantener claridad sobre la ubicación actual dentro de la app.
+
+### 5.1.3. Landing Page UI Design
+#### 5.1.3.1. Landing Page Wireframe
+#### 5.1.3.2. Landing Page Mock-up
+
+### 5.1.4. Mobile Applications UX/UI Design
+#### 5.1.4.1. Mobile Applications Wireframes
+#### 5.1.4.2. Mobile Applications Wireflow Diagrams
+#### 5.1.4.3. Mobile Applications Mock-ups
+#### 5.1.4.4. Mobile Applications User Flow Diagrams
+#### 5.1.4.5. Mobile Applications Prototyping
+
 ##  Bibliografía
 
 - Cohn, M. (2004). *User Stories Applied: For Agile Software Development*. Addison-Wesley.
@@ -1562,7 +1669,8 @@ Durante el desarrollo se priorizó la interacción constante con los usuarios fi
 - Poppendieck, M., & Poppendieck, T. (2003). *Lean Software Development: An Agile Toolkit*. Addison-Wesley.
 - Vernon, V. (2013). *Implementing Domain-Driven Design*. Addison-Wesley.
 
-
+Las Style Guidelines son esenciales para asegurar una comunicación coherente y profesional en todos los aspectos visuales y de diseño del proyecto, ya sea en medios impresos, digitales o cualquier otra plataforma de difusión. En esta sección, se establecerán las directrices que guiarán al equipo en la creación de VacApp. Estas pautas definirán elementos clave como la elección de colores, tipografía, estructura de documentos y otros aspectos visuales.
+Para el desarrollo de VacApp, utilizaremos Figma como herramienta principal para diseñar tanto la aplicación móvil como la landing page. En ambos casos, se implementará una paleta de colores basada en tonos verdes y cremas, evocando la naturaleza y transmitiendo la confianza asociada con una gestión responsable y sostenible del cuidado de animales. A continuación, se detalla cada uno de estos aspectos en profundidad.
 
 ##  Anexos
 [Entrevistas](https://shorturl.at/F1HUB): https://shorturl.at/F1HUB
