@@ -1722,58 +1722,42 @@ La navegación de VacApp se basa en patrones comunes de apps móviles para reduc
 
 <img src="./assets/planesw.png" style="width: 400px">
 
-**Configuración**
+**Home**
+<img src="./assets/homew.png" style="width: 400px">
+<img src="./assets/homew2.png" style="width: 400px">
+<img src="./assets/homew3.png" style="width: 400px">
 
-<img src="./assets/configuracionw.png" style="width: 400px">
-
-**Cuenta**
-
-<img src="./assets/cuentaw.png" style="width: 400px"> 
-
-**Organización**
-
-<img src="./assets/organizationw.png" style="width: 400px">
-
-<img src="./assets/organizationw1.png" style="width: 400px">
-
-<img src="./assets/organizationw2.png" style="width: 400px">
-
-**Manejo Ganadero**
-
-<img src="./assets/gestionw.png" style="width: 400px">
-
-<img src="./assets/gestionw1.png" style="width: 400px">
-
-**Vista de Animales**
+**Animals**
 
 <img src="./assets/animalw.png" style="width: 400px">
 
-
 <img src="./assets/animalwinfo.png" style="width: 400px">
 
-**Vista de Evento**
-
-<img src="./assets/eventsw.png" style="width: 400px">
 
 
-**Vista de Inventario**
+**Inventario**
 
 <img src="./assets/inventariow.png" style="width: 400px">
 
-
 <img src="./assets/inventariowinfo.png" style="width: 400px">
+
+**Campaña**
+
+<img src="./assets/organizationw.png" style="width: 400px">
+
 
 **vista de "Agregar Animal"**
 
 <img src="./assets/animalwadd.png" style="width: 400px">
 
-**Vista de "Agregar Evento"**
 
-<img src="./assets/inventariowadd.png" style="width: 400px">
+**vista de "Agregar Inventario"**
 
-**Vista de "Agregar Inventario"**
+<img src="./assets/productaddw.png" style="width: 400px">
 
-<img src="./assets/inventariowadd.png" style="width: 400px">
+**vista de "Agregar Campaña"**
+
+<img src="./assets/campaniaaddw.png" style="width: 400px">
 
 #### 5.1.4.2. Mobile Applications Wireflow Diagrams
 
@@ -1782,25 +1766,22 @@ Este flujo guía al usuario desde la pantalla de bienvenida hacia las opciones d
 
 <img src="./assets/1w.png" style="width: 400px">
 
-**User Goal: Home y navegar por el dashboard:**
-Una vez autenticado, el usuario accede al home con accesos rápidos al dashboard. Este wireflow muestra cómo el usuario puede visualizar las opciones "animales" y "Organizaciones"
+
+
+**User Goal: Home y navegar por las secciones "Animals","Campaigns" e "Inventory"**
+Una vez autenticado, el usuario accede al home con accesos rápidos con el sidebar. Este wireflow muestra cómo el usuario puede visualizar las opciones "Animals", "CAmpaings e "inventory"
 
 <img src="./assets/2w.png" style="width: 400px">
 
-**User Goal: Registro de una nueva organización:** 
-Este flujo está diseñado para facilitar el alta de una nueva organización dentro de la plataforma. Incluye formularios estructurados para ingresar datos relevantes (nombre, tipo de organización, representante etc.) 
+**User Goal: Registro de un nuevo dato ya sea "Animals","Campaigns" o "Inventory":** 
+Este flujo está diseñado para facilitar al agregar ya sea un bovino, una campaña o un producto de inventario.
 
 <img src="./assets/3w.png" style="width: 400px">
-
-**User Goal: Navegar por la sección “Livestock Management”:** 
-Representa cómo el usuario accede a la gestión del ganado desde el dashboard. Este wireflow detalla la navegación entre las subcategorías como registro de animales, asegurando una experiencia estructurada y centrada en la productividad.
-
-<img src="./assets/4w.png" style="width: 400px">
 
 #### 5.1.4.3. Mobile Applications Mock-ups
 **Inicio Sesion**
 
-<img src="./assets/inicio.png" style="width: 400px">
+<img src="./assets/singin.png" style="width: 400px">
 
 **Registro**
 
@@ -1811,56 +1792,45 @@ Representa cómo el usuario accede a la gestión del ganado desde el dashboard. 
 
 <img src="./assets/planes.png" style="width: 400px">
 
-**Configuración**
+**Home**
 
-<img src="./assets/configuracion.png" style="width: 400px">
+<img src="./assets/home.png" style="width: 400px">
+<img src="./assets/home2.png" style="width: 400px">
+<img src="./assets/home3.png" style="width: 400px">
 
-**Cuenta**
-
-<img src="./assets/cuenta.png" style="width: 400px"> 
-
-**Organización**
-
-<img src="./assets/organization.png" style="width: 400px">
-
-<img src="./assets/organization1.png" style="width: 400px">
-
-<img src="./assets/organization2.png" style="width: 400px">
-
-**Manejo Ganadero**
-
-<img src="./assets/gestion.png" style="width: 400px">
-
-<img src="./assets/gestion1.png" style="width: 400px">
-
-**Vista de Animales**
+**Animals**
 
 <img src="./assets/animal.png" style="width: 400px">
 
 <img src="./assets/animalinfo.png" style="width: 400px">
 
-**Vista de Evento**
-
-<img src="./assets/events.png" style="width: 400px">
 
 
-**Vista de Inventario**
+**Inventario**
 
 <img src="./assets/inventario.png" style="width: 400px">
 
 <img src="./assets/inventarioinfo.png" style="width: 400px">
 
+**Campaña**
+
+<img src="./assets/organization.png" style="width: 400px">
+
+
 **vista de "Agregar Animal"**
 
 <img src="./assets/animaladd.png" style="width: 400px">
 
-**Vista de "Agregar Evento"**
 
-<img src="./assets/gesrionadd.png" style="width: 400px">
+**vista de "Agregar Inventario"**
 
-**Vista de "Agregar Inventario"**
+<img src="./assets/productadd.png" style="width: 400px">
 
-<img src="./assets/eventadd.png" style="width: 400px">
+
+**vista de "Agregar Campaña"**
+
+<img src="./assets/campaniaadd.png" style="width: 400px">
+
 
 #### 5.1.4.4. Mobile Applications User Flow Diagrams
 
@@ -1869,20 +1839,17 @@ Este flujo guía al usuario desde la pantalla de bienvenida hacia las opciones d
 
 <img src="./assets/1.png" style="width: 400px">
 
-**User Goal: Home y navegar por el dashboard:**
-Una vez autenticado, el usuario accede al home con accesos rápidos al dashboard. Este wireflow muestra cómo el usuario puede visualizar las opciones "animales" y "Organizaciones"
+**User Goal: Home y navegar por las secciones "Animals","Campaigns" e "Inventory"**
+Una vez autenticado, el usuario accede al home con accesos rápidos con el sidebar. Este wireflow muestra cómo el usuario puede visualizar las opciones "Animals", "CAmpaings e "inventory"
 
 <img src="./assets/2.png" style="width: 400px">
 
-**User Goal: Registro de una nueva organización:** 
-Este flujo está diseñado para facilitar el alta de una nueva organización dentro de la plataforma. Incluye formularios estructurados para ingresar datos relevantes (nombre, tipo de organización, representante etc.) 
+**User Goal: Registro de un nuevo dato ya sea "Animals","Campaigns" o "Inventory":** 
+Este flujo está diseñado para facilitar al agregar ya sea un bovino, una campaña o un producto de inventario.
 
 <img src="./assets/3.png" style="width: 400px">
 
-**User Goal: Navegar por la sección “Livestock Management”:** 
-Representa cómo el usuario accede a la gestión del ganado desde el dashboard. Este wireflow detalla la navegación entre las subcategorías como registro de animales, asegurando una experiencia estructurada y centrada en la productividad.
 
-<img src="./assets/4.png" style="width: 400px">
 
 #### 5.1.4.5. Mobile Applications Prototyping
 
