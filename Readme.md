@@ -934,7 +934,7 @@ En este apartado se documenta el proceso del Event Storming, una herramienta cla
 A continuación se detalla el proceso y la evolución final del event storming.
 
 #### Step 1: Unstructured exploration
-Primero tuvimos una lluvia de ideas en la cual nos propusimos identificar exhaustivamente todos los eventos que ocurrirán en nuestro aplicativo, para asegurarnos de abarcar una amplia gama de posibilidades y ofrecer una experiencia completa y satisfactoria a nuestros usuarios. Este paso se puede visualizar con mayor claridad en el siguiente enlace: 
+Primero tuvimos una lluvia de ideas en la cual nos propusimos identificar exhaustivamente todos los eventos que ocurrirán en nuestro aplicativo, para asegurarnos de abarcar una amplia gama de posibilidades y ofrecer una experiencia completa y satisfactoria a nuestros usuarios.
 
 A continuación, se presentan una serie de figuras que evidencian este proceso de exploración inicial.
 
@@ -1303,7 +1303,7 @@ La Interface Layer actúa como el punto de interacción entre los usuarios o sis
 
 
 
-### 4.2.2.3. Application Layer
+### 4.2.1.3. Application Layer
 
 La Application Layer coordina las operaciones del sistema relacionadas al ciclo de vida de las campañas, actuando como intermediario entre la lógica de negocio y las interfaces de usuario o servicios externos. Se encarga de orquestar casos de uso específicos como la creación, edición, activación o seguimiento de campañas, sin involucrar reglas del dominio directamente. Esta capa facilita la organización del flujo de trabajo y la separación de responsabilidades dentro del sistema.
 
@@ -1342,12 +1342,13 @@ El Component Level Diagram representa visualmente los principales componentes de
 
 
 ### 4.2.1.6. Bounded Context Software Architecture Code Level Diagrams
+
 #### 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams
 Este diagrama de clases detalla los elementos del Domain Layer para Campaign Management, modelando entidades, agregados, objetos de valor y sus relaciones. A través de esta representación, se puede visualizar cómo se estructuran los conceptos principales del dominio y qué responsabilidades tiene cada clase dentro del modelo de negocio. Es esencial para alinear el diseño técnico con la lógica del dominio.
 
 ![Campaign Management Layer Class Diagram](./assets/DiagramaClasesCampaign.png)
 
-#### 2.6.1.6.2. Bounded Context Database Design Diagram
+#### 4.2.1.6.2. Bounded Context Database Design Diagram
 El Database Design Diagram ilustra la estructura de la base de datos correspondiente al contexto de campañas. Incluye tablas, relaciones, claves primarias y foráneas, reflejando cómo se almacenan los datos del dominio. Este diseño garantiza una persistencia coherente con la lógica del sistema, facilitando tanto el acceso eficiente a la información como la integridad de los datos a lo largo de las operaciones del sistema.
 
 <img src="./assets/campaign_db.png" alt="db_campaign_diagram" >
@@ -1961,8 +1962,9 @@ En esta sección, detallamos el proceso de implementación de nuestra landing pa
 
 
 Este proceso garantiza el despliegue satisfactorio de nuestra landing page en la plataforma de Netlifly, siguiendo las especificaciones y requisitos de nuestro proyecto.
-**Enlace de la Landing Page: [vacapp-landing.netlify.app/](vacapp-landing.netlify.app/)**
+**Enlace de la Landing Page: https://vacapp-landing.netlify.app/**
 
+<br>
 **Deployment Backend:**
 En esta sección, detallamos el proceso de implementación de nuestro backend en la plataforma de Microsoft Azure.
 
@@ -1978,7 +1980,7 @@ En esta sección, detallamos el proceso de implementación de nuestro backend en
 
 [![swagger-deployed.png](https://i.postimg.cc/Sxs0m13m/swagger-deployed.png)](https://postimg.cc/SJw1rdmP)
 
-**Enlace del backend: [vacappapi.azurewebsites.net/](vacappapi.azurewebsites.net/swagger/index.html)** 
+**Enlace del backend: https://vacappapi.azurewebsites.net/swagger/index.html** 
 
 
 
@@ -2259,7 +2261,45 @@ En esta sección se evidencia la documentación de los servicios implementados p
 
 ##### Landing Page
 
-FALTA PONER LOS PASOS DE LA LANDING
+Para el despliegue de la landing page se realizaron los siguientes pasos:
+
+#### 1. Preparación del proyecto
+Se organizó el proyecto con todos los archivos necesarios del sitio web:
+- Archivos HTML, CSS, JavaScript e imágenes
+- Estructura de carpetas clara (`/css`, `/js`, `/images`, etc.)
+
+#### 2. Creación de cuenta o acceso a Netlify
+Se accedió a [https://www.netlify.com](https://www.netlify.com) para iniciar sesión o crear una cuenta, vinculándola con un proveedor de repositorios como GitHub, GitLab o Bitbucket.
+
+#### 3. Nuevo sitio desde Git
+Se eligió la opción **"Add new site" > "Import an existing project"** para conectar el repositorio del proyecto de la landing page.
+
+#### 4. Autorización y selección del repositorio
+Se autorizó a Netlify a acceder al repositorio y se seleccionó el repositorio correspondiente al proyecto.
+
+#### 5. Configuración del despliegue
+Durante la configuración:
+- Se indicó la rama que contiene el código (por ejemplo, `main`)
+- Se dejó vacío el campo de build si el proyecto no requiere compilación
+- Se indicó el directorio de publicación (por ejemplo, `/` si los archivos están en la raíz)
+
+#### 6. Despliegue automático
+Se lanzó el primer despliegue, y Netlify generó automáticamente una URL pública para acceder al sitio.
+
+#### 7. Personalización de dominio (opcional)
+Se puede añadir un dominio personalizado desde la sección de configuración de dominio. Netlify gestiona automáticamente el certificado SSL (HTTPS).
+
+#### 8. Actualizaciones automáticas
+Cada vez que se realice un push a la rama seleccionada, Netlify desplegará automáticamente los nuevos cambios.
+
+#### 9. Monitoreo del sitio
+Desde el panel de control de Netlify es posible:
+- Consultar el historial de despliegues
+- Ver errores si los hay
+- Configurar variables de entorno
+- Ver estadísticas básicas del sitio
+
+[![2025-05-16-a-las-08-47-38-c437a89e.jpg](https://i.postimg.cc/YSf8KH7X/2025-05-16-a-las-08-47-38-c437a89e.jpg)](https://postimg.cc/sBx57bvS)
 
 
 ##### Backend
