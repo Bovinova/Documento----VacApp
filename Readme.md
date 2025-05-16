@@ -2462,3 +2462,6 @@ Entrevistas: https://shorturl.at/F1HUB
 
 Figma: https://www.figma.com/design/Ck5RdO3MzAm16SIReLDO15/Sin-t%C3%ADtulo?node-id=150-5796&t=hGN3YL7RfASQ5FFk-1 
 
+Landing Page Deployed: https://vacapp-landing.netlify.app/
+
+Backend Deployed: https://vacappapi.azurewebsites.net/swagger/index.html
