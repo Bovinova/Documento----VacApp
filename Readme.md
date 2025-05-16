@@ -133,77 +133,121 @@ TB1          |   24/04/2025  |   Oscar Gabriel Aranda Vallejos  |  Bounded Conte
   Tabla de contenido
 </p>
 
-1. [CAPÍTULO I: Presentacion](#CAPÍTULO-I:-Presentacion)<br>
-    1.1. [Startup Profile](#Startup-Profile)<br>
-      1.1.1. [Descripción de la Startup](#Descripción-de-la-Startup)<br>
-      1.1.2. [Perfiles de integrantes del equipo](#Perfiles-de-integrantes-del-equipo)<br>
-   1.2. [Solution Profile](#Solution-Profile)<br>
-      1.2.1. [Antecedentes y problemática](#Antecedentes-y-problemática)<br>
-      1.2.2. [Lean UX Process](#Lean-UX-Process)<br>
-        1.2.2.1 [Lean UX Problem Statements](#Lean-UX-Problem-Statements)<br>
-        1.2.2.2 [Lean UX Assumptions](#Lean-US-Assumptions)<br>
-        1.2.2.3 [Lean UX Hypothesis Statements](#Lean-UX-Hypothesis-Statements)<br>
-        1.2.2.4 [Lean UX Canvas](#Lean-UX-Canvas) <br>
-    1.3. [Segmentos objetivo](#Segmentos-objetivo) <br>
-2. [CAPÍTULO II: Requirements Elicitation & Analysis](#Capítulo-II-Requirements-Elicitation--Analysis) <br>
-   2.1. [Competidores](#Competidores) <br>
-      2.1.1. [Análisis competitivo](#Análisis-competitivo) <br>
-      2.1.2. [Estrategias y tácticas frente a competidores](#Estrategias-y-tácticas-frente-a-competidores) <br>
-   2.2. [Entrevistas](#Entrevistas) <br>
-      2.2.1. [Diseño de entrevistas](#Diseño-de-entrevistas) <br>
-      2.2.2. [Registro de entrevistas](#Registro-de-entrevistas)<br> 
-      2.2.3. [Análisis de entrevistas](#Análisis-de-entrevistas)<br> 
-   2.3. [Needfinding](#Needfinding) <br>
-      2.3.1. [User Personas](#User-Personas) <br>
-      2.3.2. [User Task Matrix](#User-Task-Matrix) <br>
-      2.3.3. [User Journey Mapping](#User-Journey-Mapping) <br>
-      2.3.4. [Empathy Mapping](#Empathy-Mapping) <br>
-      2.3.5. [As-is Scenario Mapping](#As-is-Scenario-Mapping) <br>
-   2.4. [Ubiquitous Language](#Ubiquitous-Language) <br>
-3. [CAPÍTULO III: Requirements Specification](#Capítulo-III-Requirements-Specification) <br>
-   3.1. [To-Be Scenario Mapping](#To-Be-Scenario-Mapping) <br>
-   3.2. [User Stories](#User-Stories) <br>
-   3.3. [Impact Mapping](#Impact-Mapping) <br>
-   3.4. [Product Backlog](#Product-Backlog) <br>
-4. [CAPÍTULO IV: Solution Software Design](#capítulo-iv-solution-software-design) <br>
-   4.1. [Strategic-Level Domain-Driven Design](#strategic-level-domain-driven-design) <br>
-      4.1.1. [EventStorming](#eventstorming) <br>
-         4.1.1.1. [Candidate Context Discovery](#candidate-context-discovery) <br>
-         4.1.1.2. [Domain Message Flows Modeling](#domain-message-flows-modeling) <br>
-         4.1.1.3. [Bounded Context Canvases](#bounded-context-canvases) <br>
-      4.1.2. [Context Mapping](#context-mapping) <br>
-      4.1.3. [Software Architecture](#software-architecture) <br>
-         4.1.3.1. [Software Architecture Context Level Diagrams](#software-architecture-context-level-diagrams) <br>
-         4.1.3.2. [Software Architecture Container Level Diagrams](#software-architecture-container-level-diagrams) <br>
-         4.1.3.3. [Software Architecture Deployment Diagrams](#software-architecture-deployment-diagrams) <br>
-   4.2. [Tactical-Level Domain-Driven Design](#tactical-level-domain-driven-design) <br>
-      4.2.1. [Bounded Context: Campaign Managment](#bounded-context-bounded-context-name) <br>
-         4.2.1.1. [Domain Layer](#domain-layer) <br>
-         4.2.1.2. [Interface Layer](#interface-layer) <br>
-         4.2.1.3. [Application Layer](#application-layer) <br>
-         4.2.1.4. [Infrastructure Layer](#infrastructure-layer) <br>
-         4.2.1.5. [Bounded Context Software Architecture Component Level Diagrams](#bounded-context-software-architecture-component-level-diagrams) <br>
-         4.2.1.6. [Bounded Context Software Architecture Code Level Diagrams](#bounded-context-software-architecture-code-level-diagrams) <br>
-            4.2.1.6.1. [Bounded Context Domain Layer Class Diagrams](#bounded-context-domain-layer-class-diagrams) <br>
-            4.2.1.6.2. [Bounded Context Database Design Diagram](#bounded-context-database-design-diagram) <br>
-            4.2.2. [Bounded Context: Ranch Managment](#bounded-context-bounded-context-name) <br>
-         4.2.2.1. [Domain Layer](#domain-layer) <br>
-         4.2.2.2. [Interface Layer](#interface-layer) <br>
-         4.2.2.3. [Application Layer](#application-layer) <br>
-         4.2.2.4. [Infrastructure Layer](#infrastructure-layer) <br>
-         4.2.2.5. [Bounded Context Software Architecture Component Level Diagrams](#bounded-context-software-architecture-component-level-diagrams) <br>
-         4.2.2.6. [Bounded Context Software Architecture Code Level Diagrams](#bounded-context-software-architecture-code-level-diagrams) <br>
-            4.2.2.6.1. [Bounded Context Domain Layer Class Diagrams](#bounded-context-domain-layer-class-diagrams) <br>
-            4.2.2.6.2. [Bounded Context Database Design Diagram](#bounded-context-database-design-diagram) <br>
-            4.2.3. [Bounded Context: Staff Administration ](#bounded-context-bounded-context-name) <br>
-         4.2.2.1. [Domain Layer](#domain-layer) <br>
-         4.2.2.2. [Interface Layer](#interface-layer) <br>
-         4.2.2.3. [Application Layer](#application-layer) <br>
-         4.2.2.4. [Infrastructure Layer](#infrastructure-layer) <br>
-         4.2.2.5. [Bounded Context Software Architecture Component Level Diagrams](#bounded-context-software-architecture-component-level-diagrams) <br>
-         4.2.2.6. [Bounded Context Software Architecture Code Level Diagrams](#bounded-context-software-architecture-code-level-diagrams) <br>
-            4.2.2.6.1. [Bounded Context Domain Layer Class Diagrams](#bounded-context-domain-layer-class-diagrams) <br>
-            4.2.2.6.2. [Bounded Context Database Design Diagram](#bounded-context-database-design-diagram) <br><br>
+1. [CAPÍTULO I: Presentacion](#1-capítulo-i-presentacion)<br>
+    1.1. [Startup Profile](#11-startup-profile)<br>
+      1.1.1. [Descripción de la Startup](#111-descripción-de-la-startup)<br>
+      1.1.2. [Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)<br>
+   1.2. [Solution Profile](#12-solution-profile)<br>
+      1.2.1. [Antecedentes y problemática](#121-antecedentes-y-problemática)<br>
+      1.2.2. [Lean UX Process](#122-lean-ux-process)<br>
+        1.2.2.1 [Lean UX Problem Statements](#1221-lean-ux-problem-statements)<br>
+        1.2.2.2 [Lean UX Assumptions](#1222-lean-ux-assumptions)<br>
+        1.2.2.3 [Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)<br>
+        1.2.2.4 [Lean UX Canvas](#1224-lean-ux-canvas) <br>
+    1.3. [Segmentos objetivo](#13-segmentos-objetivo) <br>
+2. [CAPÍTULO II: Requirements Elicitation & Analysis](#2-capítulo-ii-requirements-elicitation--analysis) <br>
+   2.1. [Competidores](#21-competidores) <br>
+      2.1.1. [Análisis competitivo](#211-análisis-competitivo) <br>
+      2.1.2. [Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores) <br>
+   2.2. [Entrevistas](#22-entrevistas) <br>
+      2.2.1. [Diseño de entrevistas](#221-diseño-de-entrevistas) <br>
+      2.2.2. [Registro de entrevistas](#222-registro-de-entrevistas)<br> 
+      2.2.3. [Análisis de entrevistas](#223-análisis-de-entrevistas)<br> 
+   2.3. [Needfinding](#23-needfinding) <br>
+      2.3.1. [User Personas](#231-user-personas) <br>
+      2.3.2. [User Task Matrix](#232-user-task-matrix) <br>
+      2.3.3. [User Journey Mapping](#233-user-journey-mapping) <br>
+      2.3.4. [Empathy Mapping](#234-empathy-mapping) <br>
+      2.3.5. [As-is Scenario Mapping](#235-as-is-scenario-mapping) <br>
+   2.4. [Ubiquitous Language](#24-ubiquitous-language) <br>
+3. [CAPÍTULO III: Requirements Specification](#3-capítulo-iii-requirements-specification) <br>
+   3.1. [To-Be Scenario Mapping](#31-to-be-scenario-mapping) <br>
+   3.2. [User Stories](#32-user-stories) <br>
+   3.3. [Impact Mapping](#33-impact-mapping) <br>
+   3.4. [Product Backlog](#34-product-backlog) <br>
+4. [CAPÍTULO IV: Solution Software Design](#4-capítulo-iv-solution-software-design) <br>
+   4.1. [Strategic-Level Domain-Driven Design](#41-strategic-level-domain-driven-design) <br>
+      4.1.1. [EventStorming](#411-eventstorming) <br>
+         4.1.1.1. [Candidate Context Discovery](#4111-candidate-context-discovery) <br>
+         4.1.1.2. [Domain Message Flows Modeling](#4112-domain-message-flows-modeling) <br>
+         4.1.1.3. [Bounded Context Canvases](#4113-bounded-context-canvases) <br>
+      4.1.2. [Context Mapping](#412-context-mapping) <br>
+      4.1.3. [Software Architecture](#413-software-architecture) <br>
+         4.1.3.1. [Software Architecture Context Level Diagrams](#4131-software-architecture-context-level-diagrams) <br>
+         4.1.3.2. [Software Architecture Container Level Diagrams](#4132-software-architecture-container-level-diagrams) <br>
+         4.1.3.3. [Software Architecture Deployment Diagrams](#4133-software-architecture-deployment-diagrams) <br>
+   4.2. [Tactical-Level Domain-Driven Design](#42-tactical-level-domain-driven-design) <br>
+      4.2.1. [Bounded Context: Campaign Managment](#421-bounded-context-campaign-management) <br>
+         4.2.1.1. [Domain Layer](#4211-domain-layer) <br>
+         4.2.1.2. [Interface Layer](#4212-interface-layer) <br>
+         4.2.1.3. [Application Layer](#4213-application-layer) <br>
+         4.2.1.4. [Infrastructure Layer](#4214-infrastructure-layer) <br>
+         4.2.1.5. [Bounded Context Software Architecture Component Level Diagrams](#4215-bounded-context-software-architecture-component-level-diagrams) <br>
+         4.2.1.6. [Bounded Context Software Architecture Code Level Diagrams](#4216-bounded-context-software-architecture-code-level-diagrams) <br>
+            4.2.1.6.1. [Bounded Context Domain Layer Class Diagrams](#42161-bounded-context-domain-layer-class-diagrams) <br>
+            4.2.1.6.2. [Bounded Context Database Design Diagram](#42162-bounded-context-database-design-diagram) <br>
+            4.2.2. [Bounded Context: Ranch Managment](#422-bounded-context-ranch-management) <br>
+         4.2.2.1. [Domain Layer](#4221-domain-layer) <br>
+         4.2.2.2. [Interface Layer](#4222-interface-layer) <br>
+         4.2.2.3. [Application Layer](#4223-application-layer) <br>
+         4.2.2.4. [Infrastructure Layer](#4224-infrastructure-layer) <br>
+         4.2.2.5. [Bounded Context Software Architecture Component Level Diagrams](#4225-bounded-context-software-architecture-component-level-diagrams) <br>
+         4.2.2.6. [Bounded Context Software Architecture Code Level Diagrams](#4226-bounded-context-software-architecture-code-level-diagrams) <br>
+            4.2.2.6.1. [Bounded Context Domain Layer Class Diagrams](#42261-bounded-context-domain-layer-class-diagrams) <br>
+            4.2.2.6.2. [Bounded Context Database Design Diagram](#42262-bounded-context-database-design-diagram) <br>
+            4.2.3. [Bounded Context: Staff Administration ](#423-bounded-context-staff-administration) <br>
+         4.2.2.1. [Domain Layer](#4221-domain-layer) <br>
+         4.2.2.2. [Interface Layer](#4222-interface-layer) <br>
+         4.2.2.3. [Application Layer](#4223-application-layer) <br>
+         4.2.2.4. [Infrastructure Layer](#4224-infrastructure-layer) <br>
+         4.2.2.5. [Bounded Context Software Architecture Component Level Diagrams](#4225-bounded-context-software-architecture-component-level-diagrams) <br>
+         4.2.2.6. [Bounded Context Software Architecture Code Level Diagrams](#4226-bounded-context-software-architecture-code-level-diagrams) <br>
+            4.2.2.6.1. [Bounded Context Domain Layer Class Diagrams](#42261-bounded-context-domain-layer-class-diagrams) <br>
+            4.2.2.6.2. [Bounded Context Database Design Diagram](#42262-bounded-context-database-design-diagram) <br><br>
+5. [CAPÍTULO V: Solution UI/UX Design](#capítulo-v-solution-uiux-design) <br>
+   5.1. [Product design](#51-product-design) <br>
+      5.1.1. [Style Guidelines](#511-style-guidelines) <br>
+         5.1.1.1. [General Style Guidelines](#5111-general-style-guidelines) <br>
+      5.1.2. [Information Architecture](#512-information-architecture) <br>
+         5.1.2.1. [Organization Systems](#5121-organization-systems) <br>
+         5.1.2.2. [Labelling Systems](#5122-labelling-systems) <br>
+         5.1.2.3. [SEO Tags and Meta Tags](#5123-seo-tags-and-meta-tags) <br>
+         5.1.2.4. [Searching Systems](#5124-searching-systems) <br>
+         5.1.2.5. [Navigation Systems](#5125-navigation-systems) <br>
+      5.1.3. [Landing Page UI Design](#513-landing-page-ui-design) <br>
+         5.1.3.1 [Landing Page Wireframe](#5131-landing-page-wireframe) <br>
+         5.1.3.2 [Landing Page Mock-up](#5132-landing-page-mock-up) <br>
+      5.1.4. [Mobile Applications UX/UI Design](#514-mobile-applications-uxui-design) <br>
+         5.1.4.1. [Mobile Applications Wireframes](#5141-mobile-applications-wireframes) <br>
+         5.1.4.2. [Mobile Applications Wireflow Diagrams](#5142-mobile-applications-wireflow-diagrams) <br>
+         5.1.4.3. [Mobile Applications Mock-ups](#5143-mobile-applications-mock-ups) <br>
+         5.1.4.4. [Mobile Applications User Flow Diagrams](#5144-mobile-applications-user-flow-diagrams) <br>
+         5.1.4.5. [Mobile Applications Prototyping](#5145-mobile-applications-prototyping) <br>
+6. [CAPÍTULO VI: Product Implementation, Validation & Deployment](#6-capítulo-vi-product-implementation-validation--deployment) <br>
+   6.1. [Software Configuration Management](#61-software-configuration-management) <br>
+      6.1.1. [Software Development Environment Configuration](#611-software-development-environment-configuration) <br>
+      6.1.2. [Source Code Management](#612-source-code-management) <br>
+      6.1.3. [Source Code Style Guide & Conventions](#613-source-code-style-guide--conventions) <br>
+      6.1.4. [Software Deployment Configuration](#614-software-deployment-configuration) <br>
+   6.2. [Landing Page, Services & Applications Implementation](#62-landing-page-services--applications-implementation) <br>
+      6.2.1. [Sprint 1](#621-sprint-1) <br>
+         6.2.1.1. [Sprint Planning 1](#6211-sprint-planning-1) <br>
+         6.2.1.2. [Sprint Backlog 1](#6212-sprint-backlog-1) <br>
+         6.2.1.3. [Development Evidence for Sprint Review](#6213-development-evidence-for-sprint-review) <br>
+         6.2.1.4. [Execution Evidence for Sprint Review](#6214-execution-evidence-for-sprint-review) <br>
+         6.2.1.5. [Services Documentation Evidence for Sprint Review](#6215-services-documentation-evidence-for-sprint-review) <br>
+         6.2.1.6. [Software Deployment Evidence for Sprint Review](#6216-software-deployment-evidence-for-sprint-review) <br>
+         6.2.1.7. [Team Collaboration Insights during Sprint](#6217-team-collaboration-insights-during-sprint) <br>
+[Conclusiones](#conclusiones) <br>
+[Bibliografía](#bibliografía) <br>
+[Anexos](#anexos) <br>
+
+
+
+
+
+
+
 
 
 # STUDENT OUTCOME
@@ -934,7 +978,7 @@ En este apartado se documenta el proceso del Event Storming, una herramienta cla
 A continuación se detalla el proceso y la evolución final del event storming.
 
 #### Step 1: Unstructured exploration
-Primero tuvimos una lluvia de ideas en la cual nos propusimos identificar exhaustivamente todos los eventos que ocurrirán en nuestro aplicativo, para asegurarnos de abarcar una amplia gama de posibilidades y ofrecer una experiencia completa y satisfactoria a nuestros usuarios. Este paso se puede visualizar con mayor claridad en el siguiente enlace: 
+Primero tuvimos una lluvia de ideas en la cual nos propusimos identificar exhaustivamente todos los eventos que ocurrirán en nuestro aplicativo, para asegurarnos de abarcar una amplia gama de posibilidades y ofrecer una experiencia completa y satisfactoria a nuestros usuarios.
 
 A continuación, se presentan una serie de figuras que evidencian este proceso de exploración inicial.
 
@@ -1303,7 +1347,7 @@ La Interface Layer actúa como el punto de interacción entre los usuarios o sis
 
 
 
-### 4.2.2.3. Application Layer
+### 4.2.1.3. Application Layer
 
 La Application Layer coordina las operaciones del sistema relacionadas al ciclo de vida de las campañas, actuando como intermediario entre la lógica de negocio y las interfaces de usuario o servicios externos. Se encarga de orquestar casos de uso específicos como la creación, edición, activación o seguimiento de campañas, sin involucrar reglas del dominio directamente. Esta capa facilita la organización del flujo de trabajo y la separación de responsabilidades dentro del sistema.
 
@@ -1342,12 +1386,13 @@ El Component Level Diagram representa visualmente los principales componentes de
 
 
 ### 4.2.1.6. Bounded Context Software Architecture Code Level Diagrams
+
 #### 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams
 Este diagrama de clases detalla los elementos del Domain Layer para Campaign Management, modelando entidades, agregados, objetos de valor y sus relaciones. A través de esta representación, se puede visualizar cómo se estructuran los conceptos principales del dominio y qué responsabilidades tiene cada clase dentro del modelo de negocio. Es esencial para alinear el diseño técnico con la lógica del dominio.
 
 ![Campaign Management Layer Class Diagram](./assets/DiagramaClasesCampaign.png)
 
-#### 2.6.1.6.2. Bounded Context Database Design Diagram
+#### 4.2.1.6.2. Bounded Context Database Design Diagram
 El Database Design Diagram ilustra la estructura de la base de datos correspondiente al contexto de campañas. Incluye tablas, relaciones, claves primarias y foráneas, reflejando cómo se almacenan los datos del dominio. Este diseño garantiza una persistencia coherente con la lógica del sistema, facilitando tanto el acceso eficiente a la información como la integridad de los datos a lo largo de las operaciones del sistema.
 
 <img src="./assets/campaign_db.png" alt="db_campaign_diagram" >
@@ -1550,7 +1595,11 @@ El Database Design Diagram de Staff Administration presenta la estructura de la 
 # Capítulo V: Solution UI/UX Design
 
 ## 5.1. Product design
+
 ### 5.1.1. Style Guidelines
+
+Las Style Guidelines son esenciales para asegurar una comunicación coherente y profesional en todos los aspectos visuales y de diseño del proyecto, ya sea en medios impresos, digitales o cualquier otra plataforma de difusión. En esta sección, se establecerán las directrices que guiarán al equipo en la creación de VacApp. Estas pautas definirán elementos clave como la elección de colores, tipografía, estructura de documentos y otros aspectos visuales.
+Para el desarrollo de VacApp, utilizaremos Figma como herramienta principal para diseñar tanto la aplicación móvil como la landing page. En ambos casos, se implementará una paleta de colores basada en tonos verdes y cremas, evocando la naturaleza y transmitiendo la confianza asociada con una gestión responsable y sostenible del cuidado de animales. A continuación, se detalla cada uno de estos aspectos en profundidad.
 
 #### 5.1.1.1. General Style Guidelines
 
@@ -1654,11 +1703,15 @@ La navegación de VacApp se basa en patrones comunes de apps móviles para reduc
 <img src="./assets/Landingm-wire.png" style="width: 400px">
 
 #### 5.1.3.2. Landing Page Mock-up
+
 **Landing Page Mock-up Desktop**
+
 <img src="./assets/Landing-mock.png" style="width: 400px">
 
 **Landing Page Mock-up Mobile**
+
 <img src="./assets/Landingm-mock.png" style="width: 400px">
+
 
 **FIGMA:https://www.figma.com/design/Ck5RdO3MzAm16SIReLDO15/Sin-t%C3%ADtulo?node-id=150-5796&t=hGN3YL7RfASQ5FFk-1**
 
@@ -1679,8 +1732,11 @@ La navegación de VacApp se basa en patrones comunes de apps móviles para reduc
 <img src="./assets/planesw.png" style="width: 400px">
 
 **Home**
+
 <img src="./assets/homew.png" style="width: 400px">
+
 <img src="./assets/homew2.png" style="width: 400px">
+
 <img src="./assets/homew3.png" style="width: 400px">
 
 **Animals**
@@ -1725,11 +1781,13 @@ Este flujo guía al usuario desde la pantalla de bienvenida hacia las opciones d
 
 
 **User Goal: Home y navegar por las secciones "Animals","Campaigns" e "Inventory"**
+
 Una vez autenticado, el usuario accede al home con accesos rápidos con el sidebar. Este wireflow muestra cómo el usuario puede visualizar las opciones "Animals", "CAmpaings e "inventory"
 
 <img src="./assets/2w.png" style="width: 400px">
 
 **User Goal: Registro de un nuevo dato ya sea "Animals","Campaigns" o "Inventory":** 
+
 Este flujo está diseñado para facilitar al agregar ya sea un bovino, una campaña o un producto de inventario.
 
 <img src="./assets/3w.png" style="width: 400px">
@@ -1811,7 +1869,9 @@ Este flujo está diseñado para facilitar al agregar ya sea un bovino, una campa
 
 <img src="./assets/prototipo.png" style="width: 400px">
 
-**FIGMA:https://www.figma.com/design/Ck5RdO3MzAm16SIReLDO15/Sin-t%C3%ADtulo?node-id=150-5796&t=hGN3YL7RfASQ5FFk-1**
+**Video: https://youtu.be/aLAxsS7FKnE**
+
+**FIGMA: https://www.figma.com/design/Ck5RdO3MzAm16SIReLDO15/Sin-t%C3%ADtulo?node-id=150-5796&t=hGN3YL7RfASQ5FFk-1**
 
 
 # 6. CAPÍTULO VI: Product Implementation, Validation & Deployment
@@ -1873,6 +1933,55 @@ Adoptamos esta metodología para estructurar los mensajes de confirmación de ca
 
 ### 6.1.3. Source Code Style Guide & Conventions
 
+### HTML
+
+| Regla                                   | Ejemplo / Explicación                                                   |
+|----------------------------------------|--------------------------------------------------------------------------|
+| Etiquetas y atributos en minúsculas    | `<div class="container">`, `<img src="logo.png" alt="Logo">`           |
+| Atributos ordenados lógicamente        | `class`, `id`, `name`, `type`, `value`, etc.                           |
+| Uso de comillas dobles                 | `<input type="text" name="username">`                                  |
+| Indentación consistente (2 o 4 espacios) | No mezclar espacios con tabs                                            |
+
+---
+
+### CSS
+
+| Regla                                   | Ejemplo / Explicación                                                   |
+|----------------------------------------|--------------------------------------------------------------------------|
+| Nombres de clases en `kebab-case`      | `.main-header`, `.user-profile-card`                                   |
+| Propiedades en minúsculas y ordenadas  | `color: #333; font-size: 16px; margin-top: 20px;`                       |
+| Uso de comentarios                     | `/* Sección de estilos para el header */`                              |
+| Indentación consistente                | 2 o 4 espacios, no usar tabs                                            |
+
+---
+
+### JavaScript
+
+| Regla                                       | Ejemplo / Explicación                                                   |
+|--------------------------------------------|--------------------------------------------------------------------------|
+| Variables y funciones en `camelCase`       | `let userName = "Juan";`, `function getUserData() {}`                  |
+| Clases en `PascalCase`                     | `class UserProfile {}`                                                 |
+| Constantes en `UPPER_SNAKE_CASE`           | `const API_URL = "https://api.example.com";`                           |
+| Uso de `const` y `let`                     | Evitar `var`, usar `const` por defecto y `let` si se necesita mutabilidad |
+| Punto y coma al final de líneas            | `let nombre = "Carlos";`                                               |
+| Indentación consistente (2 o 4 espacios)   | Mantener el mismo estilo en todo el proyecto                           |
+
+---
+
+### Kotlin
+
+| Regla                                         | Ejemplo / Explicación                                                   |
+|----------------------------------------------|--------------------------------------------------------------------------|
+| Variables y funciones en `camelCase`         | `val userName = "Juan"`, `fun getUserData() {}`                         |
+| Clases y objetos en `PascalCase`             | `class UserProfile`, `object AppConfig`                                 |
+| Constantes en `UPPER_SNAKE_CASE`             | `const val MAX_USERS = 100`                                             |
+| Archivos nombrados igual que la clase        | `UserProfile.kt`                                                        |
+| Indentación con 4 espacios                   | No usar tabs                                                            |
+| Uso de `val` por defecto, `var` si mutable   | Promueve inmutabilidad                                                  |
+| Expresiones lambda con `it`                  | `users.filter { it.isActive }`                                          |
+
+
+
 ### 6.1.4. Software Deployment Configuration
 **Deployment Landing Page:** 
 En esta sección, detallamos el proceso de implementación de nuestra landing page en la plataforma de GitHub.
@@ -1897,8 +2006,9 @@ En esta sección, detallamos el proceso de implementación de nuestra landing pa
 
 
 Este proceso garantiza el despliegue satisfactorio de nuestra landing page en la plataforma de Netlifly, siguiendo las especificaciones y requisitos de nuestro proyecto.
-**Enlace de la Landing Page: [vacapp-landing.netlify.app/](vacapp-landing.netlify.app/)**
+**Enlace de la Landing Page: https://vacapp-landing.netlify.app/**
 
+<br>
 **Deployment Backend:**
 En esta sección, detallamos el proceso de implementación de nuestro backend en la plataforma de Microsoft Azure.
 
@@ -1914,17 +2024,17 @@ En esta sección, detallamos el proceso de implementación de nuestro backend en
 
 [![swagger-deployed.png](https://i.postimg.cc/Sxs0m13m/swagger-deployed.png)](https://postimg.cc/SJw1rdmP)
 
-**Enlace del backend: [vacappapi.azurewebsites.net/](vacappapi.azurewebsites.net/swagger/index.html)** 
+**Enlace del backend: https://vacappapi.azurewebsites.net/swagger/index.html** 
 
 
 
 ## 6.2. Landing Page, Services & Applications Implementation
 ### 6.2.1. Sprint 1
-Este informe documenta el progreso realizado durante la fase de definición de requisitos del proyecto, que incluye entrevistas con los interesados y creación de artefactos antes y después de la implementación de la aplicación web estática. Proporcionar una visión clara del avance y garantizar una comunicación efectiva entre el equipo de desarrollo y los interesados son los objetivos principales.
+Este informe documenta el progreso realizado durante la fase de definición de requisitos del proyecto, que incluye entrevistas con los interesados y creación de artefactos antes y después de la implementación de la aplicación mobile. Proporcionar una visión clara del avance y garantizar una comunicación efectiva entre el equipo de desarrollo y los interesados son los objetivos principales.
 
 Durante esta etapa, se realizaron extensas entrevistas con los interesados para comprender sus necesidades, expectativas y requisitos particulares para la aplicación. Las entrevistas proporcionaron información útil que ayudó a definir los requisitos del proyecto.
 
-Se realizaron actividades de creación de artefactos antes y después de la implementación de la aplicación web estática, además de entrevistas. Estos objetos fueron
+Se realizaron actividades de creación de artefactos antes y después de la implementación de la aplicación mobile, además de entrevistas. Estos objetos fueron:
 #### 6.2.1.1. Sprint Planning 1
 | Sprint # | Sprint 1  | 
 |--------------------|------------|
@@ -2134,17 +2244,13 @@ Durante este sprint, se han realizado avances significativos en la implementaci�
 
 
 #### 6.2.1.4. Execution Evidence for Sprint Review
-Durante este Sprint, se han alcanzado varios hitos importantes en la implementación de la Landing Page, las aplicaciones web y los servicios web de Bovinova. Se han completado las siguientes tareas:
+Durante este Sprint, se han alcanzado varios hitos importantes en la implementación de la Landing Page. Además se realizaron avances en el frontend de la aplicaciones mobile. Se han completado las siguientes tareas:
 
 - Implementación de la sección de Resumen.
 - Visualización de funcionalidades.
 - Visualización de planes disponibles.
 - Implementacion de la Internacionalizacion
-- Registro de nuevos usuarios.
-- Registo de bovinos.
-- Registro de vacunas.
-- Registro de campañas.
-- Registro de empleados
+- Listado de bovinos.
 
 ### Screenshots
 
@@ -2157,11 +2263,18 @@ Durante este Sprint, se han alcanzado varios hitos importantes en la implementac
 #### Sección de Planes Disponibles
 ![Planes Disponibles](https://i.imgur.com/KEw3jG2.png)
 
-
 ### Seccion de cambio de idioma
 
 ![I18n](https://i.imgur.com/MPdtDqj.png)
 
+
+#### Mobile Frontend
+
+[![Captura-de-pantalla-2025-05-15-220016.png](https://i.postimg.cc/N0sy4HNN/Captura-de-pantalla-2025-05-15-220016.png)](https://postimg.cc/w1rTx7YJ)
+
+
+#### 6.2.1.5. Services Documentation Evidence for Sprint Review
+En esta sección se evidencia la documentación de los servicios implementados para el sprint actual que conforman el backend.
 
 #### Backend
 
@@ -2187,18 +2300,137 @@ Durante este Sprint, se han alcanzado varios hitos importantes en la implementac
 
 [![Captura-de-pantalla-2025-05-15-220445.png](https://i.postimg.cc/9fQPLM1B/Captura-de-pantalla-2025-05-15-220445.png)](https://postimg.cc/4YjhdXDK)
 
-#### Mobile Frontend
-
-[![Captura-de-pantalla-2025-05-15-220016.png](https://i.postimg.cc/N0sy4HNN/Captura-de-pantalla-2025-05-15-220016.png)](https://postimg.cc/w1rTx7YJ)
-
-
-#### 6.2.1.5. Services Documentation Evidence for Sprint Review
-
-
-
 
 #### 6.2.1.6. Software Deployment Evidence for Sprint Review
+
+##### Landing Page
+
+Para el despliegue de la landing page se realizaron los siguientes pasos:
+
+#### 1. Preparación del proyecto
+Se organizó el proyecto con todos los archivos necesarios del sitio web:
+- Archivos HTML, CSS, JavaScript e imágenes
+- Estructura de carpetas clara (`/css`, `/js`, `/images`, etc.)
+
+#### 2. Creación de cuenta o acceso a Netlify
+Se accedió a [https://www.netlify.com](https://www.netlify.com) para iniciar sesión o crear una cuenta, vinculándola con un proveedor de repositorios como GitHub, GitLab o Bitbucket.
+
+#### 3. Nuevo sitio desde Git
+Se eligió la opción **"Add new site" > "Import an existing project"** para conectar el repositorio del proyecto de la landing page.
+
+#### 4. Autorización y selección del repositorio
+Se autorizó a Netlify a acceder al repositorio y se seleccionó el repositorio correspondiente al proyecto.
+
+#### 5. Configuración del despliegue
+Durante la configuración:
+- Se indicó la rama que contiene el código (por ejemplo, `main`)
+- Se dejó vacío el campo de build si el proyecto no requiere compilación
+- Se indicó el directorio de publicación (por ejemplo, `/` si los archivos están en la raíz)
+
+#### 6. Despliegue automático
+Se lanzó el primer despliegue, y Netlify generó automáticamente una URL pública para acceder al sitio.
+
+#### 7. Personalización de dominio (opcional)
+Se puede añadir un dominio personalizado desde la sección de configuración de dominio. Netlify gestiona automáticamente el certificado SSL (HTTPS).
+
+#### 8. Actualizaciones automáticas
+Cada vez que se realice un push a la rama seleccionada, Netlify desplegará automáticamente los nuevos cambios.
+
+#### 9. Monitoreo del sitio
+Desde el panel de control de Netlify es posible:
+- Consultar el historial de despliegues
+- Ver errores si los hay
+- Configurar variables de entorno
+- Ver estadísticas básicas del sitio
+
+[![2025-05-16-a-las-08-47-38-c437a89e.jpg](https://i.postimg.cc/YSf8KH7X/2025-05-16-a-las-08-47-38-c437a89e.jpg)](https://postimg.cc/sBx57bvS)
+
+
+##### Backend
+
+Para el despliegue del backend se realizaron los siguientes pasos:
+
+##### 1. Ingresamos al portal de Azure
+Accedemos a [https://portal.azure.com](https://portal.azure.com) con nuestra cuenta para comenzar el proceso de despliegue.
+
+##### 2. Creamos un Grupo de Recursos
+Agrupamos todos los componentes relacionados con nuestro backend dentro de un grupo de recursos, lo que facilita su administración y organización.
+
+##### 3. Definimos un Plan de App Service
+Creamos un plan donde configuramos:
+- El sistema operativo (Linux o Windows)
+- La región del servidor
+- El tamaño del plan (por ejemplo, B1, F1, P1v2)
+
+##### 4. Configuramos una App Web (App Service)
+Creamos una nueva instancia de App Service seleccionando el grupo de recursos y el plan previamente definidos. Indicamos también la pila de tecnología (.NET) según nuestro backend.
+
+##### 5. Establecemos variables y configuraciones del entorno
+Agregamos variables de entorno, claves secretas, rutas y cadenas de conexión necesarias para el correcto funcionamiento del backend.
+
+##### 6. Preparamos nuestro backend para producción
+Nos aseguramos de que nuestra aplicación esté lista para ejecutarse en Azure, incluyendo:
+- Archivos de dependencias
+- Código limpio y portable
+
+##### 7. Elegimos el método de despliegue
+Seleccionamos cómo vamos a subir el backend a Azure:
+- Mediante integración continua desde GitHub
+- Subiendo el código directamente desde nuestro equipo
+- Usando FTP o un archivo ZIP desplegable
+
+##### 8. Realizamos el despliegue
+Subimos nuestro proyecto utilizando el método seleccionado. Si usamos GitHub, configuramos un flujo de trabajo de CI/CD para automatizar futuras actualizaciones.
+
+##### 9. Verificamos el estado del despliegue
+Revisamos los registros desde el portal para asegurarnos de que el despliegue fue exitoso y sin errores.
+
+##### 10. Accedemos a la aplicación
+Probamos la URL pública que nos proporciona Azure para verificar que nuestro backend está corriendo correctamente.
+
+##### 11. Monitoreamos y damos mantenimiento
+Activamos Application Insights o usamos los registros del App Service para monitorear el rendimiento, identificar errores y asegurar la estabilidad de la aplicación.
+
+[![dashboard-azure.jpg](https://i.postimg.cc/9MZZg73s/dashboard-azure.jpg)](https://postimg.cc/njVXCMh1)
+
+
+
 #### 6.2.1.7. Team Collaboration Insights during Sprint
+
+En esta sección se proporcionan los insights para el sprint 1.
+
+##### Documentation
+
+En esta sección, el equipo destacó la importancia de mantener una documentación clara y actualizada que facilite la colaboración y el entendimiento común. Se identificó que una buena documentación agiliza la resolución de dudas y mejora la calidad del desarrollo. A continuación se muestran los insights del equipo para la sección correspondiente:
+
+[![Captura-de-pantalla-2025-05-15-225817.png](https://i.postimg.cc/Bbs3HdcR/Captura-de-pantalla-2025-05-15-225817.png)](https://postimg.cc/N9NZwCnx)
+
+##### Landing Page
+
+El equipo observó que la landing page funciona como la primera ventana de contacto con el usuario, por lo que es vital que sea atractiva y fácil de navegar. Se resaltó la necesidad de optimizar los textos y elementos visuales para maximizar la conversión y el enganche inicial. A continuación se muestran los insights del equipo para la sección correspondiente:
+
+[![Captura-de-pantalla-2025-05-15-225945.png](https://i.postimg.cc/sgbt5k3K/Captura-de-pantalla-2025-05-15-225945.png)](https://postimg.cc/0zdWsHMJ)
+
+
+##### Backend
+
+En equipo analizamos que la arquitectura del backend debía ser robusta y escalable para soportar las futuras demandas. Identificamos retos en la gestión de datos y seguridad, lo que motivó la implementación de buenas prácticas para garantizar la integridad y eficiencia. A continuación se muestran los insights del equipo para la sección correspondiente:
+
+[![Captura-de-pantalla-2025-05-15-230204.png](https://i.postimg.cc/k5rp2Wyp/Captura-de-pantalla-2025-05-15-230204.png)](https://postimg.cc/PC44cp9W)
+
+
+##### Mobile Frontend
+
+Se destacó la relevancia de adaptar la experiencia a distintos dispositivos, asegurando una interfaz intuitiva y rápida; además de evitar la saturación de pantallas. 
+
+[![Captura-de-pantalla-2025-05-15-225139.png](https://i.postimg.cc/qvZpSD4C/Captura-de-pantalla-2025-05-15-225139.png)](https://postimg.cc/YvYcm34p)
+
+
+##### Integrantes
+
+La participación de cada miembro del equipo fue crucial para desarrollar los componentes requeridos para este primer sprint y ofrecer un producto mínimo viable.
+
+[![Captura-de-pantalla-2025-05-15-230656.png](https://i.postimg.cc/ThMDV2Hf/Captura-de-pantalla-2025-05-15-230656.png)](https://postimg.cc/QKmCsD3y)
 
 
 ##  Conclusiones 
@@ -2225,13 +2457,8 @@ Durante el desarrollo se priorizó la interacción constante con los usuarios fi
 - Vernon, V. (2013). *Implementing Domain-Driven Design*. Addison-Wesley.
 
 
-Las Style Guidelines son esenciales para asegurar una comunicación coherente y profesional en todos los aspectos visuales y de diseño del proyecto, ya sea en medios impresos, digitales o cualquier otra plataforma de difusión. En esta sección, se establecerán las directrices que guiarán al equipo en la creación de VacApp. Estas pautas definirán elementos clave como la elección de colores, tipografía, estructura de documentos y otros aspectos visuales.
-Para el desarrollo de VacApp, utilizaremos Figma como herramienta principal para diseñar tanto la aplicación móvil como la landing page. En ambos casos, se implementará una paleta de colores basada en tonos verdes y cremas, evocando la naturaleza y transmitiendo la confianza asociada con una gestión responsable y sostenible del cuidado de animales. A continuación, se detalla cada uno de estos aspectos en profundidad.
-
-
 ##  Anexos
-[Entrevistas] (https://shorturl.at/F1HUB): https://shorturl.at/F1HUB
+Entrevistas: https://shorturl.at/F1HUB
 
-
-FIGMA:https://www.figma.com/design/Ck5RdO3MzAm16SIReLDO15/Sin-t%C3%ADtulo?node-id=150-5796&t=hGN3YL7RfASQ5FFk-1 
+Figma: https://www.figma.com/design/Ck5RdO3MzAm16SIReLDO15/Sin-t%C3%ADtulo?node-id=150-5796&t=hGN3YL7RfASQ5FFk-1 
 
