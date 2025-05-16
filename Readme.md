@@ -1883,6 +1883,55 @@ Adoptamos esta metodología para estructurar los mensajes de confirmación de ca
 
 ### 6.1.3. Source Code Style Guide & Conventions
 
+### HTML
+
+| Regla                                   | Ejemplo / Explicación                                                   |
+|----------------------------------------|--------------------------------------------------------------------------|
+| Etiquetas y atributos en minúsculas    | `<div class="container">`, `<img src="logo.png" alt="Logo">`           |
+| Atributos ordenados lógicamente        | `class`, `id`, `name`, `type`, `value`, etc.                           |
+| Uso de comillas dobles                 | `<input type="text" name="username">`                                  |
+| Indentación consistente (2 o 4 espacios) | No mezclar espacios con tabs                                            |
+
+---
+
+### CSS
+
+| Regla                                   | Ejemplo / Explicación                                                   |
+|----------------------------------------|--------------------------------------------------------------------------|
+| Nombres de clases en `kebab-case`      | `.main-header`, `.user-profile-card`                                   |
+| Propiedades en minúsculas y ordenadas  | `color: #333; font-size: 16px; margin-top: 20px;`                       |
+| Uso de comentarios                     | `/* Sección de estilos para el header */`                              |
+| Indentación consistente                | 2 o 4 espacios, no usar tabs                                            |
+
+---
+
+### JavaScript
+
+| Regla                                       | Ejemplo / Explicación                                                   |
+|--------------------------------------------|--------------------------------------------------------------------------|
+| Variables y funciones en `camelCase`       | `let userName = "Juan";`, `function getUserData() {}`                  |
+| Clases en `PascalCase`                     | `class UserProfile {}`                                                 |
+| Constantes en `UPPER_SNAKE_CASE`           | `const API_URL = "https://api.example.com";`                           |
+| Uso de `const` y `let`                     | Evitar `var`, usar `const` por defecto y `let` si se necesita mutabilidad |
+| Punto y coma al final de líneas            | `let nombre = "Carlos";`                                               |
+| Indentación consistente (2 o 4 espacios)   | Mantener el mismo estilo en todo el proyecto                           |
+
+---
+
+### Kotlin
+
+| Regla                                         | Ejemplo / Explicación                                                   |
+|----------------------------------------------|--------------------------------------------------------------------------|
+| Variables y funciones en `camelCase`         | `val userName = "Juan"`, `fun getUserData() {}`                         |
+| Clases y objetos en `PascalCase`             | `class UserProfile`, `object AppConfig`                                 |
+| Constantes en `UPPER_SNAKE_CASE`             | `const val MAX_USERS = 100`                                             |
+| Archivos nombrados igual que la clase        | `UserProfile.kt`                                                        |
+| Indentación con 4 espacios                   | No usar tabs                                                            |
+| Uso de `val` por defecto, `var` si mutable   | Promueve inmutabilidad                                                  |
+| Expresiones lambda con `it`                  | `users.filter { it.isActive }`                                          |
+
+
+
 ### 6.1.4. Software Deployment Configuration
 **Deployment Landing Page:** 
 En esta sección, detallamos el proceso de implementación de nuestra landing page en la plataforma de GitHub.
@@ -1930,11 +1979,11 @@ En esta sección, detallamos el proceso de implementación de nuestro backend en
 
 ## 6.2. Landing Page, Services & Applications Implementation
 ### 6.2.1. Sprint 1
-Este informe documenta el progreso realizado durante la fase de definición de requisitos del proyecto, que incluye entrevistas con los interesados y creación de artefactos antes y después de la implementación de la aplicación web estática. Proporcionar una visión clara del avance y garantizar una comunicación efectiva entre el equipo de desarrollo y los interesados son los objetivos principales.
+Este informe documenta el progreso realizado durante la fase de definición de requisitos del proyecto, que incluye entrevistas con los interesados y creación de artefactos antes y después de la implementación de la aplicación mobile. Proporcionar una visión clara del avance y garantizar una comunicación efectiva entre el equipo de desarrollo y los interesados son los objetivos principales.
 
 Durante esta etapa, se realizaron extensas entrevistas con los interesados para comprender sus necesidades, expectativas y requisitos particulares para la aplicación. Las entrevistas proporcionaron información útil que ayudó a definir los requisitos del proyecto.
 
-Se realizaron actividades de creación de artefactos antes y después de la implementación de la aplicación web estática, además de entrevistas. Estos objetos fueron
+Se realizaron actividades de creación de artefactos antes y después de la implementación de la aplicación mobile, además de entrevistas. Estos objetos fueron:
 #### 6.2.1.1. Sprint Planning 1
 | Sprint # | Sprint 1  | 
 |--------------------|------------|
@@ -2144,17 +2193,13 @@ Durante este sprint, se han realizado avances significativos en la implementaci�
 
 
 #### 6.2.1.4. Execution Evidence for Sprint Review
-Durante este Sprint, se han alcanzado varios hitos importantes en la implementación de la Landing Page, las aplicaciones web y los servicios web de Bovinova. Se han completado las siguientes tareas:
+Durante este Sprint, se han alcanzado varios hitos importantes en la implementación de la Landing Page. Además se realizaron avances en el frontend de la aplicaciones mobile. Se han completado las siguientes tareas:
 
 - Implementación de la sección de Resumen.
 - Visualización de funcionalidades.
 - Visualización de planes disponibles.
 - Implementacion de la Internacionalizacion
-- Registro de nuevos usuarios.
-- Registo de bovinos.
-- Registro de vacunas.
-- Registro de campañas.
-- Registro de empleados
+- Listado de bovinos.
 
 ### Screenshots
 
@@ -2167,11 +2212,18 @@ Durante este Sprint, se han alcanzado varios hitos importantes en la implementac
 #### Sección de Planes Disponibles
 ![Planes Disponibles](https://i.imgur.com/KEw3jG2.png)
 
-
 ### Seccion de cambio de idioma
 
 ![I18n](https://i.imgur.com/MPdtDqj.png)
 
+
+#### Mobile Frontend
+
+[![Captura-de-pantalla-2025-05-15-220016.png](https://i.postimg.cc/N0sy4HNN/Captura-de-pantalla-2025-05-15-220016.png)](https://postimg.cc/w1rTx7YJ)
+
+
+#### 6.2.1.5. Services Documentation Evidence for Sprint Review
+En esta sección se evidencia la documentación de los servicios implementados para el sprint actual que conforman el backend.
 
 #### Backend
 
@@ -2197,18 +2249,99 @@ Durante este Sprint, se han alcanzado varios hitos importantes en la implementac
 
 [![Captura-de-pantalla-2025-05-15-220445.png](https://i.postimg.cc/9fQPLM1B/Captura-de-pantalla-2025-05-15-220445.png)](https://postimg.cc/4YjhdXDK)
 
-#### Mobile Frontend
-
-[![Captura-de-pantalla-2025-05-15-220016.png](https://i.postimg.cc/N0sy4HNN/Captura-de-pantalla-2025-05-15-220016.png)](https://postimg.cc/w1rTx7YJ)
-
-
-#### 6.2.1.5. Services Documentation Evidence for Sprint Review
-
-
-
 
 #### 6.2.1.6. Software Deployment Evidence for Sprint Review
+
+##### Landing Page
+
+FALTA PONER LOS PASOS DE LA LANDING
+
+
+##### Backend
+
+Para el despliegue del backend se realizaron los siguientes pasos:
+
+##### 1. Ingresamos al portal de Azure
+Accedemos a [https://portal.azure.com](https://portal.azure.com) con nuestra cuenta para comenzar el proceso de despliegue.
+
+##### 2. Creamos un Grupo de Recursos
+Agrupamos todos los componentes relacionados con nuestro backend dentro de un grupo de recursos, lo que facilita su administración y organización.
+
+##### 3. Definimos un Plan de App Service
+Creamos un plan donde configuramos:
+- El sistema operativo (Linux o Windows)
+- La región del servidor
+- El tamaño del plan (por ejemplo, B1, F1, P1v2)
+
+##### 4. Configuramos una App Web (App Service)
+Creamos una nueva instancia de App Service seleccionando el grupo de recursos y el plan previamente definidos. Indicamos también la pila de tecnología (.NET) según nuestro backend.
+
+##### 5. Establecemos variables y configuraciones del entorno
+Agregamos variables de entorno, claves secretas, rutas y cadenas de conexión necesarias para el correcto funcionamiento del backend.
+
+##### 6. Preparamos nuestro backend para producción
+Nos aseguramos de que nuestra aplicación esté lista para ejecutarse en Azure, incluyendo:
+- Archivos de dependencias
+- Código limpio y portable
+
+##### 7. Elegimos el método de despliegue
+Seleccionamos cómo vamos a subir el backend a Azure:
+- Mediante integración continua desde GitHub
+- Subiendo el código directamente desde nuestro equipo
+- Usando FTP o un archivo ZIP desplegable
+
+##### 8. Realizamos el despliegue
+Subimos nuestro proyecto utilizando el método seleccionado. Si usamos GitHub, configuramos un flujo de trabajo de CI/CD para automatizar futuras actualizaciones.
+
+##### 9. Verificamos el estado del despliegue
+Revisamos los registros desde el portal para asegurarnos de que el despliegue fue exitoso y sin errores.
+
+##### 10. Accedemos a la aplicación
+Probamos la URL pública que nos proporciona Azure para verificar que nuestro backend está corriendo correctamente.
+
+##### 11. Monitoreamos y damos mantenimiento
+Activamos Application Insights o usamos los registros del App Service para monitorear el rendimiento, identificar errores y asegurar la estabilidad de la aplicación.
+
+[![dashboard-azure.jpg](https://i.postimg.cc/9MZZg73s/dashboard-azure.jpg)](https://postimg.cc/njVXCMh1)
+
+
+
 #### 6.2.1.7. Team Collaboration Insights during Sprint
+
+En esta sección se proporcionan los insights para el sprint 1.
+
+##### Documentation
+
+En esta sección, el equipo destacó la importancia de mantener una documentación clara y actualizada que facilite la colaboración y el entendimiento común. Se identificó que una buena documentación agiliza la resolución de dudas y mejora la calidad del desarrollo. A continuación se muestran los insights del equipo para la sección correspondiente:
+
+[![Captura-de-pantalla-2025-05-15-225817.png](https://i.postimg.cc/Bbs3HdcR/Captura-de-pantalla-2025-05-15-225817.png)](https://postimg.cc/N9NZwCnx)
+
+##### Landing Page
+
+El equipo observó que la landing page funciona como la primera ventana de contacto con el usuario, por lo que es vital que sea atractiva y fácil de navegar. Se resaltó la necesidad de optimizar los textos y elementos visuales para maximizar la conversión y el enganche inicial. A continuación se muestran los insights del equipo para la sección correspondiente:
+
+[![Captura-de-pantalla-2025-05-15-225945.png](https://i.postimg.cc/sgbt5k3K/Captura-de-pantalla-2025-05-15-225945.png)](https://postimg.cc/0zdWsHMJ)
+
+
+##### Backend
+
+En equipo analizamos que la arquitectura del backend debía ser robusta y escalable para soportar las futuras demandas. Identificamos retos en la gestión de datos y seguridad, lo que motivó la implementación de buenas prácticas para garantizar la integridad y eficiencia. A continuación se muestran los insights del equipo para la sección correspondiente:
+
+[![Captura-de-pantalla-2025-05-15-230204.png](https://i.postimg.cc/k5rp2Wyp/Captura-de-pantalla-2025-05-15-230204.png)](https://postimg.cc/PC44cp9W)
+
+
+##### Mobile Frontend
+
+Se destacó la relevancia de adaptar la experiencia a distintos dispositivos, asegurando una interfaz intuitiva y rápida; además de evitar la saturación de pantallas. 
+
+[![Captura-de-pantalla-2025-05-15-225139.png](https://i.postimg.cc/qvZpSD4C/Captura-de-pantalla-2025-05-15-225139.png)](https://postimg.cc/YvYcm34p)
+
+
+##### Integrantes
+
+La participación de cada miembro del equipo fue crucial para desarrollar los componentes requeridos para este primer sprint y ofrecer un producto mínimo viable.
+
+[![Captura-de-pantalla-2025-05-15-230656.png](https://i.postimg.cc/ThMDV2Hf/Captura-de-pantalla-2025-05-15-230656.png)](https://postimg.cc/QKmCsD3y)
 
 
 ##  Conclusiones 
