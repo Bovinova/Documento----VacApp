@@ -133,77 +133,121 @@ TB1          |   24/04/2025  |   Oscar Gabriel Aranda Vallejos  |  Bounded Conte
   Tabla de contenido
 </p>
 
-1. [CAPÍTULO I: Presentacion](#CAPÍTULO-I:-Presentacion)<br>
-    1.1. [Startup Profile](#Startup-Profile)<br>
-      1.1.1. [Descripción de la Startup](#Descripción-de-la-Startup)<br>
-      1.1.2. [Perfiles de integrantes del equipo](#Perfiles-de-integrantes-del-equipo)<br>
-   1.2. [Solution Profile](#Solution-Profile)<br>
-      1.2.1. [Antecedentes y problemática](#Antecedentes-y-problemática)<br>
-      1.2.2. [Lean UX Process](#Lean-UX-Process)<br>
-        1.2.2.1 [Lean UX Problem Statements](#Lean-UX-Problem-Statements)<br>
-        1.2.2.2 [Lean UX Assumptions](#Lean-US-Assumptions)<br>
-        1.2.2.3 [Lean UX Hypothesis Statements](#Lean-UX-Hypothesis-Statements)<br>
-        1.2.2.4 [Lean UX Canvas](#Lean-UX-Canvas) <br>
-    1.3. [Segmentos objetivo](#Segmentos-objetivo) <br>
-2. [CAPÍTULO II: Requirements Elicitation & Analysis](#Capítulo-II-Requirements-Elicitation--Analysis) <br>
-   2.1. [Competidores](#Competidores) <br>
-      2.1.1. [Análisis competitivo](#Análisis-competitivo) <br>
-      2.1.2. [Estrategias y tácticas frente a competidores](#Estrategias-y-tácticas-frente-a-competidores) <br>
-   2.2. [Entrevistas](#Entrevistas) <br>
-      2.2.1. [Diseño de entrevistas](#Diseño-de-entrevistas) <br>
-      2.2.2. [Registro de entrevistas](#Registro-de-entrevistas)<br> 
-      2.2.3. [Análisis de entrevistas](#Análisis-de-entrevistas)<br> 
-   2.3. [Needfinding](#Needfinding) <br>
-      2.3.1. [User Personas](#User-Personas) <br>
-      2.3.2. [User Task Matrix](#User-Task-Matrix) <br>
-      2.3.3. [User Journey Mapping](#User-Journey-Mapping) <br>
-      2.3.4. [Empathy Mapping](#Empathy-Mapping) <br>
-      2.3.5. [As-is Scenario Mapping](#As-is-Scenario-Mapping) <br>
-   2.4. [Ubiquitous Language](#Ubiquitous-Language) <br>
-3. [CAPÍTULO III: Requirements Specification](#Capítulo-III-Requirements-Specification) <br>
-   3.1. [To-Be Scenario Mapping](#To-Be-Scenario-Mapping) <br>
-   3.2. [User Stories](#User-Stories) <br>
-   3.3. [Impact Mapping](#Impact-Mapping) <br>
-   3.4. [Product Backlog](#Product-Backlog) <br>
-4. [CAPÍTULO IV: Solution Software Design](#capítulo-iv-solution-software-design) <br>
-   4.1. [Strategic-Level Domain-Driven Design](#strategic-level-domain-driven-design) <br>
-      4.1.1. [EventStorming](#eventstorming) <br>
-         4.1.1.1. [Candidate Context Discovery](#candidate-context-discovery) <br>
-         4.1.1.2. [Domain Message Flows Modeling](#domain-message-flows-modeling) <br>
-         4.1.1.3. [Bounded Context Canvases](#bounded-context-canvases) <br>
-      4.1.2. [Context Mapping](#context-mapping) <br>
-      4.1.3. [Software Architecture](#software-architecture) <br>
-         4.1.3.1. [Software Architecture Context Level Diagrams](#software-architecture-context-level-diagrams) <br>
-         4.1.3.2. [Software Architecture Container Level Diagrams](#software-architecture-container-level-diagrams) <br>
-         4.1.3.3. [Software Architecture Deployment Diagrams](#software-architecture-deployment-diagrams) <br>
-   4.2. [Tactical-Level Domain-Driven Design](#tactical-level-domain-driven-design) <br>
-      4.2.1. [Bounded Context: Campaign Managment](#bounded-context-bounded-context-name) <br>
-         4.2.1.1. [Domain Layer](#domain-layer) <br>
-         4.2.1.2. [Interface Layer](#interface-layer) <br>
-         4.2.1.3. [Application Layer](#application-layer) <br>
-         4.2.1.4. [Infrastructure Layer](#infrastructure-layer) <br>
-         4.2.1.5. [Bounded Context Software Architecture Component Level Diagrams](#bounded-context-software-architecture-component-level-diagrams) <br>
-         4.2.1.6. [Bounded Context Software Architecture Code Level Diagrams](#bounded-context-software-architecture-code-level-diagrams) <br>
-            4.2.1.6.1. [Bounded Context Domain Layer Class Diagrams](#bounded-context-domain-layer-class-diagrams) <br>
-            4.2.1.6.2. [Bounded Context Database Design Diagram](#bounded-context-database-design-diagram) <br>
-            4.2.2. [Bounded Context: Ranch Managment](#bounded-context-bounded-context-name) <br>
-         4.2.2.1. [Domain Layer](#domain-layer) <br>
-         4.2.2.2. [Interface Layer](#interface-layer) <br>
-         4.2.2.3. [Application Layer](#application-layer) <br>
-         4.2.2.4. [Infrastructure Layer](#infrastructure-layer) <br>
-         4.2.2.5. [Bounded Context Software Architecture Component Level Diagrams](#bounded-context-software-architecture-component-level-diagrams) <br>
-         4.2.2.6. [Bounded Context Software Architecture Code Level Diagrams](#bounded-context-software-architecture-code-level-diagrams) <br>
-            4.2.2.6.1. [Bounded Context Domain Layer Class Diagrams](#bounded-context-domain-layer-class-diagrams) <br>
-            4.2.2.6.2. [Bounded Context Database Design Diagram](#bounded-context-database-design-diagram) <br>
-            4.2.3. [Bounded Context: Staff Administration ](#bounded-context-bounded-context-name) <br>
-         4.2.2.1. [Domain Layer](#domain-layer) <br>
-         4.2.2.2. [Interface Layer](#interface-layer) <br>
-         4.2.2.3. [Application Layer](#application-layer) <br>
-         4.2.2.4. [Infrastructure Layer](#infrastructure-layer) <br>
-         4.2.2.5. [Bounded Context Software Architecture Component Level Diagrams](#bounded-context-software-architecture-component-level-diagrams) <br>
-         4.2.2.6. [Bounded Context Software Architecture Code Level Diagrams](#bounded-context-software-architecture-code-level-diagrams) <br>
-            4.2.2.6.1. [Bounded Context Domain Layer Class Diagrams](#bounded-context-domain-layer-class-diagrams) <br>
-            4.2.2.6.2. [Bounded Context Database Design Diagram](#bounded-context-database-design-diagram) <br><br>
+1. [CAPÍTULO I: Presentacion](#1-capítulo-i-presentacion)<br>
+    1.1. [Startup Profile](#11-startup-profile)<br>
+      1.1.1. [Descripción de la Startup](#111-descripción-de-la-startup)<br>
+      1.1.2. [Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)<br>
+   1.2. [Solution Profile](#12-solution-profile)<br>
+      1.2.1. [Antecedentes y problemática](#121-antecedentes-y-problemática)<br>
+      1.2.2. [Lean UX Process](#122-lean-ux-process)<br>
+        1.2.2.1 [Lean UX Problem Statements](#1221-lean-ux-problem-statements)<br>
+        1.2.2.2 [Lean UX Assumptions](#1222-lean-ux-assumptions)<br>
+        1.2.2.3 [Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)<br>
+        1.2.2.4 [Lean UX Canvas](#1224-lean-ux-canvas) <br>
+    1.3. [Segmentos objetivo](#13-segmentos-objetivo) <br>
+2. [CAPÍTULO II: Requirements Elicitation & Analysis](#2-capítulo-ii-requirements-elicitation--analysis) <br>
+   2.1. [Competidores](#21-competidores) <br>
+      2.1.1. [Análisis competitivo](#211-análisis-competitivo) <br>
+      2.1.2. [Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores) <br>
+   2.2. [Entrevistas](#22-entrevistas) <br>
+      2.2.1. [Diseño de entrevistas](#221-diseño-de-entrevistas) <br>
+      2.2.2. [Registro de entrevistas](#222-registro-de-entrevistas)<br> 
+      2.2.3. [Análisis de entrevistas](#223-análisis-de-entrevistas)<br> 
+   2.3. [Needfinding](#23-needfinding) <br>
+      2.3.1. [User Personas](#231-user-personas) <br>
+      2.3.2. [User Task Matrix](#232-user-task-matrix) <br>
+      2.3.3. [User Journey Mapping](#233-user-journey-mapping) <br>
+      2.3.4. [Empathy Mapping](#234-empathy-mapping) <br>
+      2.3.5. [As-is Scenario Mapping](#235-as-is-scenario-mapping) <br>
+   2.4. [Ubiquitous Language](#24-ubiquitous-language) <br>
+3. [CAPÍTULO III: Requirements Specification](#3-capítulo-iii-requirements-specification) <br>
+   3.1. [To-Be Scenario Mapping](#31-to-be-scenario-mapping) <br>
+   3.2. [User Stories](#32-user-stories) <br>
+   3.3. [Impact Mapping](#33-impact-mapping) <br>
+   3.4. [Product Backlog](#34-product-backlog) <br>
+4. [CAPÍTULO IV: Solution Software Design](#4-capítulo-iv-solution-software-design) <br>
+   4.1. [Strategic-Level Domain-Driven Design](#41-strategic-level-domain-driven-design) <br>
+      4.1.1. [EventStorming](#411-eventstorming) <br>
+         4.1.1.1. [Candidate Context Discovery](#4111-candidate-context-discovery) <br>
+         4.1.1.2. [Domain Message Flows Modeling](#4112-domain-message-flows-modeling) <br>
+         4.1.1.3. [Bounded Context Canvases](#4113-bounded-context-canvases) <br>
+      4.1.2. [Context Mapping](#412-context-mapping) <br>
+      4.1.3. [Software Architecture](#413-software-architecture) <br>
+         4.1.3.1. [Software Architecture Context Level Diagrams](#4131-software-architecture-context-level-diagrams) <br>
+         4.1.3.2. [Software Architecture Container Level Diagrams](#4132-software-architecture-container-level-diagrams) <br>
+         4.1.3.3. [Software Architecture Deployment Diagrams](#4133-software-architecture-deployment-diagrams) <br>
+   4.2. [Tactical-Level Domain-Driven Design](#42-tactical-level-domain-driven-design) <br>
+      4.2.1. [Bounded Context: Campaign Managment](#421-bounded-context-campaign-management) <br>
+         4.2.1.1. [Domain Layer](#4211-domain-layer) <br>
+         4.2.1.2. [Interface Layer](#4212-interface-layer) <br>
+         4.2.1.3. [Application Layer](#4213-application-layer) <br>
+         4.2.1.4. [Infrastructure Layer](#4214-infrastructure-layer) <br>
+         4.2.1.5. [Bounded Context Software Architecture Component Level Diagrams](#4215-bounded-context-software-architecture-component-level-diagrams) <br>
+         4.2.1.6. [Bounded Context Software Architecture Code Level Diagrams](#4216-bounded-context-software-architecture-code-level-diagrams) <br>
+            4.2.1.6.1. [Bounded Context Domain Layer Class Diagrams](#42161-bounded-context-domain-layer-class-diagrams) <br>
+            4.2.1.6.2. [Bounded Context Database Design Diagram](#42162-bounded-context-database-design-diagram) <br>
+            4.2.2. [Bounded Context: Ranch Managment](#422-bounded-context-ranch-management) <br>
+         4.2.2.1. [Domain Layer](#4221-domain-layer) <br>
+         4.2.2.2. [Interface Layer](#4222-interface-layer) <br>
+         4.2.2.3. [Application Layer](#4223-application-layer) <br>
+         4.2.2.4. [Infrastructure Layer](#4224-infrastructure-layer) <br>
+         4.2.2.5. [Bounded Context Software Architecture Component Level Diagrams](#4225-bounded-context-software-architecture-component-level-diagrams) <br>
+         4.2.2.6. [Bounded Context Software Architecture Code Level Diagrams](#4226-bounded-context-software-architecture-code-level-diagrams) <br>
+            4.2.2.6.1. [Bounded Context Domain Layer Class Diagrams](#42261-bounded-context-domain-layer-class-diagrams) <br>
+            4.2.2.6.2. [Bounded Context Database Design Diagram](#42262-bounded-context-database-design-diagram) <br>
+            4.2.3. [Bounded Context: Staff Administration ](#423-bounded-context-staff-administration) <br>
+         4.2.2.1. [Domain Layer](#4221-domain-layer) <br>
+         4.2.2.2. [Interface Layer](#4222-interface-layer) <br>
+         4.2.2.3. [Application Layer](#4223-application-layer) <br>
+         4.2.2.4. [Infrastructure Layer](#4224-infrastructure-layer) <br>
+         4.2.2.5. [Bounded Context Software Architecture Component Level Diagrams](#4225-bounded-context-software-architecture-component-level-diagrams) <br>
+         4.2.2.6. [Bounded Context Software Architecture Code Level Diagrams](#4226-bounded-context-software-architecture-code-level-diagrams) <br>
+            4.2.2.6.1. [Bounded Context Domain Layer Class Diagrams](#42261-bounded-context-domain-layer-class-diagrams) <br>
+            4.2.2.6.2. [Bounded Context Database Design Diagram](#42262-bounded-context-database-design-diagram) <br><br>
+5. [CAPÍTULO V: Solution UI/UX Design](#capítulo-v-solution-uiux-design) <br>
+   5.1. [Product design](#51-product-design) <br>
+      5.1.1. [Style Guidelines](#511-style-guidelines) <br>
+         5.1.1.1. [General Style Guidelines](#5111-general-style-guidelines) <br>
+      5.1.2. [Information Architecture](#512-information-architecture) <br>
+         5.1.2.1. [Organization Systems](#5121-organization-systems) <br>
+         5.1.2.2. [Labelling Systems](#5122-labelling-systems) <br>
+         5.1.2.3. [SEO Tags and Meta Tags](#5123-seo-tags-and-meta-tags) <br>
+         5.1.2.4. [Searching Systems](#5124-searching-systems) <br>
+         5.1.2.5. [Navigation Systems](#5125-navigation-systems) <br>
+      5.1.3. [Landing Page UI Design](#513-landing-page-ui-design) <br>
+         5.1.3.1 [Landing Page Wireframe](#5131-landing-page-wireframe) <br>
+         5.1.3.2 [Landing Page Mock-up](#5132-landing-page-mock-up) <br>
+      5.1.4. [Mobile Applications UX/UI Design](#514-mobile-applications-uxui-design) <br>
+         5.1.4.1. [Mobile Applications Wireframes](#5141-mobile-applications-wireframes) <br>
+         5.1.4.2. [Mobile Applications Wireflow Diagrams](#5142-mobile-applications-wireflow-diagrams) <br>
+         5.1.4.3. [Mobile Applications Mock-ups](#5143-mobile-applications-mock-ups) <br>
+         5.1.4.4. [Mobile Applications User Flow Diagrams](#5144-mobile-applications-user-flow-diagrams) <br>
+         5.1.4.5. [Mobile Applications Prototyping](#5145-mobile-applications-prototyping) <br>
+6. [CAPÍTULO VI: Product Implementation, Validation & Deployment](#6-capítulo-vi-product-implementation-validation--deployment) <br>
+   6.1. [Software Configuration Management](#61-software-configuration-management) <br>
+      6.1.1. [Software Development Environment Configuration](#611-software-development-environment-configuration) <br>
+      6.1.2. [Source Code Management](#612-source-code-management) <br>
+      6.1.3. [Source Code Style Guide & Conventions](#613-source-code-style-guide--conventions) <br>
+      6.1.4. [Software Deployment Configuration](#614-software-deployment-configuration) <br>
+   6.2. [Landing Page, Services & Applications Implementation](#62-landing-page-services--applications-implementation) <br>
+      6.2.1. [Sprint 1](#621-sprint-1) <br>
+         6.2.1.1. [Sprint Planning 1](#6211-sprint-planning-1) <br>
+         6.2.1.2. [Sprint Backlog 1](#6212-sprint-backlog-1) <br>
+         6.2.1.3. [Development Evidence for Sprint Review](#6213-development-evidence-for-sprint-review) <br>
+         6.2.1.4. [Execution Evidence for Sprint Review](#6214-execution-evidence-for-sprint-review) <br>
+         6.2.1.5. [Services Documentation Evidence for Sprint Review](#6215-services-documentation-evidence-for-sprint-review) <br>
+         6.2.1.6. [Software Deployment Evidence for Sprint Review](#6216-software-deployment-evidence-for-sprint-review) <br>
+         6.2.1.7. [Team Collaboration Insights during Sprint](#6217-team-collaboration-insights-during-sprint) <br>
+[Conclusiones](#conclusiones) <br>
+[Bibliografía](#bibliografía) <br>
+[Anexos](#anexos) <br>
+
+
+
+
+
+
+
 
 
 # STUDENT OUTCOME
