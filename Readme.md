@@ -8,7 +8,7 @@
         <p><strong>Ciclo:</strong> 2025-01 </p>
         <p><strong>Profesor:</strong> Jorge Luis Mayta Guillermo</p>
     <h3>"Informe de Trabajo Parcial"</h3>
-    <h4>TB1</h4>
+    <h4>TP</h4>
         <p><strong>Tema:</strong> Gestion de ganaderia </p>
         <p><strong>Producto:</strong> VacApp de Bovinova</p>
         <p><strong>Mayo, 2025</strong></p>
