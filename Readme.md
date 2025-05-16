@@ -1550,7 +1550,11 @@ El Database Design Diagram de Staff Administration presenta la estructura de la 
 # Capítulo V: Solution UI/UX Design
 
 ## 5.1. Product design
+
 ### 5.1.1. Style Guidelines
+
+Las Style Guidelines son esenciales para asegurar una comunicación coherente y profesional en todos los aspectos visuales y de diseño del proyecto, ya sea en medios impresos, digitales o cualquier otra plataforma de difusión. En esta sección, se establecerán las directrices que guiarán al equipo en la creación de VacApp. Estas pautas definirán elementos clave como la elección de colores, tipografía, estructura de documentos y otros aspectos visuales.
+Para el desarrollo de VacApp, utilizaremos Figma como herramienta principal para diseñar tanto la aplicación móvil como la landing page. En ambos casos, se implementará una paleta de colores basada en tonos verdes y cremas, evocando la naturaleza y transmitiendo la confianza asociada con una gestión responsable y sostenible del cuidado de animales. A continuación, se detalla cada uno de estos aspectos en profundidad.
 
 #### 5.1.1.1. General Style Guidelines
 
@@ -1820,8 +1824,9 @@ Este flujo está diseñado para facilitar al agregar ya sea un bovino, una campa
 
 <img src="./assets/prototipo.png" style="width: 400px">
 
-**Video:https://youtu.be/aLAxsS7FKnE**
-**FIGMA:https://www.figma.com/design/Ck5RdO3MzAm16SIReLDO15/Sin-t%C3%ADtulo?node-id=150-5796&t=hGN3YL7RfASQ5FFk-1**
+**Video: https://youtu.be/aLAxsS7FKnE**
+
+**FIGMA: https://www.figma.com/design/Ck5RdO3MzAm16SIReLDO15/Sin-t%C3%ADtulo?node-id=150-5796&t=hGN3YL7RfASQ5FFk-1**
 
 
 # 6. CAPÍTULO VI: Product Implementation, Validation & Deployment
@@ -2368,13 +2373,8 @@ Durante el desarrollo se priorizó la interacción constante con los usuarios fi
 - Vernon, V. (2013). *Implementing Domain-Driven Design*. Addison-Wesley.
 
 
-Las Style Guidelines son esenciales para asegurar una comunicación coherente y profesional en todos los aspectos visuales y de diseño del proyecto, ya sea en medios impresos, digitales o cualquier otra plataforma de difusión. En esta sección, se establecerán las directrices que guiarán al equipo en la creación de VacApp. Estas pautas definirán elementos clave como la elección de colores, tipografía, estructura de documentos y otros aspectos visuales.
-Para el desarrollo de VacApp, utilizaremos Figma como herramienta principal para diseñar tanto la aplicación móvil como la landing page. En ambos casos, se implementará una paleta de colores basada en tonos verdes y cremas, evocando la naturaleza y transmitiendo la confianza asociada con una gestión responsable y sostenible del cuidado de animales. A continuación, se detalla cada uno de estos aspectos en profundidad.
-
-
 ##  Anexos
-[Entrevistas] (https://shorturl.at/F1HUB): https://shorturl.at/F1HUB
+Entrevistas: https://shorturl.at/F1HUB
 
-
-FIGMA:https://www.figma.com/design/Ck5RdO3MzAm16SIReLDO15/Sin-t%C3%ADtulo?node-id=150-5796&t=hGN3YL7RfASQ5FFk-1 
+Figma: https://www.figma.com/design/Ck5RdO3MzAm16SIReLDO15/Sin-t%C3%ADtulo?node-id=150-5796&t=hGN3YL7RfASQ5FFk-1 
 
