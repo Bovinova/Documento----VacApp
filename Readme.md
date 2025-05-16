@@ -1654,11 +1654,15 @@ La navegación de VacApp se basa en patrones comunes de apps móviles para reduc
 <img src="./assets/Landingm-wire.png" style="width: 400px">
 
 #### 5.1.3.2. Landing Page Mock-up
+
 **Landing Page Mock-up Desktop**
+
 <img src="./assets/Landing-mock.png" style="width: 400px">
 
 **Landing Page Mock-up Mobile**
+
 <img src="./assets/Landingm-mock.png" style="width: 400px">
+
 
 **FIGMA:https://www.figma.com/design/Ck5RdO3MzAm16SIReLDO15/Sin-t%C3%ADtulo?node-id=150-5796&t=hGN3YL7RfASQ5FFk-1**
 
@@ -1679,8 +1683,11 @@ La navegación de VacApp se basa en patrones comunes de apps móviles para reduc
 <img src="./assets/planesw.png" style="width: 400px">
 
 **Home**
+
 <img src="./assets/homew.png" style="width: 400px">
+
 <img src="./assets/homew2.png" style="width: 400px">
+
 <img src="./assets/homew3.png" style="width: 400px">
 
 **Animals**
@@ -1725,11 +1732,13 @@ Este flujo guía al usuario desde la pantalla de bienvenida hacia las opciones d
 
 
 **User Goal: Home y navegar por las secciones "Animals","Campaigns" e "Inventory"**
+
 Una vez autenticado, el usuario accede al home con accesos rápidos con el sidebar. Este wireflow muestra cómo el usuario puede visualizar las opciones "Animals", "CAmpaings e "inventory"
 
 <img src="./assets/2w.png" style="width: 400px">
 
 **User Goal: Registro de un nuevo dato ya sea "Animals","Campaigns" o "Inventory":** 
+
 Este flujo está diseñado para facilitar al agregar ya sea un bovino, una campaña o un producto de inventario.
 
 <img src="./assets/3w.png" style="width: 400px">
