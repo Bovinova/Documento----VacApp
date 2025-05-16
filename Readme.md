@@ -1820,6 +1820,7 @@ Este flujo está diseñado para facilitar al agregar ya sea un bovino, una campa
 
 <img src="./assets/prototipo.png" style="width: 400px">
 
+**Video:https://youtu.be/aLAxsS7FKnE**
 **FIGMA:https://www.figma.com/design/Ck5RdO3MzAm16SIReLDO15/Sin-t%C3%ADtulo?node-id=150-5796&t=hGN3YL7RfASQ5FFk-1**
 
 
