@@ -5,13 +5,13 @@
     <h2>1ACC0238 - Aplicaciones para Dispositivos Móviles</h2>
         <p><strong>NRC:</strong> 353</p>
         <p><strong>Carrera:</strong> Ingeniería de Software</p>
-        <p><strong>Ciclo:</strong> 6</p>
+        <p><strong>Ciclo:</strong> 2025-01 </p>
         <p><strong>Profesor:</strong> Jorge Luis Mayta Guillermo</p>
-    <h3>"Informe de Trabajo Final"</h3>
+    <h3>"Informe de Trabajo Parcial"</h3>
     <h4>TB1</h4>
         <p><strong>Tema:</strong> Gestion de ganaderia </p>
         <p><strong>Producto:</strong> VacApp de Bovinova</p>
-        <p><strong>Abril 2025</strong></p>
+        <p><strong>Mayo, 2025</strong></p>
 </div>
 <div style="text-align:left;">
     <h3>Integrantes:</h3>
@@ -71,7 +71,25 @@
 |TB1          |   23/04/2025  |   Piero Stephano Miranda Sinarahua  |  Bounded Context Domain Layer Class Diagrams for Ranch Bounded Context    |
 |TB1          |   23/04/2025  |   Oscar Gabriel Aranda Vallejos  |  Ranch and Campaign Management Component Diagram    |
 |TB1          |   23/04/2025  |   Oscar Gabriel Aranda Vallejos  |  Context Mapping    |
-|TB1          |   24/04/2025  |   Oscar Gabriel Aranda Vallejos  |  Bounded Context Domain Layer Class Diagrams for Campaign Management Bounded Context   |
+TB1          |   24/04/2025  |   Oscar Gabriel Aranda Vallejos  |  Bounded Context Domain Layer Class Diagrams for Campaign Management Bounded Context   |
+|TP1          |   31/04/2025  |  Estrella del Pilar Ticona Panduro  | Landing Page Wireframe    |
+|TP1          |   1/05/2025  |   Estrella del Pilar Ticona Panduro | Landing Page Mock-up   |
+|TP1          |   12/05/2025  |   Estrella del Pilar Ticona Panduro | Mobile Applications Wireframes   |
+|TP1          |   12/05/2025  |   Estrella del Pilar Ticona Panduro | Mobile Applications Wireflow Diagrams   |
+|TP1          |   12/05/2025  |   Estrella del Pilar Ticona Panduro | Mobile Applications Mock-ups   |
+|TP1          |   12/05/2025  |   Estrella del Pilar Ticona Panduro |  Mobile Applications User Flow Diagrams   |
+|TP1          |   12/05/2025  |   Estrella del Pilar Ticona Panduro | Mobile Applications Prototyping   |
+| TP1          | 12/05/2025    | Oscar Gabriel Aranda Vallejos             | Backend CRUD - Staff Administration                                  |
+| TP1          | 12/05/2025    | Oscar Gabriel Aranda Vallejos             | Backend CRUD - Ranch Management (Bovines, Stables, Vaccines)         |
+| TP1          | 12/05/2025    | Piero Stephano Miranda Sinarahua         | Backend CRUD - Campaign Management                                   |
+| TP1          | 12/05/2025    | Gianfranco Angel Durand Vera              | IAM Implementation en Backend                                        |
+| TP1          | 12/05/2025    | Gianfranco Angel Durand Vera              | Deployment del Backend en Azure                                          |
+| TP1          | 12/05/2025    | Gianfranco Angel Durand Vera              | Landing Page                                              |
+| TP1          | 12/05/2025    | Gianfranco Angel Durand Vera              | i18n Implementation                                                  |
+| TP1          | 12/05/2025    | Sergio André Gómez Vallejos               | Sprint Backlog                                                       |
+| TP1          | 14/05/2025    | Sergio André Gómez Vallejos               | Implementación parcial de la aplicación móvil                        |
+| TP1          | 14/05/2025    | Maycol Jhordan Rojas Velasquez            | Implementación parcial de la aplicación móvil                        |
+
          
 
 **Project Report Collaboration Insights**
@@ -115,77 +133,121 @@
   Tabla de contenido
 </p>
 
-1. [CAPÍTULO I: Presentacion](#CAPÍTULO-I-Introducción)<br>
-    1.1. [Startup Profile](#Startup-Profile)<br>
-      1.1.1. [Descripción de la Startup](#Descripción-de-la-Startup)<br>
-      1.1.2. [Perfiles de integrantes del equipo](#Perfiles-de-integrantes-del-equipo)<br>
-   1.2. [Solution Profile](#Solution-Profile)<br>
-      1.2.1. [Antecedentes y problemática](#Antecedentes-y-problemática)<br>
-      1.2.2. [Lean UX Process](#Lean-UX-Process)<br>
-        1.2.2.1 [Lean UX Problem Statements](#Lean-UX-Problem-Statements)<br>
-        1.2.2.2 [Lean UX Assumptions](#Lean-US-Assumptions)<br>
-        1.2.2.3 [Lean UX Hypothesis Statements](#Lean-UX-Hypothesis-Statements)<br>
-        1.2.2.4 [Lean UX Canvas](#Lean-UX-Canvas) <br>
-    1.3. [Segmentos objetivo](#Segmentos-objetivo) <br>
-2. [CAPÍTULO II: Requirements Elicitation & Analysis](#Capítulo-II-Requirements-Elicitation--Analysis) <br>
-   2.1. [Competidores](#Competidores) <br>
-      2.1.1. [Análisis competitivo](#Análisis-competitivo) <br>
-      2.1.2. [Estrategias y tácticas frente a competidores](#Estrategias-y-tácticas-frente-a-competidores) <br>
-   2.2. [Entrevistas](#Entrevistas) <br>
-      2.2.1. [Diseño de entrevistas](#Diseño-de-entrevistas) <br>
-      2.2.2. [Registro de entrevistas](#Registro-de-entrevistas)<br> 
-      2.2.3. [Análisis de entrevistas](#Análisis-de-entrevistas)<br> 
-   2.3. [Needfinding](#Needfinding) <br>
-      2.3.1. [User Personas](#User-Personas) <br>
-      2.3.2. [User Task Matrix](#User-Task-Matrix) <br>
-      2.3.3. [User Journey Mapping](#User-Journey-Mapping) <br>
-      2.3.4. [Empathy Mapping](#Empathy-Mapping) <br>
-      2.3.5. [As-is Scenario Mapping](#As-is-Scenario-Mapping) <br>
-   2.4. [Ubiquitous Language](#Ubiquitous-Language) <br>
-3. [CAPÍTULO III: Requirements Specification](#Capítulo-III-Requirements-Specification) <br>
-   3.1. [To-Be Scenario Mapping](#To-Be-Scenario-Mapping) <br>
-   3.2. [User Stories](#User-Stories) <br>
-   3.3. [Impact Mapping](#Impact-Mapping) <br>
-   3.4. [Product Backlog](#Product-Backlog) <br>
-4. [CAPÍTULO IV: Solution Software Design](#capítulo-iv-solution-software-design) <br>
-   4.1. [Strategic-Level Domain-Driven Design](#strategic-level-domain-driven-design) <br>
-      4.1.1. [EventStorming](#eventstorming) <br>
-         4.1.1.1. [Candidate Context Discovery](#candidate-context-discovery) <br>
-         4.1.1.2. [Domain Message Flows Modeling](#domain-message-flows-modeling) <br>
-         4.1.1.3. [Bounded Context Canvases](#bounded-context-canvases) <br>
-      4.1.2. [Context Mapping](#context-mapping) <br>
-      4.1.3. [Software Architecture](#software-architecture) <br>
-         4.1.3.1. [Software Architecture Context Level Diagrams](#software-architecture-context-level-diagrams) <br>
-         4.1.3.2. [Software Architecture Container Level Diagrams](#software-architecture-container-level-diagrams) <br>
-         4.1.3.3. [Software Architecture Deployment Diagrams](#software-architecture-deployment-diagrams) <br>
-   4.2. [Tactical-Level Domain-Driven Design](#tactical-level-domain-driven-design) <br>
-      4.2.1. [Bounded Context: Campaign Managment](#bounded-context-bounded-context-name) <br>
-         4.2.1.1. [Domain Layer](#domain-layer) <br>
-         4.2.1.2. [Interface Layer](#interface-layer) <br>
-         4.2.1.3. [Application Layer](#application-layer) <br>
-         4.2.1.4. [Infrastructure Layer](#infrastructure-layer) <br>
-         4.2.1.5. [Bounded Context Software Architecture Component Level Diagrams](#bounded-context-software-architecture-component-level-diagrams) <br>
-         4.2.1.6. [Bounded Context Software Architecture Code Level Diagrams](#bounded-context-software-architecture-code-level-diagrams) <br>
-            4.2.1.6.1. [Bounded Context Domain Layer Class Diagrams](#bounded-context-domain-layer-class-diagrams) <br>
-            4.2.1.6.2. [Bounded Context Database Design Diagram](#bounded-context-database-design-diagram) <br>
-            4.2.2. [Bounded Context: Ranch Managment](#bounded-context-bounded-context-name) <br>
-         4.2.2.1. [Domain Layer](#domain-layer) <br>
-         4.2.2.2. [Interface Layer](#interface-layer) <br>
-         4.2.2.3. [Application Layer](#application-layer) <br>
-         4.2.2.4. [Infrastructure Layer](#infrastructure-layer) <br>
-         4.2.2.5. [Bounded Context Software Architecture Component Level Diagrams](#bounded-context-software-architecture-component-level-diagrams) <br>
-         4.2.2.6. [Bounded Context Software Architecture Code Level Diagrams](#bounded-context-software-architecture-code-level-diagrams) <br>
-            4.2.2.6.1. [Bounded Context Domain Layer Class Diagrams](#bounded-context-domain-layer-class-diagrams) <br>
-            4.2.2.6.2. [Bounded Context Database Design Diagram](#bounded-context-database-design-diagram) <br>
-            4.2.3. [Bounded Context: Staff Administration ](#bounded-context-bounded-context-name) <br>
-         4.2.2.1. [Domain Layer](#domain-layer) <br>
-         4.2.2.2. [Interface Layer](#interface-layer) <br>
-         4.2.2.3. [Application Layer](#application-layer) <br>
-         4.2.2.4. [Infrastructure Layer](#infrastructure-layer) <br>
-         4.2.2.5. [Bounded Context Software Architecture Component Level Diagrams](#bounded-context-software-architecture-component-level-diagrams) <br>
-         4.2.2.6. [Bounded Context Software Architecture Code Level Diagrams](#bounded-context-software-architecture-code-level-diagrams) <br>
-            4.2.2.6.1. [Bounded Context Domain Layer Class Diagrams](#bounded-context-domain-layer-class-diagrams) <br>
-            4.2.2.6.2. [Bounded Context Database Design Diagram](#bounded-context-database-design-diagram) <br><br>
+1. [CAPÍTULO I: Presentacion](#1-capítulo-i-presentacion)<br>
+    1.1. [Startup Profile](#11-startup-profile)<br>
+      1.1.1. [Descripción de la Startup](#111-descripción-de-la-startup)<br>
+      1.1.2. [Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)<br>
+   1.2. [Solution Profile](#12-solution-profile)<br>
+      1.2.1. [Antecedentes y problemática](#121-antecedentes-y-problemática)<br>
+      1.2.2. [Lean UX Process](#122-lean-ux-process)<br>
+        1.2.2.1 [Lean UX Problem Statements](#1221-lean-ux-problem-statements)<br>
+        1.2.2.2 [Lean UX Assumptions](#1222-lean-ux-assumptions)<br>
+        1.2.2.3 [Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)<br>
+        1.2.2.4 [Lean UX Canvas](#1224-lean-ux-canvas) <br>
+    1.3. [Segmentos objetivo](#13-segmentos-objetivo) <br>
+2. [CAPÍTULO II: Requirements Elicitation & Analysis](#2-capítulo-ii-requirements-elicitation--analysis) <br>
+   2.1. [Competidores](#21-competidores) <br>
+      2.1.1. [Análisis competitivo](#211-análisis-competitivo) <br>
+      2.1.2. [Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores) <br>
+   2.2. [Entrevistas](#22-entrevistas) <br>
+      2.2.1. [Diseño de entrevistas](#221-diseño-de-entrevistas) <br>
+      2.2.2. [Registro de entrevistas](#222-registro-de-entrevistas)<br> 
+      2.2.3. [Análisis de entrevistas](#223-análisis-de-entrevistas)<br> 
+   2.3. [Needfinding](#23-needfinding) <br>
+      2.3.1. [User Personas](#231-user-personas) <br>
+      2.3.2. [User Task Matrix](#232-user-task-matrix) <br>
+      2.3.3. [User Journey Mapping](#233-user-journey-mapping) <br>
+      2.3.4. [Empathy Mapping](#234-empathy-mapping) <br>
+      2.3.5. [As-is Scenario Mapping](#235-as-is-scenario-mapping) <br>
+   2.4. [Ubiquitous Language](#24-ubiquitous-language) <br>
+3. [CAPÍTULO III: Requirements Specification](#3-capítulo-iii-requirements-specification) <br>
+   3.1. [To-Be Scenario Mapping](#31-to-be-scenario-mapping) <br>
+   3.2. [User Stories](#32-user-stories) <br>
+   3.3. [Impact Mapping](#33-impact-mapping) <br>
+   3.4. [Product Backlog](#34-product-backlog) <br>
+4. [CAPÍTULO IV: Solution Software Design](#4-capítulo-iv-solution-software-design) <br>
+   4.1. [Strategic-Level Domain-Driven Design](#41-strategic-level-domain-driven-design) <br>
+      4.1.1. [EventStorming](#411-eventstorming) <br>
+         4.1.1.1. [Candidate Context Discovery](#4111-candidate-context-discovery) <br>
+         4.1.1.2. [Domain Message Flows Modeling](#4112-domain-message-flows-modeling) <br>
+         4.1.1.3. [Bounded Context Canvases](#4113-bounded-context-canvases) <br>
+      4.1.2. [Context Mapping](#412-context-mapping) <br>
+      4.1.3. [Software Architecture](#413-software-architecture) <br>
+         4.1.3.1. [Software Architecture Context Level Diagrams](#4131-software-architecture-context-level-diagrams) <br>
+         4.1.3.2. [Software Architecture Container Level Diagrams](#4132-software-architecture-container-level-diagrams) <br>
+         4.1.3.3. [Software Architecture Deployment Diagrams](#4133-software-architecture-deployment-diagrams) <br>
+   4.2. [Tactical-Level Domain-Driven Design](#42-tactical-level-domain-driven-design) <br>
+      4.2.1. [Bounded Context: Campaign Managment](#421-bounded-context-campaign-management) <br>
+         4.2.1.1. [Domain Layer](#4211-domain-layer) <br>
+         4.2.1.2. [Interface Layer](#4212-interface-layer) <br>
+         4.2.1.3. [Application Layer](#4213-application-layer) <br>
+         4.2.1.4. [Infrastructure Layer](#4214-infrastructure-layer) <br>
+         4.2.1.5. [Bounded Context Software Architecture Component Level Diagrams](#4215-bounded-context-software-architecture-component-level-diagrams) <br>
+         4.2.1.6. [Bounded Context Software Architecture Code Level Diagrams](#4216-bounded-context-software-architecture-code-level-diagrams) <br>
+            4.2.1.6.1. [Bounded Context Domain Layer Class Diagrams](#42161-bounded-context-domain-layer-class-diagrams) <br>
+            4.2.1.6.2. [Bounded Context Database Design Diagram](#42162-bounded-context-database-design-diagram) <br>
+            4.2.2. [Bounded Context: Ranch Managment](#422-bounded-context-ranch-management) <br>
+         4.2.2.1. [Domain Layer](#4221-domain-layer) <br>
+         4.2.2.2. [Interface Layer](#4222-interface-layer) <br>
+         4.2.2.3. [Application Layer](#4223-application-layer) <br>
+         4.2.2.4. [Infrastructure Layer](#4224-infrastructure-layer) <br>
+         4.2.2.5. [Bounded Context Software Architecture Component Level Diagrams](#4225-bounded-context-software-architecture-component-level-diagrams) <br>
+         4.2.2.6. [Bounded Context Software Architecture Code Level Diagrams](#4226-bounded-context-software-architecture-code-level-diagrams) <br>
+            4.2.2.6.1. [Bounded Context Domain Layer Class Diagrams](#42261-bounded-context-domain-layer-class-diagrams) <br>
+            4.2.2.6.2. [Bounded Context Database Design Diagram](#42262-bounded-context-database-design-diagram) <br>
+            4.2.3. [Bounded Context: Staff Administration ](#423-bounded-context-staff-administration) <br>
+         4.2.2.1. [Domain Layer](#4221-domain-layer) <br>
+         4.2.2.2. [Interface Layer](#4222-interface-layer) <br>
+         4.2.2.3. [Application Layer](#4223-application-layer) <br>
+         4.2.2.4. [Infrastructure Layer](#4224-infrastructure-layer) <br>
+         4.2.2.5. [Bounded Context Software Architecture Component Level Diagrams](#4225-bounded-context-software-architecture-component-level-diagrams) <br>
+         4.2.2.6. [Bounded Context Software Architecture Code Level Diagrams](#4226-bounded-context-software-architecture-code-level-diagrams) <br>
+            4.2.2.6.1. [Bounded Context Domain Layer Class Diagrams](#42261-bounded-context-domain-layer-class-diagrams) <br>
+            4.2.2.6.2. [Bounded Context Database Design Diagram](#42262-bounded-context-database-design-diagram) <br><br>
+5. [CAPÍTULO V: Solution UI/UX Design](#capítulo-v-solution-uiux-design) <br>
+   5.1. [Product design](#51-product-design) <br>
+      5.1.1. [Style Guidelines](#511-style-guidelines) <br>
+         5.1.1.1. [General Style Guidelines](#5111-general-style-guidelines) <br>
+      5.1.2. [Information Architecture](#512-information-architecture) <br>
+         5.1.2.1. [Organization Systems](#5121-organization-systems) <br>
+         5.1.2.2. [Labelling Systems](#5122-labelling-systems) <br>
+         5.1.2.3. [SEO Tags and Meta Tags](#5123-seo-tags-and-meta-tags) <br>
+         5.1.2.4. [Searching Systems](#5124-searching-systems) <br>
+         5.1.2.5. [Navigation Systems](#5125-navigation-systems) <br>
+      5.1.3. [Landing Page UI Design](#513-landing-page-ui-design) <br>
+         5.1.3.1 [Landing Page Wireframe](#5131-landing-page-wireframe) <br>
+         5.1.3.2 [Landing Page Mock-up](#5132-landing-page-mock-up) <br>
+      5.1.4. [Mobile Applications UX/UI Design](#514-mobile-applications-uxui-design) <br>
+         5.1.4.1. [Mobile Applications Wireframes](#5141-mobile-applications-wireframes) <br>
+         5.1.4.2. [Mobile Applications Wireflow Diagrams](#5142-mobile-applications-wireflow-diagrams) <br>
+         5.1.4.3. [Mobile Applications Mock-ups](#5143-mobile-applications-mock-ups) <br>
+         5.1.4.4. [Mobile Applications User Flow Diagrams](#5144-mobile-applications-user-flow-diagrams) <br>
+         5.1.4.5. [Mobile Applications Prototyping](#5145-mobile-applications-prototyping) <br>
+6. [CAPÍTULO VI: Product Implementation, Validation & Deployment](#6-capítulo-vi-product-implementation-validation--deployment) <br>
+   6.1. [Software Configuration Management](#61-software-configuration-management) <br>
+      6.1.1. [Software Development Environment Configuration](#611-software-development-environment-configuration) <br>
+      6.1.2. [Source Code Management](#612-source-code-management) <br>
+      6.1.3. [Source Code Style Guide & Conventions](#613-source-code-style-guide--conventions) <br>
+      6.1.4. [Software Deployment Configuration](#614-software-deployment-configuration) <br>
+   6.2. [Landing Page, Services & Applications Implementation](#62-landing-page-services--applications-implementation) <br>
+      6.2.1. [Sprint 1](#621-sprint-1) <br>
+         6.2.1.1. [Sprint Planning 1](#6211-sprint-planning-1) <br>
+         6.2.1.2. [Sprint Backlog 1](#6212-sprint-backlog-1) <br>
+         6.2.1.3. [Development Evidence for Sprint Review](#6213-development-evidence-for-sprint-review) <br>
+         6.2.1.4. [Execution Evidence for Sprint Review](#6214-execution-evidence-for-sprint-review) <br>
+         6.2.1.5. [Services Documentation Evidence for Sprint Review](#6215-services-documentation-evidence-for-sprint-review) <br>
+         6.2.1.6. [Software Deployment Evidence for Sprint Review](#6216-software-deployment-evidence-for-sprint-review) <br>
+         6.2.1.7. [Team Collaboration Insights during Sprint](#6217-team-collaboration-insights-during-sprint) <br>
+[Conclusiones](#conclusiones) <br>
+[Bibliografía](#bibliografía) <br>
+[Anexos](#anexos) <br>
+
+
+
+
+
+
+
 
 
 # STUDENT OUTCOME
@@ -200,8 +262,8 @@ necesario, utilizando estrategias de aprendizaje apropiadas.
 
 | **Criterio específico** | **Acciones realizadas** | **Conclusiones** |  
 |-------------------------|------------------------|------------------|  
-| Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software |  1. Gómez Vallejos, Sergio André <br>*TB1*<br> Desarrollé secciones clave como el Solution Profile, Antecedentes y problemática, el análisis de Competidores, y el Análisis competitivo. También realicé el Tactical-Level Domain-Driven Design y el Bounded Context Database Design Diagram. Para ello, estudié conceptos de diseño táctico, arquitectura basada en dominios y modelado de datos. <br><br> 2. Rojas Velasquez, Maycol Jhordan<br>*TB1*<br>  Apliqué los conocimientos necesarios para el proyecto, desarrollando los diagramas C4 y definiendo el segmento objetivo.<br><br> 3. Aranda Vallejos, Oscar Gabriel <br>*TB1*<br>  Participé en el proceso del eventstorming, actualizando los conceptos y técnicas aprendidas del Domain Driven Design.<br><br>4. Ticona Panduro, Estrella del Pilar<br>*TB1*<br> A través del To Be Scenario Mapping, User Stories, Impact Mapping y Product Backlog, reforcé conocimientos en metodologías ágiles y diseño centrado en el usuario. Además, llevé a cabo una serie de actividades clave que reflejan el compromiso con la actualización de conocimientos y el aprendizaje continuo. Estas acciones incluyeron secciones para el diseño de entrevistas, una entrevista del segmento 1 (productores ganadores independientes), To be Scenario Mapping, User Stories, Impact Mapping, Product Backlog, Bounded Context Application Layer, Infrastructure Layer, Domain Layer Class Diagrams y Database Design Diagram para Staff administration. De esta manera, todo este proceso me permitió actualizar conocimientos esenciales para mi crecimiento profesional, especialmente en metodologías ágiles, diseño centrado en el usuario y arquitectura de software.<br><br>5. Durand Vera, Gianfranco Angel: <br>*TB1*<br>  Realicé las capas de Domain e Interface, además de el Component Level Diagram, para el Bounded Context Staff Administration, asi como entrevistas hacia el segundo segmento. <br><br> 6. Miranda Sinarahua, Piero Stephano<br>*TB1*<br> Estuve encargado de realizar secciones dentro del Needfinding, entre estos estan el desarrollo de los user persona, task matrix, journey mapping, empathy mapping y as is scenario mapping. Al igual que reuní informacion clave dentro de una entrevista realizada, lo cual sirvió para obtener datos que serían útiles durante el proceso de desarrollo. <br><br> |TB1<br>  A lo largo del desarrollo del proyecto de soluciones de software, los integrantes del equipo demostraron un fuerte compromiso con la actualización de conocimientos y la aplicación de metodologías modernas, lo cual contribuyó significativamente a su crecimiento profesional. Se evidenció una sólida comprensión y uso de principios del Domain-Driven Design, diseño centrado en el usuario, y metodologías ágiles, mediante la elaboración de artefactos clave como diagramas C4, mapeos de escenarios, backlog de producto, y diseño de base de datos por contexto. Las contribuciones individuales, desde la investigación de usuarios hasta el diseño de arquitectura por capas, muestran un trabajo colaborativo bien fundamentado y orientado a las mejores prácticas del desarrollo de software actual. Esto no solo enriqueció el proyecto, sino que también fortaleció las competencias técnicas y analíticas de cada miembro del equipo.|  
-| Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software |  1. Gómez Vallejos, Sergio André<br>*TB1*<br> Para cada sección del trabajo investigué nuevas metodologías de análisis competitivo, bases de Domain-Driven Design, y enfoques de diseño de bases de datos adaptados a contextos delimitados. Utilicé documentación especializada, artículos académicos y experiencias de la industria como base para mis decisiones de diseño.  <br><br> 2. Rojas Velasquez, Maycol Jhordan<br>*TB1*<br> Desarrollé los temas alcanzados en los ciclos anteriores, lo que me permitió adquirir conocimientos sólidos sobre el tema y realizarlos correctamente.<br><br> 3. Aranda Vallejos, Oscar Gabriel <br>*TB1*<br> Participé en el proceso del eventstorming, actualizando los conceptos y técnicas aprendidas del Domain Driven Design.<br><br>4. Ticona Panduro, Estrella del Pilar<br>*TB1*<br> Reconocí la necesidad del aprendizaje permanente al enfrentar retos que exigieron investigar nuevas herramientas y enfoques, como la validación de usuarios, metodologías ágiles y principios de diseño de software moderno. La evolución constante del proyecto me impulsó a seguir aprendiendo para tomar mejores decisiones técnicas y aportar soluciones más efectivas y alineadas con las necesidades del usuario. A lo largo del proyecto confirmé que el aprendizaje permanente es fundamental en el desarrollo de software, ya que cada etapa presentó nuevos desafíos que me motivaron a investigar, adaptarme y mejorar. Este proceso me permitió evolucionar como profesional comprometido con la mejora continua y con la entrega de soluciones efectivas.<br><br> 5. Durand Vera, Gianfranco Angel<br>*TB1*<br>  Durante esta entrega, comprendí la importancia del aprendizaje permanente en mi desarrollo profesional y en la creación de soluciones de software efectivas. Al desarrollar declaraciones de problemas y suposiciones bajo Lean UX, reforcé mi compromiso con la actualización constante de conocimientos para garantizar que cada proyecto se ejecute con la máxima eficiencia y calidad.<br><br> 6. Miranda Sinarahua, Piero Stephano<br>*TB1*<br> Tomé en cuenta la importancia de adquirir e implementar nuevos conocimientos con el fin de lograr un desarrollo superior dentro de las tareas asignadas.<br><br> | TB1: El equipo demostró una clara conciencia sobre la importancia del aprendizaje permanente como pilar fundamental para el desarrollo profesional y la ejecución efectiva de proyectos en soluciones de software. A través de la investigación constante, la aplicación de nuevas metodologías y la adaptación a desafíos técnicos, cada integrante fortaleció sus competencias y mostró un compromiso genuino con la mejora continua. La necesidad de mantenerse actualizado frente a las exigencias del sector tecnológico fue reconocida y asumida con responsabilidad, permitiendo no solo el cumplimiento exitoso de sus tareas, sino también una evolución profesional sostenible y alineada con las mejores prácticas de la industria.|
+| Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software |  1. Gómez Vallejos, Sergio André <br>*TB1*<br> Desarrollé secciones clave como el Solution Profile, Antecedentes y problemática, el análisis de Competidores, y el Análisis competitivo. También realicé el Tactical-Level Domain-Driven Design y el Bounded Context Database Design Diagram. Para ello, estudié conceptos de diseño táctico, arquitectura basada en dominios y modelado de datos.<br>*TP*<br>Durante el desarrollo del Sprint Backlog y de una parte de la aplicación móvil, actualicé conceptos clave relacionados con la planificación ágil, estructuración de tareas y flujos de trabajo en proyectos reales. Esto me permitió afianzar mis conocimientos en metodologías ágiles, herramientas de gestión de tareas y buenas prácticas de desarrollo móvil. <br><br> 2. Rojas Velasquez, Maycol Jhordan<br>*TB1*<br>  Apliqué los conocimientos necesarios para el proyecto, desarrollando los diagramas C4 y definiendo el segmento objetivo.<br>*TP*<br>En mi participación en el desarrollo de una parte de la aplicación móvil, reforcé y actualicé conocimientos sobre frameworks de desarrollo, manejo de estados, navegación y buenas prácticas en la arquitectura de aplicaciones móviles. Estas habilidades son clave para mi formación profesional y la ejecución exitosa de proyectos de software. <br><br> 3. Aranda Vallejos, Oscar Gabriel <br>*TB1*<br>  Participé en el proceso del eventstorming, actualizando los conceptos y técnicas aprendidas del Domain Driven Design.<br>*TP*<br>Durante la implementación del backend para la administración de personal y la gestión de bovinos, establos y vacunas, actualicé y profundicé conocimientos sobre REST APIs, diseño de bases de datos y operaciones CRUD. Esta experiencia contribuyó directamente a mi desarrollo como profesional en soluciones backend. <br><br>4. Ticona Panduro, Estrella del Pilar<br>*TB1*<br> A través del To Be Scenario Mapping, User Stories, Impact Mapping y Product Backlog, reforcé conocimientos en metodologías ágiles y diseño centrado en el usuario. Además, llevé a cabo una serie de actividades clave que reflejan el compromiso con la actualización de conocimientos y el aprendizaje continuo. Estas acciones incluyeron secciones para el diseño de entrevistas, una entrevista del segmento 1 (productores ganadores independientes), To be Scenario Mapping, User Stories, Impact Mapping, Product Backlog, Bounded Context Application Layer, Infrastructure Layer, Domain Layer Class Diagrams y Database Design Diagram para Staff administration. De esta manera, todo este proceso me permitió actualizar conocimientos esenciales para mi crecimiento profesional, especialmente en metodologías ágiles, diseño centrado en el usuario y arquitectura de software.<br>*TP*<br> En este entregable, realicé el diseño de la landing page con ayuda del Figma y de igual manera con los wireframe y mockups y asi tener un prototipo de nuestra aplicación. De esta manera actualicé conceptos esenciales sobre experiencia de usuario, jerarquía visual, prototipado digital y herramientas modernas de diseño. <br><br>5. Durand Vera, Gianfranco Angel: <br>*TB1*<br> Realicé las capas de Domain e Interface, además de el Component Level Diagram, para el Bounded Context Staff Administration, asi como entrevistas hacia el segundo segmento.<br>*TP*<br>Al implementar la gestión de identidades y accesos (IAM) en el backend, desplegar el sistema en Azure y desarrollar parte de la landing page con soporte multilenguaje (i18n), adquirí conocimientos nuevos sobre seguridad, infraestructura en la nube y diseño accesible para usuarios de distintos idiomas. <br><br> 6. Miranda Sinarahua, Piero Stephano<br>*TB1*<br> Estuve encargado de realizar secciones dentro del Needfinding, entre estos estan el desarrollo de los user persona, task matrix, journey mapping, empathy mapping y as is scenario mapping. Al igual que reuní informacion clave dentro de una entrevista realizada, lo cual sirvió para obtener datos que serían útiles durante el proceso de desarrollo.<br>*TP*<br>En la implementación del backend para la gestión de campañas, actualicé conocimientos sobre servicios web y patrones de desarrollo escalables. Esta experiencia me permitió afianzar habilidades esenciales para desarrollar soluciones de software sólidas y eficientes. <br><br> | TB1<br>  A lo largo del desarrollo del proyecto de soluciones de software, los integrantes del equipo demostraron un fuerte compromiso con la actualización de conocimientos y la aplicación de metodologías modernas, lo cual contribuyó significativamente a su crecimiento profesional. Se evidenció una sólida comprensión y uso de principios del Domain-Driven Design, diseño centrado en el usuario, y metodologías ágiles, mediante la elaboración de artefactos clave como diagramas C4, mapeos de escenarios, backlog de producto, y diseño de base de datos por contexto. Las contribuciones individuales, desde la investigación de usuarios hasta el diseño de arquitectura por capas, muestran un trabajo colaborativo bien fundamentado y orientado a las mejores prácticas del desarrollo de software actual. Esto no solo enriqueció el proyecto, sino que también fortaleció las competencias técnicas y analíticas de cada miembro del equipo. <br><br> TP<br> Como equipo, logramos identificar áreas clave de conocimiento que debíamos reforzar para llevar a cabo las responsabilidades asignadas. Este proyecto nos motivó a actualizar conceptos relacionados con arquitectura de software, diseño UI/UX, frameworks móviles, integración de servicios backend y despliegue en la nube. Gracias a ello, fortaleceremos nuestras competencias profesionales, ya que este conocimiento será fundamental no solo para completar la aplicación, sino también para abordar proyectos futuros con mayor seguridad técnica y claridad metodológica. |  
+| Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software |  1. Gómez Vallejos, Sergio André<br>*TB1*<br> Para cada sección del trabajo investigué nuevas metodologías de análisis competitivo, bases de Domain-Driven Design, y enfoques de diseño de bases de datos adaptados a contextos delimitados. Utilicé documentación especializada, artículos académicos y experiencias de la industria como base para mis decisiones de diseño.<br>*TP*<br>Durante el desarrollo del Sprint Backlog y mi participación en la implementación de una parte de la aplicación móvil, comprendí que el aprendizaje permanente es esencial para adaptarse a nuevas metodologías ágiles y tecnologías de desarrollo móvil. <br><br> 2. Rojas Velasquez, Maycol Jhordan<br>*TB1*<br> Desarrollé los temas alcanzados en los ciclos anteriores, lo que me permitió adquirir conocimientos sólidos sobre el tema y realizarlos correctamente.<br>*TP*<br>Al participar en el desarrollo de una parte de la aplicación móvil, reconocí la importancia de mantenerme en constante aprendizaje para estar alineado con las demandas tecnológicas actuales. La necesidad de investigar nuevas herramientas y adaptarme a las buenas prácticas de desarrollo móvil reafirmó mi compromiso con la formación continua como parte fundamental de mi desarrollo profesional. <br><br> 3. Aranda Vallejos, Oscar Gabriel <br>*TB1*<br> Participé en el proceso del eventstorming, actualizando los conceptos y técnicas aprendidas del Domain Driven Design.<br>*TP*<br>En la implementación del backend para la administración del staff, bovinos, establos y vacunas, me enfrenté a retos que exigieron ampliar mis conocimientos sobre arquitecturas REST, control de datos y buenas prácticas de seguridad. Esta experiencia me permitió valorar la importancia de actualizar constantemente mis competencias técnicas para enfrentar con solidez los cambios y desafíos propios del desarrollo de software. <br><br>4. Ticona Panduro, Estrella del Pilar<br>*TB1*<br> Reconocí la necesidad del aprendizaje permanente al enfrentar retos que exigieron investigar nuevas herramientas y enfoques, como la validación de usuarios, metodologías ágiles y principios de diseño de software moderno. La evolución constante del proyecto me impulsó a seguir aprendiendo para tomar mejores decisiones técnicas y aportar soluciones más efectivas y alineadas con las necesidades del usuario. A lo largo del proyecto confirmé que el aprendizaje permanente es fundamental en el desarrollo de software, ya que cada etapa presentó nuevos desafíos que me motivaron a investigar, adaptarme y mejorar. Este proceso me permitió evolucionar como profesional comprometido con la mejora continua y con la entrega de soluciones efectivas.<br>*TP1*<br> En este entregable, entendi la importancia de optimizar tiempo, como por ejemplo definir las librerias en Figma y asi establecer colores a varios cuadros al mismo tiempo<br>*TP*<br>Al asumir responsabilidades en el diseño de mockups, wireflows, prototipos y la interfaz de usuario para la aplicación móvil, entendí que el aprendizaje continuo es clave para brindar soluciones visuales efectivas y centradas en el usuario. La necesidad de dominar herramientas de diseño actualizadas y conceptos de experiencia de usuario me motivó a seguir explorando y aprendiendo más allá de los conocimientos adquiridos en clase. <br><br> 5. Durand Vera, Gianfranco Angel<br>*TB1*<br> Durante esta entrega, comprendí la importancia del aprendizaje permanente en mi desarrollo profesional y en la creación de soluciones de software efectivas. Al desarrollar declaraciones de problemas y suposiciones bajo Lean UX, reforcé mi compromiso con la actualización constante de conocimientos para garantizar que cada proyecto se ejecute con la máxima eficiencia y calidad.<br>*TP*<br>Durante la implementación de la autenticación (IAM), el despliegue del backend en Azure y el desarrollo de la landing page, enfrenté varios desafíos técnicos que requirieron investigación y actualización constante. Este proceso me enseñó que el aprendizaje permanente no solo mejora mis habilidades, sino que también es vital para mantenerme competitivo en un entorno tecnológico que cambia rápidamente. <br><br> 6. Miranda Sinarahua, Piero Stephano<br>*TB1*<br> Tomé en cuenta la importancia de adquirir e implementar nuevos conocimientos con el fin de lograr un desarrollo superior dentro de las tareas asignadas.<br>*TP*<br>Mi trabajo en la implementación del backend para la gestión de campañas me demostró que la solución de problemas técnicos exige una disposición constante al aprendizaje. Explorar nuevos enfoques, optimizar consultas y estructurar datos adecuadamente fue posible gracias a una actitud abierta hacia el conocimiento, que considero indispensable para seguir creciendo profesionalmente en el campo del desarrollo de software. <br><br> | TB1<br> El equipo demostró una clara conciencia sobre la importancia del aprendizaje permanente como pilar fundamental para el desarrollo profesional y la ejecución efectiva de proyectos en soluciones de software. A través de la investigación constante, la aplicación de nuevas metodologías y la adaptación a desafíos técnicos, cada integrante fortaleció sus competencias y mostró un compromiso genuino con la mejora continua. La necesidad de mantenerse actualizado frente a las exigencias del sector tecnológico fue reconocida y asumida con responsabilidad, permitiendo no solo el cumplimiento exitoso de sus tareas, sino también una evolución profesional sostenible y alineada con las mejores prácticas de la industria. <br><br> TP<br> Durante el desarrollo del proyecto, comprendimos que la ingeniería de software es un campo en constante evolución. La necesidad de aprender nuevas herramientas, frameworks, lenguajes y enfoques fue evidente en cada etapa del trabajo. Como equipo, reconocemos que la mejora continua será indispensable para adaptarnos a los cambios tecnológicos y así poder enfrentar proyectos de mayor complejidad. Esta experiencia nos ha demostrado que el aprendizaje permanente no es una opción, sino una necesidad para mantenernos competitivos y eficientes en nuestra carrera profesional. |
 
 
 
@@ -253,9 +315,8 @@ Nos esforzamos por ofrecer una plataforma integral que empodere a los ganaderos 
 | [![Captura-de-pantalla-2024-09-08-151747.png](https://i.postimg.cc/6qRCcvNF/Captura-de-pantalla-2024-09-08-151747.png)](https://postimg.cc/kRJVXDGy) |Aranda Vallejos, Oscar Gabriel - U202218167 <br> Tengo 20 años y soy estudiante de la carrera de Ingeniería de Software, poseo conocimientos intermedios en Unity, C++, Java, Spring Boot y diseño web. Me considero una persona responsable y perseverante. Siempre estoy dispuesto a aprender nuevos conceptos y elegí esta carrera porque me apasiona el desarrollo de software y la posibilidad de crear soluciones que impacten positivamente en la sociedad. |
 |<img src="https://hackmd.io/_uploads/B1F_iuso0.jpg" alt="yo-3" style="width: 600px ; height: 200px;">|Maycol Jhordan Rojas Velasquez – Ingeniería de Software – u202219984<br>Elegí la carrera de Ingeniería de Software debido a mi gusto por la innovación y la implementación de la tecnología en cualquier rubro  social, de una manera creativa y en todos los aspectos. Me considero una persona creativa, en busca de ideas, estrategias con mente nueva. También me gusta escuchar ideas de mi equipo, dar ideas de mejora, evaluar las ventajas y desventajas . Además, tengo conocimientos de programación en C + +, HTML, Python,Angular,Backend en Java. Además, Tengo un enfoque responsable y dedicado mediante un aprendizaje rápido así puedo ayudar a mis compañeros en sus dudas. Por otro lado, mis hobbies son ver series, jugar , escuchar música, nadar y  manejar.|
 | <img src="./assets/estrella.jpeg">|Ticona Panduro, Estrella del Pilar - U202210659  <br> actualmente estudio la carrera de Ingeniería de Software en UPC. Opté por estudiar esta carrera porque me interesa programar y crear diferentes aplicativos o programas y emplearlo en la salud. En mis tiempos libres me gusta ver series o películas. Mi compromiso es aportar ideas innovadoras a lo largo del curso, en especial en las tareas en equipo. Mis habilidades son tener una actitud positiva, entusiasta y responsable. | 
-| <img src="assets/franco.jpg" style="width: 600px ; height: 200px;" > | Durand Vera, Gianfranco Angel - U20201f640 <br> Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, actualmente me encuentro en el septimo ciclo, escogí esta carrera porque me gusta mucho la programación. Tengo experiencia en lenguajes de programación como C#, Python, Kotlin y TypeScript.|
-|![Piero](assets/piero.jpg)| Miranda Sinarahua, Piero Stephano - U20181g752 <br> Estudiante de la carrera de Ingeniería de Software. Considero que soy una persona responsable y que puedo aportar al equipo en cualquier aspecto que se requiera. De igual manera, siento que los conocimientos que he ido adquiriendo en ciclos anteriores serán de gran ayuda para llevar a cabo el presente trabajo. | 
-
+| <img src="assets/franco.jpg" > | Durand Vera, Gianfranco Angel - U20201f640 <br> Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, actualmente me encuentro en el septimo ciclo, escogí esta carrera porque me gusta mucho la programación. Tengo experiencia en lenguajes de programación como C#, Python, Kotlin y TypeScript.|
+|![Piero]()| Miranda Sinarahua, Piero Stephano - U20181g752 <br> | 
 
 ## 1.2. **Solution Profile**
 
@@ -300,6 +361,7 @@ Mediante la técnica de **“5W's & 2H’s”**, hemos identificado los antecede
 #### **What? (¿Qué?)**
 
 El sector ganadero en Perú enfrenta desafíos significativos relacionados con la gestión del ganado, la salud, la alimentación, la reproducción y la producción de los animales. Sin embargo, la falta de herramientas tecnológicas adecuadas ha dificultado una gestión eficiente. Los ganaderos, especialmente los pequeños productores, carecen de acceso a sistemas que permitan un seguimiento detallado de sus animales y una toma de decisiones informada, lo que reduce su capacidad para optimizar operaciones y mejorar los ingresos.
+
 
 #### **When? (¿Cuándo?)**
 
@@ -845,26 +907,19 @@ Las User Stories representan una herramienta fundamental dentro de las metodolog
 |TS008|API para Asociar Empleados a Campaña|Como desarrollador, necesito un endpoint para asociar empleados a campañas, permitiendo la asignación de personal a cada campaña desde la aplicación.|<p>- **E01:  Asociación exitosa**<br>  **Dado que** el endpoint /campanas/{id}/empleados está disponible.<br>  **Cuando** se envía una solicitud POST con los datos de un empleado válido para la campaña seleccionada.<br>  **Entonces** se recibe respuesta 201 (Created) confirmando la asociación.</p><p>- **E02: Error al asociar**<br>  **Dado que** el endpoint /campanas/{id}/empleados está disponible.<br>  **Cuando** se envía una solicitud POST con un empleado inválido.<br>  **Entonces** se recibe respuesta 400 (Bad Request) con el mensaje de error correspondiente.</p><p></p>|EP003|
 |TS009|API para Gestión de Campañas|Como desarrollador, necesito implementar endpoints que permitan editar y eliminar campañas, facilitando su gestión integral desde la plataforma.|<p>- **E01: Edición exitosa**<br>  **Dado que** el endpoint /campanas/{id} está disponible.<br>  **Cuando** se envía una solicitud PUT con información válida para actualizar la campaña.<br>  **Entonces** se recibe respuesta 200 (OK) con la campaña actualizada.</p><p>- **E02  Error al editar campaña**<br>  **Dado que** el endpoint /campanas/{id} está disponible.<br>  **Cuando** se envía una solicitud PUT con datos inválidos.<br>  **Entonces** se recibe respuesta 400 (Bad Request) con un mensaje de error.</p><p>- **E03  Eliminación exitosa**<br>  **Dado que** el endpoint /campanas/{id} está disponible.<br>  **Cuando** se envía una solicitud DELETE para eliminar la campaña.<br>  **Entonces** se recibe respuesta 200 (OK) con un mensaje confirmando la eliminación.</p>|EP003|
 |Epic ID|Título|Descripción|||
-|EP0044|Contacto de Veterinario|Como usuario, quiero tener acceso al registro y contacto de veterinarios para poder solicitar asistencia sanitaria cuando sea necesario.|||
+|EP004|Registrar Personal|Como empresario ganadero, quiero poder registrar y gestionar a mis empleados para organizar eficazmente los recursos humanos de mi empresa,|||
 |Story ID|Título|Descripción|Criterios de Aceptación|Relacionado con (Epic ID)|
-|US010|Registrar Veterinario |Como usuario, quiero que el sistema me permita registrar veterinarios (a través del administrador) para que los ganaderos puedan contactarlos cuando sea necesario.|<p>- **E01: Registro exitoso de veterinario**<br>  **Dado que:** Un veterinario es registrado por un usuario administrador.<br>  **Cuando:** Se completa el proceso de registro y se envía la confirmación.<br>  **Entonces:** El veterinario queda registrado y aparece en la lista de contacto para ganaderos.</p><p></p>|EP004|
-|US011|Búsqueda de Veterinarios|Como usuario, quiero acceder a un menú de búsqueda de veterinarios para solicitar asistencia cuando mis animales lo requieran, realizando incluso el proceso de pago para la consulta|<p>- **E01: Búsqueda y solicitud de visita**<br>  **Dado que:** El usuario autenticado y en el portal de búsqueda de veterinarios.<br>  **Cuando:** Realiza una búsqueda basada en sus preferencias y selecciona un veterinario.<br>  **Entonces:** Procede al pago correspondiente y se registra la solicitud de visita.</p><p></p>|EP004|
-|TS010|API para Registro de Veterinarios|Como desarrollador, necesito exponer un endpoint que permita registrar veterinarios en la aplicación, para que luego puedan ser contactados por los ganaderos.|<p>- **E01: Registro exitoso**<br>  **Dado que** el endpoint /veterinarios está disponible.<br>  **Cuando** se envía una solicitud POST con datos válidos para el veterinario.<br>  **Entonces** se recibe respuesta 201 (Created) con el registro del veterinario.</p><p>- **E02:  Error en el registro**<br>  **Dado que** el endpoint /veterinarios está disponible.<br>  **Cuando** se envía una solicitud POST con datos incompletos o inválidos.<br>  **Entonces**  se recibe respuesta 400 (Bad Request) con el mensaje de error correspondiente.</p><p></p>|EP004|
-|TS011|API para Búsqueda de Veterinarios|Como desarrollador, necesito un endpoint que permita buscar veterinarios mediante criterios específicos, para brindar opciones de contacto efectivas.|<p>- **E01: Búsqueda exitosa**<br>  **Dado que**  el endpoint /veterinarios está disponible.<br>  **Cuando**  se realiza una solicitud GET con parámetros válidos.<br>  **Entonces**  se recibe respuesta 200 (OK) con una lista de veterinarios coincidentes.</p><p>- **E02: Búsqueda sin resultados**<br>  **Dado que** el endpoint /veterinarios está disponible.<br>  **Cuando** se realiza una solicitud GET con parámetros que no arrojan coincidencias.<br>  **Entonces** se recibe respuesta 200 con un mensaje indicando que no se encontraron registros.</p><p></p>|EP004|
+|US010|Registro de Personal|Como empresario ganadero, quiero poder registrar a mis empleados para organizar y gestionar de forma efectiva los recursos humanos de mi empresa.|<p>- **E01: Registro completo de empleado**<br>  **Dado que:** El empresario autenticado.<br>  **Cuando:** Ingresa correctamente todos los datos requeridos para un empleado.<br>  **Entonces:** El sistema registra al empleado y muestra una confirmación exitosa.</p><p>- **E02: Registro incompleto o incorrecto**<br>  **Dado que:** El empresario autenticado.<br>  **Cuando:** Intenta registrar a un empleado sin ingresar toda la información esencial.<br>  **Entonces:** Se muestra un mensaje de error indicando la carencia de información requerida</p>|EP004|
+|US011|Búsqueda de Personal|Como empresario ganadero, quiero buscar entre los empleados registrados para localizar y, de ser necesario, gestionar la información de un empleado en específico.|**E01: Búsqueda exitosa**<br>**Dado que:** El empresario con sesión iniciada.<br>**Cuando:** Realiza la búsqueda utilizando filtros (por nombre, cargo, etc.).<br>**Entonces:** Se muestra el empleado que cumple con los criterios de búsqueda.|EP004|
+|US012|Gestión de Personal|Como empresario ganadero, necesito gestionar la plantilla de empleados, pudiendo agregar o eliminar registros para mantener la base de datos actualizada.|<p>- **E01: Agregar y eliminar empleados**<br>  **Dado que:** El empresario autenticado y accediendo al módulo de gestión de personal.<br>  **Cuando:** Realiza las operaciones de agregar y/o eliminar empleados.<br>  **Entonces:** El sistema confirma con un mensaje de éxito cada uno de los cambios efectuados.</p><p></p>|EP004|
+|TS010|API para Registro de Empleados|Como desarrollador, necesito crear un endpoint para registrar empleados, asegurando que la información de cada uno se almacene correctamente y se confirme la creación.|<p>- **E01: Registro exitoso**<br>  **Dado que** el endpoint /empleados está disponible.<br>  **Cuando** se envía una solicitud POST con datos válidos para el empleado.<br>  **Entonces** se recibe respuesta 201 (Created) con el registro del empleado.</p><p>- **E02: Error al registrar empleado**<br>  **Dado que** el endpoint /empleados está disponible.<br>  **Cuando** se envía una solicitud POST con datos incompletos o inválidos.<br>  **Entonces** se recibe respuesta 400 (Bad Request) con el mensaje de error.</p><p></p>|EP004|
+|TS011|API para Búsqueda de Empleados|Como desarrollador, necesito implementar un endpoint que permita buscar empleados utilizando filtros específicos, para facilitar la administración de los recursos humanos.|<p>- **E01: Búsqueda exitosa**<br>  **Dado que** el endpoint /empleados está disponible.<br>  **Cuando** se realiza una solicitud GET con parámetros válidos.<br>  **Entonces** se recibe respuesta 200 (OK) y se devuelve una lista de empleados que cumplen los criterios.</p><p>- **E02: Búsqueda sin resultados**<br>  **Dado que** el endpoint /empleados está disponible.<br>  **Cuando** se realiza una solicitud GET con parámetros que no arrojan resultados.<br>  **Entonces** se recibe respuesta 200 con un mensaje informando que no se encontraron empleados.</p><p></p>|EP004|
+|TS012|API para Gestión de Empleados|Como desarrollador, necesito implementar funcionalidades para editar y eliminar empleados mediante la API, permitiendo que el empresario administre correctamente su plantilla.|<p>- **E01: Edición exitosa**<br>  **Dado que** el endpoint /empleados/{id} está disponible y existe el empleado.<br>  **Cuando** se envía una solicitud PUT con información válida para actualizar los datos del empleado.<br>  **Entonces** se recibe respuesta 200 (OK) con el registro actualizado.</p><p>- **E02 : Error al editar empleado**<br>  **Dado que** el endpoint /empleados/{id} está disponible.<br>  **Cuando** se envía una solicitud PUT con datos inválidos o incompletos.<br>  **Entonces** se recibe respuesta 400 (Bad Request) con el mensaje de error correspondiente.</p><p>- **E03: Eliminación exitosa**<br>  **Dado que** el endpoint /empleados/{id} está disponible y existe el empleado a eliminar.<br>  **Cuando** se envía una solicitud DELETE.<br>  **Entonces** se recibe respuesta 200 (OK) confirmando la eliminación con un mensaje de éxito.</p><p></p>|EP004|
 |Epic ID|Título|Descripción|||
-|EP005|Registrar Personal|Como empresario ganadero, quiero poder registrar y gestionar a mis empleados para organizar eficazmente los recursos humanos de mi empresa,|||
+|EP005|Informarse sobre el Producto|Como visitante, quiero explorar la Landing Page de la aplicación para conocer sus funcionalidades y evaluar si satisface mis necesidades.|||
 |Story ID|Título|Descripción|Criterios de Aceptación|Relacionado con (Epic ID)|
-|US012|Registro de Personal|Como empresario ganadero, quiero poder registrar a mis empleados para organizar y gestionar de forma efectiva los recursos humanos de mi empresa.|<p>- **E01: Registro completo de empleado**<br>  **Dado que:** El empresario autenticado.<br>  **Cuando:** Ingresa correctamente todos los datos requeridos para un empleado.<br>  **Entonces:** El sistema registra al empleado y muestra una confirmación exitosa.</p><p>- **E02: Registro incompleto o incorrecto**<br>  **Dado que:** El empresario autenticado.<br>  **Cuando:** Intenta registrar a un empleado sin ingresar toda la información esencial.<br>  **Entonces:** Se muestra un mensaje de error indicando la carencia de información requerida</p>|EP005|
-|US013|Búsqueda de Personal|Como empresario ganadero, quiero buscar entre los empleados registrados para localizar y, de ser necesario, gestionar la información de un empleado en específico.|**E01: Búsqueda exitosa**<br>**Dado que:** El empresario con sesión iniciada.<br>**Cuando:** Realiza la búsqueda utilizando filtros (por nombre, cargo, etc.).<br>**Entonces:** Se muestra el empleado que cumple con los criterios de búsqueda.|EP005|
-|US014|Gestión de Personal|Como empresario ganadero, necesito gestionar la plantilla de empleados, pudiendo agregar o eliminar registros para mantener la base de datos actualizada.|<p>- **E01: Agregar y eliminar empleados**<br>  **Dado que:** El empresario autenticado y accediendo al módulo de gestión de personal.<br>  **Cuando:** Realiza las operaciones de agregar y/o eliminar empleados.<br>  **Entonces:** El sistema confirma con un mensaje de éxito cada uno de los cambios efectuados.</p><p></p>|EP005|
-|TS012|API para Registro de Empleados|Como desarrollador, necesito crear un endpoint para registrar empleados, asegurando que la información de cada uno se almacene correctamente y se confirme la creación.|<p>- **E01: Registro exitoso**<br>  **Dado que** el endpoint /empleados está disponible.<br>  **Cuando** se envía una solicitud POST con datos válidos para el empleado.<br>  **Entonces** se recibe respuesta 201 (Created) con el registro del empleado.</p><p>- **E02: Error al registrar empleado**<br>  **Dado que** el endpoint /empleados está disponible.<br>  **Cuando** se envía una solicitud POST con datos incompletos o inválidos.<br>  **Entonces** se recibe respuesta 400 (Bad Request) con el mensaje de error.</p><p></p>|EP005|
-|TS013|API para Búsqueda de Empleados|Como desarrollador, necesito implementar un endpoint que permita buscar empleados utilizando filtros específicos, para facilitar la administración de los recursos humanos.|<p>- **E01: Búsqueda exitosa**<br>  **Dado que** el endpoint /empleados está disponible.<br>  **Cuando** se realiza una solicitud GET con parámetros válidos.<br>  **Entonces** se recibe respuesta 200 (OK) y se devuelve una lista de empleados que cumplen los criterios.</p><p>- **E02: Búsqueda sin resultados**<br>  **Dado que** el endpoint /empleados está disponible.<br>  **Cuando** se realiza una solicitud GET con parámetros que no arrojan resultados.<br>  **Entonces** se recibe respuesta 200 con un mensaje informando que no se encontraron empleados.</p><p></p>|EP005|
-|TS014|API para Gestión de Empleados|Como desarrollador, necesito implementar funcionalidades para editar y eliminar empleados mediante la API, permitiendo que el empresario administre correctamente su plantilla.|<p>- **E01: Edición exitosa**<br>  **Dado que** el endpoint /empleados/{id} está disponible y existe el empleado.<br>  **Cuando** se envía una solicitud PUT con información válida para actualizar los datos del empleado.<br>  **Entonces** se recibe respuesta 200 (OK) con el registro actualizado.</p><p>- **E02 : Error al editar empleado**<br>  **Dado que** el endpoint /empleados/{id} está disponible.<br>  **Cuando** se envía una solicitud PUT con datos inválidos o incompletos.<br>  **Entonces** se recibe respuesta 400 (Bad Request) con el mensaje de error correspondiente.</p><p>- **E03: Eliminación exitosa**<br>  **Dado que** el endpoint /empleados/{id} está disponible y existe el empleado a eliminar.<br>  **Cuando** se envía una solicitud DELETE.<br>  **Entonces** se recibe respuesta 200 (OK) confirmando la eliminación con un mensaje de éxito.</p><p></p>|EP005|
-|Epic ID|Título|Descripción|||
-|EP006|Informarse sobre el Producto|Como visitante, quiero explorar la Landing Page de la aplicación para conocer sus funcionalidades y evaluar si satisface mis necesidades.|||
-|Story ID|Título|Descripción|Criterios de Aceptación|Relacionado con (Epic ID)|
-|US015|Explorar la Landing Page|<p>Como visitante, quiero explorar la Landing Page de la aplicación para conocer sus funcionalidades y determinar si satisface mis necesidades.</p><p></p>|<p>- **E01: Sección “Quiénes Somos”**<br>  **Dado que:** El visitante accede a la Landing Page.<br>  **Cuando:** Navega a la sección “Quiénes Somos”.<br>  **Entonces:** Encuentra información detallada sobre la misión, visión y valores de la empresa.</p><p></p>|EP006|
-|US016|` `Explorar Secciones Informativas|<p>Como visitante, quiero explorar las secciones informativas (Quiénes Somos, Planes y Funciones) para entender completamente las características y beneficios de la aplicación.</p><p></p>|<p>- **E01: Navegación en secciones informativas**<br>  **Dado que:** El visitante ingresa a la Landing Page.<br>  **Cuando:** Navega por las secciones “Quiénes Somos”, “Planes” y “Funciones”.<br>  **Entonces:** Se le presenta información detallada y estructurada sobre la empresa, los distintos planes ofrecidos y las funcionalidades de la aplicación.</p><p></p>|EP006|
+|US015|Explorar la Landing Page|<p>Como visitante, quiero explorar la Landing Page de la aplicación para conocer sus funcionalidades y determinar si satisface mis necesidades.</p><p></p>|<p>- **E01: Sección “Quiénes Somos”**<br>  **Dado que:** El visitante accede a la Landing Page.<br>  **Cuando:** Navega a la sección “Quiénes Somos”.<br>  **Entonces:** Encuentra información detallada sobre la misión, visión y valores de la empresa.</p><p></p>|EP005|
+|US016|` `Explorar Secciones Informativas|<p>Como visitante, quiero explorar las secciones informativas (Quiénes Somos, Planes y Funciones) para entender completamente las características y beneficios de la aplicación.</p><p></p>|<p>- **E01: Navegación en secciones informativas**<br>  **Dado que:** El visitante ingresa a la Landing Page.<br>  **Cuando:** Navega por las secciones “Quiénes Somos”, “Planes” y “Funciones”.<br>  **Entonces:** Se le presenta información detallada y estructurada sobre la empresa, los distintos planes ofrecidos y las funcionalidades de la aplicación.</p><p></p>|EP005|
 
 
 
@@ -904,13 +959,10 @@ El Product Backlog es un elemento esencial en la gestión ágil de proyectos, ya
 |12|TS008|API para Asociar Empleados a Campaña|Como desarrollador, necesito un endpoint para asociar empleados a campañas, permitiendo la asignación de personal a cada campaña desde la aplicación.|2|
 |13|US005|Buscar Información de Bovinos|Como usuario, quiero poder buscar animales registrados para acceder de forma rápida y ordenada a la información necesaria.|2|
 |14|TS009|API para Gestión de Campañas|Como desarrollador, necesito implementar endpoints que permitan editar y eliminar campañas, facilitando su gestión integral desde la plataforma.|2|
-|15|TS010|API para Registro de Veterinarios|Como desarrollador, necesito exponer un endpoint que permita registrar veterinarios en la aplicación, para que luego puedan ser contactados por los ganaderos.|2|
-|16|US006|Actualizar Información de Bovinos|Como usuario, quiero gestionar la información de los animales registrados para mantener la base de datos actualizada y precisa.|1|
-|17|TS011|API para Búsqueda de Veterinarios|Como desarrollador, necesito un endpoint que permita buscar veterinarios mediante criterios específicos, para brindar opciones de contacto efectivas.|1|
-|18|TS012|API para Registro de Empleados|Como desarrollador, necesito crear un endpoint para registrar empleados, asegurando que la información de cada uno se almacene correctamente y se confirme la creación.|1|
-|19|US07|Crear Campaña para Engorde de Ganado|Como usuario de la plataforma, quiero crear una campaña para engordar el ganado asignado, definiendo parámetros como duración, objetivo y selección de animales o establos.|1|
-|20|TS013|API para Búsqueda de Empleados|Como desarrollador, necesito implementar un endpoint que permita buscar empleados utilizando filtros específicos, para facilitar la administración de los recursos humanos.|1|
-|21|TS014|API para Gestión de Empleados|Como desarrollador, necesito implementar funcionalidades para editar y eliminar empleados mediante la API, permitiendo que el empresario administre correctamente su plantilla.|1|
+|18|TS010|API para Registro de Empleados|Como desarrollador, necesito crear un endpoint para registrar empleados, asegurando que la información de cada uno se almacene correctamente y se confirme la creación.|1|
+|19|US007|Crear Campaña para Engorde de Ganado|Como usuario de la plataforma, quiero crear una campaña para engordar el ganado asignado, definiendo parámetros como duración, objetivo y selección de animales o establos.|1|
+|20|TS011|API para Búsqueda de Empleados|Como desarrollador, necesito implementar un endpoint que permita buscar empleados utilizando filtros específicos, para facilitar la administración de los recursos humanos.|1|
+|21|TS012|API para Gestión de Empleados|Como desarrollador, necesito implementar funcionalidades para editar y eliminar empleados mediante la API, permitiendo que el empresario administre correctamente su plantilla.|1|
 
 
 # 4. CAPÍTULO IV: Solution Software Design
@@ -926,7 +978,7 @@ En este apartado se documenta el proceso del Event Storming, una herramienta cla
 A continuación se detalla el proceso y la evolución final del event storming.
 
 #### Step 1: Unstructured exploration
-Primero tuvimos una lluvia de ideas en la cual nos propusimos identificar exhaustivamente todos los eventos que ocurrirán en nuestro aplicativo, para asegurarnos de abarcar una amplia gama de posibilidades y ofrecer una experiencia completa y satisfactoria a nuestros usuarios. Este paso se puede visualizar con mayor claridad en el siguiente enlace: 
+Primero tuvimos una lluvia de ideas en la cual nos propusimos identificar exhaustivamente todos los eventos que ocurrirán en nuestro aplicativo, para asegurarnos de abarcar una amplia gama de posibilidades y ofrecer una experiencia completa y satisfactoria a nuestros usuarios.
 
 A continuación, se presentan una serie de figuras que evidencian este proceso de exploración inicial.
 
@@ -1295,7 +1347,7 @@ La Interface Layer actúa como el punto de interacción entre los usuarios o sis
 
 
 
-### 4.2.2.3. Application Layer
+### 4.2.1.3. Application Layer
 
 La Application Layer coordina las operaciones del sistema relacionadas al ciclo de vida de las campañas, actuando como intermediario entre la lógica de negocio y las interfaces de usuario o servicios externos. Se encarga de orquestar casos de uso específicos como la creación, edición, activación o seguimiento de campañas, sin involucrar reglas del dominio directamente. Esta capa facilita la organización del flujo de trabajo y la separación de responsabilidades dentro del sistema.
 
@@ -1334,12 +1386,13 @@ El Component Level Diagram representa visualmente los principales componentes de
 
 
 ### 4.2.1.6. Bounded Context Software Architecture Code Level Diagrams
+
 #### 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams
 Este diagrama de clases detalla los elementos del Domain Layer para Campaign Management, modelando entidades, agregados, objetos de valor y sus relaciones. A través de esta representación, se puede visualizar cómo se estructuran los conceptos principales del dominio y qué responsabilidades tiene cada clase dentro del modelo de negocio. Es esencial para alinear el diseño técnico con la lógica del dominio.
 
 ![Campaign Management Layer Class Diagram](./assets/DiagramaClasesCampaign.png)
 
-#### 2.6.1.6.2. Bounded Context Database Design Diagram
+#### 4.2.1.6.2. Bounded Context Database Design Diagram
 El Database Design Diagram ilustra la estructura de la base de datos correspondiente al contexto de campañas. Incluye tablas, relaciones, claves primarias y foráneas, reflejando cómo se almacenan los datos del dominio. Este diseño garantiza una persistencia coherente con la lógica del sistema, facilitando tanto el acceso eficiente a la información como la integridad de los datos a lo largo de las operaciones del sistema.
 
 <img src="./assets/campaign_db.png" alt="db_campaign_diagram" >
@@ -1539,6 +1592,288 @@ El Database Design Diagram de Staff Administration presenta la estructura de la 
 |email\_address|Dirección de correo electrónico del usuario.|
 
 
+# Capítulo V: Solution UI/UX Design
+
+## 5.1. Product design
+
+### 5.1.1. Style Guidelines
+
+Las Style Guidelines son esenciales para asegurar una comunicación coherente y profesional en todos los aspectos visuales y de diseño del proyecto, ya sea en medios impresos, digitales o cualquier otra plataforma de difusión. En esta sección, se establecerán las directrices que guiarán al equipo en la creación de VacApp. Estas pautas definirán elementos clave como la elección de colores, tipografía, estructura de documentos y otros aspectos visuales.
+Para el desarrollo de VacApp, utilizaremos Figma como herramienta principal para diseñar tanto la aplicación móvil como la landing page. En ambos casos, se implementará una paleta de colores basada en tonos verdes y cremas, evocando la naturaleza y transmitiendo la confianza asociada con una gestión responsable y sostenible del cuidado de animales. A continuación, se detalla cada uno de estos aspectos en profundidad.
+
+#### 5.1.1.1. General Style Guidelines
+
+
+**Branding**
+
+El branding de VacApp está diseñado para transmitir confianza, solidez y un compromiso con la sostenibilidad en la ganadería bovina. La identidad visual refleja una conexión directa con la naturaleza y la productividad del campo, utilizando elementos gráficos que representan el cuidado responsable del ganado. Se buscará una imagen fuerte y clara, que sea fácilmente reconocible por los productores y profesionales del sector
+
+**Typography**
+
+La tipografía elegida para VacApp es moderna y clara, con un enfoque en la legibilidad, especialmente en pantallas móviles. Se utilizará una fuente Rokkitt para los encabezados, destacando la jerarquía visual de la información, y una tipografía Mulish para el cuerpo de texto, lo que asegura una lectura fácil y cómoda durante el uso prolongado. La tipografía debe reflejar seriedad, sin perder cercanía ni accesibilidad.
+
+<img src="./assets/rokkitt.png" style="height: 400px">
+<img src="./assets/mulish.png" style="height: 400px">
+
+**Colors**
+
+La paleta de colores de VacApp está compuesta por tonos verdes y cremas, los cuales se seleccionaron para evocar la naturaleza y la confianza en la gestión sostenible de animales. Los verdes representan frescura, salud y sostenibilidad, mientras que los tonos crema refuerzan la sensación de conexión con la tierra y la tradición del campo. Estos colores se emplearán de manera estratégica para crear una interfaz armónica y accesible en dispositivos móviles.
+
+<img src="./assets/vacapp-colors.png" style="height: 400px">
+
+**Spacing**
+
+Se aplicará un espaciado adecuado en toda la interfaz para asegurar que los elementos no estén sobrecargados, garantizando una navegación fluida y cómoda. Los márgenes y los espacios entre los componentes estarán cuidadosamente diseñados para ofrecer un diseño equilibrado y organizado, lo que también facilitará la interacción en dispositivos móviles, donde la precisión es crucial.
+
+**Tono de Comunicación**
+
+El tono de comunicación de VacApp será informativo, respetuoso y cercano, con un enfoque que hable directamente al usuario del sector ganadero bovino. Utilizaremos un lenguaje claro y profesional, pero accesible, para transmitir confianza y conocimiento en temas relacionados con el manejo de ganado. El objetivo es que el usuario se sienta apoyado y bien informado, mientras mantiene la seriedad y la responsabilidad que caracteriza al sector.
+
+### 5.1.2. Information Architecture
+
+La arquitectura de información de VacApp está diseñada para facilitar una experiencia de uso fluida y natural, tanto en la aplicación móvil como en la Landing Page. Las decisiones tomadas buscan que los usuarios encuentren de manera rápida y sencilla las funciones clave de la plataforma. Se aplican principios de organización claros, etiquetas simples, sistemas de búsqueda eficientes y una navegación intuitiva.
+
+#### 5.1.2.1. Organization Systems
+
+Para VacApp, se han definido diferentes esquemas de organización según el tipo de contenido:
+
+- **Jerárquica (Visual Hierarchy):** Se aplica en la Landing Page y en la pantalla principal de la app, destacando las funciones más importantes como registro de ganado y control sanitario. Las acciones frecuentes se ubican en la parte superior o centradas.
+
+- **Secuencial (Step-by-step):** Utilizada en procesos como el registro de animales, guiando al usuario en pasos definidos.
+
+- **Por Tópicos:** En las secciones de información técnica, como manuales o ayudas, la organización se basa en temas relevantes (salud animal, nutrición, reproducción, etc.).
+
+- **Según Audiencia:** Algunas vistas como el panel administrativo o el perfil del veterinario muestran información personalizada, según el rol del usuario dentro del sistema.
+
+#### 5.1.2.2. Labelling Systems
+
+El sistema de etiquetado de VacApp prioriza la claridad y la economía del lenguaje. Las etiquetas han sido diseñadas con términos que el usuario del sector ganadero ya reconoce:
+
+- Se evita el uso de jergas técnicas excesivas. 
+- Las acciones se etiquetan con verbos directos como "Registrar", "Consultar", "Programar".
+- Las categorías principales usan términos como "Animales", "Citas", "Inventario", "Diagnósticos".
+- Se emplean iconos acompañantes para reforzar visualmente el significado de cada etiqueta.
+
+#### 5.1.2.3. SEO Tags and Meta Tags
+
+Para mejorar la visibilidad de VacApp en motores de búsqueda y en tiendas de aplicaciones, se han definido los siguientes valores de optimización:
+
+**Landing Page y Web App:**
+
+- **Title:** VacApp – Gestión inteligente para la ganadería bovina
+- **Meta Description:** Plataforma digital que optimiza el control sanitario, inventario y manejo del ganado bovino.
+- **Keywords:** ganadería, salud animal, veterinaria, bovino, control de ganado, app ganadera
+- **Author:** VacApp
+
+**App Store Optimization (ASO):**
+- **App Title:** VacApp 
+- **App Subtitle:** Manejo digital de tu ganado bovino
+- **App Keywords:** ganadería, bovinos, recetas, veterinarios, animales
+- **App Description:** VacApp es una aplicación móvil diseñada para modernizar y optimizar la gestión ganadera en el Perú. Pensada tanto para ganaderos independientes como para empresas del sector.
+
+#### 5.1.2.4. Searching Systems
+
+VacApp contará con sistemas de búsqueda contextual y filtros específicos según la sección:
+
+- Búsqueda global por nombre, código de animal o categoría.
+- Filtros personalizados por estado de salud, tipo de ganado, fechas de registro, entre otros.
+- Sugerencias automáticas mientras se escribe (auto-complete).
+- Resultados mostrados con etiquetas claras, iconos e información resumida (como nombre, fecha, categoría).
+
+#### 5.1.2.5. Navigation Systems
+
+La navegación de VacApp se basa en patrones comunes de apps móviles para reducir la curva de aprendizaje:
+
+- Navegación inferior (Bottom Navigation) con accesos rápidos a secciones clave: Inicio, Animales, Perfil, etc.
+- Menú hamburguesa con opciones complementarias como configuración, soporte y cerrar sesión.
+- Enlaces jerárquicos que permiten ir y volver entre secciones sin perder contexto.
+- Flujos de usuario optimizados: pasos guiados para tareas como registrar un animal.
+- Indicadores visuales (breadcrumbs, estados activos) para mantener claridad sobre la ubicación actual dentro de la app.
+
+### 5.1.3. Landing Page UI Design
+
+#### 5.1.3.1. Landing Page Wireframe
+
+**Landing Page Wireframe Desktop**
+
+<img src="./assets/Landing-wire.png" style="width: 400px">
+
+**Landing Page Wireframe Mobile**
+
+<img src="./assets/Landingm-wire.png" style="width: 400px">
+
+#### 5.1.3.2. Landing Page Mock-up
+
+**Landing Page Mock-up Desktop**
+
+<img src="./assets/Landing-mock.png" style="width: 400px">
+
+**Landing Page Mock-up Mobile**
+
+<img src="./assets/Landingm-mock.png" style="width: 400px">
+
+
+**FIGMA:https://www.figma.com/design/Ck5RdO3MzAm16SIReLDO15/Sin-t%C3%ADtulo?node-id=150-5796&t=hGN3YL7RfASQ5FFk-1**
+
+### 5.1.4. Mobile Applications UX/UI Design
+#### 5.1.4.1. Mobile Applications Wireframes
+
+**Inicio Sesion**
+
+<img src="./assets/sing-inw.png" style="width: 400px">
+
+**Registro**
+
+<img src="./assets/sing-upw.png" style="width: 400px">
+
+
+**Planes**
+
+<img src="./assets/planesw.png" style="width: 400px">
+
+**Home**
+
+<img src="./assets/homew.png" style="width: 400px">
+
+<img src="./assets/homew2.png" style="width: 400px">
+
+<img src="./assets/homew3.png" style="width: 400px">
+
+**Animals**
+
+<img src="./assets/animalw.png" style="width: 400px">
+
+<img src="./assets/animalwinfo.png" style="width: 400px">
+
+
+
+**Inventario**
+
+<img src="./assets/inventariow.png" style="width: 400px">
+
+<img src="./assets/inventariowinfo.png" style="width: 400px">
+
+**Campaña**
+
+<img src="./assets/organizationw.png" style="width: 400px">
+
+
+**vista de "Agregar Animal"**
+
+<img src="./assets/animalwadd.png" style="width: 400px">
+
+
+**vista de "Agregar Inventario"**
+
+<img src="./assets/productaddw.png" style="width: 400px">
+
+**vista de "Agregar Campaña"**
+
+<img src="./assets/campaniaaddw.png" style="width: 400px">
+
+#### 5.1.4.2. Mobile Applications Wireflow Diagrams
+
+**User Goal: Iniciar sesión y Registrarse:** 
+Este flujo guía al usuario desde la pantalla de bienvenida hacia las opciones de autenticación. 
+
+<img src="./assets/1w.png" style="width: 400px">
+
+
+
+**User Goal: Home y navegar por las secciones "Animals","Campaigns" e "Inventory"**
+
+Una vez autenticado, el usuario accede al home con accesos rápidos con el sidebar. Este wireflow muestra cómo el usuario puede visualizar las opciones "Animals", "CAmpaings e "inventory"
+
+<img src="./assets/2w.png" style="width: 400px">
+
+**User Goal: Registro de un nuevo dato ya sea "Animals","Campaigns" o "Inventory":** 
+
+Este flujo está diseñado para facilitar al agregar ya sea un bovino, una campaña o un producto de inventario.
+
+<img src="./assets/3w.png" style="width: 400px">
+
+#### 5.1.4.3. Mobile Applications Mock-ups
+**Inicio Sesion**
+
+<img src="./assets/singin.png" style="width: 400px">
+
+**Registro**
+
+<img src="./assets/singup.png" style="width: 400px">
+
+
+**Planes**
+
+<img src="./assets/planes.png" style="width: 400px">
+
+**Home**
+
+<img src="./assets/home.png" style="width: 400px">
+<img src="./assets/home2.png" style="width: 400px">
+<img src="./assets/home3.png" style="width: 400px">
+
+**Animals**
+
+<img src="./assets/animal.png" style="width: 400px">
+
+<img src="./assets/animalinfo.png" style="width: 400px">
+
+
+
+**Inventario**
+
+<img src="./assets/inventario.png" style="width: 400px">
+
+<img src="./assets/inventarioinfo.png" style="width: 400px">
+
+**Campaña**
+
+<img src="./assets/organization.png" style="width: 400px">
+
+
+**vista de "Agregar Animal"**
+
+<img src="./assets/animaladd.png" style="width: 400px">
+
+
+**vista de "Agregar Inventario"**
+
+<img src="./assets/productadd.png" style="width: 400px">
+
+
+**vista de "Agregar Campaña"**
+
+<img src="./assets/campaniaadd.png" style="width: 400px">
+
+
+#### 5.1.4.4. Mobile Applications User Flow Diagrams
+
+**User Goal: Iniciar sesión y Registrarse:** 
+Este flujo guía al usuario desde la pantalla de bienvenida hacia las opciones de autenticación. 
+
+<img src="./assets/1.png" style="width: 400px">
+
+**User Goal: Home y navegar por las secciones "Animals","Campaigns" e "Inventory"**
+Una vez autenticado, el usuario accede al home con accesos rápidos con el sidebar. Este wireflow muestra cómo el usuario puede visualizar las opciones "Animals", "CAmpaings e "inventory"
+
+<img src="./assets/2.png" style="width: 400px">
+
+**User Goal: Registro de un nuevo dato ya sea "Animals","Campaigns" o "Inventory":** 
+Este flujo está diseñado para facilitar al agregar ya sea un bovino, una campaña o un producto de inventario.
+
+<img src="./assets/3.png" style="width: 400px">
+
+
+
+#### 5.1.4.5. Mobile Applications Prototyping
+
+<img src="./assets/prototipo.png" style="width: 400px">
+
+**Video: https://youtu.be/aLAxsS7FKnE**
+
+**FIGMA: https://www.figma.com/design/Ck5RdO3MzAm16SIReLDO15/Sin-t%C3%ADtulo?node-id=150-5796&t=hGN3YL7RfASQ5FFk-1**
+
+
 # 6. CAPÍTULO VI: Product Implementation, Validation & Deployment
 En este apartado se resume todo el contenido recopilado, examinando los procedimientos a seguir y evaluando el estado emocional.
 
@@ -1558,6 +1893,10 @@ En la siguiente sección se detalla la ruta de acceso de cada uno de los product
 ![image](https://hackmd.io/_uploads/Hy8d2y7lR.png)
 * **Figma:** Herramienta colaborativa que permite elaborar wireframes y mockups.\
 ![image](https://hackmd.io/_uploads/BJ99okXeR.png)
+* **Azure:** Herramienta para subir nuestros servicios web en la nube.\
+[![Azure.jpg](https://i.postimg.cc/Mpjc355p/Azure.jpg)](https://postimg.cc/k2qXBxL0)
+
+
 ### 6.1.2. Source Code Management
 **Repositorio de la Landing Page:** 
 **Implementación de GitFlow:**
@@ -1594,8 +1933,57 @@ Adoptamos esta metodología para estructurar los mensajes de confirmación de ca
 
 ### 6.1.3. Source Code Style Guide & Conventions
 
+### HTML
+
+| Regla                                   | Ejemplo / Explicación                                                   |
+|----------------------------------------|--------------------------------------------------------------------------|
+| Etiquetas y atributos en minúsculas    | `<div class="container">`, `<img src="logo.png" alt="Logo">`           |
+| Atributos ordenados lógicamente        | `class`, `id`, `name`, `type`, `value`, etc.                           |
+| Uso de comillas dobles                 | `<input type="text" name="username">`                                  |
+| Indentación consistente (2 o 4 espacios) | No mezclar espacios con tabs                                            |
+
+---
+
+### CSS
+
+| Regla                                   | Ejemplo / Explicación                                                   |
+|----------------------------------------|--------------------------------------------------------------------------|
+| Nombres de clases en `kebab-case`      | `.main-header`, `.user-profile-card`                                   |
+| Propiedades en minúsculas y ordenadas  | `color: #333; font-size: 16px; margin-top: 20px;`                       |
+| Uso de comentarios                     | `/* Sección de estilos para el header */`                              |
+| Indentación consistente                | 2 o 4 espacios, no usar tabs                                            |
+
+---
+
+### JavaScript
+
+| Regla                                       | Ejemplo / Explicación                                                   |
+|--------------------------------------------|--------------------------------------------------------------------------|
+| Variables y funciones en `camelCase`       | `let userName = "Juan";`, `function getUserData() {}`                  |
+| Clases en `PascalCase`                     | `class UserProfile {}`                                                 |
+| Constantes en `UPPER_SNAKE_CASE`           | `const API_URL = "https://api.example.com";`                           |
+| Uso de `const` y `let`                     | Evitar `var`, usar `const` por defecto y `let` si se necesita mutabilidad |
+| Punto y coma al final de líneas            | `let nombre = "Carlos";`                                               |
+| Indentación consistente (2 o 4 espacios)   | Mantener el mismo estilo en todo el proyecto                           |
+
+---
+
+### Kotlin
+
+| Regla                                         | Ejemplo / Explicación                                                   |
+|----------------------------------------------|--------------------------------------------------------------------------|
+| Variables y funciones en `camelCase`         | `val userName = "Juan"`, `fun getUserData() {}`                         |
+| Clases y objetos en `PascalCase`             | `class UserProfile`, `object AppConfig`                                 |
+| Constantes en `UPPER_SNAKE_CASE`             | `const val MAX_USERS = 100`                                             |
+| Archivos nombrados igual que la clase        | `UserProfile.kt`                                                        |
+| Indentación con 4 espacios                   | No usar tabs                                                            |
+| Uso de `val` por defecto, `var` si mutable   | Promueve inmutabilidad                                                  |
+| Expresiones lambda con `it`                  | `users.filter { it.isActive }`                                          |
+
+
+
 ### 6.1.4. Software Deployment Configuration
-**Deploymen Landing Page:** 
+**Deployment Landing Page:** 
 En esta sección, detallamos el proceso de implementación de nuestra landing page en la plataforma de GitHub.
 
 1. Se crea un repositorio en GitHub para alojar el código de nuestra landing page.
@@ -1618,17 +2006,35 @@ En esta sección, detallamos el proceso de implementación de nuestra landing pa
 
 
 Este proceso garantiza el despliegue satisfactorio de nuestra landing page en la plataforma de Netlifly, siguiendo las especificaciones y requisitos de nuestro proyecto.
-**Enlace de la Landing Page: [vacapp-landing.netlify.app/](vacapp-landing.netlify.app/)**
+**Enlace de la Landing Page: https://vacapp-landing.netlify.app/**
 
-**Deploymen Landing Page:** 
+<br>
+**Deployment Backend:**
+En esta sección, detallamos el proceso de implementación de nuestro backend en la plataforma de Microsoft Azure.
+
+1. Se crea un servicio web alojado en azure y afiliado a un grupo de recursos determinado
+
+[![azure-app-service.jpg](https://i.postimg.cc/NMPBcqfq/azure-app-service.jpg)](https://postimg.cc/WFrQGykX)
+
+2. Con la herramienta Azure Tool Kit, un plugin disponible en los entornos de desarrollo de jetbrains, podemos habilitar una vista con los recursos y elementos creados en nuestra cuenta de Azure. Esto nos permite poder publicar el backend directamente al servicio en la nube de Azure.
+
+[![publicar-al-app-service.jpg](https://i.postimg.cc/SQMxhR8g/publicar-al-app-service.jpg)](https://postimg.cc/CdwgCFc8)
+
+3. Una vez realizado de manera satisfactoria este proceso, resolviendo errores y añadiendo configuraciones adicionales de ser requeridas, podremos confirmar que el enlace muestre correctamente los endpoints y observaremos nuestro backend desplegado en un browser predeterminado.
+
+[![swagger-deployed.png](https://i.postimg.cc/Sxs0m13m/swagger-deployed.png)](https://postimg.cc/SJw1rdmP)
+
+**Enlace del backend: https://vacappapi.azurewebsites.net/swagger/index.html** 
+
+
 
 ## 6.2. Landing Page, Services & Applications Implementation
 ### 6.2.1. Sprint 1
-Este informe documenta el progreso realizado durante la fase de definición de requisitos del proyecto, que incluye entrevistas con los interesados y creación de artefactos antes y después de la implementación de la aplicación web estática. Proporcionar una visión clara del avance y garantizar una comunicación efectiva entre el equipo de desarrollo y los interesados son los objetivos principales.
+Este informe documenta el progreso realizado durante la fase de definición de requisitos del proyecto, que incluye entrevistas con los interesados y creación de artefactos antes y después de la implementación de la aplicación mobile. Proporcionar una visión clara del avance y garantizar una comunicación efectiva entre el equipo de desarrollo y los interesados son los objetivos principales.
 
 Durante esta etapa, se realizaron extensas entrevistas con los interesados para comprender sus necesidades, expectativas y requisitos particulares para la aplicación. Las entrevistas proporcionaron información útil que ayudó a definir los requisitos del proyecto.
 
-Se realizaron actividades de creación de artefactos antes y después de la implementación de la aplicación web estática, además de entrevistas. Estos objetos fueron
+Se realizaron actividades de creación de artefactos antes y después de la implementación de la aplicación mobile, además de entrevistas. Estos objetos fueron:
 #### 6.2.1.1. Sprint Planning 1
 | Sprint # | Sprint 1  | 
 |--------------------|------------|
@@ -1638,12 +2044,12 @@ Se realizaron actividades de creación de artefactos antes y después de la impl
 | Location |  UPC - Monterrico |
 | Preparate by| Maycol Jhordan Rojas Velasquez | 
 |  Attendees (to planning meeting) | Gómez Vallejos Sergio André ,Aranda Vallejos, Oscar Gabriel ,Ticona Panduro, Estrella del Pilar ,Durand Vera, Gianfranco Angel, Miranda Sinarahua, Piero Stephano  | 
-| Sprint n-1 Review Summary | --- | 
-| Sprint Planning Background | Durante esta etapa, se llevó a cabo una exhaustiva verificación de la funcionalidad de la landing page diseñada para el proyecto. El objetivo principal fue asegurar que la landing page cumpla con los estándares de calidad y proporcionar una experiencia óptima para los visitantes. |
+| Sprint n-1 Review Summary | En resumen se desarrollaron avances en la landing page, backend y frontend mobile | 
+| Sprint Planning Background | Durante esta etapa, se llevó a cabo una exhaustiva verificación de la funcionalidad de la landing page diseñada para el proyecto. El objetivo principal fue asegurar que la landing page cumpla con los estándares de calidad y proporcionar una experiencia óptima para los visitantes. Asimismo, se realizó la primera implementación de la aplicación mobil y el despliegue del backend |
 | Sprint Goal & User Stories | 
-| Sprint 1 Goal | Desarrolar la funcionalidad de la página web con i18n. Se considerará que el objetivo del sprint se ha cumplido si todas las historias de usuario relacionadas con la landing page están implementadas y hecho con las entrevistas de segmentos objetivos.|  
-| Sprint Velocity | Se establece un Velocity de 20 Story Points para este Sprint. | 
-| Sum of Story Points | 20 Story Points | 
+| Sprint 1 Goal | Desarrolar la funcionalidad de la página web con i18n e implementar CRUD en el backend. Se considerará que el objetivo del sprint se ha cumplido si todas las historias de usuario relacionadas con la landing page están implementadas y si todas las historias de usuario relacionadas con la implementación de APIs para la gestión de una entidad están completadas en un 80%. |  
+| Sprint Velocity | Se establece un Velocity de 36 Story Points para este Sprint. | 
+| Sum of Story Points | 36 Story Points | 
 #### 6.2.1.2. Sprint Backlog 1
 
 <table align="center" border="1" width="90%" style="text-align:center">
@@ -1661,16 +2067,16 @@ Se realizaron actividades de creación de artefactos antes y después de la impl
     <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
   </tr>
   <tr>
-    <td>US001</td>
-    <td>Acceso a la sección de Resumen</td>
+    <td>TS015</td>
+    <td>Acceso a la sección de Home</td>
     <td>T01</td>
-    <td>Implementar acceso a la sección de Resumen</td>
+    <td>Implementar acceso a la sección de Home</td>
     <td>2</td>
     <td>Ticona Panduro, Estrella del Pilar </td>
     <td>Done</td>
  </tr>
  <tr>
-    <td>US002</td>
+    <td>TS016</td>
     <td>Acceso a la sección de Características</td>
     <td>T02</td>
     <td>Implementar acceso a la sección de Características</td>
@@ -1679,95 +2085,172 @@ Se realizaron actividades de creación de artefactos antes y después de la impl
     <td>Done</td>
  </tr>
  <tr>
-    <td>US003</td>
-    <td>Envío de Correos a los CEO de KingGroup</td>
-    <td>T03</td>
-    <td>Implementar envío de correos</td>
-    <td>2</td>
-    <td>Durand Vera, Gianfranco Angel </td>
-    <td>Done</td>
- </tr>
- <tr>
-    <td>US004</td>
+    <td>TS017</td>
     <td>Registro de Nuevos Usuarios</td>
-    <td>T04</td>
+    <td>T03</td>
     <td>Implementar registro de nuevos usuarios</td>
     <td>3</td>
     <td>Ticona Panduro, Estrella del Pilar </td>
     <td>Done</td>
  </tr>
  <tr>
-    <td>US005</td>
+    <td>TS018</td>
     <td>Información de Funcionalidades</td>
-    <td>T05</td>
+    <td>T04</td>
     <td>Implementar sección de funcionalidades</td>
     <td>2</td>
     <td>Durand Vera, Gianfranco Angel </td>
     <td>Done</td>
  </tr>
  <tr>
-    <td>US006</td>
+    <td>TS019</td>
     <td>Sector de Planes Disponibles</td>
-    <td>T06</td>
+    <td>T05</td>
     <td>Implementar sector de planes disponibles</td>
     <td>3</td>
     <td>Durand Vera, Gianfranco Angel </td>
     <td>Done</td>
  </tr>
  <tr>
-    <td>US007</td>
-    <td>Sector de Preguntas Frecuentes</td>
-    <td>T07</td>
-    <td>Implementar sector de preguntas frecuentes</td>
-    <td>2</td>
-    <td>Durand Vera, Gianfranco Angel </td>
-    <td>Done</td>
- </tr>
- <tr>
-    <td>US008</td>
-    <td>Conexión de King Group con la Aplicación</td>
-    <td>T08</td>
-    <td>Implementar conexión de King Group con la aplicación</td>
-    <td>3</td>
-    <td>Durand Vera, Gianfranco Angel </td>
-    <td>Done</td>
- </tr>
- <tr>
-    <td>US009</td>
-    <td>Conexión de Datos del Formulario a Firebase</td>
-    <td>T09</td>
-    <td>Implementar conexión de datos del formulario a Firebase</td>
-    <td>2</td>
-    <td>Ticona Panduro, Estrella del Pilar </td>
-    <td>Done</td>
- </tr>
-     <tr>
-    <td>US029</td>
+    <td>TS020</td>
     <td>Incluir Internacionalización (i18n)</td>
-    <td>T10</td>
+    <td>T06</td>
     <td>Implementar el cambio de idioma</td>
     <td>2</td>
     <td>Ticona Panduro, Estrella del Pilar </td>
     <td>Done</td>
  </tr>
+ <tr>
+    <td>TS001</td>
+    <td>Crear Vacuna vía API</td>
+    <td>T07</td>
+    <td>Implementar POST para vacunas</td>
+    <td>2</td>
+    <td>Aranda Vallejos, Oscar Gabriel </td>
+    <td>Done</td>
+ </tr>
+ <tr>
+    <td>TS002</td>
+    <td>API para Búsqueda de Vacunas</td>
+    <td>T08</td>
+    <td>Implementar GET para vacunas</td>
+    <td>2</td>
+    <td>Aranda Vallejos, Oscar Gabriel </td>
+    <td>Done</td>
+ </tr>
+ <tr>
+    <td>TS003</td>
+    <td>Api Para Gestión de vacunas</td>
+    <td>T09</td>
+    <td>Implementar PUT y DELETE para vacunas</td>
+    <td>3</td>
+    <td>Aranda Vallejos, Oscar Gabriel </td>
+    <td>Done</td>
+ </tr>
+ <tr>
+    <td>TS004</td>
+    <td>Api Para Registro de animales</td>
+    <td>T10</td>
+    <td>Implementar POST para animales</td>
+    <td>2</td>
+    <td>Aranda Vallejos, Oscar Gabriel </td>
+    <td>Done</td>
+ </tr>
+ <tr>
+    <td>TS005</td>
+    <td>Api Para Búsqueda de animales</td>
+    <td>T11</td>
+    <td>Implementar GET para animales</td>
+    <td>2</td>
+    <td>Aranda Vallejos, Oscar Gabriel </td>
+    <td>Done</td>
+ </tr>
+ <tr>
+    <td>TS006</td>
+    <td>Api Para Gestión de animales</td>
+    <td>T12</td>
+    <td>Implementar PUT y DELETE para animales</td>
+    <td>2</td>
+    <td>Aranda Vallejos, Oscar Gabriel </td>
+    <td>Done</td>
+ </tr>
+ <tr>
+    <td>TS007</td>
+    <td>Api Para Creación de campaña</td>
+    <td>T13</td>
+    <td>Implementar POST para campaña</td>
+    <td>2</td>
+    <td>Miranda Sinarahua, Piero Stephano </td>
+    <td>Done</td>
+ </tr>
+  <tr>
+    <td>TS009</td>
+    <td>Api Para Gestión de campaña</td>
+    <td>T14</td>
+    <td>Implementar PUT y DELETE para campaña</td>
+    <td>2</td>
+    <td>Miranda Sinarahua, Piero Stephano </td>
+    <td>Done</td>
+ </tr>
+ <tr>
+    <td>TS012</td>
+    <td>Api Para Registro de empleados</td>
+    <td>T15</td>
+    <td>Implementar POST para empleados</td>
+    <td>2</td>
+    <td>Aranda Vallejos, Oscar Gabriel  </td>
+    <td>Done</td>
+ </tr>
+
 </table>
 
 #### 6.2.1.3. Development Evidence for Sprint Review
-Durante este sprint, se han realizado avances significativos en la implementación de la Landing Page. Se han completado varias historias de usuario de la landing page y se han realizado múltiples commits en los repositorios correspondientes. A continuación, se presenta una tabla que incluye los commits relacionados con la implementación para el repositorio de la landing page.
+Durante este sprint, se han realizado avances significativos en la implementación de la Landing Page, backend y frontend del aplicativo mobile. Se han completado varias historias de usuario tanto de la landing page como del backend y se han realizado múltiples commits en los repositorios correspondientes.
+
+<table>
+   <tr>
+      <td>Repository</td>
+      <td>Branch</td>
+      <td>Component</td>
+      <td>Commit Id</td>
+      <td>Commit Message</td>
+      <td>Commited on (Date)</td>
+   </tr>
+   <tr>
+      <td>https://github.com/Bovinova/Web-Services----VacApp/commits/development/</td>
+      <td>Development</td>
+      <td>Backend</td>
+      <td>2d99db5e1f55813d1cb142678444ea76ab163c63</td>
+      <td>Merge branch 'feature/Ranch-Management' into development</td>
+      <td>May 15, 2025</td>
+   </tr>
+   <tr>
+      <td>https://github.com/Bovinova/Landing-Page----VacApp/tree/develop</td>
+      <td>Develop</td>
+      <td>Landing Page</td>
+      <td>34dfb4a928839b53d5c68ac63ec19daaa1048ddb</td>
+      <td>Merge branch 'feat/footer' into develop</td>
+      <td>May 11, 2025</td>
+   </tr>
+   <tr>
+      <td>https://github.com/Bovinova/Native-mobile-development----VacApp</td>
+      <td>Development</td>
+      <td>Mobile Frontend</td>
+      <td>5816590514593f851ea51904cb3f666bb7805770</td>
+      <td>Feat(add): Bovine scren ah data</td>
+      <td>May 15, 2025</td>
+   </tr>
+</table>
+
 
 #### 6.2.1.4. Execution Evidence for Sprint Review
-Durante este Sprint, se han alcanzado varios hitos importantes en la implementación de la Landing Page, las aplicaciones web y los servicios web de King Reserve. Se han completado las siguientes tareas:
+Durante este Sprint, se han alcanzado varios hitos importantes en la implementación de la Landing Page. Además se realizaron avances en el frontend de la aplicaciones mobile. Se han completado las siguientes tareas:
 
 - Implementación de la sección de Resumen.
-- Implementación de la sección de Características.
-- Envío de correos a los CEO de KingGroup.
-- Registro de nuevos usuarios.
 - Visualización de funcionalidades.
 - Visualización de planes disponibles.
-- Implementación de la sección de Preguntas Frecuentes.
-- Conexión de King Group con la aplicación.
-- Conexión de datos del formulario a Firebase.
 - Implementacion de la Internacionalizacion
+- Listado de bovinos.
 
 ### Screenshots
 
@@ -1780,14 +2263,489 @@ Durante este Sprint, se han alcanzado varios hitos importantes en la implementac
 #### Sección de Planes Disponibles
 ![Planes Disponibles](https://i.imgur.com/KEw3jG2.png)
 
+### Seccion de cambio de idioma
+
+![I18n](https://i.imgur.com/MPdtDqj.png)
+
+
+#### Mobile Frontend
+
+[![Captura-de-pantalla-2025-05-15-220016.png](https://i.postimg.cc/N0sy4HNN/Captura-de-pantalla-2025-05-15-220016.png)](https://postimg.cc/w1rTx7YJ)
+
+
+#### 6.2.1.5. Services Documentation Evidence for Sprint Review
+En esta sección se evidencia la documentación de los servicios implementados para el sprint actual que conforman el backend.
+
+#### Backend
+
+[![Captura-de-pantalla-2025-05-15-220233.png](https://i.postimg.cc/TYbtbpHL/Captura-de-pantalla-2025-05-15-220233.png)](https://postimg.cc/9rWP5F2C)
+
+#### Endpoint para registro e inicio de sesión
+
+[![Captura-de-pantalla-2025-05-15-220637.png](https://i.postimg.cc/nc1QNxXS/Captura-de-pantalla-2025-05-15-220637.png)](https://postimg.cc/Czz1fWHb)
+
+#### Endpoint de establos
+
+[![Captura-de-pantalla-2025-05-15-220547.png](https://i.postimg.cc/bN0Q8bBT/Captura-de-pantalla-2025-05-15-220547.png)](https://postimg.cc/PPxLQLhp)
+
+#### Endpoint de bovinos
+
+[![Captura-de-pantalla-2025-05-15-220136.png](https://i.postimg.cc/W3tdRPcg/Captura-de-pantalla-2025-05-15-220136.png)](https://postimg.cc/jw0xNm5S)
+
+#### Endpoint de vacunas
+
+[![Captura-de-pantalla-2025-05-15-220740.png](https://i.postimg.cc/mZYcF4yZ/Captura-de-pantalla-2025-05-15-220740.png)](https://postimg.cc/MXGZhhLg)
+
+#### Endpoint de campañas
+
+[![Captura-de-pantalla-2025-05-15-220445.png](https://i.postimg.cc/9fQPLM1B/Captura-de-pantalla-2025-05-15-220445.png)](https://postimg.cc/4YjhdXDK)
+
+
+#### 6.2.1.6. Software Deployment Evidence for Sprint Review
+
+##### Landing Page
+
+Para el despliegue de la landing page se realizaron los siguientes pasos:
+
+#### 1. Preparación del proyecto
+Se organizó el proyecto con todos los archivos necesarios del sitio web:
+- Archivos HTML, CSS, JavaScript e imágenes
+- Estructura de carpetas clara (`/css`, `/js`, `/images`, etc.)
+
+#### 2. Creación de cuenta o acceso a Netlify
+Se accedió a [https://www.netlify.com](https://www.netlify.com) para iniciar sesión o crear una cuenta, vinculándola con un proveedor de repositorios como GitHub, GitLab o Bitbucket.
+
+#### 3. Nuevo sitio desde Git
+Se eligió la opción **"Add new site" > "Import an existing project"** para conectar el repositorio del proyecto de la landing page.
+
+#### 4. Autorización y selección del repositorio
+Se autorizó a Netlify a acceder al repositorio y se seleccionó el repositorio correspondiente al proyecto.
+
+#### 5. Configuración del despliegue
+Durante la configuración:
+- Se indicó la rama que contiene el código (por ejemplo, `main`)
+- Se dejó vacío el campo de build si el proyecto no requiere compilación
+- Se indicó el directorio de publicación (por ejemplo, `/` si los archivos están en la raíz)
+
+#### 6. Despliegue automático
+Se lanzó el primer despliegue, y Netlify generó automáticamente una URL pública para acceder al sitio.
+
+#### 7. Personalización de dominio (opcional)
+Se puede añadir un dominio personalizado desde la sección de configuración de dominio. Netlify gestiona automáticamente el certificado SSL (HTTPS).
+
+#### 8. Actualizaciones automáticas
+Cada vez que se realice un push a la rama seleccionada, Netlify desplegará automáticamente los nuevos cambios.
+
+#### 9. Monitoreo del sitio
+Desde el panel de control de Netlify es posible:
+- Consultar el historial de despliegues
+- Ver errores si los hay
+- Configurar variables de entorno
+- Ver estadísticas básicas del sitio
+
+[![2025-05-16-a-las-08-47-38-c437a89e.jpg](https://i.postimg.cc/YSf8KH7X/2025-05-16-a-las-08-47-38-c437a89e.jpg)](https://postimg.cc/sBx57bvS)
+
+
+##### Backend
+
+Para el despliegue del backend se realizaron los siguientes pasos:
+
+##### 1. Ingresamos al portal de Azure
+Accedemos a [https://portal.azure.com](https://portal.azure.com) con nuestra cuenta para comenzar el proceso de despliegue.
+
+##### 2. Creamos un Grupo de Recursos
+Agrupamos todos los componentes relacionados con nuestro backend dentro de un grupo de recursos, lo que facilita su administración y organización.
+
+##### 3. Definimos un Plan de App Service
+Creamos un plan donde configuramos:
+- El sistema operativo (Linux o Windows)
+- La región del servidor
+- El tamaño del plan (por ejemplo, B1, F1, P1v2)
+
+##### 4. Configuramos una App Web (App Service)
+Creamos una nueva instancia de App Service seleccionando el grupo de recursos y el plan previamente definidos. Indicamos también la pila de tecnología (.NET) según nuestro backend.
+
+##### 5. Establecemos variables y configuraciones del entorno
+Agregamos variables de entorno, claves secretas, rutas y cadenas de conexión necesarias para el correcto funcionamiento del backend.
+
+##### 6. Preparamos nuestro backend para producción
+Nos aseguramos de que nuestra aplicación esté lista para ejecutarse en Azure, incluyendo:
+- Archivos de dependencias
+- Código limpio y portable
+
+##### 7. Elegimos el método de despliegue
+Seleccionamos cómo vamos a subir el backend a Azure:
+- Mediante integración continua desde GitHub
+- Subiendo el código directamente desde nuestro equipo
+- Usando FTP o un archivo ZIP desplegable
+
+##### 8. Realizamos el despliegue
+Subimos nuestro proyecto utilizando el método seleccionado. Si usamos GitHub, configuramos un flujo de trabajo de CI/CD para automatizar futuras actualizaciones.
+
+##### 9. Verificamos el estado del despliegue
+Revisamos los registros desde el portal para asegurarnos de que el despliegue fue exitoso y sin errores.
+
+##### 10. Accedemos a la aplicación
+Probamos la URL pública que nos proporciona Azure para verificar que nuestro backend está corriendo correctamente.
+
+##### 11. Monitoreamos y damos mantenimiento
+Activamos Application Insights o usamos los registros del App Service para monitorear el rendimiento, identificar errores y asegurar la estabilidad de la aplicación.
+
+[![dashboard-azure.jpg](https://i.postimg.cc/9MZZg73s/dashboard-azure.jpg)](https://postimg.cc/njVXCMh1)
+
+
+
+#### 6.2.1.7. Team Collaboration Insights during Sprint
+
+En esta sección se proporcionan los insights para el sprint 1.
+
+##### Documentation
+
+En esta sección, el equipo destacó la importancia de mantener una documentación clara y actualizada que facilite la colaboración y el entendimiento común. Se identificó que una buena documentación agiliza la resolución de dudas y mejora la calidad del desarrollo. A continuación se muestran los insights del equipo para la sección correspondiente:
+
+[![Captura-de-pantalla-2025-05-15-225817.png](https://i.postimg.cc/Bbs3HdcR/Captura-de-pantalla-2025-05-15-225817.png)](https://postimg.cc/N9NZwCnx)
+
+##### Landing Page
+
+El equipo observó que la landing page funciona como la primera ventana de contacto con el usuario, por lo que es vital que sea atractiva y fácil de navegar. Se resaltó la necesidad de optimizar los textos y elementos visuales para maximizar la conversión y el enganche inicial. A continuación se muestran los insights del equipo para la sección correspondiente:
+
+[![Captura-de-pantalla-2025-05-15-225945.png](https://i.postimg.cc/sgbt5k3K/Captura-de-pantalla-2025-05-15-225945.png)](https://postimg.cc/0zdWsHMJ)
+
+
+##### Backend
+
+En equipo analizamos que la arquitectura del backend debía ser robusta y escalable para soportar las futuras demandas. Identificamos retos en la gestión de datos y seguridad, lo que motivó la implementación de buenas prácticas para garantizar la integridad y eficiencia. A continuación se muestran los insights del equipo para la sección correspondiente:
+
+[![Captura-de-pantalla-2025-05-15-230204.png](https://i.postimg.cc/k5rp2Wyp/Captura-de-pantalla-2025-05-15-230204.png)](https://postimg.cc/PC44cp9W)
+
+
+##### Mobile Frontend
+
+Se destacó la relevancia de adaptar la experiencia a distintos dispositivos, asegurando una interfaz intuitiva y rápida; además de evitar la saturación de pantallas. 
+
+[![Captura-de-pantalla-2025-05-15-225139.png](https://i.postimg.cc/qvZpSD4C/Captura-de-pantalla-2025-05-15-225139.png)](https://postimg.cc/YvYcm34p)
+
+
+##### Integrantes
+
+La participación de cada miembro del equipo fue crucial para desarrollar los componentes requeridos para este primer sprint y ofrecer un producto mínimo viable.
+
+[![Captura-de-pantalla-2025-05-15-230656.png](https://i.postimg.cc/ThMDV2Hf/Captura-de-pantalla-2025-05-15-230656.png)](https://postimg.cc/QKmCsD3y)
+### 6.2.2. Sprint 2
+#### 6.2.2.2. Sprint Planning 2
+| Sprint # | Sprint 2  | 
+|--------------------|------------|
+| Sprint Planning Background | 
+| Date | 2025-06-14 | 
+| Time |  10:00 AM |
+| Location |  UPC - Monterrico |
+| Preparate by| Maycol Jhordan Rojas Velasquez | 
+|  Attendees (to planning meeting) | Gómez Vallejos Sergio André ,Aranda Vallejos, Oscar Gabriel ,Ticona Panduro, Estrella del Pilar ,Durand Vera, Gianfranco Angel, Miranda Sinarahua, Piero Stephano  | 
+| Sprint n-1 Review Summary | En resumen se desarrollaron avances del backend y frontend mobile | 
+| Sprint Planning Background | Durante esta etapa, se llevó a cabo una exhaustiva verificación de la funcionalidad del backend y frontend mobile. El objetivo principal fue asegurar que el frontend mobile cumpla con los estándares de calidad y proporcionar una experiencia óptima para los visitantes. Asimismo, se realizó la primera implementación de la aplicación mobil junto al backend sobre iniciar sesión con google y usar el backend para inserta, actualizar, eliminar u obtener datos de ella en el frontend. |
+| Sprint Goal & User Stories | 
+| Sprint 2 Goal | Desarrolar la funcionalidad de la aplicación movil con el CRUD en el frontend junto al backend. Se considerará que el objetivo del sprint se ha cumplido si todas las historias de usuario relacionadas con la mayoria de la aplicación movil están implementadas y si todas las historias de usuario relacionadas con la implementación de APIs para la gestión de una entidad están completadas en un 100%. |  
+| Sprint Velocity | Se establece un Velocity de 22 Story Points para este Sprint. | 
+| Sum of Story Points | 22 Story Points | 
+#### 6.2.2.2. Sprint Backlog 2
+
+<table align="center" border="1" width="90%" style="text-align:center">
+ <tr>
+    <td colspan="2"><b>User Story</b></td>
+    <td colspan="6"><b>Work-Item / Task</b></td>
+  </tr>
+  <tr>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Estimation</b></td>
+    <td><b>Assigned To</b></td>
+    <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+  </tr>
+  <tr>
+    <td>TS001</td>
+    <td>Crear Vacuna vía API</td>
+    <td>T01</td>
+    <td>Implementar exponer un endpoint para registrar una vacuna vía API</td>
+    <td>2</td>
+    <td>Ticona Panduro, Estrella del Pilar </td>
+    <td>Done</td>
+ </tr>
+ <tr>
+    <td>TS002</td>
+    <td>API para Búsqueda de Vacunas</td>
+    <td>T02</td>
+    <td>Implementación de un endpoint para buscar vacunas mediante criterios específicos</td>
+    <td>1</td>
+    <td>Durand Vera, Gianfranco Angel </td>
+    <td>Done</td>
+ </tr>
+ <tr>
+    <td>US002</td>
+    <td>Búsqueda de Vacunas</td>
+    <td>T03</td>
+    <td>Implementar busqueda de vacunas previamente registradas</td>
+    <td>3</td>
+    <td>Ticona Panduro, Estrella del Pilar </td>
+    <td>Done</td>
+ </tr>
+ <tr>
+    <td>TS003</td>
+    <td>API para Gestión de Vacunas</td>
+    <td>T04</td>
+    <td>Implementar endpoint para editar y eliminar registros de vacunas</td>
+    <td>2</td>
+    <td>Durand Vera, Gianfranco Angel </td>
+    <td>Done</td>
+ </tr>
+ <tr>
+    <td>TS004</td>
+    <td>API para Registro de Animales</td>
+    <td>T05</td>
+    <td>Implementar endpoint para registrar un bovino en un lote específico</td>
+    <td>3</td>
+    <td>Durand Vera, Gianfranco Angel </td>
+    <td>Done</td>
+ </tr>
+ <tr>
+    <td>US003</td>
+    <td>Gestión de Registros de Vacunas</td>
+    <td>T06</td>
+    <td>Implementar editar o eliminar el registro de una vacuna</td>
+    <td>2</td>
+    <td>Ticona Panduro, Estrella del Pilar </td>
+    <td>Done</td>
+ </tr>
+ <tr>
+    <td>TS005</td>
+    <td>API para Búsqueda de Animales</td>
+    <td>T07</td>
+    <td>Implementar un endpoint que permita buscar animales registrados usando parámetros de búsqueda</td>
+    <td>2</td>
+    <td>Aranda Vallejos, Oscar Gabriel </td>
+    <td>Done</td>
+ </tr>
+ <tr>
+    <td>TS006</td>
+    <td>API para Gestión de Animales</td>
+    <td>T08</td>
+    <td>Implementar funcionalidades para editar y eliminar animales registrados</td>
+    <td>2</td>
+    <td>Aranda Vallejos, Oscar Gabriel </td>
+    <td>Done</td>
+ </tr>
+ <tr>
+    <td>US004</td>
+    <td>Registro de Bovino en Lote</td>
+    <td>T09</td>
+    <td>Implementar un registro de un bovino en un lote específico</td>
+    <td>3</td>
+    <td>Aranda Vallejos, Oscar Gabriel </td>
+    <td>Done</td>
+ </tr>
+ <tr>
+    <td>TS007</td>
+    <td>API para Creación de Campaña</td>
+    <td>T10</td>
+    <td>Implementar un endpoint que permita la creación de campañas</td>
+    <td>2</td>
+    <td>Gómez Vallejos, Sergio André </td>
+    <td>Done</td>
+ </tr>
+ 
+
+</table>
+
+#### 6.2.1.3. Development Evidence for Sprint Review
+Durante este sprint, se han realizado avances significativos en la implementación de la Landing Page, backend y frontend del aplicativo mobile. Se han completado varias historias de usuario tanto de la landing page como del backend y se han realizado múltiples commits en los repositorios correspondientes.
+
+<table>
+   <tr>
+      <td>Repository</td>
+      <td>Branch</td>
+      <td>Component</td>
+      <td>Commit Id</td>
+      <td>Commit Message</td>
+      <td>Commited on (Date)</td>
+   </tr>
+   <tr>
+      <td>https://github.com/Bovinova/Web-Services----VacApp/commits/development/</td>
+      <td>Development</td>
+      <td>Backend</td>
+      <td>2d99db5e1f55813d1cb142678444ea76ab163c63</td>
+      <td>Merge branch 'feature/Ranch-Management' into development</td>
+      <td>May 15, 2025</td>
+   </tr>
+   <tr>
+      <td>https://github.com/Bovinova/Landing-Page----VacApp/tree/develop</td>
+      <td>Develop</td>
+      <td>Landing Page</td>
+      <td>34dfb4a928839b53d5c68ac63ec19daaa1048ddb</td>
+      <td>Merge branch 'feat/footer' into develop</td>
+      <td>May 11, 2025</td>
+   </tr>
+   <tr>
+      <td>https://github.com/Bovinova/Native-mobile-development----VacApp</td>
+      <td>Development</td>
+      <td>Mobile Frontend</td>
+      <td>5816590514593f851ea51904cb3f666bb7805770</td>
+      <td>Feat(add): Bovine scren ah data</td>
+      <td>May 15, 2025</td>
+   </tr>
+</table>
+
+
+#### 6.2.1.4. Execution Evidence for Sprint Review
+Durante este Sprint, se han alcanzado varios hitos importantes en la implementación de la Landing Page. Además se realizaron avances en el frontend de la aplicaciones mobile. Se han completado las siguientes tareas:
+
+- Implementación de la sección de Resumen.
+- Visualización de funcionalidades.
+- Visualización de planes disponibles.
+- Implementacion de la Internacionalizacion
+- Listado de bovinos.
+
+### Screenshots
+
+#### Landing Page
+![Landing Page](https://i.imgur.com/P4EipKO.png)
+
+#### Funciones claves
+![Características](https://i.imgur.com/pWEAI9e.png)
+
+#### Sección de Planes Disponibles
+![Planes Disponibles](https://i.imgur.com/KEw3jG2.png)
 
 ### Seccion de cambio de idioma
 
 ![I18n](https://i.imgur.com/MPdtDqj.png)
 
+
+#### Mobile Frontend
+
+[![Captura-de-pantalla-2025-05-15-220016.png](https://i.postimg.cc/N0sy4HNN/Captura-de-pantalla-2025-05-15-220016.png)](https://postimg.cc/w1rTx7YJ)
+
+
 #### 6.2.1.5. Services Documentation Evidence for Sprint Review
+En esta sección se evidencia la documentación de los servicios implementados para el sprint actual que conforman el backend.
+
+#### Backend
+
+[![Captura-de-pantalla-2025-05-15-220233.png](https://i.postimg.cc/TYbtbpHL/Captura-de-pantalla-2025-05-15-220233.png)](https://postimg.cc/9rWP5F2C)
+
+#### Endpoint para registro e inicio de sesión
+
+[![Captura-de-pantalla-2025-05-15-220637.png](https://i.postimg.cc/nc1QNxXS/Captura-de-pantalla-2025-05-15-220637.png)](https://postimg.cc/Czz1fWHb)
+
+#### Endpoint de establos
+
+[![Captura-de-pantalla-2025-05-15-220547.png](https://i.postimg.cc/bN0Q8bBT/Captura-de-pantalla-2025-05-15-220547.png)](https://postimg.cc/PPxLQLhp)
+
+#### Endpoint de bovinos
+
+[![Captura-de-pantalla-2025-05-15-220136.png](https://i.postimg.cc/W3tdRPcg/Captura-de-pantalla-2025-05-15-220136.png)](https://postimg.cc/jw0xNm5S)
+
+#### Endpoint de vacunas
+
+[![Captura-de-pantalla-2025-05-15-220740.png](https://i.postimg.cc/mZYcF4yZ/Captura-de-pantalla-2025-05-15-220740.png)](https://postimg.cc/MXGZhhLg)
+
+#### Endpoint de campañas
+
+[![Captura-de-pantalla-2025-05-15-220445.png](https://i.postimg.cc/9fQPLM1B/Captura-de-pantalla-2025-05-15-220445.png)](https://postimg.cc/4YjhdXDK)
+
+
 #### 6.2.1.6. Software Deployment Evidence for Sprint Review
-#### 6.2.1.7. Team Collaboration Insights during Sprint
+
+##### Landing Page
+
+Para el despliegue de la landing page se realizaron los siguientes pasos:
+
+#### 1. Preparación del proyecto
+Se organizó el proyecto con todos los archivos necesarios del sitio web:
+- Archivos HTML, CSS, JavaScript e imágenes
+- Estructura de carpetas clara (`/css`, `/js`, `/images`, etc.)
+
+#### 2. Creación de cuenta o acceso a Netlify
+Se accedió a [https://www.netlify.com](https://www.netlify.com) para iniciar sesión o crear una cuenta, vinculándola con un proveedor de repositorios como GitHub, GitLab o Bitbucket.
+
+#### 3. Nuevo sitio desde Git
+Se eligió la opción **"Add new site" > "Import an existing project"** para conectar el repositorio del proyecto de la landing page.
+
+#### 4. Autorización y selección del repositorio
+Se autorizó a Netlify a acceder al repositorio y se seleccionó el repositorio correspondiente al proyecto.
+
+#### 5. Configuración del despliegue
+Durante la configuración:
+- Se indicó la rama que contiene el código (por ejemplo, `main`)
+- Se dejó vacío el campo de build si el proyecto no requiere compilación
+- Se indicó el directorio de publicación (por ejemplo, `/` si los archivos están en la raíz)
+
+#### 6. Despliegue automático
+Se lanzó el primer despliegue, y Netlify generó automáticamente una URL pública para acceder al sitio.
+
+#### 7. Personalización de dominio (opcional)
+Se puede añadir un dominio personalizado desde la sección de configuración de dominio. Netlify gestiona automáticamente el certificado SSL (HTTPS).
+
+#### 8. Actualizaciones automáticas
+Cada vez que se realice un push a la rama seleccionada, Netlify desplegará automáticamente los nuevos cambios.
+
+#### 9. Monitoreo del sitio
+Desde el panel de control de Netlify es posible:
+- Consultar el historial de despliegues
+- Ver errores si los hay
+- Configurar variables de entorno
+- Ver estadísticas básicas del sitio
+
+[![2025-05-16-a-las-08-47-38-c437a89e.jpg](https://i.postimg.cc/YSf8KH7X/2025-05-16-a-las-08-47-38-c437a89e.jpg)](https://postimg.cc/sBx57bvS)
+
+
+##### Backend
+
+Para el despliegue del backend se realizaron los siguientes pasos:
+
+##### 1. Ingresamos al portal de Azure
+Accedemos a [https://portal.azure.com](https://portal.azure.com) con nuestra cuenta para comenzar el proceso de despliegue.
+
+##### 2. Creamos un Grupo de Recursos
+Agrupamos todos los componentes relacionados con nuestro backend dentro de un grupo de recursos, lo que facilita su administración y organización.
+
+##### 3. Definimos un Plan de App Service
+Creamos un plan donde configuramos:
+- El sistema operativo (Linux o Windows)
+- La región del servidor
+- El tamaño del plan (por ejemplo, B1, F1, P1v2)
+
+##### 4. Configuramos una App Web (App Service)
+Creamos una nueva instancia de App Service seleccionando el grupo de recursos y el plan previamente definidos. Indicamos también la pila de tecnología (.NET) según nuestro backend.
+
+##### 5. Establecemos variables y configuraciones del entorno
+Agregamos variables de entorno, claves secretas, rutas y cadenas de conexión necesarias para el correcto funcionamiento del backend.
+
+##### 6. Preparamos nuestro backend para producción
+Nos aseguramos de que nuestra aplicación esté lista para ejecutarse en Azure, incluyendo:
+- Archivos de dependencias
+- Código limpio y portable
+
+##### 7. Elegimos el método de despliegue
+Seleccionamos cómo vamos a subir el backend a Azure:
+- Mediante integración continua desde GitHub
+- Subiendo el código directamente desde nuestro equipo
+- Usando FTP o un archivo ZIP desplegable
+
+##### 8. Realizamos el despliegue
+Subimos nuestro proyecto utilizando el método seleccionado. Si usamos GitHub, configuramos un flujo de trabajo de CI/CD para automatizar futuras actualizaciones.
+
+##### 9. Verificamos el estado del despliegue
+Revisamos los registros desde el portal para asegurarnos de que el despliegue fue exitoso y sin errores.
+
+##### 10. Accedemos a la aplicación
+Probamos la URL pública que nos proporciona Azure para verificar que nuestro backend está corriendo correctamente.
+
+##### 11. Monitoreamos y damos mantenimiento
+Activamos Application Insights o usamos los registros del App Service para monitorear el rendimiento, identificar errores y asegurar la estabilidad de la aplicación.
+
+[![dashboard-azure.jpg](https://i.postimg.cc/9MZZg73s/dashboard-azure.jpg)](https://postimg.cc/njVXCMh1)
+
 
 ##  Conclusiones 
 
@@ -1799,7 +2757,7 @@ Durante el desarrollo se priorizó la interacción constante con los usuarios fi
 
 - El trabajo colaborativo en VacApp no solo logró un producto funcional, sino también el fortalecimiento de competencias técnicas clave en el equipo. Se consolidaron habilidades en diseño de arquitecturas por capas, modelado de bases de datos, diseño de interfaces, uso de patrones estratégicos y tácticos de DDD, y gestión de proyectos con visión profesional.
 
----
+
 
 ##  Bibliografía
 
@@ -1813,6 +2771,8 @@ Durante el desarrollo se priorizó la interacción constante con los usuarios fi
 - Vernon, V. (2013). *Implementing Domain-Driven Design*. Addison-Wesley.
 
 
-
 ##  Anexos
-[Entrevistas](https://shorturl.at/F1HUB): https://shorturl.at/F1HUB
+Entrevistas: https://shorturl.at/F1HUB
+
+Figma: https://www.figma.com/design/Ck5RdO3MzAm16SIReLDO15/Sin-t%C3%ADtulo?node-id=150-5796&t=hGN3YL7RfASQ5FFk-1 
+
