@@ -2557,7 +2557,7 @@ La participación de cada miembro del equipo fue crucial para desarrollar los co
 
 </table>
 
-#### 6.2.1.3. Development Evidence for Sprint Review
+#### 6.2.2.3. Development Evidence for Sprint Review
 Durante este sprint, se han realizado avances significativos en la implementación de la Landing Page, backend y frontend del aplicativo mobile. Se han completado varias historias de usuario tanto de la landing page como del backend y se han realizado múltiples commits en los repositorios correspondientes.
 
 <table>
@@ -2573,9 +2573,9 @@ Durante este sprint, se han realizado avances significativos en la implementaci�
       <td>https://github.com/Bovinova/Web-Services----VacApp/commits/development/</td>
       <td>Development</td>
       <td>Backend</td>
-      <td>2d99db5e1f55813d1cb142678444ea76ab163c63</td>
-      <td>Merge branch 'feature/Ranch-Management' into development</td>
-      <td>May 15, 2025</td>
+      <td>e3005c93bd604a2ffa1e7538fadaf958065b9afb</td>
+      <td>feat: add Stable FK in Campaign</td>
+      <td>May 24, 2025</td>
    </tr>
    <tr>
       <td>https://github.com/Bovinova/Landing-Page----VacApp/tree/develop</td>
@@ -2589,44 +2589,32 @@ Durante este sprint, se han realizado avances significativos en la implementaci�
       <td>https://github.com/Bovinova/Native-mobile-development----VacApp</td>
       <td>Development</td>
       <td>Mobile Frontend</td>
-      <td>5816590514593f851ea51904cb3f666bb7805770</td>
-      <td>Feat(add): Bovine scren ah data</td>
-      <td>May 15, 2025</td>
+      <td>b239a73974f4bdbf9abaa2b05cf6a309009c8e42</td>
+      <td>feat(add): get animals and home new sidebar</td>
+      <td>May 18, 2025</td>
    </tr>
 </table>
 
+#### 6.2.2.4.Testing Suite Evidence for Sprint Review
 
-#### 6.2.1.4. Execution Evidence for Sprint Review
-Durante este Sprint, se han alcanzado varios hitos importantes en la implementación de la Landing Page. Además se realizaron avances en el frontend de la aplicaciones mobile. Se han completado las siguientes tareas:
+#### 6.2.2.5. Execution Evidence for Sprint Review
+Durante este Sprint, se han alcanzado varios hitos importantes en la implementación en el frontend mobile. Se han completado las siguientes tareas:
 
-- Implementación de la sección de Resumen.
-- Visualización de funcionalidades.
-- Visualización de planes disponibles.
-- Implementacion de la Internacionalizacion
-- Listado de bovinos.
+- Agregar Vacuna al Registro.
+- Gestión de Registros de Vacunas.
+- Registro de Bovino en Lote.
+- Crear Vacuna vía API
 
 ### Screenshots
 
-#### Landing Page
-![Landing Page](https://i.imgur.com/P4EipKO.png)
-
-#### Funciones claves
-![Características](https://i.imgur.com/pWEAI9e.png)
-
-#### Sección de Planes Disponibles
-![Planes Disponibles](https://i.imgur.com/KEw3jG2.png)
-
-### Seccion de cambio de idioma
-
-![I18n](https://i.imgur.com/MPdtDqj.png)
 
 
 #### Mobile Frontend
 
-[![Captura-de-pantalla-2025-05-15-220016.png](https://i.postimg.cc/N0sy4HNN/Captura-de-pantalla-2025-05-15-220016.png)](https://postimg.cc/w1rTx7YJ)
 
 
-#### 6.2.1.5. Services Documentation Evidence for Sprint Review
+
+#### 6.2.1.6. Services Documentation Evidence for Sprint Review
 En esta sección se evidencia la documentación de los servicios implementados para el sprint actual que conforman el backend.
 
 #### Backend
@@ -2635,7 +2623,7 @@ En esta sección se evidencia la documentación de los servicios implementados p
 
 #### Endpoint para registro e inicio de sesión
 
-[![Captura-de-pantalla-2025-05-15-220637.png](https://i.postimg.cc/nc1QNxXS/Captura-de-pantalla-2025-05-15-220637.png)](https://postimg.cc/Czz1fWHb)
+
 
 #### Endpoint de establos
 
@@ -2654,49 +2642,35 @@ En esta sección se evidencia la documentación de los servicios implementados p
 [![Captura-de-pantalla-2025-05-15-220445.png](https://i.postimg.cc/9fQPLM1B/Captura-de-pantalla-2025-05-15-220445.png)](https://postimg.cc/4YjhdXDK)
 
 
-#### 6.2.1.6. Software Deployment Evidence for Sprint Review
+#### 6.2.1.7. Software Deployment Evidence for Sprint Review
 
-##### Landing Page
+##### Frontend 
 
-Para el despliegue de la landing page se realizaron los siguientes pasos:
+La aplicación mobil se realizaron los siguientes pasos:
 
 #### 1. Preparación del proyecto
-Se organizó el proyecto con todos los archivos necesarios del sitio web:
-- Archivos HTML, CSS, JavaScript e imágenes
-- Estructura de carpetas clara (`/css`, `/js`, `/images`, etc.)
+Se organizó el proyecto con todos los archivos necesarios para el frontend:
+- Archivos kotlin, flutter e imágenes
 
-#### 2. Creación de cuenta o acceso a Netlify
-Se accedió a [https://www.netlify.com](https://www.netlify.com) para iniciar sesión o crear una cuenta, vinculándola con un proveedor de repositorios como GitHub, GitLab o Bitbucket.
+
+#### 2. 2
 
 #### 3. Nuevo sitio desde Git
-Se eligió la opción **"Add new site" > "Import an existing project"** para conectar el repositorio del proyecto de la landing page.
 
 #### 4. Autorización y selección del repositorio
-Se autorizó a Netlify a acceder al repositorio y se seleccionó el repositorio correspondiente al proyecto.
 
 #### 5. Configuración del despliegue
-Durante la configuración:
-- Se indicó la rama que contiene el código (por ejemplo, `main`)
-- Se dejó vacío el campo de build si el proyecto no requiere compilación
-- Se indicó el directorio de publicación (por ejemplo, `/` si los archivos están en la raíz)
+
 
 #### 6. Despliegue automático
-Se lanzó el primer despliegue, y Netlify generó automáticamente una URL pública para acceder al sitio.
 
 #### 7. Personalización de dominio (opcional)
-Se puede añadir un dominio personalizado desde la sección de configuración de dominio. Netlify gestiona automáticamente el certificado SSL (HTTPS).
 
 #### 8. Actualizaciones automáticas
-Cada vez que se realice un push a la rama seleccionada, Netlify desplegará automáticamente los nuevos cambios.
 
 #### 9. Monitoreo del sitio
-Desde el panel de control de Netlify es posible:
-- Consultar el historial de despliegues
-- Ver errores si los hay
-- Configurar variables de entorno
-- Ver estadísticas básicas del sitio
 
-[![2025-05-16-a-las-08-47-38-c437a89e.jpg](https://i.postimg.cc/YSf8KH7X/2025-05-16-a-las-08-47-38-c437a89e.jpg)](https://postimg.cc/sBx57bvS)
+
 
 
 ##### Backend
