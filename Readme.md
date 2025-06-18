@@ -908,6 +908,7 @@ Las User Stories representan una herramienta fundamental dentro de las metodolog
 |TS009|API para Gestión de Campañas|Como desarrollador, necesito implementar endpoints que permitan editar y eliminar campañas, facilitando su gestión integral desde la plataforma.|<p>- **E01: Edición exitosa**<br>  **Dado que** el endpoint /campanas/{id} está disponible.<br>  **Cuando** se envía una solicitud PUT con información válida para actualizar la campaña.<br>  **Entonces** se recibe respuesta 200 (OK) con la campaña actualizada.</p><p>- **E02  Error al editar campaña**<br>  **Dado que** el endpoint /campanas/{id} está disponible.<br>  **Cuando** se envía una solicitud PUT con datos inválidos.<br>  **Entonces** se recibe respuesta 400 (Bad Request) con un mensaje de error.</p><p>- **E03  Eliminación exitosa**<br>  **Dado que** el endpoint /campanas/{id} está disponible.<br>  **Cuando** se envía una solicitud DELETE para eliminar la campaña.<br>  **Entonces** se recibe respuesta 200 (OK) con un mensaje confirmando la eliminación.</p>|EP003|
 |Epic ID|Título|Descripción|||
 |EP004|Registrar Personal|Como empresario ganadero, quiero poder registrar y gestionar a mis empleados para organizar eficazmente los recursos humanos de mi empresa,|||
+
 |Story ID|Título|Descripción|Criterios de Aceptación|Relacionado con (Epic ID)|
 |US010|Registro de Personal|Como empresario ganadero, quiero poder registrar a mis empleados para organizar y gestionar de forma efectiva los recursos humanos de mi empresa.|<p>- **E01: Registro completo de empleado**<br>  **Dado que:** El empresario autenticado.<br>  **Cuando:** Ingresa correctamente todos los datos requeridos para un empleado.<br>  **Entonces:** El sistema registra al empleado y muestra una confirmación exitosa.</p><p>- **E02: Registro incompleto o incorrecto**<br>  **Dado que:** El empresario autenticado.<br>  **Cuando:** Intenta registrar a un empleado sin ingresar toda la información esencial.<br>  **Entonces:** Se muestra un mensaje de error indicando la carencia de información requerida</p>|EP004|
 |US011|Búsqueda de Personal|Como empresario ganadero, quiero buscar entre los empleados registrados para localizar y, de ser necesario, gestionar la información de un empleado en específico.|**E01: Búsqueda exitosa**<br>**Dado que:** El empresario con sesión iniciada.<br>**Cuando:** Realiza la búsqueda utilizando filtros (por nombre, cargo, etc.).<br>**Entonces:** Se muestra el empleado que cumple con los criterios de búsqueda.|EP004|
@@ -918,6 +919,18 @@ Las User Stories representan una herramienta fundamental dentro de las metodolog
 |Epic ID|Título|Descripción|||
 |EP005|Informarse sobre el Producto|Como visitante, quiero explorar la Landing Page de la aplicación para conocer sus funcionalidades y evaluar si satisface mis necesidades.|||
 |Story ID|Título|Descripción|Criterios de Aceptación|Relacionado con (Epic ID)|
+=======
+|Story ID|Título|Descripción|Criterios de Aceptación|Relacionado con (Epic ID)|
+|US010|Registro de Personal|Como empresario ganadero, quiero poder registrar a mis empleados para organizar y gestionar de forma efectiva los recursos humanos de mi empresa.|<p>- **E01: Registro completo de empleado**<br>  **Dado que:** El empresario autenticado.<br>  **Cuando:** Ingresa correctamente todos los datos requeridos para un empleado.<br>  **Entonces:** El sistema registra al empleado y muestra una confirmación exitosa.</p><p>- **E02: Registro incompleto o incorrecto**<br>  **Dado que:** El empresario autenticado.<br>  **Cuando:** Intenta registrar a un empleado sin ingresar toda la información esencial.<br>  **Entonces:** Se muestra un mensaje de error indicando la carencia de información requerida</p>|EP004|
+|US011|Búsqueda de Personal|Como empresario ganadero, quiero buscar entre los empleados registrados para localizar y, de ser necesario, gestionar la información de un empleado en específico.|**E01: Búsqueda exitosa**<br>**Dado que:** El empresario con sesión iniciada.<br>**Cuando:** Realiza la búsqueda utilizando filtros (por nombre, cargo, etc.).<br>**Entonces:** Se muestra el empleado que cumple con los criterios de búsqueda.|EP004|
+|US012|Gestión de Personal|Como empresario ganadero, necesito gestionar la plantilla de empleados, pudiendo agregar o eliminar registros para mantener la base de datos actualizada.|<p>- **E01: Agregar y eliminar empleados**<br>  **Dado que:** El empresario autenticado y accediendo al módulo de gestión de personal.<br>  **Cuando:** Realiza las operaciones de agregar y/o eliminar empleados.<br>  **Entonces:** El sistema confirma con un mensaje de éxito cada uno de los cambios efectuados.</p><p></p>|EP004|
+|TS010|API para Registro de Empleados|Como desarrollador, necesito crear un endpoint para registrar empleados, asegurando que la información de cada uno se almacene correctamente y se confirme la creación.|<p>- **E01: Registro exitoso**<br>  **Dado que** el endpoint /empleados está disponible.<br>  **Cuando** se envía una solicitud POST con datos válidos para el empleado.<br>  **Entonces** se recibe respuesta 201 (Created) con el registro del empleado.</p><p>- **E02: Error al registrar empleado**<br>  **Dado que** el endpoint /empleados está disponible.<br>  **Cuando** se envía una solicitud POST con datos incompletos o inválidos.<br>  **Entonces** se recibe respuesta 400 (Bad Request) con el mensaje de error.</p><p></p>|EP004|
+|TS011|API para Búsqueda de Empleados|Como desarrollador, necesito implementar un endpoint que permita buscar empleados utilizando filtros específicos, para facilitar la administración de los recursos humanos.|<p>- **E01: Búsqueda exitosa**<br>  **Dado que** el endpoint /empleados está disponible.<br>  **Cuando** se realiza una solicitud GET con parámetros válidos.<br>  **Entonces** se recibe respuesta 200 (OK) y se devuelve una lista de empleados que cumplen los criterios.</p><p>- **E02: Búsqueda sin resultados**<br>  **Dado que** el endpoint /empleados está disponible.<br>  **Cuando** se realiza una solicitud GET con parámetros que no arrojan resultados.<br>  **Entonces** se recibe respuesta 200 con un mensaje informando que no se encontraron empleados.</p><p></p>|EP004|
+|TS012|API para Gestión de Empleados|Como desarrollador, necesito implementar funcionalidades para editar y eliminar empleados mediante la API, permitiendo que el empresario administre correctamente su plantilla.|<p>- **E01: Edición exitosa**<br>  **Dado que** el endpoint /empleados/{id} está disponible y existe el empleado.<br>  **Cuando** se envía una solicitud PUT con información válida para actualizar los datos del empleado.<br>  **Entonces** se recibe respuesta 200 (OK) con el registro actualizado.</p><p>- **E02 : Error al editar empleado**<br>  **Dado que** el endpoint /empleados/{id} está disponible.<br>  **Cuando** se envía una solicitud PUT con datos inválidos o incompletos.<br>  **Entonces** se recibe respuesta 400 (Bad Request) con el mensaje de error correspondiente.</p><p>- **E03: Eliminación exitosa**<br>  **Dado que** el endpoint /empleados/{id} está disponible y existe el empleado a eliminar.<br>  **Cuando** se envía una solicitud DELETE.<br>  **Entonces** se recibe respuesta 200 (OK) confirmando la eliminación con un mensaje de éxito.</p><p></p>|EP004|
+|Epic ID|Título|Descripción|||
+|EP005|Informarse sobre el Producto|Como visitante, quiero explorar la Landing Page de la aplicación para conocer sus funcionalidades y evaluar si satisface mis necesidades.|||
+|Story ID|Título|Descripción|Criterios de Aceptación|Relacionado con (Epic ID)|
+>>>>>>> main
 |US015|Explorar la Landing Page|<p>Como visitante, quiero explorar la Landing Page de la aplicación para conocer sus funcionalidades y determinar si satisface mis necesidades.</p><p></p>|<p>- **E01: Sección “Quiénes Somos”**<br>  **Dado que:** El visitante accede a la Landing Page.<br>  **Cuando:** Navega a la sección “Quiénes Somos”.<br>  **Entonces:** Encuentra información detallada sobre la misión, visión y valores de la empresa.</p><p></p>|EP005|
 |US016|` `Explorar Secciones Informativas|<p>Como visitante, quiero explorar las secciones informativas (Quiénes Somos, Planes y Funciones) para entender completamente las características y beneficios de la aplicación.</p><p></p>|<p>- **E01: Navegación en secciones informativas**<br>  **Dado que:** El visitante ingresa a la Landing Page.<br>  **Cuando:** Navega por las secciones “Quiénes Somos”, “Planes” y “Funciones”.<br>  **Entonces:** Se le presenta información detallada y estructurada sobre la empresa, los distintos planes ofrecidos y las funcionalidades de la aplicación.</p><p></p>|EP005|
 
@@ -2431,6 +2444,295 @@ Se destacó la relevancia de adaptar la experiencia a distintos dispositivos, as
 La participación de cada miembro del equipo fue crucial para desarrollar los componentes requeridos para este primer sprint y ofrecer un producto mínimo viable.
 
 [![Captura-de-pantalla-2025-05-15-230656.png](https://i.postimg.cc/ThMDV2Hf/Captura-de-pantalla-2025-05-15-230656.png)](https://postimg.cc/QKmCsD3y)
+### 6.2.2. Sprint 2
+#### 6.2.2.2. Sprint Planning 2
+| Sprint # | Sprint 2  | 
+|--------------------|------------|
+| Sprint Planning Background | 
+| Date | 2025-06-14 | 
+| Time |  10:00 AM |
+| Location |  UPC - Monterrico |
+| Preparate by| Maycol Jhordan Rojas Velasquez | 
+|  Attendees (to planning meeting) | Gómez Vallejos Sergio André ,Aranda Vallejos, Oscar Gabriel ,Ticona Panduro, Estrella del Pilar ,Durand Vera, Gianfranco Angel, Miranda Sinarahua, Piero Stephano  | 
+| Sprint n-1 Review Summary | En resumen se desarrollaron avances del backend y frontend mobile | 
+| Sprint Planning Background | Durante esta etapa, se llevó a cabo una exhaustiva verificación de la funcionalidad del backend y frontend mobile. El objetivo principal fue asegurar que el frontend mobile cumpla con los estándares de calidad y proporcionar una experiencia óptima para los visitantes. Asimismo, se realizó la primera implementación de la aplicación mobil junto al backend sobre iniciar sesión con google y usar el backend para inserta, actualizar, eliminar u obtener datos de ella en el frontend. |
+| Sprint Goal & User Stories | 
+| Sprint 2 Goal | Desarrolar la funcionalidad de la aplicación movil con el CRUD en el frontend junto al backend. Se considerará que el objetivo del sprint se ha cumplido si todas las historias de usuario relacionadas con la mayoria de la aplicación movil están implementadas y si todas las historias de usuario relacionadas con la implementación de APIs para la gestión de una entidad están completadas en un 100%. |  
+| Sprint Velocity | Se establece un Velocity de 22 Story Points para este Sprint. | 
+| Sum of Story Points | 22 Story Points | 
+#### 6.2.2.2. Sprint Backlog 2
+
+<table align="center" border="1" width="90%" style="text-align:center">
+ <tr>
+    <td colspan="2"><b>User Story</b></td>
+    <td colspan="6"><b>Work-Item / Task</b></td>
+  </tr>
+  <tr>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Estimation</b></td>
+    <td><b>Assigned To</b></td>
+    <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+  </tr>
+  <tr>
+    <td>TS001</td>
+    <td>Crear Vacuna vía API</td>
+    <td>T01</td>
+    <td>Implementar exponer un endpoint para registrar una vacuna vía API</td>
+    <td>2</td>
+    <td>Ticona Panduro, Estrella del Pilar </td>
+    <td>Done</td>
+ </tr>
+ <tr>
+    <td>TS002</td>
+    <td>API para Búsqueda de Vacunas</td>
+    <td>T02</td>
+    <td>Implementación de un endpoint para buscar vacunas mediante criterios específicos</td>
+    <td>1</td>
+    <td>Durand Vera, Gianfranco Angel </td>
+    <td>Done</td>
+ </tr>
+ <tr>
+    <td>US002</td>
+    <td>Búsqueda de Vacunas</td>
+    <td>T03</td>
+    <td>Implementar busqueda de vacunas previamente registradas</td>
+    <td>3</td>
+    <td>Ticona Panduro, Estrella del Pilar </td>
+    <td>Done</td>
+ </tr>
+ <tr>
+    <td>TS003</td>
+    <td>API para Gestión de Vacunas</td>
+    <td>T04</td>
+    <td>Implementar endpoint para editar y eliminar registros de vacunas</td>
+    <td>2</td>
+    <td>Durand Vera, Gianfranco Angel </td>
+    <td>Done</td>
+ </tr>
+ <tr>
+    <td>TS004</td>
+    <td>API para Registro de Animales</td>
+    <td>T05</td>
+    <td>Implementar endpoint para registrar un bovino en un lote específico</td>
+    <td>3</td>
+    <td>Durand Vera, Gianfranco Angel </td>
+    <td>Done</td>
+ </tr>
+ <tr>
+    <td>US003</td>
+    <td>Gestión de Registros de Vacunas</td>
+    <td>T06</td>
+    <td>Implementar editar o eliminar el registro de una vacuna</td>
+    <td>2</td>
+    <td>Ticona Panduro, Estrella del Pilar </td>
+    <td>Done</td>
+ </tr>
+ <tr>
+    <td>TS005</td>
+    <td>API para Búsqueda de Animales</td>
+    <td>T07</td>
+    <td>Implementar un endpoint que permita buscar animales registrados usando parámetros de búsqueda</td>
+    <td>2</td>
+    <td>Aranda Vallejos, Oscar Gabriel </td>
+    <td>Done</td>
+ </tr>
+ <tr>
+    <td>TS006</td>
+    <td>API para Gestión de Animales</td>
+    <td>T08</td>
+    <td>Implementar funcionalidades para editar y eliminar animales registrados</td>
+    <td>2</td>
+    <td>Aranda Vallejos, Oscar Gabriel </td>
+    <td>Done</td>
+ </tr>
+ <tr>
+    <td>US004</td>
+    <td>Registro de Bovino en Lote</td>
+    <td>T09</td>
+    <td>Implementar un registro de un bovino en un lote específico</td>
+    <td>3</td>
+    <td>Aranda Vallejos, Oscar Gabriel </td>
+    <td>Done</td>
+ </tr>
+ <tr>
+    <td>TS007</td>
+    <td>API para Creación de Campaña</td>
+    <td>T10</td>
+    <td>Implementar un endpoint que permita la creación de campañas</td>
+    <td>2</td>
+    <td>Gómez Vallejos, Sergio André </td>
+    <td>Done</td>
+ </tr>
+ 
+
+</table>
+
+#### 6.2.2.3. Development Evidence for Sprint Review
+Durante este sprint, se han realizado avances significativos en la implementación de la Landing Page, backend y frontend del aplicativo mobile. Se han completado varias historias de usuario tanto de la landing page como del backend y se han realizado múltiples commits en los repositorios correspondientes.
+
+<table>
+   <tr>
+      <td>Repository</td>
+      <td>Branch</td>
+      <td>Component</td>
+      <td>Commit Id</td>
+      <td>Commit Message</td>
+      <td>Commited on (Date)</td>
+   </tr>
+   <tr>
+      <td>https://github.com/Bovinova/Web-Services----VacApp/commits/development/</td>
+      <td>Development</td>
+      <td>Backend</td>
+      <td>e3005c93bd604a2ffa1e7538fadaf958065b9afb</td>
+      <td>feat: add Stable FK in Campaign</td>
+      <td>May 24, 2025</td>
+   </tr>
+   <tr>
+      <td>https://github.com/Bovinova/Landing-Page----VacApp/tree/develop</td>
+      <td>Develop</td>
+      <td>Landing Page</td>
+      <td>34dfb4a928839b53d5c68ac63ec19daaa1048ddb</td>
+      <td>Merge branch 'feat/footer' into develop</td>
+      <td>May 11, 2025</td>
+   </tr>
+   <tr>
+      <td>https://github.com/Bovinova/Native-mobile-development----VacApp</td>
+      <td>Development</td>
+      <td>Mobile Frontend</td>
+      <td>b239a73974f4bdbf9abaa2b05cf6a309009c8e42</td>
+      <td>feat(add): get animals and home new sidebar</td>
+      <td>May 18, 2025</td>
+   </tr>
+</table>
+
+#### 6.2.2.4.Testing Suite Evidence for Sprint Review
+
+#### 6.2.2.5. Execution Evidence for Sprint Review
+Durante este Sprint, se han alcanzado varios hitos importantes en la implementación en el frontend mobile. Se han completado las siguientes tareas:
+
+- Agregar Vacuna al Registro.
+- Gestión de Registros de Vacunas.
+- Registro de Bovino en Lote.
+- Crear Vacuna vía API
+
+### Screenshots
+
+
+
+#### Mobile Frontend
+
+
+
+
+#### 6.2.1.6. Services Documentation Evidence for Sprint Review
+En esta sección se evidencia la documentación de los servicios implementados para el sprint actual que conforman el backend.
+
+#### Backend
+
+[![Captura-de-pantalla-2025-05-15-220233.png](https://i.postimg.cc/TYbtbpHL/Captura-de-pantalla-2025-05-15-220233.png)](https://postimg.cc/9rWP5F2C)
+
+#### Endpoint para registro e inicio de sesión
+
+
+
+#### Endpoint de establos
+
+[![Captura-de-pantalla-2025-05-15-220547.png](https://i.postimg.cc/bN0Q8bBT/Captura-de-pantalla-2025-05-15-220547.png)](https://postimg.cc/PPxLQLhp)
+
+#### Endpoint de bovinos
+
+[![Captura-de-pantalla-2025-05-15-220136.png](https://i.postimg.cc/W3tdRPcg/Captura-de-pantalla-2025-05-15-220136.png)](https://postimg.cc/jw0xNm5S)
+
+#### Endpoint de vacunas
+
+[![Captura-de-pantalla-2025-05-15-220740.png](https://i.postimg.cc/mZYcF4yZ/Captura-de-pantalla-2025-05-15-220740.png)](https://postimg.cc/MXGZhhLg)
+
+#### Endpoint de campañas
+
+[![Captura-de-pantalla-2025-05-15-220445.png](https://i.postimg.cc/9fQPLM1B/Captura-de-pantalla-2025-05-15-220445.png)](https://postimg.cc/4YjhdXDK)
+
+
+#### 6.2.1.7. Software Deployment Evidence for Sprint Review
+
+##### Frontend 
+
+La aplicación mobil se realizaron los siguientes pasos:
+
+#### 1. Preparación del proyecto
+Se organizó el proyecto con todos los archivos necesarios para el frontend:
+- Archivos kotlin, flutter e imágenes
+
+
+#### 2. 2
+
+#### 3. Nuevo sitio desde Git
+
+#### 4. Autorización y selección del repositorio
+
+#### 5. Configuración del despliegue
+
+
+#### 6. Despliegue automático
+
+#### 7. Personalización de dominio (opcional)
+
+#### 8. Actualizaciones automáticas
+
+#### 9. Monitoreo del sitio
+
+
+
+
+##### Backend
+
+Para el despliegue del backend se realizaron los siguientes pasos:
+
+##### 1. Ingresamos al portal de Azure
+Accedemos a [https://portal.azure.com](https://portal.azure.com) con nuestra cuenta para comenzar el proceso de despliegue.
+
+##### 2. Creamos un Grupo de Recursos
+Agrupamos todos los componentes relacionados con nuestro backend dentro de un grupo de recursos, lo que facilita su administración y organización.
+
+##### 3. Definimos un Plan de App Service
+Creamos un plan donde configuramos:
+- El sistema operativo (Linux o Windows)
+- La región del servidor
+- El tamaño del plan (por ejemplo, B1, F1, P1v2)
+
+##### 4. Configuramos una App Web (App Service)
+Creamos una nueva instancia de App Service seleccionando el grupo de recursos y el plan previamente definidos. Indicamos también la pila de tecnología (.NET) según nuestro backend.
+
+##### 5. Establecemos variables y configuraciones del entorno
+Agregamos variables de entorno, claves secretas, rutas y cadenas de conexión necesarias para el correcto funcionamiento del backend.
+
+##### 6. Preparamos nuestro backend para producción
+Nos aseguramos de que nuestra aplicación esté lista para ejecutarse en Azure, incluyendo:
+- Archivos de dependencias
+- Código limpio y portable
+
+##### 7. Elegimos el método de despliegue
+Seleccionamos cómo vamos a subir el backend a Azure:
+- Mediante integración continua desde GitHub
+- Subiendo el código directamente desde nuestro equipo
+- Usando FTP o un archivo ZIP desplegable
+
+##### 8. Realizamos el despliegue
+Subimos nuestro proyecto utilizando el método seleccionado. Si usamos GitHub, configuramos un flujo de trabajo de CI/CD para automatizar futuras actualizaciones.
+
+##### 9. Verificamos el estado del despliegue
+Revisamos los registros desde el portal para asegurarnos de que el despliegue fue exitoso y sin errores.
+
+##### 10. Accedemos a la aplicación
+Probamos la URL pública que nos proporciona Azure para verificar que nuestro backend está corriendo correctamente.
+
+##### 11. Monitoreamos y damos mantenimiento
+Activamos Application Insights o usamos los registros del App Service para monitorear el rendimiento, identificar errores y asegurar la estabilidad de la aplicación.
+
+[![dashboard-azure.jpg](https://i.postimg.cc/9MZZg73s/dashboard-azure.jpg)](https://postimg.cc/njVXCMh1)
+
 
 
 ##  Conclusiones 
