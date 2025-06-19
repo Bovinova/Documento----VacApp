@@ -2744,6 +2744,100 @@ Activamos Application Insights o usamos los registros del App Service para monit
 
 [![dashboard-azure.jpg](https://i.postimg.cc/9MZZg73s/dashboard-azure.jpg)](https://postimg.cc/njVXCMh1)
 
+#### 6.2.2.8. Team Collaboration Insights durint Sprint.
+
+### 6.3. Validation Interviews
+
+En esta seccion se realizaran entrevistas de validacion a usuarios de nuestros segmentos objetivos, con el fin de determinar si el diseño y las funciones implementadas han cumplido con sus expectativas y si considerarian usar la aplicacion de manera indispensable a futuro dentro del negocio. 
+
+#### 6.3.1. Diseño de entrevistas
+
+Para cada entrevista se mostrará el Landing page y la aplicación móvil a los usuarios. 
+
+**Preguntas a realizar**
+
+Acerca del Landing:
+
+- ¿Qué opinas del diseño del landing page? 
+
+- ¿Te queda claro la propuesta de solucion que se describe?
+
+- ¿La información en la página fue suficiente para entender el propósito de la aplicación?
+
+- Luego de analizar la landing page ¿Te sientes motivado a usar el aplicativo descrito?
+
+
+Acerca del app:
+
+- ¿Cómo describirias la experiencia usando la aplicacion? ¿Facil, intuitiva, o hubo alguna caracteristica que se te hizo dificil de entender?
+
+- ¿Crees que las funcionalidades ofrecidas en la aplicacion ayudara a mejorar la administracion de tu negocio de ganaderia?
+
+- ¿Estas conforme con la informacion mostrada en cada seccion, como animales, campañas, inventarios, etc?
+
+- ¿Dirías que la navegacion por la aplicacion es facil de comprender, o encuentras algo que te confunda?
+
+- ¿Hay alguna opcion adicional que agregarias o estas conforme con todo lo desarrollado?
+
+- ¿Recomendarías la aplicación a otras personas del rubro?
+
+#### 6.3.2. Registro de entrevistas
+
+## Segmento 1: Productores Ganadores independientes:
+
+*Nombre y Apelliido:*  <br>
+*Edad:*  <br>
+*Distrito:* u <br>
+*Inicio de la Entrevista:*  <br>
+*Duración de la Entrevista:*  <br>
+
+[imagen]!()
+
+*Resumen de la Entrevista*:
+
+---
+
+*Nombre y Apelliido:*  <br>
+*Edad:*  <br>
+*Distrito:* u <br>
+*Inicio de la Entrevista:*  <br>
+*Duración de la Entrevista:*  <br>
+
+[imagen]!()
+
+*Resumen de la Entrevista*:
+
+---
+
+## **Segmento #2: Empresas Ganaderas** 
+
+*Nombre y Apelliido:*  <br>
+*Edad:*  <br>
+*Distrito:* u <br>
+*Inicio de la Entrevista:*  <br>
+*Duración de la Entrevista:*  <br>
+
+[imagen]!()
+
+*Resumen de la Entrevista*:
+
+---
+
+*Nombre y Apelliido:*  <br>
+*Edad:*  <br>
+*Distrito:* u <br>
+*Inicio de la Entrevista:*  <br>
+*Duración de la Entrevista:*  <br>
+
+[imagen]!()
+
+*Resumen de la Entrevista*:
+
+#### 6.3.3. Evaluaciones segun heurísticas
+
+---
+
+### 6.4. Video About-The-Product
 
 ##  Conclusiones 
 
