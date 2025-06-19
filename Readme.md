@@ -2609,32 +2609,32 @@ Durante este Sprint, se han alcanzado varios hitos importantes en la implementac
 
 Authetication Google
 
-[![Captura-de-pantalla-2025-05-15-220233.png](https://i.imgur.com/f730xtx.jpeg)]
+![Captura-de-pantalla-2025-05-15-220233.png](https://i.imgur.com/f730xtx.jpeg)
 
-[![Captura-de-pantalla-2025-05-15-220233.png](https://i.imgur.com/9Wh6GMj.jpeg)]
+![Captura-de-pantalla-2025-05-15-220233.png](https://i.imgur.com/9Wh6GMj.jpeg)
 
 #### Mobile Frontend
 Kotlin:
 
-[![Captura-de-pantalla-2025-05-15-220233.png](https://i.imgur.com/egHNIDE.jpeg)]
+![Captura-de-pantalla-2025-05-15-220233.png](https://i.imgur.com/egHNIDE.jpeg)
 
-[![Captura-de-pantalla-2025-05-15-220233.png](https://i.imgur.com/7S3EAX6.jpeg)]
+![Captura-de-pantalla-2025-05-15-220233.png](https://i.imgur.com/7S3EAX6.jpeg)
 
-[![Captura-de-pantalla-2025-05-15-220233.png](https://i.imgur.com/HZu2wmd.jpeg)]
+![Captura-de-pantalla-2025-05-15-220233.png](https://i.imgur.com/HZu2wmd.jpeg)
 
-[![Captura-de-pantalla-2025-05-15-220233.png](https://i.imgur.com/qgpyOKr.jpeg)]
+![Captura-de-pantalla-2025-05-15-220233.png](https://i.imgur.com/qgpyOKr.jpeg)
 
-[![Captura-de-pantalla-2025-05-15-220233.png](https://i.imgur.com/whktomu.jpeg)]
+![Captura-de-pantalla-2025-05-15-220233.png](https://i.imgur.com/whktomu.jpeg)
 
-[![Captura-de-pantalla-2025-05-15-220233.png](https://i.imgur.com/WNTkMJe.jpeg)]
+![Captura-de-pantalla-2025-05-15-220233.png](https://i.imgur.com/WNTkMJe.jpeg)
 
-[![Captura-de-pantalla-2025-05-15-220233.png](https://i.imgur.com/8JjhZuy.jpeg)]
+![Captura-de-pantalla-2025-05-15-220233.png](https://i.imgur.com/8JjhZuy.jpeg)
 
-[![Captura-de-pantalla-2025-05-15-220233.png](https://i.imgur.com/pb18ciA.jpeg)]
+![Captura-de-pantalla-2025-05-15-220233.png](https://i.imgur.com/pb18ciA.jpeg)
 
-[![Captura-de-pantalla-2025-05-15-220233.png](https://i.imgur.com/WYR27KA.jpeg)]
+![Captura-de-pantalla-2025-05-15-220233.png](https://i.imgur.com/WYR27KA.jpeg)
 
-[![Captura-de-pantalla-2025-05-15-220233.png](https://i.imgur.com/pW069zw.jpeg)]
+![Captura-de-pantalla-2025-05-15-220233.png](https://i.imgur.com/pW069zw.jpeg)
 
 
 #### 6.2.1.6. Services Documentation Evidence for Sprint Review
@@ -2646,7 +2646,7 @@ En esta sección se evidencia la documentación de los servicios implementados p
 
 #### Endpoint para registro e inicio de sesión
 
-[![Captura-de-pantalla-2025-05-15-220547.png](https://i.imgur.com/5FeNN4y.png)]
+![Captura-de-pantalla-2025-05-15-220547.png](https://i.imgur.com/5FeNN4y.png)
 
 
 #### Endpoint de establos
