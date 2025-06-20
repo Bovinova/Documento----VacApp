@@ -2636,6 +2636,40 @@ Kotlin:
 
 ![Captura-de-pantalla-2025-05-15-220233.png](https://i.imgur.com/pW069zw.jpeg)
 
+Flutter: 
+
+**Login**
+
+![flutter-login](assets/flutter_login.jpg)
+
+**Register**
+
+![flutter-register](assets/flutter_register.jpg)
+
+**Home**
+
+![flutter-home](assets/flutter_home.jpg)
+
+**Bovines**
+
+![flutter-animals](assets/fluttler_animals_view.jpg)
+
+**Bovine detail**
+
+![flutter-animal](assets/flutter_animal_detail.jpg)
+
+**Add bovine**
+
+![flutter-add-animal](assets/flutter_add_animal.jpg)
+
+**Edit bovine**
+
+![flutter-edit-animal](assets/flutter_edit_animal.jpg)
+
+**Bars**
+
+![flutter-barns](assets/flutter_barns.jpg)
+
 
 #### 6.2.1.6. Services Documentation Evidence for Sprint Review
 En esta sección se evidencia la documentación de los servicios implementados para el sprint actual que conforman el backend.
