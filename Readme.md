@@ -2882,10 +2882,41 @@ Durante el desarrollo se priorizó la interacción constante con los usuarios fi
 
 
 ##  Anexos
+
+### Videos
+
 Entrevistas: https://shorturl.at/F1HUB
 
-Figma: https://www.figma.com/design/Ck5RdO3MzAm16SIReLDO15/Sin-t%C3%ADtulo?node-id=150-5796&t=hGN3YL7RfASQ5FFk-1 
+### Mockups
 
-Landing Page Deployed: https://vacapp-landing.netlify.app/
+Figma: https://www.figma.com/design/Ck5RdO3MzAm16SIReLDO15/Sin-t%C3%ADtulo?node-id=150-5796&t=hGN3YL7RfASQ5FFk-1
 
-Backend Deployed: https://vacappapi.azurewebsites.net/swagger/index.html
+### Repositorios
+
+Documentation: https://github.com/Bovinova/Documento----VacApp
+
+Backend: https://github.com/Bovinova/Web-Services----VacApp
+
+Kotlin Mobile App: https://github.com/Bovinova/Native-mobile-development----VacApp
+
+Landing Page: https://github.com/Bovinova/Landing-Page----VacApp
+
+Acceptance Test: https://github.com/Bovinova/Testing---VacApp
+
+### TB1
+
+Backend: https://vacapp-enfyaqdzc9bdghfq.canadacentral-01.azurewebsites.net/swagger/index.html
+
+Landing Page: https://vacapp-landing.netlify.app/
+
+### TP1
+
+Backend: https://vacappapi.azurewebsites.net/swagger/index.html
+
+Landing Page: https://vacapp-landing.netlify.app/
+
+### TB2
+
+Backend: https://vacappv2-bxcpfqarbwgpddh8.canadacentral-01.azurewebsites.net/swagger/index.html
+
+Landing Page: https://vacapp-landing.netlify.app/
