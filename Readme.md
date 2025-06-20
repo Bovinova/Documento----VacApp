@@ -2677,22 +2677,20 @@ Se organizó el proyecto con todos los archivos necesarios para el frontend:
 - Archivos kotlin, flutter e imágenes
 
 
-#### 2. 2
+#### 1. Kotlin Generate Apks
 
-#### 3. Nuevo sitio desde Git
+[![Captura-de-pantalla-2025-05-15-220445.png](https://i.imgur.com/SshPK1H.jpeg)
+#### 3. Generated APKs
+[![Captura-de-pantalla-2025-05-15-220445.png](https://i.imgur.com/RF2bDy1.jpeg)
 
-#### 4. Autorización y selección del repositorio
+#### 4. Se genera el apk en app/build/outputs/apk/debug
+[![Captura-de-pantalla-2025-05-15-220445.png](https://i.imgur.com/VIbae94.jpeg)
+#### 5. Confirmacion de Despliegue
 
-#### 5. Configuración del despliegue
 
+[![Captura-de-pantalla-2025-05-15-220445.png](https://i.imgur.com/t9ARRbH.jpeg)
 
-#### 6. Despliegue automático
-
-#### 7. Personalización de dominio (opcional)
-
-#### 8. Actualizaciones automáticas
-
-#### 9. Monitoreo del sitio
+[![Captura-de-pantalla-2025-05-15-220445.png](https://i.imgur.com/xSl56UL.jpeg)
 
 
 
