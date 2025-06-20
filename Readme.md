@@ -72,6 +72,9 @@
 |TB1          |   23/04/2025  |   Oscar Gabriel Aranda Vallejos  |  Ranch and Campaign Management Component Diagram    |
 |TB1          |   23/04/2025  |   Oscar Gabriel Aranda Vallejos  |  Context Mapping    |
 |TB1          |   24/04/2025  |   Oscar Gabriel Aranda Vallejos  |  Bounded Context Domain Layer Class Diagrams for Campaign Management Bounded Context   |
+| TB2         | 05/06/2025  | Estrella del Pilar Ticona Panduro  | Frontend (Android - Mobile) :  Agregar campaña.            |
+| TB2         | 12/06/2025  | Estrella del Pilar Ticona Panduro  |Frontend (Android - Mobile) : Añadidas pestañas Agregar establo|
+| TB2         | 12/06/2025  | Estrella del Pilar Ticona Panduro  | Implementar vistas asociadas para ambas funcionalidades(Establo y Campaña).   |
          
 
 **Project Report Collaboration Insights**
