@@ -2822,8 +2822,8 @@ Acerca del app:
 *Nombre y Apelliido:* Jorge Torres <br>
 *Edad:* 50 años  <br>
 *Distrito:* Lurin, Lima. <br>
-*Inicio de la Entrevista:*  <br>
-*Duración de la Entrevista:*  <br>
+*Inicio de la Entrevista:* 7:28 <br>
+*Duración de la Entrevista:* 8:47 min <br>
 
 ![ev_jorge_torres](assets/ev_jorge_torres.JPG)
 
@@ -2837,8 +2837,8 @@ Luego de comprobar la interaccion con el aplicativo, el usuario piensa que las o
 *Nombre y Apelliido:* Juan Jose Odria <br>
 *Edad:* 25 años <br>
 *Distrito:* Chorrillos, Lima. <br>
-*Inicio de la Entrevista:*  <br>
-*Duración de la Entrevista:*  <br>
+*Inicio de la Entrevista:* 21:02 <br>
+*Duración de la Entrevista:* 6:32 min <br>
 
 ![ev_juan_jose](assets/ev_juan_jose.JPG)
 
@@ -2852,8 +2852,8 @@ En cuanto a la aplicacion, él opina que el diseño esta bien ordenado y que le 
 *Nombre y Apelliido:* Camila Fernanda Morales  <br>
 *Edad:* 20 años <br>
 *Distrito:* Piura, Piura <br>
-*Inicio de la Entrevista:*  <br>
-*Duración de la Entrevista:*  <br>
+*Inicio de la Entrevista:* 16:17 <br>
+*Duración de la Entrevista:* 4:44 min <br>
 
 ![ev_camila_morales](assets/ev_camila_morales.JPG)
 
@@ -2868,8 +2868,8 @@ Por ultimo, ella opina que una vez terminada la aplicacion, ella si recomendaria
 *Nombre y Apelliido:* Camila Sanchez  <br>
 *Edad:* 20 años <br>
 *Distrito:* Surco, Lima. <br>
-*Inicio de la Entrevista:*  <br>
-*Duración de la Entrevista:*  <br>
+*Inicio de la Entrevista:* 0:00 <br>
+*Duración de la Entrevista:* 7:27 min <br>
 
 ![ev_camila_sanchez](assets/ev_camila_sanchez.JPG)
 
@@ -2882,15 +2882,36 @@ Por ultimo, ella opina que si recomendaria la aplicacion a otros ganaderos que b
 
 ---
 
-*Nombre y Apelliido:*  <br>
-*Edad:*  <br>
-*Distrito:* u <br>
-*Inicio de la Entrevista:*  <br>
-*Duración de la Entrevista:*  <br>
+*Nombre y Apelliido:* Juana Luz  <br>
+*Edad:* 36 años <br>
+*Distrito:* Los Olivos, Lima, Perú <br>
+*Inicio de la Entrevista:* 27:35 <br>
+*Duración de la Entrevista:* 5:58 min <br>
 
-[imagen]!()
+![ev_juana_luz](assets/ev_juana_luz.JPG)
 
 *Resumen de la Entrevista*:
+
+Juana Luz, de 36 años, expresó que encontró la aplicación dinámica y atractiva en su funcionamiento. Sin embargo, mencionó como punto de mejora la barrera del idioma, ya que el contenido en inglés dificultaba su experiencia. Sugirió que incorporar la opción en español haría la app más accesible para usuarios hispanohablantes.
+
+---
+
+*Nombre y Apelliido:* Arturo Gálvez  <br>
+*Edad:* 40 años <br>
+*Distrito:* Callao, Lima, Perú <br>
+*Inicio de la Entrevista:* 33:34 <br>
+*Duración de la Entrevista:* 7:27 min <br>
+
+![ev_arturo_galvez](assets/ev_arturo_galvez.JPG)
+
+*Resumen de la Entrevista*:
+
+Arturo Gálvez, de 40 años, destacó que la landing page le resultó bastante práctica para visualizar los servicios ofrecidos por la aplicación. Señaló que recomendaría la app a personas del rubro ganadero, ya que facilita el registro de información sobre el ganado sin necesidad de anotaciones manuales, permitiendo acceder a esos datos directamente desde el celular.
+
+#### Link a entrevistas:
+
+[Link to Validation Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181g752_upc_edu_pe/EaPYaQPtxnlPg3Qs3egBF14Ba6odst6zUhn6jzhN2_NvJQ?e=bpHlh3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 
 #### 6.3.3. Evaluaciones segun heurísticas
 
@@ -3008,3 +3029,5 @@ Figma: https://www.figma.com/design/Ck5RdO3MzAm16SIReLDO15/Sin-t%C3%ADtulo?node-
 Landing Page Deployed: https://vacapp-landing.netlify.app/
 
 Backend Deployed: https://vacappapi.azurewebsites.net/swagger/index.html
+
+Entrevistas de Validacion: [Validation Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181g752_upc_edu_pe/EaPYaQPtxnlPg3Qs3egBF14Ba6odst6zUhn6jzhN2_NvJQ?e=bpHlh3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
