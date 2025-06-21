@@ -8,7 +8,7 @@
         <p><strong>Ciclo:</strong> 2025-01 </p>
         <p><strong>Profesor:</strong> Jorge Luis Mayta Guillermo</p>
     <h3>"Informe de Trabajo Parcial"</h3>
-    <h4>TB1</h4>
+    <h4>TP</h4>
         <p><strong>Tema:</strong> Gestion de ganaderia </p>
         <p><strong>Producto:</strong> VacApp de Bovinova</p>
         <p><strong>Mayo, 2025</strong></p>
@@ -341,7 +341,7 @@ Nos esforzamos por ofrecer una plataforma integral que empodere a los ganaderos 
 |<img src="https://hackmd.io/_uploads/B1F_iuso0.jpg" alt="yo-3" style="width: 600px ; height: 200px;">|Maycol Jhordan Rojas Velasquez – Ingeniería de Software – u202219984<br>Elegí la carrera de Ingeniería de Software debido a mi gusto por la innovación y la implementación de la tecnología en cualquier rubro  social, de una manera creativa y en todos los aspectos. Me considero una persona creativa, en busca de ideas, estrategias con mente nueva. También me gusta escuchar ideas de mi equipo, dar ideas de mejora, evaluar las ventajas y desventajas . Además, tengo conocimientos de programación en C + +, HTML, Python,Angular,Backend en Java. Además, Tengo un enfoque responsable y dedicado mediante un aprendizaje rápido así puedo ayudar a mis compañeros en sus dudas. Por otro lado, mis hobbies son ver series, jugar , escuchar música, nadar y  manejar.|
 | <img src="./assets/estrella.jpeg">|Ticona Panduro, Estrella del Pilar - U202210659  <br> actualmente estudio la carrera de Ingeniería de Software en UPC. Opté por estudiar esta carrera porque me interesa programar y crear diferentes aplicativos o programas y emplearlo en la salud. En mis tiempos libres me gusta ver series o películas. Mi compromiso es aportar ideas innovadoras a lo largo del curso, en especial en las tareas en equipo. Mis habilidades son tener una actitud positiva, entusiasta y responsable. | 
 | <img src="assets/franco.jpg" > | Durand Vera, Gianfranco Angel - U20201f640 <br> Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, actualmente me encuentro en el septimo ciclo, escogí esta carrera porque me gusta mucho la programación. Tengo experiencia en lenguajes de programación como C#, Python, Kotlin y TypeScript.|
-|![Piero]()| Miranda Sinarahua, Piero Stephano - U20181g752 <br> | 
+|![Piero](assets/piero.jpg)| Miranda Sinarahua, Piero Stephano - U20181g752 <br> Estudiante de la carrera de Ingeniería de Software. Considero que soy una persona responsable y que puedo aportar al equipo en cualquier aspecto que se requiera. De igual manera, siento que los conocimientos que he ido adquiriendo en ciclos anteriores serán de gran ayuda para llevar a cabo el presente trabajo. | 
 
 ## 1.2. **Solution Profile**
 
@@ -2661,6 +2661,40 @@ Kotlin:
 
 ![Captura-de-pantalla-2025-05-15-220233.png](https://i.imgur.com/pW069zw.jpeg)
 
+Flutter: 
+
+**Login**
+
+![flutter-login](assets/flutter_login.jpg)
+
+**Register**
+
+![flutter-register](assets/flutter_register.jpg)
+
+**Home**
+
+![flutter-home](assets/flutter_home.jpg)
+
+**Bovines**
+
+![flutter-animals](assets/fluttler_animals_view.jpg)
+
+**Bovine detail**
+
+![flutter-animal](assets/flutter_animal_detail.jpg)
+
+**Add bovine**
+
+![flutter-add-animal](assets/flutter_add_animal.jpg)
+
+**Edit bovine**
+
+![flutter-edit-animal](assets/flutter_edit_animal.jpg)
+
+**Bars**
+
+![flutter-barns](assets/flutter_barns.jpg)
+
 
 #### 6.2.1.6. Services Documentation Evidence for Sprint Review
 En esta sección se evidencia la documentación de los servicios implementados para el sprint actual que conforman el backend.
@@ -2767,6 +2801,224 @@ Activamos Application Insights o usamos los registros del App Service para monit
 
 [![dashboard-azure.jpg](https://i.postimg.cc/9MZZg73s/dashboard-azure.jpg)](https://postimg.cc/njVXCMh1)
 
+#### 6.2.2.8. Team Collaboration Insights durint Sprint.
+
+### 6.3. Validation Interviews
+
+En esta seccion se realizaran entrevistas de validacion a usuarios de nuestros segmentos objetivos, con el fin de determinar si el diseño y las funciones implementadas han cumplido con sus expectativas y si considerarian usar la aplicacion de manera indispensable a futuro dentro del negocio. 
+
+#### 6.3.1. Diseño de entrevistas
+
+Para cada entrevista se mostrará el Landing page y la aplicación móvil a los usuarios. 
+
+**Preguntas a realizar**
+
+Acerca del Landing:
+
+- ¿Qué opinas del diseño del landing page? 
+
+- ¿Te queda claro la propuesta de solucion que se describe?
+
+- ¿La información en la página fue suficiente para entender el propósito de la aplicación?
+
+- Luego de analizar la landing page ¿Te sientes motivado a usar el aplicativo descrito?
+
+
+Acerca del app:
+
+- ¿Cómo describirias la experiencia usando la aplicacion? ¿Facil, intuitiva, o hubo alguna caracteristica que se te hizo dificil de entender?
+
+- ¿Crees que las funcionalidades ofrecidas en la aplicacion ayudara a mejorar la administracion de tu negocio de ganaderia?
+
+- ¿Estas conforme con la informacion mostrada en cada seccion, como animales, campañas, inventarios, etc?
+
+- ¿Dirías que la navegacion por la aplicacion es facil de comprender, o encuentras algo que te confunda?
+
+- ¿Hay alguna opcion adicional que agregarias o estas conforme con todo lo desarrollado?
+
+- ¿Recomendarías la aplicación a otras personas del rubro?
+
+#### 6.3.2. Registro de entrevistas
+
+## Segmento 1: Productores Ganadores independientes:
+
+*Nombre y Apelliido:* Jorge Torres <br>
+*Edad:* 50 años  <br>
+*Distrito:* Lurin, Lima. <br>
+*Inicio de la Entrevista:* 7:28 <br>
+*Duración de la Entrevista:* 8:47 min <br>
+
+![ev_jorge_torres](assets/ev_jorge_torres.JPG)
+
+*Resumen de la Entrevista*:
+
+El sr. Jorge Torres, granjero independiente desde hace ya 30 años, comenta que luego de haber interactuado con el landing page, le queda claro la propuesta que se ofrece. Tambien le llama la atencion la simpleza que se uso en el diseño, al igual que las funcionalidades que se describen. Él principalmente destaca las funciones de registro de animales, salud y gestion de inventario, como las principales funciones por las que estaria mayornmente interesado. 
+Luego de comprobar la interaccion con el aplicativo, el usuario piensa que las opciones que se muestran son faciles de recordar, y que la navegacion entre ellas tambien es sencilla. Sin embargo, algo que no le quedo claro, fue el apartado de las campañas, y de como funcionaban. Recalcó que si se pudiera especificar mejor algunas secciones del app, seria de gran ayuda. Por lo demas, quedo satisfecho con lo mostrado, y piensa que un aplicativo como este le seria de gran ayuda en su negocio de ganaderia. 
+
+---
+
+*Nombre y Apelliido:* Juan Jose Odria <br>
+*Edad:* 25 años <br>
+*Distrito:* Chorrillos, Lima. <br>
+*Inicio de la Entrevista:* 21:02 <br>
+*Duración de la Entrevista:* 6:32 min <br>
+
+![ev_juan_jose](assets/ev_juan_jose.JPG)
+
+*Resumen de la Entrevista*:
+
+El sr. Jose, ganadero independiente, opina que la landing page tiene todo lo necesario para comprender en que consiste la aplicacion y las funcionalidades que este ofrece, al igual que el problema que se piensa solucionar. 
+En cuanto a la aplicacion, él opina que el diseño esta bien ordenado y que le queda claro la interfaz que se presenta. Tambien los apartados de vacunas y gestion de inventario son algunas de las funciones las cuales le serian de mayor ayuda en su negocio. En cuanto a la navegacion, siente que es facil de comprender y que no tendria problemas al adaptarse al uso del aplicativo. Por ultimo, él sugiere que una opcion que no vio en la aplicacion y que le gustaria ver en el futuro, seria un filtro para poder buscar a sus animales por sus nombres respectivos.
+
+---
+
+*Nombre y Apelliido:* Camila Fernanda Morales  <br>
+*Edad:* 20 años <br>
+*Distrito:* Piura, Piura <br>
+*Inicio de la Entrevista:* 16:17 <br>
+*Duración de la Entrevista:* 4:44 min <br>
+
+![ev_camila_morales](assets/ev_camila_morales.JPG)
+
+*Resumen de la Entrevista*:
+
+Camila interactua directamente con el aplicativo desde su telefono. Al navegar por la landing page, siente que este ofrece una experiencia facil e intuitiva. Tambien menciona que al leer la informacion mostrada le queda claramente lo que se ofrece, y algo que le llamo mas la atencion fueron las funcionalidades especificas que se mencionan en el landing page. 
+Una vez instalado la aplicacion, uno de los aspectos que se le complico ligeramente fue en la pantalla de inicio, donde ciertos textos no se visualizaban correctamente. Otro problema que cuenta segun su experiencia con el app es que al momento de crear una cuenta, el boton de registro no lograba realizar la accion correspondiente. Pero despues de ciertos intentos, logro registrarse. En cuanto a la navegacion, las opciones mostradas en el menu principal le quedaron claras y que estan bien definidas, y que las funcionalidades desarrolladas son las mas fundamentales, y que no agregaria nuevos apartados de momento.
+Por ultimo, ella opina que una vez terminada la aplicacion, ella si recomendaria su uso a otras personas del rubro de la ganaderia, ya que este facilitaria ampliamente la administracion del negocio.
+
+## **Segmento #2: Empresas Ganaderas** 
+
+*Nombre y Apelliido:* Camila Sanchez  <br>
+*Edad:* 20 años <br>
+*Distrito:* Surco, Lima. <br>
+*Inicio de la Entrevista:* 0:00 <br>
+*Duración de la Entrevista:* 7:27 min <br>
+
+![ev_camila_sanchez](assets/ev_camila_sanchez.JPG)
+
+*Resumen de la Entrevista*:
+
+Camila, trabajadora del sector ganadero, opina que el diseño del landing page le parece interesante, al igual que los elementos que se usaron y la distribucion de estos mismos. Tambien comenta que la propuesta de la pagina y la informacion mostrada si le fue suficiente para comprender en lo que consiste la aplicacion que se le ofrece. 
+Una vez interactúa con la aplicacion, ella piensa que el diseño es facil e intuitivo, y que las opciones mostradas estan correctamente guiadas. 
+Algo que le gustaria ver dentro de la aplicacion es la opcion de generar reportes, al igual que algunas alertas que notifiquen acerca de las campañas o eventos registrados en la aplicacion. 
+Por ultimo, ella opina que si recomendaria la aplicacion a otros ganaderos que busquen mejorar la gestion de sus negocios. 
+
+---
+
+*Nombre y Apelliido:* Juana Luz  <br>
+*Edad:* 36 años <br>
+*Distrito:* Los Olivos, Lima, Perú <br>
+*Inicio de la Entrevista:* 27:35 <br>
+*Duración de la Entrevista:* 5:58 min <br>
+
+![ev_juana_luz](assets/ev_juana_luz.JPG)
+
+*Resumen de la Entrevista*:
+
+Juana Luz, de 36 años, expresó que encontró la aplicación dinámica y atractiva en su funcionamiento. Sin embargo, mencionó como punto de mejora la barrera del idioma, ya que el contenido en inglés dificultaba su experiencia. Sugirió que incorporar la opción en español haría la app más accesible para usuarios hispanohablantes.
+
+---
+
+*Nombre y Apelliido:* Arturo Gálvez  <br>
+*Edad:* 40 años <br>
+*Distrito:* Callao, Lima, Perú <br>
+*Inicio de la Entrevista:* 33:34 <br>
+*Duración de la Entrevista:* 7:27 min <br>
+
+![ev_arturo_galvez](assets/ev_arturo_galvez.JPG)
+
+*Resumen de la Entrevista*:
+
+Arturo Gálvez, de 40 años, destacó que la landing page le resultó bastante práctica para visualizar los servicios ofrecidos por la aplicación. Señaló que recomendaría la app a personas del rubro ganadero, ya que facilita el registro de información sobre el ganado sin necesidad de anotaciones manuales, permitiendo acceder a esos datos directamente desde el celular.
+
+#### Link a entrevistas:
+
+[Link to Validation Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181g752_upc_edu_pe/EaPYaQPtxnlPg3Qs3egBF14Ba6odst6zUhn6jzhN2_NvJQ?e=bpHlh3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+
+#### 6.3.3. Evaluaciones segun heurísticas
+
+En la siguiente seccion, se evaluaran y detectaran los posibles problemas mencionados por los usuarios de las entrevistas de validacion. Las heuristicas que se tomaran en cuenta seran las de usabilidad, arquitectura de la informacion y diseño inclusivo. 
+
+
+**Tareas a evaluar:**
+
+- Comprension de las funcionalidades implementadas. 
+- Busqueda de animales.
+- Sistema de notificaciones.
+- Diseño optimo
+
+**Escala de severidad:**
+
+| Nivel | Descripcion                  |
+|-------|------------------------------|
+|  1    |   Problema superficial: Puede ser fácilmente superador por el usuario y ocurre con muy pocafrecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.                           |
+|  2    |   Problema menor: Puede ocurrir un poco más frecuentemente o es un poco más difícil desuperar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguientereléase.                           |
+|  3    |   Problema mayor: Ocurre frecuentemente o los usuarios no son capaces de resolverlos. Esimportante que sean corregidos y se les debe asignar una prioridad alta                           |
+|  4    |    Problema muy grave: Un error de gran impacto que impide al usuario continuar con el uso dela herramienta. Es imperativo que sea corregido antes del lanzamiento                          |
+
+**Tabla de resumen**
+
+| #  | Problema                                                                 | Escala de severidad | Heurística/Principio violada(o)                                   |
+|----|--------------------------------------------------------------------------|----------------------|------------------------------------------------------------------|
+| 1  |  No quedo claro como funciona la seccion de campañas.                    |          2           |  Usability: Coincidencia entre el sistema y el mundo real        |
+| 2  |  Falta de filtro para busqueda de animales                               |          3           |   Information Architecture: Is it findable?                      |
+| 3  |  Falta del sistema de notificaciones por medio de alertas.               |          2           |   Usability: Visibilidad del estado del sistema                  |
+| 4  |  No se pudieron visualizar ciertos textos al instalar la aplicacion      |          3           |     Inclusive Design: Evita dependencias sensoriales             |
+| 5  |                                                                          |                      |                                                                  |
+
+**Descripcion de problemas**
+
+Problema #1: No quedo claro como funciona la seccion de campañas.
+
+Severidad: 2 
+
+Heuristica violada: Usability: Coincidencia entre el sistema y el mundo real 
+
+Problema: Cuando el usuario navega por las distintas funcionalidades que ofrece la aplicacion, a primera vista, no logra comprender como funciona la opcion de "campañas", principalemte porque no hubo una previa descripcion que le indicara cual es el proposito de esta funcionalidad.
+
+
+Recomendacion: Lo mas optimo seria implementar un texto que apareciera al inicio de cada funcionalidad que le indicara al usuario que es lo que debe hacer en cada apartado y cual es el proposito de este mismo. 
+
+---
+
+Problema #2: Falta de filtro para busqueda de animales
+
+Severidad: 3
+
+Heuristica violada: Information Architecture: Is it findable?
+
+Problema: El usuario menciona que el hecho de que no se disponga de un filtro de busqueda en el apartado de sus animales registrados puede llegar a demorar el proceso de busqueda de un animal en especifico. 
+
+Recomendacion: Agregar un boton en el cual el usuario pueda ingresar el nombre de uno de sus animales, y asi poder encontrarlos con mas facilidad. 
+
+---
+
+Problema #3: Falta del sistema de notificaciones por medio de alertas.
+
+Severidad: 2
+
+Heuristica violada: Usability: Visibilidad del estado del sistema
+
+Problema: El usuario nota que no se ha implementado aun un sistema el cual le brinde notificaciones acerca de sus campañas o estado de inventarios correspondiente a su negocio. 
+
+Recomendacion: Implementar el sistema de alertas para que los usuarios esten al tanto del estado y las variaciones que puedan haber en su negocio de ganaderia. 
+
+---
+
+Problema: No se pudieron visualizar ciertos textos al instalar la aplicacion 
+
+Severidad: 3
+
+Heuristica violadoa: Inclusive Design: Evita dependencias sensoriales
+
+Problema: Al instalar el APK en su telefono personal, el usuario nota que hay ciertas fallas en la visualizacion de algunos textos presentes en el home de la aplicacion, lo cual le impide leer correctamente la informacion que se muestra. 
+
+Recomendacion: Realizar mas pruebas para corroborar que lo desarrollado se pueda visualizar en distintos dispositivos moviles. 
+
+---
+
+### 6.4. Video About-The-Product
 
 ##  Conclusiones 
 
@@ -2797,3 +3049,8 @@ Entrevistas: https://shorturl.at/F1HUB
 
 Figma: https://www.figma.com/design/Ck5RdO3MzAm16SIReLDO15/Sin-t%C3%ADtulo?node-id=150-5796&t=hGN3YL7RfASQ5FFk-1 
 
+Landing Page Deployed: https://vacapp-landing.netlify.app/
+
+Backend Deployed: https://vacappapi.azurewebsites.net/swagger/index.html
+
+Entrevistas de Validacion: [Validation Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181g752_upc_edu_pe/EaPYaQPtxnlPg3Qs3egBF14Ba6odst6zUhn6jzhN2_NvJQ?e=bpHlh3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
