@@ -2894,6 +2894,84 @@ Por ultimo, ella opina que si recomendaria la aplicacion a otros ganaderos que b
 
 #### 6.3.3. Evaluaciones segun heurísticas
 
+En la siguiente seccion, se evaluaran y detectaran los posibles problemas mencionados por los usuarios de las entrevistas de validacion. Las heuristicas que se tomaran en cuenta seran las de usabilidad, arquitectura de la informacion y diseño inclusivo. 
+
+
+**Tareas a evaluar:**
+
+- Comprension de las funcionalidades implementadas. 
+- Busqueda de animales.
+- Sistema de notificaciones.
+- Diseño optimo
+
+**Escala de severidad:**
+
+| Nivel | Descripcion                  |
+|-------|------------------------------|
+|  1    |   Problema superficial: Puede ser fácilmente superador por el usuario y ocurre con muy pocafrecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.                           |
+|  2    |   Problema menor: Puede ocurrir un poco más frecuentemente o es un poco más difícil desuperar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguientereléase.                           |
+|  3    |   Problema mayor: Ocurre frecuentemente o los usuarios no son capaces de resolverlos. Esimportante que sean corregidos y se les debe asignar una prioridad alta                           |
+|  4    |    Problema muy grave: Un error de gran impacto que impide al usuario continuar con el uso dela herramienta. Es imperativo que sea corregido antes del lanzamiento                          |
+
+**Tabla de resumen**
+
+| #  | Problema                                                                 | Escala de severidad | Heurística/Principio violada(o)                                   |
+|----|--------------------------------------------------------------------------|----------------------|------------------------------------------------------------------|
+| 1  |  No quedo claro como funciona la seccion de campañas.                    |          2           |  Usability: Coincidencia entre el sistema y el mundo real        |
+| 2  |  Falta de filtro para busqueda de animales                               |          3           |   Information Architecture: Is it findable?                      |
+| 3  |  Falta del sistema de notificaciones por medio de alertas.               |          2           |   Usability: Visibilidad del estado del sistema                  |
+| 4  |  No se pudieron visualizar ciertos textos al instalar la aplicacion      |          3           |     Inclusive Design: Evita dependencias sensoriales             |
+| 5  |                                                                          |                      |                                                                  |
+
+**Descripcion de problemas**
+
+Problema #1: No quedo claro como funciona la seccion de campañas.
+
+Severidad: 2 
+
+Heuristica violada: Usability: Coincidencia entre el sistema y el mundo real 
+
+Problema: Cuando el usuario navega por las distintas funcionalidades que ofrece la aplicacion, a primera vista, no logra comprender como funciona la opcion de "campañas", principalemte porque no hubo una previa descripcion que le indicara cual es el proposito de esta funcionalidad.
+
+
+Recomendacion: Lo mas optimo seria implementar un texto que apareciera al inicio de cada funcionalidad que le indicara al usuario que es lo que debe hacer en cada apartado y cual es el proposito de este mismo. 
+
+---
+
+Problema #2: Falta de filtro para busqueda de animales
+
+Severidad: 3
+
+Heuristica violada: Information Architecture: Is it findable?
+
+Problema: El usuario menciona que el hecho de que no se disponga de un filtro de busqueda en el apartado de sus animales registrados puede llegar a demorar el proceso de busqueda de un animal en especifico. 
+
+Recomendacion: Agregar un boton en el cual el usuario pueda ingresar el nombre de uno de sus animales, y asi poder encontrarlos con mas facilidad. 
+
+---
+
+Problema #3: Falta del sistema de notificaciones por medio de alertas.
+
+Severidad: 2
+
+Heuristica violada: Usability: Visibilidad del estado del sistema
+
+Problema: El usuario nota que no se ha implementado aun un sistema el cual le brinde notificaciones acerca de sus campañas o estado de inventarios correspondiente a su negocio. 
+
+Recomendacion: Implementar el sistema de alertas para que los usuarios esten al tanto del estado y las variaciones que puedan haber en su negocio de ganaderia. 
+
+---
+
+Problema: No se pudieron visualizar ciertos textos al instalar la aplicacion 
+
+Severidad: 3
+
+Heuristica violadoa: Inclusive Design: Evita dependencias sensoriales
+
+Problema: Al instalar el APK en su telefono personal, el usuario nota que hay ciertas fallas en la visualizacion de algunos textos presentes en el home de la aplicacion, lo cual le impide leer correctamente la informacion que se muestra. 
+
+Recomendacion: Realizar mas pruebas para corroborar que lo desarrollado se pueda visualizar en distintos dispositivos moviles. 
+
 ---
 
 ### 6.4. Video About-The-Product
