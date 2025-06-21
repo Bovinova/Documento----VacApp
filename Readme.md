@@ -2819,41 +2819,66 @@ Acerca del app:
 
 ## Segmento 1: Productores Ganadores independientes:
 
-*Nombre y Apelliido:*  <br>
-*Edad:*  <br>
-*Distrito:* u <br>
+*Nombre y Apelliido:* Jorge Torres <br>
+*Edad:* 50 años  <br>
+*Distrito:* Lurin, Lima. <br>
 *Inicio de la Entrevista:*  <br>
 *Duración de la Entrevista:*  <br>
 
-[imagen]!()
+![ev_jorge_torres](assets/ev_jorge_torres.JPG)
 
 *Resumen de la Entrevista*:
 
+El sr. Jorge Torres, granjero independiente desde hace ya 30 años, comenta que luego de haber interactuado con el landing page, le queda claro la propuesta que se ofrece. Tambien le llama la atencion la simpleza que se uso en el diseño, al igual que las funcionalidades que se describen. Él principalmente destaca las funciones de registro de animales, salud y gestion de inventario, como las principales funciones por las que estaria mayornmente interesado. 
+Luego de comprobar la interaccion con el aplicativo, el usuario piensa que las opciones que se muestran son faciles de recordar, y que la navegacion entre ellas tambien es sencilla. Sin embargo, algo que no le quedo claro, fue el apartado de las campañas, y de como funcionaban. Recalcó que si se pudiera especificar mejor algunas secciones del app, seria de gran ayuda. Por lo demas, quedo satisfecho con lo mostrado, y piensa que un aplicativo como este le seria de gran ayuda en su negocio de ganaderia. 
+
 ---
 
-*Nombre y Apelliido:*  <br>
-*Edad:*  <br>
-*Distrito:* u <br>
+*Nombre y Apelliido:* Juan Jose Odria <br>
+*Edad:* 25 años <br>
+*Distrito:* Chorrillos, Lima. <br>
 *Inicio de la Entrevista:*  <br>
 *Duración de la Entrevista:*  <br>
 
-[imagen]!()
+![ev_juan_jose](assets/ev_juan_jose.JPG)
 
 *Resumen de la Entrevista*:
 
+El sr. Jose, ganadero independiente, opina que la landing page tiene todo lo necesario para comprender en que consiste la aplicacion y las funcionalidades que este ofrece, al igual que el problema que se piensa solucionar. 
+En cuanto a la aplicacion, él opina que el diseño esta bien ordenado y que le queda claro la interfaz que se presenta. Tambien los apartados de vacunas y gestion de inventario son algunas de las funciones las cuales le serian de mayor ayuda en su negocio. En cuanto a la navegacion, siente que es facil de comprender y que no tendria problemas al adaptarse al uso del aplicativo. Por ultimo, él sugiere que una opcion que no vio en la aplicacion y que le gustaria ver en el futuro, seria un filtro para poder buscar a sus animales por sus nombres respectivos.
+
 ---
+
+*Nombre y Apelliido:* Camila Fernanda Morales  <br>
+*Edad:* 20 años <br>
+*Distrito:* Piura, Piura <br>
+*Inicio de la Entrevista:*  <br>
+*Duración de la Entrevista:*  <br>
+
+![ev_camila_morales](assets/ev_camila_morales.JPG)
+
+*Resumen de la Entrevista*:
+
+Camila interactua directamente con el aplicativo desde su telefono. Al navegar por la landing page, siente que este ofrece una experiencia facil e intuitiva. Tambien menciona que al leer la informacion mostrada le queda claramente lo que se ofrece, y algo que le llamo mas la atencion fueron las funcionalidades especificas que se mencionan en el landing page. 
+Una vez instalado la aplicacion, uno de los aspectos que se le complico ligeramente fue en la pantalla de inicio, donde ciertos textos no se visualizaban correctamente. Otro problema que cuenta segun su experiencia con el app es que al momento de crear una cuenta, el boton de registro no lograba realizar la accion correspondiente. Pero despues de ciertos intentos, logro registrarse. En cuanto a la navegacion, las opciones mostradas en el menu principal le quedaron claras y que estan bien definidas, y que las funcionalidades desarrolladas son las mas fundamentales, y que no agregaria nuevos apartados de momento.
+Por ultimo, ella opina que una vez terminada la aplicacion, ella si recomendaria su uso a otras personas del rubro de la ganaderia, ya que este facilitaria ampliamente la administracion del negocio.
 
 ## **Segmento #2: Empresas Ganaderas** 
 
-*Nombre y Apelliido:*  <br>
-*Edad:*  <br>
-*Distrito:* u <br>
+*Nombre y Apelliido:* Camila Sanchez  <br>
+*Edad:* 20 años <br>
+*Distrito:* Surco, Lima. <br>
 *Inicio de la Entrevista:*  <br>
 *Duración de la Entrevista:*  <br>
 
-[imagen]!()
+![ev_camila_sanchez](assets/ev_camila_sanchez.JPG)
 
 *Resumen de la Entrevista*:
+
+Camila, trabajadora del sector ganadero, opina que el diseño del landing page le parece interesante, al igual que los elementos que se usaron y la distribucion de estos mismos. Tambien comenta que la propuesta de la pagina y la informacion mostrada si le fue suficiente para comprender en lo que consiste la aplicacion que se le ofrece. 
+Una vez interactúa con la aplicacion, ella piensa que el diseño es facil e intuitivo, y que las opciones mostradas estan correctamente guiadas. 
+Algo que le gustaria ver dentro de la aplicacion es la opcion de generar reportes, al igual que algunas alertas que notifiquen acerca de las campañas o eventos registrados en la aplicacion. 
+Por ultimo, ella opina que si recomendaria la aplicacion a otros ganaderos que busquen mejorar la gestion de sus negocios. 
 
 ---
 
