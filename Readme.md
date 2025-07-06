@@ -2011,7 +2011,8 @@ En esta sección, detallamos el proceso de implementación de nuestra landing pa
 
 Este proceso garantiza el despliegue satisfactorio de nuestra landing page en la plataforma de Netlifly, siguiendo las especificaciones y requisitos de nuestro proyecto.
 **Enlace de la Landing Page: https://vacapp-landing.netlify.app/**
-
+<br>
+**About the product: https://www.youtube.com/watch?v=JmOW2IkXjeI**
 <br>
 **Deployment Backend:**
 En esta sección, detallamos el proceso de implementación de nuestro backend en la plataforma de Microsoft Azure.
@@ -2433,6 +2434,8 @@ Se destacó la relevancia de adaptar la experiencia a distintos dispositivos, as
 ##### Integrantes
 
 La participación de cada miembro del equipo fue crucial para desarrollar los componentes requeridos para este primer sprint y ofrecer un producto mínimo viable.
+
+##### About the Team: 
 
 [![Captura-de-pantalla-2025-05-15-230656.png](https://i.postimg.cc/ThMDV2Hf/Captura-de-pantalla-2025-05-15-230656.png)](https://postimg.cc/QKmCsD3y)
 ### 6.2.2. Sprint 2
@@ -2920,3 +2923,5 @@ Landing Page: https://vacapp-landing.netlify.app/
 Backend: https://vacappv2-bxcpfqarbwgpddh8.canadacentral-01.azurewebsites.net/swagger/index.html
 
 Landing Page: https://vacapp-landing.netlify.app/
+
+About the product: https://www.youtube.com/watch?v=JmOW2IkXjeI
