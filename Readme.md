@@ -7,11 +7,11 @@
         <p><strong>Carrera:</strong> Ingeniería de Software</p>
         <p><strong>Ciclo:</strong> 2025-01 </p>
         <p><strong>Profesor:</strong> Jorge Luis Mayta Guillermo</p>
-    <h3>"Informe de Trabajo Parcial"</h3>
-    <h4>TP</h4>
+    <h3>"Informe de Trabajo Final"</h3>
+    <h4>TB2</h4>
         <p><strong>Tema:</strong> Gestion de ganaderia </p>
         <p><strong>Producto:</strong> VacApp de Bovinova</p>
-        <p><strong>Mayo, 2025</strong></p>
+        <p><strong>Junio, 2025</strong></p>
 </div>
 <div style="text-align:left;">
     <h3>Integrantes:</h3>
@@ -338,8 +338,9 @@ Nos esforzamos por ofrecer una plataforma integral que empodere a los ganaderos 
 | [![Captura-de-pantalla-2024-09-08-151747.png](https://i.postimg.cc/6qRCcvNF/Captura-de-pantalla-2024-09-08-151747.png)](https://postimg.cc/kRJVXDGy) |Aranda Vallejos, Oscar Gabriel - U202218167 <br> Tengo 20 años y soy estudiante de la carrera de Ingeniería de Software, poseo conocimientos intermedios en Unity, C++, Java, Spring Boot y diseño web. Me considero una persona responsable y perseverante. Siempre estoy dispuesto a aprender nuevos conceptos y elegí esta carrera porque me apasiona el desarrollo de software y la posibilidad de crear soluciones que impacten positivamente en la sociedad. |
 |<img src="https://hackmd.io/_uploads/B1F_iuso0.jpg" alt="yo-3" style="width: 600px ; height: 200px;">|Maycol Jhordan Rojas Velasquez – Ingeniería de Software – u202219984<br>Elegí la carrera de Ingeniería de Software debido a mi gusto por la innovación y la implementación de la tecnología en cualquier rubro  social, de una manera creativa y en todos los aspectos. Me considero una persona creativa, en busca de ideas, estrategias con mente nueva. También me gusta escuchar ideas de mi equipo, dar ideas de mejora, evaluar las ventajas y desventajas . Además, tengo conocimientos de programación en C + +, HTML, Python,Angular,Backend en Java. Además, Tengo un enfoque responsable y dedicado mediante un aprendizaje rápido así puedo ayudar a mis compañeros en sus dudas. Por otro lado, mis hobbies son ver series, jugar , escuchar música, nadar y  manejar.|
 | <img src="./assets/estrella.jpeg">|Ticona Panduro, Estrella del Pilar - U202210659  <br> actualmente estudio la carrera de Ingeniería de Software en UPC. Opté por estudiar esta carrera porque me interesa programar y crear diferentes aplicativos o programas y emplearlo en la salud. En mis tiempos libres me gusta ver series o películas. Mi compromiso es aportar ideas innovadoras a lo largo del curso, en especial en las tareas en equipo. Mis habilidades son tener una actitud positiva, entusiasta y responsable. | 
-| <img src="assets/franco.jpg" > | Durand Vera, Gianfranco Angel - U20201f640 <br> Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, actualmente me encuentro en el septimo ciclo, escogí esta carrera porque me gusta mucho la programación. Tengo experiencia en lenguajes de programación como C#, Python, Kotlin y TypeScript.|
+| <img src="assets/franco.jpg" style="width: 600px ; height: 200px;" > | Durand Vera, Gianfranco Angel - U20201f640 <br> Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, actualmente me encuentro en el septimo ciclo, escogí esta carrera porque me gusta mucho la programación. Tengo experiencia en lenguajes de programación como C#, Python, Kotlin y TypeScript.|
 |![Piero](assets/piero.jpg)| Miranda Sinarahua, Piero Stephano - U20181g752 <br> Estudiante de la carrera de Ingeniería de Software. Considero que soy una persona responsable y que puedo aportar al equipo en cualquier aspecto que se requiera. De igual manera, siento que los conocimientos que he ido adquiriendo en ciclos anteriores serán de gran ayuda para llevar a cabo el presente trabajo. | 
+
 
 ## 1.2. **Solution Profile**
 
@@ -982,10 +983,13 @@ El Product Backlog es un elemento esencial en la gestión ágil de proyectos, ya
 |12|TS008|API para Asociar Empleados a Campaña|Como desarrollador, necesito un endpoint para asociar empleados a campañas, permitiendo la asignación de personal a cada campaña desde la aplicación.|2|
 |13|US005|Buscar Información de Bovinos|Como usuario, quiero poder buscar animales registrados para acceder de forma rápida y ordenada a la información necesaria.|2|
 |14|TS009|API para Gestión de Campañas|Como desarrollador, necesito implementar endpoints que permitan editar y eliminar campañas, facilitando su gestión integral desde la plataforma.|2|
-|18|TS010|API para Registro de Empleados|Como desarrollador, necesito crear un endpoint para registrar empleados, asegurando que la información de cada uno se almacene correctamente y se confirme la creación.|1|
-|19|US007|Crear Campaña para Engorde de Ganado|Como usuario de la plataforma, quiero crear una campaña para engordar el ganado asignado, definiendo parámetros como duración, objetivo y selección de animales o establos.|1|
-|20|TS011|API para Búsqueda de Empleados|Como desarrollador, necesito implementar un endpoint que permita buscar empleados utilizando filtros específicos, para facilitar la administración de los recursos humanos.|1|
-|21|TS012|API para Gestión de Empleados|Como desarrollador, necesito implementar funcionalidades para editar y eliminar empleados mediante la API, permitiendo que el empresario administre correctamente su plantilla.|1|
+|15|TS010|API para Registro de Veterinarios|Como desarrollador, necesito exponer un endpoint que permita registrar veterinarios en la aplicación, para que luego puedan ser contactados por los ganaderos.|2|
+|16|US006|Actualizar Información de Bovinos|Como usuario, quiero gestionar la información de los animales registrados para mantener la base de datos actualizada y precisa.|1|
+|17|TS011|API para Búsqueda de Veterinarios|Como desarrollador, necesito un endpoint que permita buscar veterinarios mediante criterios específicos, para brindar opciones de contacto efectivas.|1|
+|18|TS012|API para Registro de Empleados|Como desarrollador, necesito crear un endpoint para registrar empleados, asegurando que la información de cada uno se almacene correctamente y se confirme la creación.|1|
+|19|US07|Crear Campaña para Engorde de Ganado|Como usuario de la plataforma, quiero crear una campaña para engordar el ganado asignado, definiendo parámetros como duración, objetivo y selección de animales o establos.|1|
+|20|TS013|API para Búsqueda de Empleados|Como desarrollador, necesito implementar un endpoint que permita buscar empleados utilizando filtros específicos, para facilitar la administración de los recursos humanos.|1|
+|21|TS014|API para Gestión de Empleados|Como desarrollador, necesito implementar funcionalidades para editar y eliminar empleados mediante la API, permitiendo que el empresario administre correctamente su plantilla.|1|
 
 
 # 4. CAPÍTULO IV: Solution Software Design
@@ -2030,7 +2034,8 @@ En esta sección, detallamos el proceso de implementación de nuestra landing pa
 
 Este proceso garantiza el despliegue satisfactorio de nuestra landing page en la plataforma de Netlifly, siguiendo las especificaciones y requisitos de nuestro proyecto.
 **Enlace de la Landing Page: https://vacapp-landing.netlify.app/**
-
+<br>
+**About the product: https://www.youtube.com/watch?v=JmOW2IkXjeI**
 <br>
 **Deployment Backend:**
 En esta sección, detallamos el proceso de implementación de nuestro backend en la plataforma de Microsoft Azure.
@@ -2453,6 +2458,8 @@ Se destacó la relevancia de adaptar la experiencia a distintos dispositivos, as
 
 La participación de cada miembro del equipo fue crucial para desarrollar los componentes requeridos para este primer sprint y ofrecer un producto mínimo viable.
 
+##### About the Team: 
+
 [![Captura-de-pantalla-2025-05-15-230656.png](https://i.postimg.cc/ThMDV2Hf/Captura-de-pantalla-2025-05-15-230656.png)](https://postimg.cc/QKmCsD3y)
 ### 6.2.2. Sprint 2
 #### 6.2.2.2. Sprint Planning 2
@@ -2630,11 +2637,17 @@ Durante este Sprint, se han alcanzado varios hitos importantes en la implementac
 
 ### Screenshots
 
-Authetication Google
+Authentication Google
 
 ![Captura-de-pantalla-2025-05-15-220233.png](https://i.imgur.com/f730xtx.jpeg)
 
 ![Captura-de-pantalla-2025-05-15-220233.png](https://i.imgur.com/9Wh6GMj.jpeg)
+
+Authentication Microsofot
+
+[![Captura-de-pantalla-2025-06-20-024605.png](https://i.postimg.cc/QNkx8VB1/Captura-de-pantalla-2025-06-20-024605.png)](https://postimg.cc/hhvqMD1t)
+
+[![Captura-de-pantalla-2025-06-20-024709.png](https://i.postimg.cc/50Wb1Mbs/Captura-de-pantalla-2025-06-20-024709.png)](https://postimg.cc/hJsHb6Jm)
 
 #### Mobile Frontend
 Kotlin:
@@ -2721,6 +2734,14 @@ En esta sección se evidencia la documentación de los servicios implementados p
 #### Endpoint de campañas
 
 [![Captura-de-pantalla-2025-05-15-220445.png](https://i.postimg.cc/9fQPLM1B/Captura-de-pantalla-2025-05-15-220445.png)](https://postimg.cc/4YjhdXDK)
+
+#### Endpoint de google auth
+
+[![Captura-de-pantalla-2025-06-20-024900.png](https://i.postimg.cc/L5wMCdCk/Captura-de-pantalla-2025-06-20-024900.png)](https://postimg.cc/Lgt75WMh)
+
+#### Endpoint de microsoft auth
+
+[![Captura-de-pantalla-2025-06-20-024943.png](https://i.postimg.cc/YCqCvkc0/Captura-de-pantalla-2025-06-20-024943.png)](https://postimg.cc/GHVCfWmn)
 
 
 #### 6.2.1.7. Software Deployment Evidence for Sprint Review
@@ -3028,7 +3049,7 @@ Durante el desarrollo se priorizó la interacción constante con los usuarios fi
 
 - El trabajo colaborativo en VacApp no solo logró un producto funcional, sino también el fortalecimiento de competencias técnicas clave en el equipo. Se consolidaron habilidades en diseño de arquitecturas por capas, modelado de bases de datos, diseño de interfaces, uso de patrones estratégicos y tácticos de DDD, y gestión de proyectos con visión profesional.
 
-
+---
 
 ##  Bibliografía
 
@@ -3042,13 +3063,19 @@ Durante el desarrollo se priorizó la interacción constante con los usuarios fi
 - Vernon, V. (2013). *Implementing Domain-Driven Design*. Addison-Wesley.
 
 
+
+##  Anexos
+
+
 ### Videos
 
 Entrevistas: https://shorturl.at/F1HUB
 
+
 Entrevistas de Validacion: [Validation Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181g752_upc_edu_pe/EaPYaQPtxnlPg3Qs3egBF14Ba6odst6zUhn6jzhN2_NvJQ?e=bpHlh3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 About The Product: https://youtu.be/JmOW2IkXjeI
+
 
 ### Mockups
 
@@ -3080,6 +3107,10 @@ Landing Page: https://vacapp-landing.netlify.app/
 
 ### TB2
 
+
 Backend: https://vacappv2-bxcpfqarbwgpddh8.canadacentral-01.azurewebsites.net/swagger/index.html
 
 Landing Page: https://vacapp-landing.netlify.app/
+
+About the product: https://www.youtube.com/watch?v=JmOW2IkXjeI
+
