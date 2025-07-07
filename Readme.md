@@ -89,8 +89,17 @@ TB1          |   24/04/2025  |   Oscar Gabriel Aranda Vallejos  |  Bounded Conte
 | TP1          | 12/05/2025    | Sergio André Gómez Vallejos               | Sprint Backlog                                                       |
 | TP1          | 14/05/2025    | Sergio André Gómez Vallejos               | Implementación parcial de la aplicación móvil                        |
 | TP1          | 14/05/2025    | Maycol Jhordan Rojas Velasquez            | Implementación parcial de la aplicación móvil                        |
+| TB2          | 20/06/2025    | Maycol Jhordan Rojas Velasquez            | Implementación de la aplicación móvil en flutter                      |
+| TB2          | 20/06/2025    | Gianfranco Angel Durand Vera            | Implementación de la aplicación móvil en kotlin                      |
+| TB2          | 20/06/2025    | Estrella del Pilar Ticona Panduro            | Implementación de la aplicación móvil en kotlin                      |
+| TB2          | 20/06/2025    | Sergio André Gómez Vallejos            | Implementación del Sprint 2                      |
+| TB2          | 20/06/2025    | Sergio André Gómez Vallejos            | Implementación del Sprint Planning 2                      |
+| TB2          | 20/06/2025    | Sergio André Gómez Vallejos            | Implementación del Sprint Backlog 2                      |
+| TB2          | 20/06/2025    | Sergio André Gómez Vallejos            | Implementación de Testing, Execution Services Evidence for Sprint Review                    |
+| TB2          | 20/06/2025    | Piero Stephano Miranda Sinarahua            | Implementación de Software Deployment Evidence for Sprint Review                     |
+| TB2          | 20/06/2025    | Piero Stephano Miranda Sinarahua            | Implementación de Team Collaboration                    |
+| TB2          | 20/06/2025    | Piero Stephano Miranda Sinarahua            | Implementación de Validation Interviews                    |
 
-         
 
 **Project Report Collaboration Insights**
 
@@ -238,6 +247,20 @@ TB1          |   24/04/2025  |   Oscar Gabriel Aranda Vallejos  |  Bounded Conte
          6.2.1.5. [Services Documentation Evidence for Sprint Review](#6215-services-documentation-evidence-for-sprint-review) <br>
          6.2.1.6. [Software Deployment Evidence for Sprint Review](#6216-software-deployment-evidence-for-sprint-review) <br>
          6.2.1.7. [Team Collaboration Insights during Sprint](#6217-team-collaboration-insights-during-sprint) <br>
+         6.2.2. [Sprint 2](#621-sprint-1) <br>
+         6.2.2.1. [Sprint Planning 2](#6211-sprint-planning-1) <br>
+         6.2.2.2. [Sprint Backlog 2](#6212-sprint-backlog-1) <br>
+         6.2.2.3. [Development Evidence for Sprint Review](#6213-development-evidence-for-sprint-review) <br>
+         6.2.2.4. [Testing Suite Evidence for Sprint Review](#6214-testing-suite-evidence-for-sprint-review) <br>
+         6.2.2.5. [Execution Evidence for Sprint Review](#6214-execution-evidence-for-sprint-review) <br>
+         6.2.2.6. [Services Documentation Evidence for Sprint Review](#6215-services-documentation-evidence-for-sprint-review) <br>
+         6.2.2.7. [Software Deployment Evidence for Sprint Review](#6216-software-deployment-evidence-for-sprint-review) <br>
+         6.2.2.8. [Team Collaboration Insights during Sprint](#6217-team-collaboration-insights-during-sprint) <br>
+          6.3. [Validation Interviews](#62-validation-interviews) <br>
+          6.3.1. [Diseño de Entrevistas](#621-diseño-de-entrevistas) <br>
+          6.3.2. [Registro de Entrevistas](#621-registro-de-entrevistas) <br>
+          6.3.3. [Evaluaciones según heurísticas](#621-evaluaciones-según-heurísticas) <br>
+          6.4. [Video About-the-Product](#62-video-about-the-product) <br>
 [Conclusiones](#conclusiones) <br>
 [Bibliografía](#bibliografía) <br>
 [Anexos](#anexos) <br>
@@ -259,11 +282,11 @@ necesario, utilizando estrategias de aprendizaje apropiadas.
 
 
 
-
 | **Criterio específico** | **Acciones realizadas** | **Conclusiones** |  
 |-------------------------|------------------------|------------------|  
 | Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software |  1. Gómez Vallejos, Sergio André <br>*TB1*<br> Desarrollé secciones clave como el Solution Profile, Antecedentes y problemática, el análisis de Competidores, y el Análisis competitivo. También realicé el Tactical-Level Domain-Driven Design y el Bounded Context Database Design Diagram. Para ello, estudié conceptos de diseño táctico, arquitectura basada en dominios y modelado de datos.<br>*TP*<br>Durante el desarrollo del Sprint Backlog y de una parte de la aplicación móvil, actualicé conceptos clave relacionados con la planificación ágil, estructuración de tareas y flujos de trabajo en proyectos reales. Esto me permitió afianzar mis conocimientos en metodologías ágiles, herramientas de gestión de tareas y buenas prácticas de desarrollo móvil. <br>*TB2*<br> Actualicé y organicé la documentación del Sprint 2, lo que me permitió reforzar mis conocimientos sobre la gestión de proyectos y mantenerme alineado con las prácticas necesarias para el desarrollo profesional en soluciones de software. <br><br> 2. Rojas Velasquez, Maycol Jhordan<br>*TB1*<br>  Apliqué los conocimientos necesarios para el proyecto, desarrollando los diagramas C4 y definiendo el segmento objetivo.<br>*TP*<br>En mi participación en el desarrollo de una parte de la aplicación móvil, reforcé y actualicé conocimientos sobre frameworks de desarrollo, manejo de estados, navegación y buenas prácticas en la arquitectura de aplicaciones móviles. Estas habilidades son clave para mi formación profesional y la ejecución exitosa de proyectos de software. <br>*TB2*<br> Actualicé la aplicación utilizando Flutter y Dart, lo que me permitió aplicar conceptos nuevos y fortalecer mis conocimientos en tecnologías móviles modernas para el desarrollo profesional.  <br><br> 3. Aranda Vallejos, Oscar Gabriel <br>*TB1*<br>  Participé en el proceso del eventstorming, actualizando los conceptos y técnicas aprendidas del Domain Driven Design.<br>*TP*<br>Durante la implementación del backend para la administración de personal y la gestión de bovinos, establos y vacunas, actualicé y profundicé conocimientos sobre REST APIs, diseño de bases de datos y operaciones CRUD. Esta experiencia contribuyó directamente a mi desarrollo como profesional en soluciones backend. <br>*TB2*<br> Implementé autenticación con Google y Microsoft en el backend, lo que me permitió actualizar mis conocimientos sobre seguridad y protocolos de autenticación actuales en soluciones de software.  <br><br>4. Ticona Panduro, Estrella del Pilar<br>*TB1*<br> A través del To Be Scenario Mapping, User Stories, Impact Mapping y Product Backlog, reforcé conocimientos en metodologías ágiles y diseño centrado en el usuario. Además, llevé a cabo una serie de actividades clave que reflejan el compromiso con la actualización de conocimientos y el aprendizaje continuo. Estas acciones incluyeron secciones para el diseño de entrevistas, una entrevista del segmento 1 (productores ganadores independientes), To be Scenario Mapping, User Stories, Impact Mapping, Product Backlog, Bounded Context Application Layer, Infrastructure Layer, Domain Layer Class Diagrams y Database Design Diagram para Staff administration. De esta manera, todo este proceso me permitió actualizar conocimientos esenciales para mi crecimiento profesional, especialmente en metodologías ágiles, diseño centrado en el usuario y arquitectura de software.<br>*TP*<br> En este entregable, realicé el diseño de la landing page con ayuda del Figma y de igual manera con los wireframe y mockups y asi tener un prototipo de nuestra aplicación. De esta manera actualicé conceptos esenciales sobre experiencia de usuario, jerarquía visual, prototipado digital y herramientas modernas de diseño.<br>*TB2*<br> Actualicé la aplicación móvil utilizando Kotlin, lo que me permitió reforzar mis conocimientos en desarrollo nativo para Android y mejorar mi preparación profesional en soluciones móviles. <br><br>5. Durand Vera, Gianfranco Angel: <br>*TB1*<br> Realicé las capas de Domain e Interface, además de el Component Level Diagram, para el Bounded Context Staff Administration, asi como entrevistas hacia el segundo segmento.<br>*TP*<br>Al implementar la gestión de identidades y accesos (IAM) en el backend, desplegar el sistema en Azure y desarrollar parte de la landing page con soporte multilenguaje (i18n), adquirí conocimientos nuevos sobre seguridad, infraestructura en la nube y diseño accesible para usuarios de distintos idiomas.<br>*TB2*<br> Contribuí a la actualización de la aplicación móvil en Kotlin, lo que me ayudó a aplicar conocimientos actuales en desarrollo Android y fortalecer mi crecimiento como profesional en soluciones de software. <br><br> 6. Miranda Sinarahua, Piero Stephano<br>*TB1*<br> Estuve encargado de realizar secciones dentro del Needfinding, entre estos estan el desarrollo de los user persona, task matrix, journey mapping, empathy mapping y as is scenario mapping. Al igual que reuní informacion clave dentro de una entrevista realizada, lo cual sirvió para obtener datos que serían útiles durante el proceso de desarrollo.<br>*TP*<br>En la implementación del backend para la gestión de campañas, actualicé conocimientos sobre servicios web y patrones de desarrollo escalables. Esta experiencia me permitió afianzar habilidades esenciales para desarrollar soluciones de software sólidas y eficientes. <br>*TB2*<br> Actualicé la documentación del proyecto, lo que me permitió reforzar mis conocimientos sobre el ciclo de desarrollo de software y mejorar mis habilidades en organización y gestión de información técnica. <br><br> | TB1<br>  A lo largo del desarrollo del proyecto de soluciones de software, los integrantes del equipo demostraron un fuerte compromiso con la actualización de conocimientos y la aplicación de metodologías modernas, lo cual contribuyó significativamente a su crecimiento profesional. Se evidenció una sólida comprensión y uso de principios del Domain-Driven Design, diseño centrado en el usuario, y metodologías ágiles, mediante la elaboración de artefactos clave como diagramas C4, mapeos de escenarios, backlog de producto, y diseño de base de datos por contexto. Las contribuciones individuales, desde la investigación de usuarios hasta el diseño de arquitectura por capas, muestran un trabajo colaborativo bien fundamentado y orientado a las mejores prácticas del desarrollo de software actual. Esto no solo enriqueció el proyecto, sino que también fortaleció las competencias técnicas y analíticas de cada miembro del equipo. <br><br> TP<br> Como equipo, logramos identificar áreas clave de conocimiento que debíamos reforzar para llevar a cabo las responsabilidades asignadas. Este proyecto nos motivó a actualizar conceptos relacionados con arquitectura de software, diseño UI/UX, frameworks móviles, integración de servicios backend y despliegue en la nube. Gracias a ello, fortaleceremos nuestras competencias profesionales, ya que este conocimiento será fundamental no solo para completar la aplicación, sino también para abordar proyectos futuros con mayor seguridad técnica y claridad metodológica. |  
 | Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software |  1. Gómez Vallejos, Sergio André<br>*TB1*<br> Para cada sección del trabajo investigué nuevas metodologías de análisis competitivo, bases de Domain-Driven Design, y enfoques de diseño de bases de datos adaptados a contextos delimitados. Utilicé documentación especializada, artículos académicos y experiencias de la industria como base para mis decisiones de diseño.<br>*TP*<br>Durante el desarrollo del Sprint Backlog y mi participación en la implementación de una parte de la aplicación móvil, comprendí que el aprendizaje permanente es esencial para adaptarse a nuevas metodologías ágiles y tecnologías de desarrollo móvil. <br>*TB2*<br> Reconocí la necesidad de seguir aprendiendo sobre metodologías ágiles y herramientas de documentación para mejorar mi desempeño en la planificación y seguimiento de proyectos de software. <br><br> 2. Rojas Velasquez, Maycol Jhordan<br>*TB1*<br> Desarrollé los temas alcanzados en los ciclos anteriores, lo que me permitió adquirir conocimientos sólidos sobre el tema y realizarlos correctamente.<br>*TP*<br>Al participar en el desarrollo de una parte de la aplicación móvil, reconocí la importancia de mantenerme en constante aprendizaje para estar alineado con las demandas tecnológicas actuales. La necesidad de investigar nuevas herramientas y adaptarme a las buenas prácticas de desarrollo móvil reafirmó mi compromiso con la formación continua como parte fundamental de mi desarrollo profesional.<br>*TB2*<br> Reconocí que el aprendizaje constante de herramientas multiplataforma como Flutter es esencial para adaptarme a los cambios tecnológicos y mejorar mis aportes al proyecto. <br><br> 3. Aranda Vallejos, Oscar Gabriel <br>*TB1*<br> Participé en el proceso del eventstorming, actualizando los conceptos y técnicas aprendidas del Domain Driven Design.<br>*TP*<br>En la implementación del backend para la administración del staff, bovinos, establos y vacunas, me enfrenté a retos que exigieron ampliar mis conocimientos sobre arquitecturas REST, control de datos y buenas prácticas de seguridad. Esta experiencia me permitió valorar la importancia de actualizar constantemente mis competencias técnicas para enfrentar con solidez los cambios y desafíos propios del desarrollo de software. <br>*TB2*<br> Comprendí que aprender continuamente sobre integraciones de servicios externos es clave para ofrecer soluciones seguras y escalables en mi desarrollo profesional. <br><br>4. Ticona Panduro, Estrella del Pilar<br>*TB1*<br> Reconocí la necesidad del aprendizaje permanente al enfrentar retos que exigieron investigar nuevas herramientas y enfoques, como la validación de usuarios, metodologías ágiles y principios de diseño de software moderno. La evolución constante del proyecto me impulsó a seguir aprendiendo para tomar mejores decisiones técnicas y aportar soluciones más efectivas y alineadas con las necesidades del usuario. A lo largo del proyecto confirmé que el aprendizaje permanente es fundamental en el desarrollo de software, ya que cada etapa presentó nuevos desafíos que me motivaron a investigar, adaptarme y mejorar. Este proceso me permitió evolucionar como profesional comprometido con la mejora continua y con la entrega de soluciones efectivas.<br>*TP*<br> En este entregable, entendi la importancia de optimizar tiempo, como por ejemplo definir las librerias en Figma y asi establecer colores a varios cuadros al mismo tiempo<br>*TB2*<br>Al asumir responsabilidades en el diseño de mockups, wireflows, prototipos y la interfaz de usuario para la aplicación móvil, entendí que el aprendizaje continuo es clave para brindar soluciones visuales efectivas y centradas en el usuario. La necesidad de dominar herramientas de diseño actualizadas y conceptos de experiencia de usuario me motivó a seguir explorando y aprendiendo más allá de los conocimientos adquiridos en clase. Además, reconocí que es fundamental seguir aprendiendo sobre lenguajes de programación móviles como Kotlin para mantenerme vigente en el desarrollo de software de calidad. <br><br> 5. Durand Vera, Gianfranco Angel<br>*TB1*<br> Durante esta entrega, comprendí la importancia del aprendizaje permanente en mi desarrollo profesional y en la creación de soluciones de software efectivas. Al desarrollar declaraciones de problemas y suposiciones bajo Lean UX, reforcé mi compromiso con la actualización constante de conocimientos para garantizar que cada proyecto se ejecute con la máxima eficiencia y calidad.<br>*TP*<br>Durante la implementación de la autenticación (IAM), el despliegue del backend en Azure y el desarrollo de la landing page, enfrenté varios desafíos técnicos que requirieron investigación y actualización constante. Este proceso me enseñó que el aprendizaje permanente no solo mejora mis habilidades, sino que también es vital para mantenerme competitivo en un entorno tecnológico que cambia rápidamente.<br>*TB2*<br> Comprendí que para seguir aportando con mi crecimiento profesional, para ambientes tecnológicos, es necesario mantener una actitud de aprendizaje constante en herramientas y lenguajes actuales. <br><br> 6. Miranda Sinarahua, Piero Stephano<br>*TB1*<br> Tomé en cuenta la importancia de adquirir e implementar nuevos conocimientos con el fin de lograr un desarrollo superior dentro de las tareas asignadas.<br>*TP*<br>Mi trabajo en la implementación del backend para la gestión de campañas me demostró que la solución de problemas técnicos exige una disposición constante al aprendizaje. Explorar nuevos enfoques, optimizar consultas y estructurar datos adecuadamente fue posible gracias a una actitud abierta hacia el conocimiento, que considero indispensable para seguir creciendo profesionalmente en el campo del desarrollo de software.<br>*TB2*<br> Reconocí la importancia de mantenerme en constante aprendizaje sobre metodologías ágiles y documentación efectiva, ya que son claves para el éxito en proyectos de software y mi desarrollo profesional. <br><br> | TB1<br> El equipo demostró una clara conciencia sobre la importancia del aprendizaje permanente como pilar fundamental para el desarrollo profesional y la ejecución efectiva de proyectos en soluciones de software. A través de la investigación constante, la aplicación de nuevas metodologías y la adaptación a desafíos técnicos, cada integrante fortaleció sus competencias y mostró un compromiso genuino con la mejora continua. La necesidad de mantenerse actualizado frente a las exigencias del sector tecnológico fue reconocida y asumida con responsabilidad, permitiendo no solo el cumplimiento exitoso de sus tareas, sino también una evolución profesional sostenible y alineada con las mejores prácticas de la industria. <br><br> TP<br> Durante el desarrollo del proyecto, comprendimos que la ingeniería de software es un campo en constante evolución. La necesidad de aprender nuevas herramientas, frameworks, lenguajes y enfoques fue evidente en cada etapa del trabajo. Como equipo, reconocemos que la mejora continua será indispensable para adaptarnos a los cambios tecnológicos y así poder enfrentar proyectos de mayor complejidad. Esta experiencia nos ha demostrado que el aprendizaje permanente no es una opción, sino una necesidad para mantenernos competitivos y eficientes en nuestra carrera profesional. |
+
 
 
 
@@ -2649,6 +2672,40 @@ Kotlin:
 
 ![Captura-de-pantalla-2025-05-15-220233.png](https://i.imgur.com/pW069zw.jpeg)
 
+Flutter: 
+
+**Login**
+
+![flutter-login](assets/flutter_login.jpg)
+
+**Register**
+
+![flutter-register](assets/flutter_register.jpg)
+
+**Home**
+
+![flutter-home](assets/flutter_home.jpg)
+
+**Bovines**
+
+![flutter-animals](assets/fluttler_animals_view.jpg)
+
+**Bovine detail**
+
+![flutter-animal](assets/flutter_animal_detail.jpg)
+
+**Add bovine**
+
+![flutter-add-animal](assets/flutter_add_animal.jpg)
+
+**Edit bovine**
+
+![flutter-edit-animal](assets/flutter_edit_animal.jpg)
+
+**Bars**
+
+![flutter-barns](assets/flutter_barns.jpg)
+
 
 #### 6.2.1.6. Services Documentation Evidence for Sprint Review
 En esta sección se evidencia la documentación de los servicios implementados para el sprint actual que conforman el backend.
@@ -2698,22 +2755,20 @@ Se organizó el proyecto con todos los archivos necesarios para el frontend:
 - Archivos kotlin, flutter e imágenes
 
 
-#### 2. 2
+#### 1. Kotlin Generate Apks
 
-#### 3. Nuevo sitio desde Git
+[![Captura-de-pantalla-2025-05-15-220445.png](https://i.imgur.com/SshPK1H.jpeg)
+#### 3. Generated APKs
+[![Captura-de-pantalla-2025-05-15-220445.png](https://i.imgur.com/RF2bDy1.jpeg)
 
-#### 4. Autorización y selección del repositorio
+#### 4. Se genera el apk en app/build/outputs/apk/debug
+[![Captura-de-pantalla-2025-05-15-220445.png](https://i.imgur.com/VIbae94.jpeg)
+#### 5. Confirmacion de Despliegue
 
-#### 5. Configuración del despliegue
 
+[![Captura-de-pantalla-2025-05-15-220445.png](https://i.imgur.com/t9ARRbH.jpeg)
 
-#### 6. Despliegue automático
-
-#### 7. Personalización de dominio (opcional)
-
-#### 8. Actualizaciones automáticas
-
-#### 9. Monitoreo del sitio
+[![Captura-de-pantalla-2025-05-15-220445.png](https://i.imgur.com/xSl56UL.jpeg)
 
 
 
@@ -2806,55 +2861,179 @@ Acerca del app:
 
 ## Segmento 1: Productores Ganadores independientes:
 
-*Nombre y Apelliido:*  <br>
-*Edad:*  <br>
-*Distrito:* u <br>
-*Inicio de la Entrevista:*  <br>
-*Duración de la Entrevista:*  <br>
+*Nombre y Apelliido:* Jorge Torres <br>
+*Edad:* 50 años  <br>
+*Distrito:* Lurin, Lima. <br>
+*Inicio de la Entrevista:* 7:28 <br>
+*Duración de la Entrevista:* 8:47 min <br>
 
-[imagen]!()
-
-*Resumen de la Entrevista*:
-
----
-
-*Nombre y Apelliido:*  <br>
-*Edad:*  <br>
-*Distrito:* u <br>
-*Inicio de la Entrevista:*  <br>
-*Duración de la Entrevista:*  <br>
-
-[imagen]!()
+![ev_jorge_torres](assets/ev_jorge_torres.JPG)
 
 *Resumen de la Entrevista*:
 
+El sr. Jorge Torres, granjero independiente desde hace ya 30 años, comenta que luego de haber interactuado con el landing page, le queda claro la propuesta que se ofrece. Tambien le llama la atencion la simpleza que se uso en el diseño, al igual que las funcionalidades que se describen. Él principalmente destaca las funciones de registro de animales, salud y gestion de inventario, como las principales funciones por las que estaria mayornmente interesado. 
+Luego de comprobar la interaccion con el aplicativo, el usuario piensa que las opciones que se muestran son faciles de recordar, y que la navegacion entre ellas tambien es sencilla. Sin embargo, algo que no le quedo claro, fue el apartado de las campañas, y de como funcionaban. Recalcó que si se pudiera especificar mejor algunas secciones del app, seria de gran ayuda. Por lo demas, quedo satisfecho con lo mostrado, y piensa que un aplicativo como este le seria de gran ayuda en su negocio de ganaderia. 
+
 ---
+
+*Nombre y Apelliido:* Juan Jose Odria <br>
+*Edad:* 25 años <br>
+*Distrito:* Chorrillos, Lima. <br>
+*Inicio de la Entrevista:* 21:02 <br>
+*Duración de la Entrevista:* 6:32 min <br>
+
+![ev_juan_jose](assets/ev_juan_jose.JPG)
+
+*Resumen de la Entrevista*:
+
+El sr. Jose, ganadero independiente, opina que la landing page tiene todo lo necesario para comprender en que consiste la aplicacion y las funcionalidades que este ofrece, al igual que el problema que se piensa solucionar. 
+En cuanto a la aplicacion, él opina que el diseño esta bien ordenado y que le queda claro la interfaz que se presenta. Tambien los apartados de vacunas y gestion de inventario son algunas de las funciones las cuales le serian de mayor ayuda en su negocio. En cuanto a la navegacion, siente que es facil de comprender y que no tendria problemas al adaptarse al uso del aplicativo. Por ultimo, él sugiere que una opcion que no vio en la aplicacion y que le gustaria ver en el futuro, seria un filtro para poder buscar a sus animales por sus nombres respectivos.
+
+---
+
+*Nombre y Apelliido:* Camila Fernanda Morales  <br>
+*Edad:* 20 años <br>
+*Distrito:* Piura, Piura <br>
+*Inicio de la Entrevista:* 16:17 <br>
+*Duración de la Entrevista:* 4:44 min <br>
+
+![ev_camila_morales](assets/ev_camila_morales.JPG)
+
+*Resumen de la Entrevista*:
+
+Camila interactua directamente con el aplicativo desde su telefono. Al navegar por la landing page, siente que este ofrece una experiencia facil e intuitiva. Tambien menciona que al leer la informacion mostrada le queda claramente lo que se ofrece, y algo que le llamo mas la atencion fueron las funcionalidades especificas que se mencionan en el landing page. 
+Una vez instalado la aplicacion, uno de los aspectos que se le complico ligeramente fue en la pantalla de inicio, donde ciertos textos no se visualizaban correctamente. Otro problema que cuenta segun su experiencia con el app es que al momento de crear una cuenta, el boton de registro no lograba realizar la accion correspondiente. Pero despues de ciertos intentos, logro registrarse. En cuanto a la navegacion, las opciones mostradas en el menu principal le quedaron claras y que estan bien definidas, y que las funcionalidades desarrolladas son las mas fundamentales, y que no agregaria nuevos apartados de momento.
+Por ultimo, ella opina que una vez terminada la aplicacion, ella si recomendaria su uso a otras personas del rubro de la ganaderia, ya que este facilitaria ampliamente la administracion del negocio.
 
 ## **Segmento #2: Empresas Ganaderas** 
 
-*Nombre y Apelliido:*  <br>
-*Edad:*  <br>
-*Distrito:* u <br>
-*Inicio de la Entrevista:*  <br>
-*Duración de la Entrevista:*  <br>
+*Nombre y Apelliido:* Camila Sanchez  <br>
+*Edad:* 20 años <br>
+*Distrito:* Surco, Lima. <br>
+*Inicio de la Entrevista:* 0:00 <br>
+*Duración de la Entrevista:* 7:27 min <br>
 
-[imagen]!()
+![ev_camila_sanchez](assets/ev_camila_sanchez.JPG)
 
 *Resumen de la Entrevista*:
+
+Camila, trabajadora del sector ganadero, opina que el diseño del landing page le parece interesante, al igual que los elementos que se usaron y la distribucion de estos mismos. Tambien comenta que la propuesta de la pagina y la informacion mostrada si le fue suficiente para comprender en lo que consiste la aplicacion que se le ofrece. 
+Una vez interactúa con la aplicacion, ella piensa que el diseño es facil e intuitivo, y que las opciones mostradas estan correctamente guiadas. 
+Algo que le gustaria ver dentro de la aplicacion es la opcion de generar reportes, al igual que algunas alertas que notifiquen acerca de las campañas o eventos registrados en la aplicacion. 
+Por ultimo, ella opina que si recomendaria la aplicacion a otros ganaderos que busquen mejorar la gestion de sus negocios. 
 
 ---
 
-*Nombre y Apelliido:*  <br>
-*Edad:*  <br>
-*Distrito:* u <br>
-*Inicio de la Entrevista:*  <br>
-*Duración de la Entrevista:*  <br>
+*Nombre y Apelliido:* Juana Luz  <br>
+*Edad:* 36 años <br>
+*Distrito:* Los Olivos, Lima, Perú <br>
+*Inicio de la Entrevista:* 27:35 <br>
+*Duración de la Entrevista:* 5:58 min <br>
 
-[imagen]!()
+![ev_juana_luz](assets/ev_juana_luz.JPG)
 
 *Resumen de la Entrevista*:
 
+Juana Luz, de 36 años, expresó que encontró la aplicación dinámica y atractiva en su funcionamiento. Sin embargo, mencionó como punto de mejora la barrera del idioma, ya que el contenido en inglés dificultaba su experiencia. Sugirió que incorporar la opción en español haría la app más accesible para usuarios hispanohablantes.
+
+---
+
+*Nombre y Apelliido:* Arturo Gálvez  <br>
+*Edad:* 40 años <br>
+*Distrito:* Callao, Lima, Perú <br>
+*Inicio de la Entrevista:* 33:34 <br>
+*Duración de la Entrevista:* 7:27 min <br>
+
+![ev_arturo_galvez](assets/ev_arturo_galvez.JPG)
+
+*Resumen de la Entrevista*:
+
+Arturo Gálvez, de 40 años, destacó que la landing page le resultó bastante práctica para visualizar los servicios ofrecidos por la aplicación. Señaló que recomendaría la app a personas del rubro ganadero, ya que facilita el registro de información sobre el ganado sin necesidad de anotaciones manuales, permitiendo acceder a esos datos directamente desde el celular.
+
+#### Link a entrevistas:
+
+[Link to Validation Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181g752_upc_edu_pe/EaPYaQPtxnlPg3Qs3egBF14Ba6odst6zUhn6jzhN2_NvJQ?e=bpHlh3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+
 #### 6.3.3. Evaluaciones segun heurísticas
+
+En la siguiente seccion, se evaluaran y detectaran los posibles problemas mencionados por los usuarios de las entrevistas de validacion. Las heuristicas que se tomaran en cuenta seran las de usabilidad, arquitectura de la informacion y diseño inclusivo. 
+
+
+**Tareas a evaluar:**
+
+- Comprension de las funcionalidades implementadas. 
+- Busqueda de animales.
+- Sistema de notificaciones.
+- Diseño optimo
+
+**Escala de severidad:**
+
+| Nivel | Descripcion                  |
+|-------|------------------------------|
+|  1    |   Problema superficial: Puede ser fácilmente superador por el usuario y ocurre con muy pocafrecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.                           |
+|  2    |   Problema menor: Puede ocurrir un poco más frecuentemente o es un poco más difícil desuperar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguientereléase.                           |
+|  3    |   Problema mayor: Ocurre frecuentemente o los usuarios no son capaces de resolverlos. Esimportante que sean corregidos y se les debe asignar una prioridad alta                           |
+|  4    |    Problema muy grave: Un error de gran impacto que impide al usuario continuar con el uso dela herramienta. Es imperativo que sea corregido antes del lanzamiento                          |
+
+**Tabla de resumen**
+
+| #  | Problema                                                                 | Escala de severidad | Heurística/Principio violada(o)                                   |
+|----|--------------------------------------------------------------------------|----------------------|------------------------------------------------------------------|
+| 1  |  No quedo claro como funciona la seccion de campañas.                    |          2           |  Usability: Coincidencia entre el sistema y el mundo real        |
+| 2  |  Falta de filtro para busqueda de animales                               |          3           |   Information Architecture: Is it findable?                      |
+| 3  |  Falta del sistema de notificaciones por medio de alertas.               |          2           |   Usability: Visibilidad del estado del sistema                  |
+| 4  |  No se pudieron visualizar ciertos textos al instalar la aplicacion      |          3           |     Inclusive Design: Evita dependencias sensoriales             |
+| 5  |                                                                          |                      |                                                                  |
+
+**Descripcion de problemas**
+
+Problema #1: No quedo claro como funciona la seccion de campañas.
+
+Severidad: 2 
+
+Heuristica violada: Usability: Coincidencia entre el sistema y el mundo real 
+
+Problema: Cuando el usuario navega por las distintas funcionalidades que ofrece la aplicacion, a primera vista, no logra comprender como funciona la opcion de "campañas", principalemte porque no hubo una previa descripcion que le indicara cual es el proposito de esta funcionalidad.
+
+
+Recomendacion: Lo mas optimo seria implementar un texto que apareciera al inicio de cada funcionalidad que le indicara al usuario que es lo que debe hacer en cada apartado y cual es el proposito de este mismo. 
+
+---
+
+Problema #2: Falta de filtro para busqueda de animales
+
+Severidad: 3
+
+Heuristica violada: Information Architecture: Is it findable?
+
+Problema: El usuario menciona que el hecho de que no se disponga de un filtro de busqueda en el apartado de sus animales registrados puede llegar a demorar el proceso de busqueda de un animal en especifico. 
+
+Recomendacion: Agregar un boton en el cual el usuario pueda ingresar el nombre de uno de sus animales, y asi poder encontrarlos con mas facilidad. 
+
+---
+
+Problema #3: Falta del sistema de notificaciones por medio de alertas.
+
+Severidad: 2
+
+Heuristica violada: Usability: Visibilidad del estado del sistema
+
+Problema: El usuario nota que no se ha implementado aun un sistema el cual le brinde notificaciones acerca de sus campañas o estado de inventarios correspondiente a su negocio. 
+
+Recomendacion: Implementar el sistema de alertas para que los usuarios esten al tanto del estado y las variaciones que puedan haber en su negocio de ganaderia. 
+
+---
+
+Problema: No se pudieron visualizar ciertos textos al instalar la aplicacion 
+
+Severidad: 3
+
+Heuristica violadoa: Inclusive Design: Evita dependencias sensoriales
+
+Problema: Al instalar el APK en su telefono personal, el usuario nota que hay ciertas fallas en la visualizacion de algunos textos presentes en el home de la aplicacion, lo cual le impide leer correctamente la informacion que se muestra. 
+
+Recomendacion: Realizar mas pruebas para corroborar que lo desarrollado se pueda visualizar en distintos dispositivos moviles. 
 
 ---
 
@@ -2884,11 +3063,19 @@ Durante el desarrollo se priorizó la interacción constante con los usuarios fi
 - Vernon, V. (2013). *Implementing Domain-Driven Design*. Addison-Wesley.
 
 
+
 ##  Anexos
+
 
 ### Videos
 
 Entrevistas: https://shorturl.at/F1HUB
+
+
+Entrevistas de Validacion: [Validation Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181g752_upc_edu_pe/EaPYaQPtxnlPg3Qs3egBF14Ba6odst6zUhn6jzhN2_NvJQ?e=bpHlh3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+About The Product: https://youtu.be/JmOW2IkXjeI
+
 
 ### Mockups
 
@@ -2920,8 +3107,10 @@ Landing Page: https://vacapp-landing.netlify.app/
 
 ### TB2
 
+
 Backend: https://vacappv2-bxcpfqarbwgpddh8.canadacentral-01.azurewebsites.net/swagger/index.html
 
 Landing Page: https://vacapp-landing.netlify.app/
 
 About the product: https://www.youtube.com/watch?v=JmOW2IkXjeI
+
