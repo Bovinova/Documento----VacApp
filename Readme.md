@@ -8,10 +8,10 @@
         <p><strong>Ciclo:</strong> 2025-01 </p>
         <p><strong>Profesor:</strong> Jorge Luis Mayta Guillermo</p>
     <h3>"Informe de Trabajo Final"</h3>
-    <h4>TB2</h4>
+    <h4>TF</h4>
         <p><strong>Tema:</strong> Gestion de ganaderia </p>
         <p><strong>Producto:</strong> VacApp de Bovinova</p>
-        <p><strong>Junio, 2025</strong></p>
+        <p><strong>Julio, 2025</strong></p>
 </div>
 <div style="text-align:left;">
     <h3>Integrantes:</h3>
@@ -2461,6 +2461,7 @@ La participación de cada miembro del equipo fue crucial para desarrollar los co
 ##### About the Team: 
 
 [![Captura-de-pantalla-2025-05-15-230656.png](https://i.postimg.cc/ThMDV2Hf/Captura-de-pantalla-2025-05-15-230656.png)](https://postimg.cc/QKmCsD3y)
+
 ### 6.2.2. Sprint 2
 #### 6.2.2.2. Sprint Planning 2
 | Sprint # | Sprint 2  | 
@@ -2821,6 +2822,274 @@ Activamos Application Insights o usamos los registros del App Service para monit
 [![dashboard-azure.jpg](https://i.postimg.cc/9MZZg73s/dashboard-azure.jpg)](https://postimg.cc/njVXCMh1)
 
 #### 6.2.2.8. Team Collaboration Insights durint Sprint.
+
+
+### 6.2.3. Sprint 3
+#### 6.2.3.1. Sprint Planning 3
+| Sprint # | Sprint 3  | 
+|--------------------|------------|
+| Sprint Planning Background | 
+| Date | 2025-07-01 | 
+| Time |  13:00 PM |
+| Location |  UPC - Monterrico |
+| Preparate by| Maycol Jhordan Rojas Velasquez | 
+|  Attendees (to planning meeting) | Gómez Vallejos Sergio André ,Aranda Vallejos, Oscar Gabriel ,Ticona Panduro, Estrella del Pilar ,Durand Vera, Gianfranco Angel, Miranda Sinarahua, Piero Stephano  | 
+| Sprint n-1 Review Summary |  | 
+| Sprint Planning Background |  |
+| Sprint Goal & User Stories | 
+| Sprint 3 Goal | |  
+| Sprint Velocity |  | 
+| Sum of Story Points |  | 
+#### 6.2.3.2. Sprint Backlog 3
+
+<table align="center" border="1" width="90%" style="text-align:center">
+ <tr>
+    <td colspan="2"><b>User Story</b></td>
+    <td colspan="6"><b>Work-Item / Task</b></td>
+  </tr>
+  <tr>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Estimation</b></td>
+    <td><b>Assigned To</b></td>
+    <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td>  </td>
+    <td> </td>
+ </tr>
+ <tr>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td>  </td>
+    <td> </td>
+ </tr>
+ <tr>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td>  </td>
+    <td> </td>
+ </tr>
+ <tr>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td>  </td>
+    <td> </td>
+ </tr>
+ <tr>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td>  </td>
+    <td> </td>
+ </tr>
+ <tr>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td>  </td>
+    <td> </td>
+ </tr>
+ <tr>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td>  </td>
+    <td> </td>
+ </tr>
+ <tr>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td>  </td>
+    <td> </td>
+ </tr>
+ <tr>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td>  </td>
+    <td> </td>
+ </tr>
+ <tr>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td>  </td>
+    <td> </td>
+ </tr>
+ 
+
+</table>
+
+#### 6.2.3.3. Development Evidence for Sprint Review
+Durante este sprint, se han realizado avances significativos en la implementación de la Landing Page, backend y frontend del aplicativo mobile. Se han completado varias historias de usuario tanto de la landing page como del backend y se han realizado múltiples commits en los repositorios correspondientes.
+
+<table>
+   <tr>
+      <td>Repository</td>
+      <td>Branch</td>
+      <td>Component</td>
+      <td>Commit Id</td>
+      <td>Commit Message</td>
+      <td>Commited on (Date)</td>
+   </tr>
+   <tr>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+   </tr>
+   <tr>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+   </tr>
+   <tr>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+   </tr>
+</table>
+
+#### 6.2.3.4.Testing Suite Evidence for Sprint Review
+
+#### 6.2.3.5. Execution Evidence for Sprint Review
+
+### Screenshots
+
+
+
+#### Mobile Frontend
+Kotlin:
+
+
+
+Flutter: 
+
+
+
+#### 6.2.3.6. Services Documentation Evidence for Sprint Review
+En esta sección se evidencia la documentación de los servicios implementados para el sprint actual que conforman el backend.
+
+#### Backend
+
+
+
+#### 6.2.3.7. Software Deployment Evidence for Sprint Review
+
+##### Frontend 
+
+La aplicación mobil se realizaron los siguientes pasos:
+
+#### 1. Preparación del proyecto
+Se organizó el proyecto con todos los archivos necesarios para el frontend:
+- Archivos kotlin, flutter e imágenes
+
+
+#### 1. Kotlin Generate Apks
+
+[![Captura-de-pantalla-2025-05-15-220445.png](https://i.imgur.com/SshPK1H.jpeg)
+#### 3. Generated APKs
+[![Captura-de-pantalla-2025-05-15-220445.png](https://i.imgur.com/RF2bDy1.jpeg)
+
+#### 4. Se genera el apk en app/build/outputs/apk/debug
+[![Captura-de-pantalla-2025-05-15-220445.png](https://i.imgur.com/VIbae94.jpeg)
+#### 5. Confirmacion de Despliegue
+
+
+[![Captura-de-pantalla-2025-05-15-220445.png](https://i.imgur.com/t9ARRbH.jpeg)
+
+[![Captura-de-pantalla-2025-05-15-220445.png](https://i.imgur.com/xSl56UL.jpeg)
+
+
+
+
+##### Backend
+
+Para el despliegue del backend se realizaron los siguientes pasos:
+
+##### 1. Ingresamos al portal de Azure
+Accedemos a [https://portal.azure.com](https://portal.azure.com) con nuestra cuenta para comenzar el proceso de despliegue.
+
+##### 2. Creamos un Grupo de Recursos
+Agrupamos todos los componentes relacionados con nuestro backend dentro de un grupo de recursos, lo que facilita su administración y organización.
+
+##### 3. Definimos un Plan de App Service
+Creamos un plan donde configuramos:
+- El sistema operativo (Linux o Windows)
+- La región del servidor
+- El tamaño del plan (por ejemplo, B1, F1, P1v2)
+
+##### 4. Configuramos una App Web (App Service)
+Creamos una nueva instancia de App Service seleccionando el grupo de recursos y el plan previamente definidos. Indicamos también la pila de tecnología (.NET) según nuestro backend.
+
+##### 5. Establecemos variables y configuraciones del entorno
+Agregamos variables de entorno, claves secretas, rutas y cadenas de conexión necesarias para el correcto funcionamiento del backend.
+
+##### 6. Preparamos nuestro backend para producción
+Nos aseguramos de que nuestra aplicación esté lista para ejecutarse en Azure, incluyendo:
+- Archivos de dependencias
+- Código limpio y portable
+
+##### 7. Elegimos el método de despliegue
+Seleccionamos cómo vamos a subir el backend a Azure:
+- Mediante integración continua desde GitHub
+- Subiendo el código directamente desde nuestro equipo
+- Usando FTP o un archivo ZIP desplegable
+
+##### 8. Realizamos el despliegue
+Subimos nuestro proyecto utilizando el método seleccionado. Si usamos GitHub, configuramos un flujo de trabajo de CI/CD para automatizar futuras actualizaciones.
+
+##### 9. Verificamos el estado del despliegue
+Revisamos los registros desde el portal para asegurarnos de que el despliegue fue exitoso y sin errores.
+
+##### 10. Accedemos a la aplicación
+Probamos la URL pública que nos proporciona Azure para verificar que nuestro backend está corriendo correctamente.
+
+##### 11. Monitoreamos y damos mantenimiento
+Activamos Application Insights o usamos los registros del App Service para monitorear el rendimiento, identificar errores y asegurar la estabilidad de la aplicación.
+
+[![dashboard-azure.jpg](https://i.postimg.cc/9MZZg73s/dashboard-azure.jpg)](https://postimg.cc/njVXCMh1)
+
+#### 6.2.3.8. Team Collaboration Insights durint Sprint.
+
 
 ### 6.3. Validation Interviews
 
