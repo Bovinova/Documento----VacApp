@@ -2834,12 +2834,12 @@ Activamos Application Insights o usamos los registros del App Service para monit
 | Location |  UPC - Monterrico |
 | Preparate by| Maycol Jhordan Rojas Velasquez | 
 |  Attendees (to planning meeting) | Gómez Vallejos Sergio André ,Aranda Vallejos, Oscar Gabriel ,Ticona Panduro, Estrella del Pilar ,Durand Vera, Gianfranco Angel, Miranda Sinarahua, Piero Stephano  | 
-| Sprint n-1 Review Summary |  | 
-| Sprint Planning Background |  |
-| Sprint Goal & User Stories | 
-| Sprint 3 Goal | |  
-| Sprint Velocity |  | 
-| Sum of Story Points |  | 
+| Sprint n-1 Review Summary | Se concluyo el desarrollo parcial del mobile application para Kotlin y Flutter. Al igual que nuevas caracteristicas implementadas en el backend. | 
+| Sprint Planning Background | Para este tercer Sprint se busca concluir el desarrollo de las versiones del aplicativo, tanto en Flutter como Android. El objetivo es proporcionar 2 aplicaciones correctamente funcionales que se encuentren a disposicion de los usuarios. |
+| Sprint Goal & User Stories |  
+| Sprint 3 Goal | Culminar los features restantes de la aplicacion desarrollada previamente en Kotlin. Y finalizar el desarrollo de la aplicacion en la version de Flutter.  |  
+| Sprint Velocity | Se establece un Velocity de 26 Story points para este Sprint. | 
+| Sum of Story Points | 26 Story Points | 
 #### 6.2.3.2. Sprint Backlog 3
 
 <table align="center" border="1" width="90%" style="text-align:center">
@@ -2857,101 +2857,119 @@ Activamos Application Insights o usamos los registros del App Service para monit
     <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
   </tr>
   <tr>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td>  </td>
-    <td> </td>
+    <td> US01 </td>
+    <td> Agregar vacuna al registro </td>
+    <td> T01 </td>
+    <td> Implementar la opcion de registro de vacuna </td>
+    <td> 2  </td>
+    <td> Rojas Velasquez, Maycol Jhordan </td>
+    <td> Done </td>
  </tr>
  <tr>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td>  </td>
-    <td> </td>
+    <td> US03 </td>
+    <td> Gestion de registro de vacunas </td>
+    <td> T02 </td>
+    <td> Implementacion de la administracion del registro de vacunas en el app. </td>
+    <td> 2 </td>
+    <td> Rojas Velasquez, Maycol Jhordan </td>
+    <td> Done </td>
  </tr>
  <tr>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td>  </td>
-    <td> </td>
+    <td> US04 </td>
+    <td> Registro de bovino en Lote </td>
+    <td> T03 </td>
+    <td> Implementacion de registro de bovinos dentro de un Lote. </td>
+    <td> 2 </td>
+    <td> Rojas Velasquez, Maycol Jhordan </td>
+    <td> Done </td>
  </tr>
  <tr>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td>  </td>
-    <td> </td>
+    <td> US05 </td>
+    <td> Informacion de bovino </td>
+    <td> T04 </td>
+    <td> Implementacion de la opcion de visualizar informacion de bovino. </td>
+    <td> 2 </td>
+    <td> Durand Vera, Gianfranco Angel </td>
+    <td> Done </td>
  </tr>
  <tr>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td>  </td>
-    <td> </td>
+    <td> US06  </td>
+    <td> Actualiza informacion de bovinos </td>
+    <td> T05 </td>
+    <td> Implementacion de la opcion de actualizar datos de bovino </td>
+    <td> 2 </td>
+    <td> Durand Vera, Gianfranco Angel </td>
+    <td> Done </td>
  </tr>
  <tr>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td>  </td>
-    <td> </td>
+    <td> US08 </td>
+    <td> Asocia Empleado a campaña </td>
+    <td> T06 </td>
+    <td> Implementacion de la opcion de asociar empleado a una campaña. </td>
+    <td> 2 </td>
+    <td> Rojas Velasquez, Maycol Jhordan </td>
+    <td> Done </td>
  </tr>
  <tr>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td>  </td>
-    <td> </td>
+    <td> TS09 </td>
+    <td> API para Gestion de Campañas </td>
+    <td> T07 </td>
+    <td> Implementacion de API para gestion de campañas </td>
+    <td> 2 </td>
+    <td> Miranda Sinarahua, Piero Stephano </td>
+    <td> Done </td>
  </tr>
  <tr>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td>  </td>
-    <td> </td>
+    <td> US10 </td>
+    <td> Registro de Personal </td>
+    <td> T08 </td>
+    <td> Implementacion de opcion para registrar personal </td>
+    <td> 2 </td>
+    <td> Ticona Panduro, Estrella del Pilar </td>
+    <td> Done </td>
  </tr>
  <tr>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td>  </td>
-    <td> </td>
+    <td> TS06  </td>
+    <td> API gestion de animales </td>
+    <td> T09 </td>
+    <td> Implementacion de API para gestion de animales </td>
+    <td> 2 </td>
+    <td> Aranda Vallejos, Oscar Gabriel </td>
+    <td> Done </td>
  </tr>
  <tr>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td>  </td>
-    <td> </td>
+    <td> US12  </td>
+    <td> Gestion de Personal </td>
+    <td> T10 </td>
+    <td> Implementacion de opcion para administrar el personal </td>
+    <td> 2 </td>
+    <td> Aranda Vallejos, Oscar Gabriel </td>
+    <td> Done </td>
+ </tr>
+  <tr>
+    <td> TS11  </td>
+    <td> API busqueda empleados </td>
+    <td> T11 </td>
+    <td> Implementacion del API para busqueda de personal </td>
+    <td> 2 </td>
+    <td> Aranda Vallejos, Oscar Gabriel </td>
+    <td> Done </td>
+ </tr>
+  <tr>
+    <td> US15  </td>
+    <td> Explorar Landing Page </td>
+    <td> T12 </td>
+    <td> Implementacion secciones restantes para explorar Landing Page </td>
+    <td> 2 </td>
+    <td> Gómez Vallejos, Sergio André </td>
+    <td> Done </td>
  </tr>
  
 
 </table>
 
 #### 6.2.3.3. Development Evidence for Sprint Review
-Durante este sprint, se han realizado avances significativos en la implementación de la Landing Page, backend y frontend del aplicativo mobile. Se han completado varias historias de usuario tanto de la landing page como del backend y se han realizado múltiples commits en los repositorios correspondientes.
+Durante este sprint, se han realizado avances significativos en la implementacion de la aplicaction, tanto en la version de Kotlin como en la de Flutter. De igual manera, se añadieron cambios a los Web Services y algunas opciones adicionales al Landing Page. Se han completado historias de usuario para los componentes mencionados y se han realizado commits en los repositorios correspondientes.
 
 <table>
    <tr>
@@ -2963,28 +2981,36 @@ Durante este sprint, se han realizado avances significativos en la implementaci�
       <td>Commited on (Date)</td>
    </tr>
    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> https://github.com/Bovinova/Flutter-mobile-development----VacApp </td>
+      <td> Main </td>
+      <td> Mobile Frontend Flutter </td>
+      <td> 5146c43 </td>
+      <td> Feat: upload project </td>
+      <td> Jul 01, 2025 </td>
    </tr>
    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> https://github.com/Bovinova/Native-mobile-development----VacApp </td>
+      <td> Develop </td>
+      <td> Mobile Frontend Kotlin </td>
+      <td> 25583c6 </td>
+      <td> feat: add room home, barn, campaign </td>
+      <td> Jul 05, 2025 </td>
    </tr>
    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> https://github.com/Bovinova/Web-Services----VacApp </td>
+      <td> Development </td>
+      <td> Web Services </td>
+      <td> 51414eb </td>
+      <td> feat: add UserInfoResource and update UserController to return user information </td>
+      <td> Jul 04, 2024 </td>
+   </tr>
+    <tr>
+      <td> https://github.com/Bovinova/Landing-Page----VacApphttps://github.com/Bovinova/Landing-Page----VacApp </td>
+      <td> Main </td>
+      <td> Landing Page </td>
+      <td> 5d55fcb </td>
+      <td> feat: add TermsModal component for user agreement on landing page </td>
+      <td> Jul 07, 2025 </td>
    </tr>
 </table>
 
