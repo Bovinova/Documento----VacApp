@@ -3053,10 +3053,22 @@ Durante este sprint, se han realizado avances significativos en la implementacio
 
 
 #### 6.2.3.6. Services Documentation Evidence for Sprint Review
+
 En esta sección se evidencia la documentación de los servicios implementados para el sprint actual que conforman el backend.
 
 #### Backend
 
+- Backend desplegado en azure: 
+
+<p align="center">
+  <img src="./assets/backend_deployed_s3.JPG" width="600" />
+</p>
+
+- Endpoints desarrollados para Admin Users:
+
+<p align="center">
+  <img src="./assets/admin_endpoints_s3.JPG" width="600" />
+</p>
 
 
 #### 6.2.3.7. Software Deployment Evidence for Sprint Review
