@@ -3061,8 +3061,73 @@ En esta sección se evidencia la documentación de los servicios implementados p
 
 #### 6.2.3.7. Software Deployment Evidence for Sprint Review
 
+Para este Sprint, el equipo uso la herramienta de Firebase para poder desplegar el aplicativo a traves de la funcion de App Distribution, con el objetivo de poder compartir el aplicativo de VacApp con nuestros usuarios, y que lo puedan probar desde sus mismos dispositivos moviles. 
+
+**Para conocer un poco mas acerca de la plataforma:**
+
+Firebase App Distribution es una herramienta de Firebase que permite a los desarrolladores distribuir versiones preliminares de sus aplicaciones móviles a un grupo seleccionado de evaluadores o testers antes de su lanzamiento oficial. Esto facilita la recopilación de retroalimentación temprana y la identificación de problemas antes de que la aplicación llegue a un público más amplio. 
+
+**Para conseguir todo esto, lo primero que se hizo fue:**
+
+- Descargar nuestro proyecto y añadir el archivo de google-services 
+
+<p align="center">
+  <img src="./assets/descarga_firebase.JPG" width="600" />
+</p>
+
+- Agregamos el SDK de Firebase como una dependencia en el build.gradle.kts :
+  
+<p align="center">
+  <img src="./assets/gradle_firebase.JPG" width="400" />
+  <img src="./assets/gradle_firebase_2.JPG" width="400" />
+</p>
+
+- En el home de Firebase podremos encontrar la aplicacion de VacApp:
+
+<p align="center">
+  <img src="./assets/home_firebase.JPG" width="600" />
+</p>
+
+- Ingresamos en la opcion de App distribution: 
+
+<p align="center">
+  <img src="./assets/app_distribution_firebase.JPG" width="600" />
+</p>
+
+- Subimos el apk de la aplicacion de VacApp en el apartado de App Distribution:
+
+<p align="center">
+  <img src="./assets/upload_apk_firebase.JPG" width="600" />
+</p>
+
+- Se podran visualizar la version en la que se encuentra subida el apk, al igual que estadisticas relacionadas a el numero de invitados, invitaciones aceptadas, descargas y comentarios.
+
+<p align="center">
+  <img src="./assets/version_firebase.JPG" width="600" />
+</p>
+
+- Se puede visualizar un apartado en el cual se crean vinculos para generar invitaciones para que los usuarios puedan descargar el app: 
+
+<p align="center">
+  <img src="./assets/invitation_firebase.JPG" width="600" />
+</p>
+
+- Firebase solicita un correo electronico a los usuarios que quieran descargar el app, con el cual podran obtener acceso a VacApp:
+
+<p align="center">
+  <img src="./assets/access_mobile_firebase.JPG" width="300" />
+  <img src="./assets/invitation_recieved_firebase.JPG" width="300" />
+</p>
+
+- Al obtener acceso, los usuarios ya contaran con la opcion de poder descargar el app en sus dispositivos moviles:
+
+<p align="center">
+  <img src="./assets/dowload_app_firebase.JPG" width="300" />
+  <img src="./assets/app_dowloaded_firebase.JPG" width="300" />
+</p>
 
 #### 6.2.3.8. Team Collaboration Insights durint Sprint.
+
 
 
 ### 6.3. Validation Interviews
