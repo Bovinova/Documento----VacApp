@@ -3022,12 +3022,33 @@ Durante este sprint, se han realizado avances significativos en la implementacio
 
 
 
-#### Mobile Frontend
-Kotlin:
+#### Mobile Frontend Flutter:
 
+![flutter_evidence](assets/evidencia_flutter.JPG)
 
+<p align="center">
+  <img src="./assets/sign_up_flutter.JPG" width="300" />
+  <img src="./assets/home_flutter.JPG" width="300" />
+  <img src="./assets/animales_flutter.JPG" width="300" />
+</p>
 
-Flutter: 
+<p align="center">
+  <img src="./assets/gestion_flutter.JPG" width="300" />
+  <img src="./assets/establos_flutter.JPG" width="300" />
+  <img src="./assets/perfil_flutter.JPG" width="300" />
+</p>
+
+<p align="center">
+  <img src="./assets/personal_flutter.JPG" width="300" />
+  <img src="./assets/animales_establo_flutter.JPG" width="300" />
+  <img src="./assets/vacunas_flutter.JPG" width="300" />
+</p>
+
+<p align="center">
+  <img src="./assets/detalles_bovino_flutter.JPG" width="300" />
+  <img src="./assets/registro_bovino_flutter.JPG" width="300" />
+  <img src="./assets/gestion_campaña_flutter.JPG" width="300" />
+</p>
 
 
 
@@ -3040,79 +3061,6 @@ En esta sección se evidencia la documentación de los servicios implementados p
 
 #### 6.2.3.7. Software Deployment Evidence for Sprint Review
 
-##### Frontend 
-
-La aplicación mobil se realizaron los siguientes pasos:
-
-#### 1. Preparación del proyecto
-Se organizó el proyecto con todos los archivos necesarios para el frontend:
-- Archivos kotlin, flutter e imágenes
-
-
-#### 1. Kotlin Generate Apks
-
-[![Captura-de-pantalla-2025-05-15-220445.png](https://i.imgur.com/SshPK1H.jpeg)
-#### 3. Generated APKs
-[![Captura-de-pantalla-2025-05-15-220445.png](https://i.imgur.com/RF2bDy1.jpeg)
-
-#### 4. Se genera el apk en app/build/outputs/apk/debug
-[![Captura-de-pantalla-2025-05-15-220445.png](https://i.imgur.com/VIbae94.jpeg)
-#### 5. Confirmacion de Despliegue
-
-
-[![Captura-de-pantalla-2025-05-15-220445.png](https://i.imgur.com/t9ARRbH.jpeg)
-
-[![Captura-de-pantalla-2025-05-15-220445.png](https://i.imgur.com/xSl56UL.jpeg)
-
-
-
-
-##### Backend
-
-Para el despliegue del backend se realizaron los siguientes pasos:
-
-##### 1. Ingresamos al portal de Azure
-Accedemos a [https://portal.azure.com](https://portal.azure.com) con nuestra cuenta para comenzar el proceso de despliegue.
-
-##### 2. Creamos un Grupo de Recursos
-Agrupamos todos los componentes relacionados con nuestro backend dentro de un grupo de recursos, lo que facilita su administración y organización.
-
-##### 3. Definimos un Plan de App Service
-Creamos un plan donde configuramos:
-- El sistema operativo (Linux o Windows)
-- La región del servidor
-- El tamaño del plan (por ejemplo, B1, F1, P1v2)
-
-##### 4. Configuramos una App Web (App Service)
-Creamos una nueva instancia de App Service seleccionando el grupo de recursos y el plan previamente definidos. Indicamos también la pila de tecnología (.NET) según nuestro backend.
-
-##### 5. Establecemos variables y configuraciones del entorno
-Agregamos variables de entorno, claves secretas, rutas y cadenas de conexión necesarias para el correcto funcionamiento del backend.
-
-##### 6. Preparamos nuestro backend para producción
-Nos aseguramos de que nuestra aplicación esté lista para ejecutarse en Azure, incluyendo:
-- Archivos de dependencias
-- Código limpio y portable
-
-##### 7. Elegimos el método de despliegue
-Seleccionamos cómo vamos a subir el backend a Azure:
-- Mediante integración continua desde GitHub
-- Subiendo el código directamente desde nuestro equipo
-- Usando FTP o un archivo ZIP desplegable
-
-##### 8. Realizamos el despliegue
-Subimos nuestro proyecto utilizando el método seleccionado. Si usamos GitHub, configuramos un flujo de trabajo de CI/CD para automatizar futuras actualizaciones.
-
-##### 9. Verificamos el estado del despliegue
-Revisamos los registros desde el portal para asegurarnos de que el despliegue fue exitoso y sin errores.
-
-##### 10. Accedemos a la aplicación
-Probamos la URL pública que nos proporciona Azure para verificar que nuestro backend está corriendo correctamente.
-
-##### 11. Monitoreamos y damos mantenimiento
-Activamos Application Insights o usamos los registros del App Service para monitorear el rendimiento, identificar errores y asegurar la estabilidad de la aplicación.
-
-[![dashboard-azure.jpg](https://i.postimg.cc/9MZZg73s/dashboard-azure.jpg)](https://postimg.cc/njVXCMh1)
 
 #### 6.2.3.8. Team Collaboration Insights durint Sprint.
 
