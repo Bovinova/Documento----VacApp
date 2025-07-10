@@ -3068,6 +3068,9 @@ Durante este sprint, se han realizado avances significativos en la implementacio
   <img src="./assets/gestion_campaña_flutter.JPG" width="300" />
 </p>
 
+#### New Landing Page Design: 
+
+![landing](assets/new_lading.JPG)
 
 
 #### 6.2.3.6. Services Documentation Evidence for Sprint Review
