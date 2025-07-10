@@ -3159,6 +3159,60 @@ Firebase App Distribution es una herramienta de Firebase que permite a los desar
   <img src="./assets/app_dowloaded_firebase.JPG" width="300" />
 </p>
 
+Para finalizar la publicacion de la aplicacion VacApp desarrollada, se inicio tambien el proceso de publicacion dentro de **PlayStore**, con el objetivo de que mas usuarios interactuen con el app, descargandolo desde la tienda oficial de sus dispositivos moviles. 
+
+**Para ello se siguieron los siguientes pasos:**
+
+- Se creo una cuenta y se accedio a la consola de Google:
+  
+<p align="center">
+  <img src="./assets/comenzar_google.JPG" width="600" />
+</p>
+
+- Se eligio un tipo de cuenta:
+  
+<p align="center">
+  <img src="./assets/tipo_google.JPG" width="600" />
+</p>
+
+- Se verificaron los requerimientos necesarios :
+  
+<p align="center">
+  <img src="./assets/crear_google.JPG" width="600" />
+</p>
+
+- Se configuro el perfil del publico del desarrollador :
+  
+<p align="center">
+  <img src="./assets/perfil_google.JPG" width="600" />
+</p>
+
+- Se aceptaron los terminos de Google :
+  
+<p align="center">
+  <img src="./assets/terminos_google.JPG" width="600" />
+</p>
+
+- Se verifico que la cuenta haya sido correctamente creada :
+  
+<p align="center">
+  <img src="./assets/creado_google.JPG" width="600" />
+</p>
+
+- Se configuraron los detalles de la aplicacion VacApp :
+  
+<p align="center">
+  <img src="./assets/crear_app_google.JPG" width="400" />
+</p>
+
+- Pagina principal de Google Console con VacApp :
+  
+<p align="center">
+  <img src="./assets/console_google.JPG" width="600" />
+</p>
+
+
+
 #### 6.2.3.8. Team Collaboration Insights durint Sprint.
 
 
@@ -3380,6 +3434,8 @@ Recomendacion: Realizar mas pruebas para corroborar que lo desarrollado se pueda
 
 ### 6.4. Video About-The-Product
 
+About The Product: https://www.youtube.com/watch?v=JmOW2IkXjeI
+
 ##  Conclusiones 
 
 - Conclusión 1: Integración de módulos orientados al dominio
@@ -3459,7 +3515,7 @@ About The Product: https://www.youtube.com/watch?v=JmOW2IkXjeI
 
 ### TF 
 
-Deploy Firebase : https://appdistribution.firebase.dev/i/b5b8b0a89363391d
+Firebase : https://appdistribution.firebase.google.com/testerapps/1:11488236873:android:0409f6a05c9df1b611b698/releases/020f01q2vvtcg?utm_source=firebase-console
 
 Backend : https://vacappv2-bxcpfqarbwgpddh8.canadacentral-01.azurewebsites.net/swagger
 
