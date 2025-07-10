@@ -1328,13 +1328,18 @@ En esta sección, se presentan los diagramas C4 que describen la arquitectura de
 
 El Diagrama de Contexto muestra la interacción de VacApp con los actores externos, como los ganaderos y las empresas, así como otros sistemas externos que proporcionan servicios clave, como el pronóstico del tiempo, bases de datos de razas de ganado y servicios veterinarios. Este diagrama proporciona una visión de alto nivel del sistema, ayudando a entender cómo VacApp se integra en el ecosistema de gestión del ganado.
 
-![context](./assets/DiagramContainers.png)
+![context](./assets/new_container_diagram.png)
 
 #### 4.1.3.2. Software Architecture Container Level Diagrams
 
 El Diagrama de Contenedores proporciona un nivel de detalle más profundo, mostrando los contenedores principales dentro de VacApp. Estos incluyen la aplicación web, la aplicación móvil, la API y la base de datos. Este diagrama ilustra cómo los diferentes componentes interactúan entre sí, permitiendo que los usuarios gestionen sus ganados, vacunas, salud y alimentación de manera eficiente. También muestra cómo la aplicación se comunica con sistemas externos, como el servicio de pronóstico del tiempo y las bases de datos de razas.
 
-![containers](./assets/Structurizr-VacAPP-Containers.png)
+![containers](./assets/new_container_diagram.png)
+
+**Software Component Diagram**
+
+![containers](./assets/new_component_diagram.png)
+
 
 #### 4.1.3.3. Software Architecture Deployment Diagrams
 
