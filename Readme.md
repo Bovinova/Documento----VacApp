@@ -2662,7 +2662,7 @@ Authentication Google
 
 ![Captura-de-pantalla-2025-05-15-220233.png](https://i.imgur.com/9Wh6GMj.jpeg)
 
-Authentication Microsofot
+Authentication Microsoft
 
 [![Captura-de-pantalla-2025-06-20-024605.png](https://i.postimg.cc/QNkx8VB1/Captura-de-pantalla-2025-06-20-024605.png)](https://postimg.cc/hhvqMD1t)
 
@@ -3417,6 +3417,7 @@ Entrevistas de Validacion: [Validation Interviews](https://upcedupe-my.sharepoin
 
 About The Product: https://youtu.be/JmOW2IkXjeI
 
+About The Team: https://youtu.be/lSwsPjgR9Bo
 
 ### Mockups
 
@@ -3453,7 +3454,7 @@ Backend: https://vacappv2-bxcpfqarbwgpddh8.canadacentral-01.azurewebsites.net/sw
 
 Landing Page: https://vacapp-landing.netlify.app/
 
-About the product: https://www.youtube.com/watch?v=JmOW2IkXjeI
+About The Product: https://www.youtube.com/watch?v=JmOW2IkXjeI
 
 
 ### TF 
@@ -3462,6 +3463,9 @@ Deploy Firebase : https://appdistribution.firebase.dev/i/b5b8b0a89363391d
 
 Backend : https://vacappv2-bxcpfqarbwgpddh8.canadacentral-01.azurewebsites.net/swagger
 
-Landing Page : https://super-truffle-489324.netlify.app/ 
+Landing Page : https://super-truffle-489324.netlify.app/
+
+About The Team: https://youtu.be/lSwsPjgR9Bo
+
 
 
