@@ -3406,7 +3406,7 @@ Durante el desarrollo se priorizó la interacción constante con los usuarios fi
 
 
 ##  Anexos
-
+Aplicación: https://appdistribution.firebase.dev/i/b5b8b0a89363391d
 
 ### Videos
 
@@ -3455,6 +3455,7 @@ Landing Page: https://vacapp-landing.netlify.app/
 
 About the product: https://www.youtube.com/watch?v=JmOW2IkXjeI
 
+
 ### TF 
 
 Deploy Firebase : https://appdistribution.firebase.dev/i/b5b8b0a89363391d
@@ -3462,4 +3463,5 @@ Deploy Firebase : https://appdistribution.firebase.dev/i/b5b8b0a89363391d
 Backend : https://vacappv2-bxcpfqarbwgpddh8.canadacentral-01.azurewebsites.net/swagger
 
 Landing Page : https://super-truffle-489324.netlify.app/ 
+
 
