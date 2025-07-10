@@ -99,6 +99,19 @@ TB1          |   24/04/2025  |   Oscar Gabriel Aranda Vallejos  |  Bounded Conte
 | TB2          | 20/06/2025    | Piero Stephano Miranda Sinarahua            | Implementación de Software Deployment Evidence for Sprint Review                     |
 | TB2          | 20/06/2025    | Piero Stephano Miranda Sinarahua            | Implementación de Team Collaboration                    |
 | TB2          | 20/06/2025    | Piero Stephano Miranda Sinarahua            | Implementación de Validation Interviews                    |
+| TF         | 09/07/2025    |  Maycol Jhordan Rojas Velásquez         |    Implementacion de Aplicacion en Flutter                |
+| TF         | 09/07/2025    |  Maycol Jhordan Rojas Velásquez         |    Funcionalidades de VacApp en Flutter                |
+| TF         | 09/07/2025    |  Sergio André Gómez Vallejos         |    Desarrollo final del Landing Page                |
+| TF         | 09/07/2025    |  Sergio André Gómez Vallejos         |    Evidence for Deploy in Sprint 3                |
+| TF         | 09/07/2025    |  Estrella del Pilar Ticona Panduro         |    Desarrollo del Landing Page                |
+| TF         | 09/07/2025    |  Estrella del Pilar Ticona Panduro         |    Desarrollo de aplicacion Kotlin                 |
+| TF         | 09/07/2025    |  Gianfranco Angel Durand Vera         |   Desarrollo final de App en Kotlin                 |
+| TF         | 09/07/2025    |  Gianfranco Angel Durand Vera         |   Deployment del Backend                  |
+| TF         | 09/07/2025    |  Piero Stephano Miranda Sinarahua         |   Implementacion de execution evidence para Sprint 3                 |
+| TF         | 09/07/2025    |  Piero Stephano Miranda Sinarahua         |   Implementacion de Sprint 3                 |
+| TF         | 09/07/2025    |  Oscar Gabriel Aranda Vallejos         |   Desarrollo de Endpoints restantes en backend                |
+| TF         | 09/07/2025    |  Oscar Gabriel Aranda Vallejos         |   Despliegue en Firebase                 |
+
 
 
 **Project Report Collaboration Insights**
