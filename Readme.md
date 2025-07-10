@@ -8,10 +8,10 @@
         <p><strong>Ciclo:</strong> 2025-01 </p>
         <p><strong>Profesor:</strong> Jorge Luis Mayta Guillermo</p>
     <h3>"Informe de Trabajo Final"</h3>
-    <h4>TB2</h4>
+    <h4>TF</h4>
         <p><strong>Tema:</strong> Gestion de ganaderia </p>
         <p><strong>Producto:</strong> VacApp de Bovinova</p>
-        <p><strong>Junio, 2025</strong></p>
+        <p><strong>Julio, 2025</strong></p>
 </div>
 <div style="text-align:left;">
     <h3>Integrantes:</h3>
@@ -99,6 +99,19 @@ TB1          |   24/04/2025  |   Oscar Gabriel Aranda Vallejos  |  Bounded Conte
 | TB2          | 20/06/2025    | Piero Stephano Miranda Sinarahua            | Implementación de Software Deployment Evidence for Sprint Review                     |
 | TB2          | 20/06/2025    | Piero Stephano Miranda Sinarahua            | Implementación de Team Collaboration                    |
 | TB2          | 20/06/2025    | Piero Stephano Miranda Sinarahua            | Implementación de Validation Interviews                    |
+| TF         | 09/07/2025    |  Maycol Jhordan Rojas Velásquez         |    Implementacion de Aplicacion en Flutter                |
+| TF         | 09/07/2025    |  Maycol Jhordan Rojas Velásquez         |    Funcionalidades de VacApp en Flutter                |
+| TF         | 09/07/2025    |  Sergio André Gómez Vallejos         |    Desarrollo final del Landing Page                |
+| TF         | 09/07/2025    |  Sergio André Gómez Vallejos         |    Evidence for Deploy in Sprint 3                |
+| TF         | 09/07/2025    |  Estrella del Pilar Ticona Panduro         |    Desarrollo del Landing Page                |
+| TF         | 09/07/2025    |  Estrella del Pilar Ticona Panduro         |    Desarrollo de aplicacion Kotlin                 |
+| TF         | 09/07/2025    |  Gianfranco Angel Durand Vera         |   Desarrollo final de App en Kotlin                 |
+| TF         | 09/07/2025    |  Gianfranco Angel Durand Vera         |   Deployment del Backend                  |
+| TF         | 09/07/2025    |  Piero Stephano Miranda Sinarahua         |   Implementacion de execution evidence para Sprint 3                 |
+| TF         | 09/07/2025    |  Piero Stephano Miranda Sinarahua         |   Implementacion de Sprint 3                 |
+| TF         | 09/07/2025    |  Oscar Gabriel Aranda Vallejos         |   Desarrollo de Endpoints restantes en backend                |
+| TF         | 09/07/2025    |  Oscar Gabriel Aranda Vallejos         |   Despliegue en Firebase                 |
+
 
 
 **Project Report Collaboration Insights**
@@ -284,8 +297,8 @@ necesario, utilizando estrategias de aprendizaje apropiadas.
 
 | **Criterio específico** | **Acciones realizadas** | **Conclusiones** |  
 |-------------------------|------------------------|------------------|  
-| Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software |  1. Gómez Vallejos, Sergio André <br>*TB1*<br> Desarrollé secciones clave como el Solution Profile, Antecedentes y problemática, el análisis de Competidores, y el Análisis competitivo. También realicé el Tactical-Level Domain-Driven Design y el Bounded Context Database Design Diagram. Para ello, estudié conceptos de diseño táctico, arquitectura basada en dominios y modelado de datos.<br>*TP*<br>Durante el desarrollo del Sprint Backlog y de una parte de la aplicación móvil, actualicé conceptos clave relacionados con la planificación ágil, estructuración de tareas y flujos de trabajo en proyectos reales. Esto me permitió afianzar mis conocimientos en metodologías ágiles, herramientas de gestión de tareas y buenas prácticas de desarrollo móvil. <br>*TB2*<br> Actualicé y organicé la documentación del Sprint 2, lo que me permitió reforzar mis conocimientos sobre la gestión de proyectos y mantenerme alineado con las prácticas necesarias para el desarrollo profesional en soluciones de software. <br><br> 2. Rojas Velasquez, Maycol Jhordan<br>*TB1*<br>  Apliqué los conocimientos necesarios para el proyecto, desarrollando los diagramas C4 y definiendo el segmento objetivo.<br>*TP*<br>En mi participación en el desarrollo de una parte de la aplicación móvil, reforcé y actualicé conocimientos sobre frameworks de desarrollo, manejo de estados, navegación y buenas prácticas en la arquitectura de aplicaciones móviles. Estas habilidades son clave para mi formación profesional y la ejecución exitosa de proyectos de software. <br>*TB2*<br> Actualicé la aplicación utilizando Flutter y Dart, lo que me permitió aplicar conceptos nuevos y fortalecer mis conocimientos en tecnologías móviles modernas para el desarrollo profesional.  <br><br> 3. Aranda Vallejos, Oscar Gabriel <br>*TB1*<br>  Participé en el proceso del eventstorming, actualizando los conceptos y técnicas aprendidas del Domain Driven Design.<br>*TP*<br>Durante la implementación del backend para la administración de personal y la gestión de bovinos, establos y vacunas, actualicé y profundicé conocimientos sobre REST APIs, diseño de bases de datos y operaciones CRUD. Esta experiencia contribuyó directamente a mi desarrollo como profesional en soluciones backend. <br>*TB2*<br> Implementé autenticación con Google y Microsoft en el backend, lo que me permitió actualizar mis conocimientos sobre seguridad y protocolos de autenticación actuales en soluciones de software.  <br><br>4. Ticona Panduro, Estrella del Pilar<br>*TB1*<br> A través del To Be Scenario Mapping, User Stories, Impact Mapping y Product Backlog, reforcé conocimientos en metodologías ágiles y diseño centrado en el usuario. Además, llevé a cabo una serie de actividades clave que reflejan el compromiso con la actualización de conocimientos y el aprendizaje continuo. Estas acciones incluyeron secciones para el diseño de entrevistas, una entrevista del segmento 1 (productores ganadores independientes), To be Scenario Mapping, User Stories, Impact Mapping, Product Backlog, Bounded Context Application Layer, Infrastructure Layer, Domain Layer Class Diagrams y Database Design Diagram para Staff administration. De esta manera, todo este proceso me permitió actualizar conocimientos esenciales para mi crecimiento profesional, especialmente en metodologías ágiles, diseño centrado en el usuario y arquitectura de software.<br>*TP*<br> En este entregable, realicé el diseño de la landing page con ayuda del Figma y de igual manera con los wireframe y mockups y asi tener un prototipo de nuestra aplicación. De esta manera actualicé conceptos esenciales sobre experiencia de usuario, jerarquía visual, prototipado digital y herramientas modernas de diseño.<br>*TB2*<br> Actualicé la aplicación móvil utilizando Kotlin, lo que me permitió reforzar mis conocimientos en desarrollo nativo para Android y mejorar mi preparación profesional en soluciones móviles. <br><br>5. Durand Vera, Gianfranco Angel: <br>*TB1*<br> Realicé las capas de Domain e Interface, además de el Component Level Diagram, para el Bounded Context Staff Administration, asi como entrevistas hacia el segundo segmento.<br>*TP*<br>Al implementar la gestión de identidades y accesos (IAM) en el backend, desplegar el sistema en Azure y desarrollar parte de la landing page con soporte multilenguaje (i18n), adquirí conocimientos nuevos sobre seguridad, infraestructura en la nube y diseño accesible para usuarios de distintos idiomas.<br>*TB2*<br> Contribuí a la actualización de la aplicación móvil en Kotlin, lo que me ayudó a aplicar conocimientos actuales en desarrollo Android y fortalecer mi crecimiento como profesional en soluciones de software. <br><br> 6. Miranda Sinarahua, Piero Stephano<br>*TB1*<br> Estuve encargado de realizar secciones dentro del Needfinding, entre estos estan el desarrollo de los user persona, task matrix, journey mapping, empathy mapping y as is scenario mapping. Al igual que reuní informacion clave dentro de una entrevista realizada, lo cual sirvió para obtener datos que serían útiles durante el proceso de desarrollo.<br>*TP*<br>En la implementación del backend para la gestión de campañas, actualicé conocimientos sobre servicios web y patrones de desarrollo escalables. Esta experiencia me permitió afianzar habilidades esenciales para desarrollar soluciones de software sólidas y eficientes. <br>*TB2*<br> Actualicé la documentación del proyecto, lo que me permitió reforzar mis conocimientos sobre el ciclo de desarrollo de software y mejorar mis habilidades en organización y gestión de información técnica. <br><br> | TB1<br>  A lo largo del desarrollo del proyecto de soluciones de software, los integrantes del equipo demostraron un fuerte compromiso con la actualización de conocimientos y la aplicación de metodologías modernas, lo cual contribuyó significativamente a su crecimiento profesional. Se evidenció una sólida comprensión y uso de principios del Domain-Driven Design, diseño centrado en el usuario, y metodologías ágiles, mediante la elaboración de artefactos clave como diagramas C4, mapeos de escenarios, backlog de producto, y diseño de base de datos por contexto. Las contribuciones individuales, desde la investigación de usuarios hasta el diseño de arquitectura por capas, muestran un trabajo colaborativo bien fundamentado y orientado a las mejores prácticas del desarrollo de software actual. Esto no solo enriqueció el proyecto, sino que también fortaleció las competencias técnicas y analíticas de cada miembro del equipo. <br><br> TP<br> Como equipo, logramos identificar áreas clave de conocimiento que debíamos reforzar para llevar a cabo las responsabilidades asignadas. Este proyecto nos motivó a actualizar conceptos relacionados con arquitectura de software, diseño UI/UX, frameworks móviles, integración de servicios backend y despliegue en la nube. Gracias a ello, fortaleceremos nuestras competencias profesionales, ya que este conocimiento será fundamental no solo para completar la aplicación, sino también para abordar proyectos futuros con mayor seguridad técnica y claridad metodológica. |  
-| Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software |  1. Gómez Vallejos, Sergio André<br>*TB1*<br> Para cada sección del trabajo investigué nuevas metodologías de análisis competitivo, bases de Domain-Driven Design, y enfoques de diseño de bases de datos adaptados a contextos delimitados. Utilicé documentación especializada, artículos académicos y experiencias de la industria como base para mis decisiones de diseño.<br>*TP*<br>Durante el desarrollo del Sprint Backlog y mi participación en la implementación de una parte de la aplicación móvil, comprendí que el aprendizaje permanente es esencial para adaptarse a nuevas metodologías ágiles y tecnologías de desarrollo móvil. <br>*TB2*<br> Reconocí la necesidad de seguir aprendiendo sobre metodologías ágiles y herramientas de documentación para mejorar mi desempeño en la planificación y seguimiento de proyectos de software. <br><br> 2. Rojas Velasquez, Maycol Jhordan<br>*TB1*<br> Desarrollé los temas alcanzados en los ciclos anteriores, lo que me permitió adquirir conocimientos sólidos sobre el tema y realizarlos correctamente.<br>*TP*<br>Al participar en el desarrollo de una parte de la aplicación móvil, reconocí la importancia de mantenerme en constante aprendizaje para estar alineado con las demandas tecnológicas actuales. La necesidad de investigar nuevas herramientas y adaptarme a las buenas prácticas de desarrollo móvil reafirmó mi compromiso con la formación continua como parte fundamental de mi desarrollo profesional.<br>*TB2*<br> Reconocí que el aprendizaje constante de herramientas multiplataforma como Flutter es esencial para adaptarme a los cambios tecnológicos y mejorar mis aportes al proyecto. <br><br> 3. Aranda Vallejos, Oscar Gabriel <br>*TB1*<br> Participé en el proceso del eventstorming, actualizando los conceptos y técnicas aprendidas del Domain Driven Design.<br>*TP*<br>En la implementación del backend para la administración del staff, bovinos, establos y vacunas, me enfrenté a retos que exigieron ampliar mis conocimientos sobre arquitecturas REST, control de datos y buenas prácticas de seguridad. Esta experiencia me permitió valorar la importancia de actualizar constantemente mis competencias técnicas para enfrentar con solidez los cambios y desafíos propios del desarrollo de software. <br>*TB2*<br> Comprendí que aprender continuamente sobre integraciones de servicios externos es clave para ofrecer soluciones seguras y escalables en mi desarrollo profesional. <br><br>4. Ticona Panduro, Estrella del Pilar<br>*TB1*<br> Reconocí la necesidad del aprendizaje permanente al enfrentar retos que exigieron investigar nuevas herramientas y enfoques, como la validación de usuarios, metodologías ágiles y principios de diseño de software moderno. La evolución constante del proyecto me impulsó a seguir aprendiendo para tomar mejores decisiones técnicas y aportar soluciones más efectivas y alineadas con las necesidades del usuario. A lo largo del proyecto confirmé que el aprendizaje permanente es fundamental en el desarrollo de software, ya que cada etapa presentó nuevos desafíos que me motivaron a investigar, adaptarme y mejorar. Este proceso me permitió evolucionar como profesional comprometido con la mejora continua y con la entrega de soluciones efectivas.<br>*TP*<br> En este entregable, entendi la importancia de optimizar tiempo, como por ejemplo definir las librerias en Figma y asi establecer colores a varios cuadros al mismo tiempo<br>*TB2*<br>Al asumir responsabilidades en el diseño de mockups, wireflows, prototipos y la interfaz de usuario para la aplicación móvil, entendí que el aprendizaje continuo es clave para brindar soluciones visuales efectivas y centradas en el usuario. La necesidad de dominar herramientas de diseño actualizadas y conceptos de experiencia de usuario me motivó a seguir explorando y aprendiendo más allá de los conocimientos adquiridos en clase. Además, reconocí que es fundamental seguir aprendiendo sobre lenguajes de programación móviles como Kotlin para mantenerme vigente en el desarrollo de software de calidad. <br><br> 5. Durand Vera, Gianfranco Angel<br>*TB1*<br> Durante esta entrega, comprendí la importancia del aprendizaje permanente en mi desarrollo profesional y en la creación de soluciones de software efectivas. Al desarrollar declaraciones de problemas y suposiciones bajo Lean UX, reforcé mi compromiso con la actualización constante de conocimientos para garantizar que cada proyecto se ejecute con la máxima eficiencia y calidad.<br>*TP*<br>Durante la implementación de la autenticación (IAM), el despliegue del backend en Azure y el desarrollo de la landing page, enfrenté varios desafíos técnicos que requirieron investigación y actualización constante. Este proceso me enseñó que el aprendizaje permanente no solo mejora mis habilidades, sino que también es vital para mantenerme competitivo en un entorno tecnológico que cambia rápidamente.<br>*TB2*<br> Comprendí que para seguir aportando con mi crecimiento profesional, para ambientes tecnológicos, es necesario mantener una actitud de aprendizaje constante en herramientas y lenguajes actuales. <br><br> 6. Miranda Sinarahua, Piero Stephano<br>*TB1*<br> Tomé en cuenta la importancia de adquirir e implementar nuevos conocimientos con el fin de lograr un desarrollo superior dentro de las tareas asignadas.<br>*TP*<br>Mi trabajo en la implementación del backend para la gestión de campañas me demostró que la solución de problemas técnicos exige una disposición constante al aprendizaje. Explorar nuevos enfoques, optimizar consultas y estructurar datos adecuadamente fue posible gracias a una actitud abierta hacia el conocimiento, que considero indispensable para seguir creciendo profesionalmente en el campo del desarrollo de software.<br>*TB2*<br> Reconocí la importancia de mantenerme en constante aprendizaje sobre metodologías ágiles y documentación efectiva, ya que son claves para el éxito en proyectos de software y mi desarrollo profesional. <br><br> | TB1<br> El equipo demostró una clara conciencia sobre la importancia del aprendizaje permanente como pilar fundamental para el desarrollo profesional y la ejecución efectiva de proyectos en soluciones de software. A través de la investigación constante, la aplicación de nuevas metodologías y la adaptación a desafíos técnicos, cada integrante fortaleció sus competencias y mostró un compromiso genuino con la mejora continua. La necesidad de mantenerse actualizado frente a las exigencias del sector tecnológico fue reconocida y asumida con responsabilidad, permitiendo no solo el cumplimiento exitoso de sus tareas, sino también una evolución profesional sostenible y alineada con las mejores prácticas de la industria. <br><br> TP<br> Durante el desarrollo del proyecto, comprendimos que la ingeniería de software es un campo en constante evolución. La necesidad de aprender nuevas herramientas, frameworks, lenguajes y enfoques fue evidente en cada etapa del trabajo. Como equipo, reconocemos que la mejora continua será indispensable para adaptarnos a los cambios tecnológicos y así poder enfrentar proyectos de mayor complejidad. Esta experiencia nos ha demostrado que el aprendizaje permanente no es una opción, sino una necesidad para mantenernos competitivos y eficientes en nuestra carrera profesional. |
+| Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software |  1. Gómez Vallejos, Sergio André <br>*TB1*<br> Desarrollé secciones clave como el Solution Profile, Antecedentes y problemática, el análisis de Competidores, y el Análisis competitivo. También realicé el Tactical-Level Domain-Driven Design y el Bounded Context Database Design Diagram. Para ello, estudié conceptos de diseño táctico, arquitectura basada en dominios y modelado de datos.<br>*TP*<br>Durante el desarrollo del Sprint Backlog y de una parte de la aplicación móvil, actualicé conceptos clave relacionados con la planificación ágil, estructuración de tareas y flujos de trabajo en proyectos reales. Esto me permitió afianzar mis conocimientos en metodologías ágiles, herramientas de gestión de tareas y buenas prácticas de desarrollo móvil. <br>*TB2*<br> Actualicé y organicé la documentación del Sprint 2, lo que me permitió reforzar mis conocimientos sobre la gestión de proyectos y mantenerme alineado con las prácticas necesarias para el desarrollo profesional en soluciones de software. <br>*TF*<br> Estuve a cargo del resideño de nuestro Landing Page, para el cual tome en cuenta nuevos conceptos aprendidos con el objetivo de proveer una mejor perspectiva de nuestro producto al cliente y aportar de manera positiva en la solucion de software desarrollado. <br><br> 2. Rojas Velasquez, Maycol Jhordan<br>*TB1*<br>  Apliqué los conocimientos necesarios para el proyecto, desarrollando los diagramas C4 y definiendo el segmento objetivo.<br>*TP*<br>En mi participación en el desarrollo de una parte de la aplicación móvil, reforcé y actualicé conocimientos sobre frameworks de desarrollo, manejo de estados, navegación y buenas prácticas en la arquitectura de aplicaciones móviles. Estas habilidades son clave para mi formación profesional y la ejecución exitosa de proyectos de software. <br>*TB2*<br> Actualicé la aplicación utilizando Flutter y Dart, lo que me permitió aplicar conceptos nuevos y fortalecer mis conocimientos en tecnologías móviles modernas para el desarrollo profesional. <br>*TF*<br> Desarrolle el aplicativo movil en la version de Flutter. Durante este desarrollo hice uso de nuevas funcionalidades aprendidas y nuevos conceptos de programacion, lo cuales se ven reflejados en el producto final presentado, el cual eventualmente ayudara en mi proceso de desarrollo profesional. <br><br> 3. Aranda Vallejos, Oscar Gabriel <br>*TB1*<br>  Participé en el proceso del eventstorming, actualizando los conceptos y técnicas aprendidas del Domain Driven Design.<br>*TP*<br>Durante la implementación del backend para la administración de personal y la gestión de bovinos, establos y vacunas, actualicé y profundicé conocimientos sobre REST APIs, diseño de bases de datos y operaciones CRUD. Esta experiencia contribuyó directamente a mi desarrollo como profesional en soluciones backend. <br>*TB2*<br> Implementé autenticación con Google y Microsoft en el backend, lo que me permitió actualizar mis conocimientos sobre seguridad y protocolos de autenticación actuales en soluciones de software. <br>*TF*<br> Implemente funcionalidades del Backend relacionadas a autenticacion de administradores. Los nuevos endpoints se emplearon haciendo uso de conocimientos que aportaron en desarrollar una solucion de software que aportara a futuro en mi desarrollo profesional.   <br><br>4. Ticona Panduro, Estrella del Pilar<br>*TB1*<br> A través del To Be Scenario Mapping, User Stories, Impact Mapping y Product Backlog, reforcé conocimientos en metodologías ágiles y diseño centrado en el usuario. Además, llevé a cabo una serie de actividades clave que reflejan el compromiso con la actualización de conocimientos y el aprendizaje continuo. Estas acciones incluyeron secciones para el diseño de entrevistas, una entrevista del segmento 1 (productores ganadores independientes), To be Scenario Mapping, User Stories, Impact Mapping, Product Backlog, Bounded Context Application Layer, Infrastructure Layer, Domain Layer Class Diagrams y Database Design Diagram para Staff administration. De esta manera, todo este proceso me permitió actualizar conocimientos esenciales para mi crecimiento profesional, especialmente en metodologías ágiles, diseño centrado en el usuario y arquitectura de software.<br>*TP*<br> En este entregable, realicé el diseño de la landing page con ayuda del Figma y de igual manera con los wireframe y mockups y asi tener un prototipo de nuestra aplicación. De esta manera actualicé conceptos esenciales sobre experiencia de usuario, jerarquía visual, prototipado digital y herramientas modernas de diseño.<br>*TB2*<br> Actualicé la aplicación móvil utilizando Kotlin, lo que me permitió reforzar mis conocimientos en desarrollo nativo para Android y mejorar mi preparación profesional en soluciones móviles. <br>*TF*<br> Al desarrollar las funcionalidades del aplicativo en Kotlin logre definir conceptos importantes que aportaran en mi futuro profesional relacionado a desarrollo movil y a ofrecer soluciones de software en contextos que lo requieran.  <br><br>5. Durand Vera, Gianfranco Angel: <br>*TB1*<br> Realicé las capas de Domain e Interface, además de el Component Level Diagram, para el Bounded Context Staff Administration, asi como entrevistas hacia el segundo segmento.<br>*TP*<br>Al implementar la gestión de identidades y accesos (IAM) en el backend, desplegar el sistema en Azure y desarrollar parte de la landing page con soporte multilenguaje (i18n), adquirí conocimientos nuevos sobre seguridad, infraestructura en la nube y diseño accesible para usuarios de distintos idiomas.<br>*TB2*<br> Contribuí a la actualización de la aplicación móvil en Kotlin, lo que me ayudó a aplicar conocimientos actuales en desarrollo Android y fortalecer mi crecimiento como profesional en soluciones de software. <br>*TF*<br> Realice actividades relacionadas con el deploy de nuestro backend, lo cual fue de gran importancia para poder ofrecer una solucion de software de calidad que aporta de manera positiva para la ejecucion del aplicativo.  <br><br> 6. Miranda Sinarahua, Piero Stephano<br>*TB1*<br> Estuve encargado de realizar secciones dentro del Needfinding, entre estos estan el desarrollo de los user persona, task matrix, journey mapping, empathy mapping y as is scenario mapping. Al igual que reuní informacion clave dentro de una entrevista realizada, lo cual sirvió para obtener datos que serían útiles durante el proceso de desarrollo.<br>*TP*<br>En la implementación del backend para la gestión de campañas, actualicé conocimientos sobre servicios web y patrones de desarrollo escalables. Esta experiencia me permitió afianzar habilidades esenciales para desarrollar soluciones de software sólidas y eficientes. <br>*TB2*<br> Actualicé la documentación del proyecto, lo que me permitió reforzar mis conocimientos sobre el ciclo de desarrollo de software y mejorar mis habilidades en organización y gestión de información técnica. <br>*TF*<br> Contribui con aspectos relacionados a la actualizacion de diagramas empleados en la estructura de nuestro aplicativo. Esto sirvio para desarrollar una solucion de software que se adecuaba a las necesidades que se plantearon segun la propuesta planteada. <br><br> | TB1<br>  A lo largo del desarrollo del proyecto de soluciones de software, los integrantes del equipo demostraron un fuerte compromiso con la actualización de conocimientos y la aplicación de metodologías modernas, lo cual contribuyó significativamente a su crecimiento profesional. Se evidenció una sólida comprensión y uso de principios del Domain-Driven Design, diseño centrado en el usuario, y metodologías ágiles, mediante la elaboración de artefactos clave como diagramas C4, mapeos de escenarios, backlog de producto, y diseño de base de datos por contexto. Las contribuciones individuales, desde la investigación de usuarios hasta el diseño de arquitectura por capas, muestran un trabajo colaborativo bien fundamentado y orientado a las mejores prácticas del desarrollo de software actual. Esto no solo enriqueció el proyecto, sino que también fortaleció las competencias técnicas y analíticas de cada miembro del equipo. <br><br> TP<br> Como equipo, logramos identificar áreas clave de conocimiento que debíamos reforzar para llevar a cabo las responsabilidades asignadas. Este proyecto nos motivó a actualizar conceptos relacionados con arquitectura de software, diseño UI/UX, frameworks móviles, integración de servicios backend y despliegue en la nube. Gracias a ello, fortaleceremos nuestras competencias profesionales, ya que este conocimiento será fundamental no solo para completar la aplicación, sino también para abordar proyectos futuros con mayor seguridad técnica y claridad metodológica.  <br><br>TF<br> En esta entrega final, el equipo puede concluir que se logro desarrollar un aplicativo movil que cumple con lo establecido. El producto final que se ofrece a nuestro publico objetivo se desarrollo gracias a conceptos relacionados con desarrollo movil, tanto en Flutter como en Kotlin, aprendizajes pasados relacionados con el backend de nuestro aplicativo, y conceptos nuevos aprendidos a lo largo del ciclo en el que se presenta este proyecto. Con este trabajo finalizado podemos afirmar que conseguimos una solucion de software que servira para que cada miembro del equipo defina su futuro profesional. |  
+| Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software |  1. Gómez Vallejos, Sergio André<br>*TB1*<br> Para cada sección del trabajo investigué nuevas metodologías de análisis competitivo, bases de Domain-Driven Design, y enfoques de diseño de bases de datos adaptados a contextos delimitados. Utilicé documentación especializada, artículos académicos y experiencias de la industria como base para mis decisiones de diseño.<br>*TP*<br>Durante el desarrollo del Sprint Backlog y mi participación en la implementación de una parte de la aplicación móvil, comprendí que el aprendizaje permanente es esencial para adaptarse a nuevas metodologías ágiles y tecnologías de desarrollo móvil. <br>*TB2*<br> Reconocí la necesidad de seguir aprendiendo sobre metodologías ágiles y herramientas de documentación para mejorar mi desempeño en la planificación y seguimiento de proyectos de software. <br>*TF*<br> Logre reconocer el aprendizaje permanente durante mi aporte final para el ultimo sprint, el cual ayudo a que el publico identificara mejor la solucion que se les ofrece y a como mi desempeño como profesional mejora con cada proyecto realizado. <br><br> 2. Rojas Velasquez, Maycol Jhordan<br>*TB1*<br> Desarrollé los temas alcanzados en los ciclos anteriores, lo que me permitió adquirir conocimientos sólidos sobre el tema y realizarlos correctamente.<br>*TP*<br>Al participar en el desarrollo de una parte de la aplicación móvil, reconocí la importancia de mantenerme en constante aprendizaje para estar alineado con las demandas tecnológicas actuales. La necesidad de investigar nuevas herramientas y adaptarme a las buenas prácticas de desarrollo móvil reafirmó mi compromiso con la formación continua como parte fundamental de mi desarrollo profesional.<br>*TB2*<br> Reconocí que el aprendizaje constante de herramientas multiplataforma como Flutter es esencial para adaptarme a los cambios tecnológicos y mejorar mis aportes al proyecto. <br>*TF*<br> Gracias a los nuevos aprendizajes durante el aplicativo de Flutter pude comprender la constante necesidad de aprender nuevos conceptos para ofrecer mejores soluciones de software en los proyectos en los que participo. <br><br> 3. Aranda Vallejos, Oscar Gabriel <br>*TB1*<br> Participé en el proceso del eventstorming, actualizando los conceptos y técnicas aprendidas del Domain Driven Design.<br>*TP*<br>En la implementación del backend para la administración del staff, bovinos, establos y vacunas, me enfrenté a retos que exigieron ampliar mis conocimientos sobre arquitecturas REST, control de datos y buenas prácticas de seguridad. Esta experiencia me permitió valorar la importancia de actualizar constantemente mis competencias técnicas para enfrentar con solidez los cambios y desafíos propios del desarrollo de software. <br>*TB2*<br> Comprendí que aprender continuamente sobre integraciones de servicios externos es clave para ofrecer soluciones seguras y escalables en mi desarrollo profesional. <br>*TF*<br> Pude reconocer que el constante desarrollo de nuevas funcionalidades apoyan a que defina mi futuro relacionado al desempeño profesional que quiero ofrecer en las propuestas de desarrollo de software. <br><br>4. Ticona Panduro, Estrella del Pilar<br>*TB1*<br> Reconocí la necesidad del aprendizaje permanente al enfrentar retos que exigieron investigar nuevas herramientas y enfoques, como la validación de usuarios, metodologías ágiles y principios de diseño de software moderno. La evolución constante del proyecto me impulsó a seguir aprendiendo para tomar mejores decisiones técnicas y aportar soluciones más efectivas y alineadas con las necesidades del usuario. A lo largo del proyecto confirmé que el aprendizaje permanente es fundamental en el desarrollo de software, ya que cada etapa presentó nuevos desafíos que me motivaron a investigar, adaptarme y mejorar. Este proceso me permitió evolucionar como profesional comprometido con la mejora continua y con la entrega de soluciones efectivas.<br>*TP*<br> En este entregable, entendi la importancia de optimizar tiempo, como por ejemplo definir las librerias en Figma y asi establecer colores a varios cuadros al mismo tiempo<br>*TB2*<br>Al asumir responsabilidades en el diseño de mockups, wireflows, prototipos y la interfaz de usuario para la aplicación móvil, entendí que el aprendizaje continuo es clave para brindar soluciones visuales efectivas y centradas en el usuario. La necesidad de dominar herramientas de diseño actualizadas y conceptos de experiencia de usuario me motivó a seguir explorando y aprendiendo más allá de los conocimientos adquiridos en clase. Además, reconocí que es fundamental seguir aprendiendo sobre lenguajes de programación móviles como Kotlin para mantenerme vigente en el desarrollo de software de calidad. <br>*TF*<br> Gracias a la solucion de software planteada en este proyecto pude definir los aprendizajes que necesitare para el futuro de mi desempeño profesional y como lograre vincular esto con los aportes vinculados a futuras soluciones de software en las que forme parte. <br><br> 5. Durand Vera, Gianfranco Angel<br>*TB1*<br> Durante esta entrega, comprendí la importancia del aprendizaje permanente en mi desarrollo profesional y en la creación de soluciones de software efectivas. Al desarrollar declaraciones de problemas y suposiciones bajo Lean UX, reforcé mi compromiso con la actualización constante de conocimientos para garantizar que cada proyecto se ejecute con la máxima eficiencia y calidad.<br>*TP*<br>Durante la implementación de la autenticación (IAM), el despliegue del backend en Azure y el desarrollo de la landing page, enfrenté varios desafíos técnicos que requirieron investigación y actualización constante. Este proceso me enseñó que el aprendizaje permanente no solo mejora mis habilidades, sino que también es vital para mantenerme competitivo en un entorno tecnológico que cambia rápidamente.<br>*TB2*<br> Comprendí que para seguir aportando con mi crecimiento profesional, para ambientes tecnológicos, es necesario mantener una actitud de aprendizaje constante en herramientas y lenguajes actuales. <br>*TF*<br> Consegui reconocer el aprendizaje permanente durante mi aporte para la entrega final, el cual ayudo a que el publico identificara mejor la solucion que se les ofrece y a como mi desempeño como profesional mejora con cada proyecto realizado. <br><br> 6. Miranda Sinarahua, Piero Stephano<br>*TB1*<br> Tomé en cuenta la importancia de adquirir e implementar nuevos conocimientos con el fin de lograr un desarrollo superior dentro de las tareas asignadas.<br>*TP*<br>Mi trabajo en la implementación del backend para la gestión de campañas me demostró que la solución de problemas técnicos exige una disposición constante al aprendizaje. Explorar nuevos enfoques, optimizar consultas y estructurar datos adecuadamente fue posible gracias a una actitud abierta hacia el conocimiento, que considero indispensable para seguir creciendo profesionalmente en el campo del desarrollo de software.<br>*TB2*<br> Reconocí la importancia de mantenerme en constante aprendizaje sobre metodologías ágiles y documentación efectiva, ya que son claves para el éxito en proyectos de software y mi desarrollo profesional. <br>*TF*<br> En esta entrega, reconoci el constante desarrollo de nuevas funcionalidades implementadas, las cuales contribuyeron a que defina mi futuro relacionado al desempeño profesional que quiero ofrecer en las propuestas de desarrollo de software en las que participe. <br><br> | TB1<br> El equipo demostró una clara conciencia sobre la importancia del aprendizaje permanente como pilar fundamental para el desarrollo profesional y la ejecución efectiva de proyectos en soluciones de software. A través de la investigación constante, la aplicación de nuevas metodologías y la adaptación a desafíos técnicos, cada integrante fortaleció sus competencias y mostró un compromiso genuino con la mejora continua. La necesidad de mantenerse actualizado frente a las exigencias del sector tecnológico fue reconocida y asumida con responsabilidad, permitiendo no solo el cumplimiento exitoso de sus tareas, sino también una evolución profesional sostenible y alineada con las mejores prácticas de la industria. <br><br> TP<br> Durante el desarrollo del proyecto, comprendimos que la ingeniería de software es un campo en constante evolución. La necesidad de aprender nuevas herramientas, frameworks, lenguajes y enfoques fue evidente en cada etapa del trabajo. Como equipo, reconocemos que la mejora continua será indispensable para adaptarnos a los cambios tecnológicos y así poder enfrentar proyectos de mayor complejidad. Esta experiencia nos ha demostrado que el aprendizaje permanente no es una opción, sino una necesidad para mantenernos competitivos y eficientes en nuestra carrera profesional. <br><br>TF<br> El finalizar el desarrollo de nuestro aplicativo móvil no solo representa la materialización de una solución tecnológica funcional, sino también un hito en el proceso de formación profesional. A lo largo del proyecto, se evidenció que el aprendizaje continuo es esencial para afrontar los constantes desafíos que implica el desarrollo de software, desde la comprensión de nuevas herramientas hasta la adaptación a requerimientos cambiantes. Reconocer la necesidad del aprendizaje permanente ha sido clave para mejorar nuestras capacidades, tomar decisiones fundamentadas y asegurar la calidad de la solución implementada. Este proyecto reafirma que el crecimiento profesional en el ámbito tecnológico exige una actitud proactiva hacia el aprendizaje constante, elemento indispensable para enfrentar con éxito futuros retos en el desarrollo de software. |
 
 
 
@@ -1315,13 +1328,18 @@ En esta sección, se presentan los diagramas C4 que describen la arquitectura de
 
 El Diagrama de Contexto muestra la interacción de VacApp con los actores externos, como los ganaderos y las empresas, así como otros sistemas externos que proporcionan servicios clave, como el pronóstico del tiempo, bases de datos de razas de ganado y servicios veterinarios. Este diagrama proporciona una visión de alto nivel del sistema, ayudando a entender cómo VacApp se integra en el ecosistema de gestión del ganado.
 
-![context](./assets/DiagramContainers.png)
+![context](./assets/new_container_diagram.png)
 
 #### 4.1.3.2. Software Architecture Container Level Diagrams
 
 El Diagrama de Contenedores proporciona un nivel de detalle más profundo, mostrando los contenedores principales dentro de VacApp. Estos incluyen la aplicación web, la aplicación móvil, la API y la base de datos. Este diagrama ilustra cómo los diferentes componentes interactúan entre sí, permitiendo que los usuarios gestionen sus ganados, vacunas, salud y alimentación de manera eficiente. También muestra cómo la aplicación se comunica con sistemas externos, como el servicio de pronóstico del tiempo y las bases de datos de razas.
 
-![containers](./assets/Structurizr-VacAPP-Containers.png)
+![containers](./assets/new_container_diagram.png)
+
+**Software Component Diagram**
+
+![containers](./assets/new_component_diagram.png)
+
 
 #### 4.1.3.3. Software Architecture Deployment Diagrams
 
@@ -2461,6 +2479,7 @@ La participación de cada miembro del equipo fue crucial para desarrollar los co
 ##### About the Team: 
 
 [![Captura-de-pantalla-2025-05-15-230656.png](https://i.postimg.cc/ThMDV2Hf/Captura-de-pantalla-2025-05-15-230656.png)](https://postimg.cc/QKmCsD3y)
+
 ### 6.2.2. Sprint 2
 #### 6.2.2.2. Sprint Planning 2
 | Sprint # | Sprint 2  | 
@@ -2822,6 +2841,328 @@ Activamos Application Insights o usamos los registros del App Service para monit
 
 #### 6.2.2.8. Team Collaboration Insights durint Sprint.
 
+
+### 6.2.3. Sprint 3
+#### 6.2.3.1. Sprint Planning 3
+| Sprint # | Sprint 3  | 
+|--------------------|------------|
+| Sprint Planning Background | 
+| Date | 2025-07-01 | 
+| Time |  13:00 PM |
+| Location |  UPC - Monterrico |
+| Preparate by| Maycol Jhordan Rojas Velasquez | 
+|  Attendees (to planning meeting) | Gómez Vallejos Sergio André ,Aranda Vallejos, Oscar Gabriel ,Ticona Panduro, Estrella del Pilar ,Durand Vera, Gianfranco Angel, Miranda Sinarahua, Piero Stephano  | 
+| Sprint n-1 Review Summary | Se concluyo el desarrollo parcial del mobile application para Kotlin y Flutter. Al igual que nuevas caracteristicas implementadas en el backend. | 
+| Sprint Planning Background | Para este tercer Sprint se busca concluir el desarrollo de las versiones del aplicativo, tanto en Flutter como Android. El objetivo es proporcionar 2 aplicaciones correctamente funcionales que se encuentren a disposicion de los usuarios. |
+| Sprint Goal & User Stories |  
+| Sprint 3 Goal | Culminar los features restantes de la aplicacion desarrollada previamente en Kotlin. Y finalizar el desarrollo de la aplicacion en la version de Flutter.  |  
+| Sprint Velocity | Se establece un Velocity de 26 Story points para este Sprint. | 
+| Sum of Story Points | 26 Story Points | 
+#### 6.2.3.2. Sprint Backlog 3
+
+<table align="center" border="1" width="90%" style="text-align:center">
+ <tr>
+    <td colspan="2"><b>User Story</b></td>
+    <td colspan="6"><b>Work-Item / Task</b></td>
+  </tr>
+  <tr>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Estimation</b></td>
+    <td><b>Assigned To</b></td>
+    <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+  </tr>
+  <tr>
+    <td> US01 </td>
+    <td> Agregar vacuna al registro </td>
+    <td> T01 </td>
+    <td> Implementar la opcion de registro de vacuna </td>
+    <td> 2  </td>
+    <td> Rojas Velasquez, Maycol Jhordan </td>
+    <td> Done </td>
+ </tr>
+ <tr>
+    <td> US03 </td>
+    <td> Gestion de registro de vacunas </td>
+    <td> T02 </td>
+    <td> Implementacion de la administracion del registro de vacunas en el app. </td>
+    <td> 2 </td>
+    <td> Rojas Velasquez, Maycol Jhordan </td>
+    <td> Done </td>
+ </tr>
+ <tr>
+    <td> US04 </td>
+    <td> Registro de bovino en Lote </td>
+    <td> T03 </td>
+    <td> Implementacion de registro de bovinos dentro de un Lote. </td>
+    <td> 2 </td>
+    <td> Rojas Velasquez, Maycol Jhordan </td>
+    <td> Done </td>
+ </tr>
+ <tr>
+    <td> US05 </td>
+    <td> Informacion de bovino </td>
+    <td> T04 </td>
+    <td> Implementacion de la opcion de visualizar informacion de bovino. </td>
+    <td> 2 </td>
+    <td> Durand Vera, Gianfranco Angel </td>
+    <td> Done </td>
+ </tr>
+ <tr>
+    <td> US06  </td>
+    <td> Actualiza informacion de bovinos </td>
+    <td> T05 </td>
+    <td> Implementacion de la opcion de actualizar datos de bovino </td>
+    <td> 2 </td>
+    <td> Durand Vera, Gianfranco Angel </td>
+    <td> Done </td>
+ </tr>
+ <tr>
+    <td> US08 </td>
+    <td> Asocia Empleado a campaña </td>
+    <td> T06 </td>
+    <td> Implementacion de la opcion de asociar empleado a una campaña. </td>
+    <td> 2 </td>
+    <td> Rojas Velasquez, Maycol Jhordan </td>
+    <td> Done </td>
+ </tr>
+ <tr>
+    <td> TS09 </td>
+    <td> API para Gestion de Campañas </td>
+    <td> T07 </td>
+    <td> Implementacion de API para gestion de campañas </td>
+    <td> 2 </td>
+    <td> Miranda Sinarahua, Piero Stephano </td>
+    <td> Done </td>
+ </tr>
+ <tr>
+    <td> US10 </td>
+    <td> Registro de Personal </td>
+    <td> T08 </td>
+    <td> Implementacion de opcion para registrar personal </td>
+    <td> 2 </td>
+    <td> Ticona Panduro, Estrella del Pilar </td>
+    <td> Done </td>
+ </tr>
+ <tr>
+    <td> TS06  </td>
+    <td> API gestion de animales </td>
+    <td> T09 </td>
+    <td> Implementacion de API para gestion de animales </td>
+    <td> 2 </td>
+    <td> Aranda Vallejos, Oscar Gabriel </td>
+    <td> Done </td>
+ </tr>
+ <tr>
+    <td> US12  </td>
+    <td> Gestion de Personal </td>
+    <td> T10 </td>
+    <td> Implementacion de opcion para administrar el personal </td>
+    <td> 2 </td>
+    <td> Aranda Vallejos, Oscar Gabriel </td>
+    <td> Done </td>
+ </tr>
+  <tr>
+    <td> TS11  </td>
+    <td> API busqueda empleados </td>
+    <td> T11 </td>
+    <td> Implementacion del API para busqueda de personal </td>
+    <td> 2 </td>
+    <td> Aranda Vallejos, Oscar Gabriel </td>
+    <td> Done </td>
+ </tr>
+  <tr>
+    <td> US15  </td>
+    <td> Explorar Landing Page </td>
+    <td> T12 </td>
+    <td> Implementacion secciones restantes para explorar Landing Page </td>
+    <td> 2 </td>
+    <td> Gómez Vallejos, Sergio André </td>
+    <td> Done </td>
+ </tr>
+ 
+
+</table>
+
+#### 6.2.3.3. Development Evidence for Sprint Review
+Durante este sprint, se han realizado avances significativos en la implementacion de la aplicaction, tanto en la version de Kotlin como en la de Flutter. De igual manera, se añadieron cambios a los Web Services y algunas opciones adicionales al Landing Page. Se han completado historias de usuario para los componentes mencionados y se han realizado commits en los repositorios correspondientes.
+
+<table>
+   <tr>
+      <td>Repository</td>
+      <td>Branch</td>
+      <td>Component</td>
+      <td>Commit Id</td>
+      <td>Commit Message</td>
+      <td>Commited on (Date)</td>
+   </tr>
+   <tr>
+      <td> https://github.com/Bovinova/Flutter-mobile-development----VacApp </td>
+      <td> Main </td>
+      <td> Mobile Frontend Flutter </td>
+      <td> 5146c43 </td>
+      <td> Feat: upload project </td>
+      <td> Jul 01, 2025 </td>
+   </tr>
+   <tr>
+      <td> https://github.com/Bovinova/Native-mobile-development----VacApp </td>
+      <td> Develop </td>
+      <td> Mobile Frontend Kotlin </td>
+      <td> 25583c6 </td>
+      <td> feat: add room home, barn, campaign </td>
+      <td> Jul 05, 2025 </td>
+   </tr>
+   <tr>
+      <td> https://github.com/Bovinova/Web-Services----VacApp </td>
+      <td> Development </td>
+      <td> Web Services </td>
+      <td> 51414eb </td>
+      <td> feat: add UserInfoResource and update UserController to return user information </td>
+      <td> Jul 04, 2024 </td>
+   </tr>
+    <tr>
+      <td> https://github.com/Bovinova/Landing-Page----VacApphttps://github.com/Bovinova/Landing-Page----VacApp </td>
+      <td> Main </td>
+      <td> Landing Page </td>
+      <td> 5d55fcb </td>
+      <td> feat: add TermsModal component for user agreement on landing page </td>
+      <td> Jul 07, 2025 </td>
+   </tr>
+</table>
+
+#### 6.2.3.4.Testing Suite Evidence for Sprint Review
+
+#### 6.2.3.5. Execution Evidence for Sprint Review
+
+### Screenshots
+
+
+
+#### Mobile Frontend Flutter:
+
+![flutter_evidence](assets/evidencia_flutter.JPG)
+
+<p align="center">
+  <img src="./assets/sign_up_flutter.JPG" width="300" />
+  <img src="./assets/home_flutter.JPG" width="300" />
+  <img src="./assets/animales_flutter.JPG" width="300" />
+</p>
+
+<p align="center">
+  <img src="./assets/gestion_flutter.JPG" width="300" />
+  <img src="./assets/establos_flutter.JPG" width="300" />
+  <img src="./assets/perfil_flutter.JPG" width="300" />
+</p>
+
+<p align="center">
+  <img src="./assets/personal_flutter.JPG" width="300" />
+  <img src="./assets/animales_establo_flutter.JPG" width="300" />
+  <img src="./assets/vacunas_flutter.JPG" width="300" />
+</p>
+
+<p align="center">
+  <img src="./assets/detalles_bovino_flutter.JPG" width="300" />
+  <img src="./assets/registro_bovino_flutter.JPG" width="300" />
+  <img src="./assets/gestion_campaña_flutter.JPG" width="300" />
+</p>
+
+#### New Landing Page Design: 
+
+![landing](assets/new_lading.JPG)
+
+
+#### 6.2.3.6. Services Documentation Evidence for Sprint Review
+
+En esta sección se evidencia la documentación de los servicios implementados para el sprint actual que conforman el backend.
+
+#### Backend
+
+- Backend desplegado en azure: 
+
+<p align="center">
+  <img src="./assets/backend_deployed_s3.JPG" width="600" />
+</p>
+
+- Endpoints desarrollados para Admin Users:
+
+<p align="center">
+  <img src="./assets/admin_endpoints_s3.JPG" width="600" />
+</p>
+
+
+#### 6.2.3.7. Software Deployment Evidence for Sprint Review
+
+Para este Sprint, el equipo uso la herramienta de Firebase para poder desplegar el aplicativo a traves de la funcion de App Distribution, con el objetivo de poder compartir el aplicativo de VacApp con nuestros usuarios, y que lo puedan probar desde sus mismos dispositivos moviles. 
+
+**Para conocer un poco mas acerca de la plataforma:**
+
+Firebase App Distribution es una herramienta de Firebase que permite a los desarrolladores distribuir versiones preliminares de sus aplicaciones móviles a un grupo seleccionado de evaluadores o testers antes de su lanzamiento oficial. Esto facilita la recopilación de retroalimentación temprana y la identificación de problemas antes de que la aplicación llegue a un público más amplio. 
+
+**Para conseguir todo esto, lo primero que se hizo fue:**
+
+- Descargar nuestro proyecto y añadir el archivo de google-services 
+
+<p align="center">
+  <img src="./assets/descarga_firebase.JPG" width="600" />
+</p>
+
+- Agregamos el SDK de Firebase como una dependencia en el build.gradle.kts :
+  
+<p align="center">
+  <img src="./assets/gradle_firebase.JPG" width="400" />
+  <img src="./assets/gradle_firebase_2.JPG" width="400" />
+</p>
+
+- En el home de Firebase podremos encontrar la aplicacion de VacApp:
+
+<p align="center">
+  <img src="./assets/home_firebase.JPG" width="600" />
+</p>
+
+- Ingresamos en la opcion de App distribution: 
+
+<p align="center">
+  <img src="./assets/app_distribution_firebase.JPG" width="600" />
+</p>
+
+- Subimos el apk de la aplicacion de VacApp en el apartado de App Distribution:
+
+<p align="center">
+  <img src="./assets/upload_apk_firebase.JPG" width="600" />
+</p>
+
+- Se podran visualizar la version en la que se encuentra subida el apk, al igual que estadisticas relacionadas a el numero de invitados, invitaciones aceptadas, descargas y comentarios.
+
+<p align="center">
+  <img src="./assets/version_firebase.JPG" width="600" />
+</p>
+
+- Se puede visualizar un apartado en el cual se crean vinculos para generar invitaciones para que los usuarios puedan descargar el app: 
+
+<p align="center">
+  <img src="./assets/invitation_firebase.JPG" width="600" />
+</p>
+
+- Firebase solicita un correo electronico a los usuarios que quieran descargar el app, con el cual podran obtener acceso a VacApp:
+
+<p align="center">
+  <img src="./assets/access_mobile_firebase.JPG" width="300" />
+  <img src="./assets/invitation_recieved_firebase.JPG" width="300" />
+</p>
+
+- Al obtener acceso, los usuarios ya contaran con la opcion de poder descargar el app en sus dispositivos moviles:
+
+<p align="center">
+  <img src="./assets/dowload_app_firebase.JPG" width="300" />
+  <img src="./assets/app_dowloaded_firebase.JPG" width="300" />
+</p>
+
+#### 6.2.3.8. Team Collaboration Insights durint Sprint.
+
+
+
 ### 6.3. Validation Interviews
 
 En esta seccion se realizaran entrevistas de validacion a usuarios de nuestros segmentos objetivos, con el fin de determinar si el diseño y las funciones implementadas han cumplido con sus expectativas y si considerarian usar la aplicacion de manera indispensable a futuro dentro del negocio. 
@@ -3113,4 +3454,14 @@ Backend: https://vacappv2-bxcpfqarbwgpddh8.canadacentral-01.azurewebsites.net/sw
 Landing Page: https://vacapp-landing.netlify.app/
 
 About the product: https://www.youtube.com/watch?v=JmOW2IkXjeI
-Aplicación: https://appdistribution.firebase.dev/i/b5b8b0a89363391d
+
+
+### TF 
+
+Deploy Firebase : https://appdistribution.firebase.dev/i/b5b8b0a89363391d
+
+Backend : https://vacappv2-bxcpfqarbwgpddh8.canadacentral-01.azurewebsites.net/swagger
+
+Landing Page : https://super-truffle-489324.netlify.app/ 
+
+
