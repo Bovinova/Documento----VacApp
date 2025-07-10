@@ -136,7 +136,7 @@ TB1          |   24/04/2025  |   Oscar Gabriel Aranda Vallejos  |  Bounded Conte
 
 | Métrica                         | Descripción                                                                                          |
 |---------------------------------|------------------------------------------------------------------------------------------------------|
-| Número de commits por autor     | [![Captura-de-pantalla-2025-04-24-011829.png](https://i.postimg.cc/kGBq8HSZ/Captura-de-pantalla-2025-04-24-011829.png)](https://postimg.cc/XBSR6QQc) |
+| Número de commits por autor     | [![Captura-de-pantalla-2025-04-24-011829.png](https://i.postimg.cc/RhKGncky/Captura-de-pantalla-2025-04-24-011829.png)](https://postimg.cc/ZvY6GyKx) |
 | Historial de cambios            | [![Captura-de-pantalla-2025-04-24-012050.png](https://i.postimg.cc/wMC8Njgy/Captura-de-pantalla-2025-04-24-012050.png)](https://postimg.cc/1VrjhPgs) |
 
 
@@ -3159,6 +3159,60 @@ Firebase App Distribution es una herramienta de Firebase que permite a los desar
   <img src="./assets/app_dowloaded_firebase.JPG" width="300" />
 </p>
 
+Para finalizar la publicacion de la aplicacion VacApp desarrollada, se inicio tambien el proceso de publicacion dentro de **PlayStore**, con el objetivo de que mas usuarios interactuen con el app, descargandolo desde la tienda oficial de sus dispositivos moviles. 
+
+**Para ello se siguieron los siguientes pasos:**
+
+- Se creo una cuenta y se accedio a la consola de Google:
+  
+<p align="center">
+  <img src="./assets/comenzar_google.JPG" width="600" />
+</p>
+
+- Se eligio un tipo de cuenta:
+  
+<p align="center">
+  <img src="./assets/tipo_google.JPG" width="600" />
+</p>
+
+- Se verificaron los requerimientos necesarios :
+  
+<p align="center">
+  <img src="./assets/crear_google.JPG" width="600" />
+</p>
+
+- Se configuro el perfil del publico del desarrollador :
+  
+<p align="center">
+  <img src="./assets/perfil_google.JPG" width="600" />
+</p>
+
+- Se aceptaron los terminos de Google :
+  
+<p align="center">
+  <img src="./assets/terminos_google.JPG" width="600" />
+</p>
+
+- Se verifico que la cuenta haya sido correctamente creada :
+  
+<p align="center">
+  <img src="./assets/creado_google.JPG" width="600" />
+</p>
+
+- Se configuraron los detalles de la aplicacion VacApp :
+  
+<p align="center">
+  <img src="./assets/crear_app_google.JPG" width="400" />
+</p>
+
+- Pagina principal de Google Console con VacApp :
+  
+<p align="center">
+  <img src="./assets/console_google.JPG" width="600" />
+</p>
+
+
+
 #### 6.2.3.8. Team Collaboration Insights durint Sprint.
 
 
@@ -3293,7 +3347,7 @@ Arturo Gálvez, de 40 años, destacó que la landing page le resultó bastante p
 
 #### Link a entrevistas:
 
-[Link to Validation Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181g752_upc_edu_pe/EaPYaQPtxnlPg3Qs3egBF14Ba6odst6zUhn6jzhN2_NvJQ?e=bpHlh3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181g752_upc_edu_pe/EaPYaQPtxnlPg3Qs3egBF14Ba6odst6zUhn6jzhN2_NvJQ?e=bpHlh3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181g752_upc_edu_pe/EaPYaQPtxnlPg3Qs3egBF14Ba6odst6zUhn6jzhN2_NvJQ?e=bpHlh3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
 #### 6.3.3. Evaluaciones segun heurísticas
@@ -3325,7 +3379,8 @@ En la siguiente seccion, se evaluaran y detectaran los posibles problemas mencio
 | 2  |  Falta de filtro para busqueda de animales                               |          3           |   Information Architecture: Is it findable?                      |
 | 3  |  Falta del sistema de notificaciones por medio de alertas.               |          2           |   Usability: Visibilidad del estado del sistema                  |
 | 4  |  No se pudieron visualizar ciertos textos al instalar la aplicacion      |          3           |     Inclusive Design: Evita dependencias sensoriales             |
-| 5  |                                                                          |                      |                                                                  |
+
+<br>
 
 **Descripcion de problemas**
 
@@ -3380,6 +3435,8 @@ Recomendacion: Realizar mas pruebas para corroborar que lo desarrollado se pueda
 
 ### 6.4. Video About-The-Product
 
+About The Product: https://www.youtube.com/watch?v=JmOW2IkXjeI
+
 ##  Conclusiones 
 
 - Conclusión 1: Integración de módulos orientados al dominio
@@ -3406,16 +3463,18 @@ Durante el desarrollo se priorizó la interacción constante con los usuarios fi
 
 
 ##  Anexos
-Aplicación: https://appdistribution.firebase.dev/i/b5b8b0a89363391d
 
-### Videos
+### Videos de entrevistas
 
 Entrevistas: https://shorturl.at/F1HUB
 
+Entrevistas de Validacion: [https://validation-interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181g752_upc_edu_pe/EaPYaQPtxnlPg3Qs3egBF14Ba6odst6zUhn6jzhN2_NvJQ?e=bpHlh3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-Entrevistas de Validacion: [Validation Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181g752_upc_edu_pe/EaPYaQPtxnlPg3Qs3egBF14Ba6odst6zUhn6jzhN2_NvJQ?e=bpHlh3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+### About the product
 
 About The Product: https://youtu.be/JmOW2IkXjeI
+
+### About the team
 
 About The Team: https://youtu.be/lSwsPjgR9Bo
 
@@ -3434,6 +3493,8 @@ Kotlin Mobile App: https://github.com/Bovinova/Native-mobile-development----VacA
 Landing Page: https://github.com/Bovinova/Landing-Page----VacApp
 
 Acceptance Test: https://github.com/Bovinova/Testing---VacApp
+
+Flutter Mobile App: https://github.com/Bovinova/Flutter-mobile-development----VacApp
 
 ### TB1
 
@@ -3459,7 +3520,10 @@ About The Product: https://www.youtube.com/watch?v=JmOW2IkXjeI
 
 ### TF 
 
-Deploy Firebase : https://appdistribution.firebase.dev/i/b5b8b0a89363391d
+Firebase App Distribution Para Usuarios de Prueba Autorizados : https://appdistribution.firebase.google.com/testerapps/1:11488236873:android:0409f6a05c9df1b611b698/releases/020f01q2vvtcg?utm_source=firebase-console
+
+Firebase App Distribution Para Nuevos Usuarios: https://appdistribution.firebase.dev/i/b5b8b0a89363391d
+
 
 Backend : https://vacappv2-bxcpfqarbwgpddh8.canadacentral-01.azurewebsites.net/swagger
 
